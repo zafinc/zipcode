@@ -1,0 +1,3530 @@
+{
+  "4410000": {
+    "zipcode": "4410000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "以下に掲載がない場合"
+  },
+  "4410101": {
+    "zipcode": "4410101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "宿町"
+  },
+  "4410102": {
+    "zipcode": "4410102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "篠束町"
+  },
+  "4410103": {
+    "zipcode": "4410103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "小坂井町"
+  },
+  "4410104": {
+    "zipcode": "4410104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "平井町"
+  },
+  "4410105": {
+    "zipcode": "4410105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "伊奈町"
+  },
+  "4410106": {
+    "zipcode": "4410106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "美園"
+  },
+  "4410151": {
+    "zipcode": "4410151",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "日色野町"
+  },
+  "4410152": {
+    "zipcode": "4410152",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "前芝町"
+  },
+  "4410153": {
+    "zipcode": "4410153",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "新西浜町"
+  },
+  "4410154": {
+    "zipcode": "4410154",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "梅薮西町"
+  },
+  "4410155": {
+    "zipcode": "4410155",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "梅薮町"
+  },
+  "4410156": {
+    "zipcode": "4410156",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西浜町"
+  },
+  "4410201": {
+    "zipcode": "4410201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "萩町"
+  },
+  "4410202": {
+    "zipcode": "4410202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "赤坂町"
+  },
+  "4410203": {
+    "zipcode": "4410203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "長沢町"
+  },
+  "4410204": {
+    "zipcode": "4410204",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "赤坂台"
+  },
+  "4410211": {
+    "zipcode": "4410211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御油町（その他）"
+  },
+  "4410212": {
+    "zipcode": "4410212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御油町（長谷山）"
+  },
+  "4410213": {
+    "zipcode": "4410213",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御油町（汲ケ谷）"
+  },
+  "4410214": {
+    "zipcode": "4410214",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御油町（東山）"
+  },
+  "4410215": {
+    "zipcode": "4410215",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御油町（炮六土）"
+  },
+  "4410301": {
+    "zipcode": "4410301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町上佐脇六反畑"
+  },
+  "4410302": {
+    "zipcode": "4410302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町下佐脇山崎"
+  },
+  "4410303": {
+    "zipcode": "4410303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町新田砂山"
+  },
+  "4410304": {
+    "zipcode": "4410304",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町佐脇浜三号地"
+  },
+  "4410311": {
+    "zipcode": "4410311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町御馬向道"
+  },
+  "4410312": {
+    "zipcode": "4410312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町西方宮長"
+  },
+  "4410313": {
+    "zipcode": "4410313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町泙野六反田"
+  },
+  "4410314": {
+    "zipcode": "4410314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町御幸浜一号地"
+  },
+  "4410315": {
+    "zipcode": "4410315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町大草向野"
+  },
+  "4410316": {
+    "zipcode": "4410316",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町安礼の崎"
+  },
+  "4410321": {
+    "zipcode": "4410321",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町広石横町"
+  },
+  "4410322": {
+    "zipcode": "4410322",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町豊沢薬堂"
+  },
+  "4410323": {
+    "zipcode": "4410323",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "御津町金野横手"
+  },
+  "4411101": {
+    "zipcode": "4411101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "賀茂町"
+  },
+  "4411102": {
+    "zipcode": "4411102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻西川町"
+  },
+  "4411103": {
+    "zipcode": "4411103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻萩平町"
+  },
+  "4411104": {
+    "zipcode": "4411104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻中山町"
+  },
+  "4411105": {
+    "zipcode": "4411105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻平野町"
+  },
+  "4411106": {
+    "zipcode": "4411106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻小野田町"
+  },
+  "4411111": {
+    "zipcode": "4411111",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "嵩山町"
+  },
+  "4411112": {
+    "zipcode": "4411112",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻町"
+  },
+  "4411113": {
+    "zipcode": "4411113",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東森岡"
+  },
+  "4411114": {
+    "zipcode": "4411114",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "森岡町"
+  },
+  "4411115": {
+    "zipcode": "4411115",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "石巻本町"
+  },
+  "4411201": {
+    "zipcode": "4411201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "東上町"
+  },
+  "4411202": {
+    "zipcode": "4411202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "上長山町"
+  },
+  "4411203": {
+    "zipcode": "4411203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "足山田町"
+  },
+  "4411204": {
+    "zipcode": "4411204",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "西原町"
+  },
+  "4411205": {
+    "zipcode": "4411205",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "大木町"
+  },
+  "4411206": {
+    "zipcode": "4411206",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "篠田町"
+  },
+  "4411207": {
+    "zipcode": "4411207",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "大木新町通"
+  },
+  "4411211": {
+    "zipcode": "4411211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "江島町"
+  },
+  "4411212": {
+    "zipcode": "4411212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "金沢町"
+  },
+  "4411221": {
+    "zipcode": "4411221",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "松原町"
+  },
+  "4411222": {
+    "zipcode": "4411222",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "豊津町"
+  },
+  "4411223": {
+    "zipcode": "4411223",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "橋尾町"
+  },
+  "4411231": {
+    "zipcode": "4411231",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "town": "一宮町"
+  },
+  "4411300": {
+    "zipcode": "4411300",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "以下に掲載がない場合"
+  },
+  "4411301": {
+    "zipcode": "4411301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "矢部"
+  },
+  "4411302": {
+    "zipcode": "4411302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富永"
+  },
+  "4411303": {
+    "zipcode": "4411303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "牛倉"
+  },
+  "4411304": {
+    "zipcode": "4411304",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "大宮"
+  },
+  "4411305": {
+    "zipcode": "4411305",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "竹広"
+  },
+  "4411306": {
+    "zipcode": "4411306",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "川路"
+  },
+  "4411307": {
+    "zipcode": "4411307",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富沢"
+  },
+  "4411311": {
+    "zipcode": "4411311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "須長"
+  },
+  "4411312": {
+    "zipcode": "4411312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "浅谷"
+  },
+  "4411313": {
+    "zipcode": "4411313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "出沢"
+  },
+  "4411314": {
+    "zipcode": "4411314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "横川"
+  },
+  "4411315": {
+    "zipcode": "4411315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "大海"
+  },
+  "4411316": {
+    "zipcode": "4411316",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "緑が丘"
+  },
+  "4411317": {
+    "zipcode": "4411317",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "有海"
+  },
+  "4411318": {
+    "zipcode": "4411318",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "八束穂"
+  },
+  "4411321": {
+    "zipcode": "4411321",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "市川"
+  },
+  "4411322": {
+    "zipcode": "4411322",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "日吉"
+  },
+  "4411323": {
+    "zipcode": "4411323",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "吉川"
+  },
+  "4411324": {
+    "zipcode": "4411324",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "井道、奥井道、内井道"
+  },
+  "4411325": {
+    "zipcode": "4411325",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "二本松"
+  },
+  "4411326": {
+    "zipcode": "4411326",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "中野"
+  },
+  "4411327": {
+    "zipcode": "4411327",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "鰹淵"
+  },
+  "4411328": {
+    "zipcode": "4411328",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "桜淵"
+  },
+  "4411329": {
+    "zipcode": "4411329",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "笠岩"
+  },
+  "4411331": {
+    "zipcode": "4411331",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "庭野"
+  },
+  "4411332": {
+    "zipcode": "4411332",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "黒田"
+  },
+  "4411333": {
+    "zipcode": "4411333",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "小畑"
+  },
+  "4411334": {
+    "zipcode": "4411334",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "中宇利"
+  },
+  "4411335": {
+    "zipcode": "4411335",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富岡"
+  },
+  "4411336": {
+    "zipcode": "4411336",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富岡（○○屋敷）"
+  },
+  "4411337": {
+    "zipcode": "4411337",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "八名井"
+  },
+  "4411338": {
+    "zipcode": "4411338",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "一鍬田"
+  },
+  "4411341": {
+    "zipcode": "4411341",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "杉山"
+  },
+  "4411342": {
+    "zipcode": "4411342",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "石田"
+  },
+  "4411343": {
+    "zipcode": "4411343",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "野田"
+  },
+  "4411344": {
+    "zipcode": "4411344",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "野田（上市場）"
+  },
+  "4411345": {
+    "zipcode": "4411345",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "豊島"
+  },
+  "4411346": {
+    "zipcode": "4411346",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "川田"
+  },
+  "4411347": {
+    "zipcode": "4411347",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "川田（本宮道）"
+  },
+  "4411348": {
+    "zipcode": "4411348",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "市場台"
+  },
+  "4411351": {
+    "zipcode": "4411351",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "稲木"
+  },
+  "4411352": {
+    "zipcode": "4411352",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "豊栄"
+  },
+  "4411353": {
+    "zipcode": "4411353",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "徳定"
+  },
+  "4411354": {
+    "zipcode": "4411354",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "片山"
+  },
+  "4411355": {
+    "zipcode": "4411355",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "上平井"
+  },
+  "4411361": {
+    "zipcode": "4411361",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "平井（その他）"
+  },
+  "4411362": {
+    "zipcode": "4411362",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "平井（東原、西原、原）"
+  },
+  "4411363": {
+    "zipcode": "4411363",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "東沖野"
+  },
+  "4411364": {
+    "zipcode": "4411364",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "沖野"
+  },
+  "4411365": {
+    "zipcode": "4411365",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "石名号"
+  },
+  "4411366": {
+    "zipcode": "4411366",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "向野"
+  },
+  "4411367": {
+    "zipcode": "4411367",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "札木"
+  },
+  "4411368": {
+    "zipcode": "4411368",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "屋敷"
+  },
+  "4411371": {
+    "zipcode": "4411371",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "城北"
+  },
+  "4411372": {
+    "zipcode": "4411372",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "裏野"
+  },
+  "4411373": {
+    "zipcode": "4411373",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "西新町"
+  },
+  "4411374": {
+    "zipcode": "4411374",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "町並"
+  },
+  "4411375": {
+    "zipcode": "4411375",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "的場"
+  },
+  "4411376": {
+    "zipcode": "4411376",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "宮ノ前"
+  },
+  "4411377": {
+    "zipcode": "4411377",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "宮ノ西"
+  },
+  "4411378": {
+    "zipcode": "4411378",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "宮ノ後"
+  },
+  "4411381": {
+    "zipcode": "4411381",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "下川"
+  },
+  "4411382": {
+    "zipcode": "4411382",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "滝ノ上"
+  },
+  "4411383": {
+    "zipcode": "4411383",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "東入船"
+  },
+  "4411384": {
+    "zipcode": "4411384",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "西入船"
+  },
+  "4411385": {
+    "zipcode": "4411385",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "八幡"
+  },
+  "4411386": {
+    "zipcode": "4411386",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "南畑"
+  },
+  "4411387": {
+    "zipcode": "4411387",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "北畑"
+  },
+  "4411388": {
+    "zipcode": "4411388",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "橋向"
+  },
+  "4411401": {
+    "zipcode": "4411401",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手守義"
+  },
+  "4411402": {
+    "zipcode": "4411402",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手木和田"
+  },
+  "4411403": {
+    "zipcode": "4411403",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手善夫"
+  },
+  "4411404": {
+    "zipcode": "4411404",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手菅沼"
+  },
+  "4411411": {
+    "zipcode": "4411411",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手岩波"
+  },
+  "4411412": {
+    "zipcode": "4411412",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手鴨ケ谷"
+  },
+  "4411413": {
+    "zipcode": "4411413",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手白鳥"
+  },
+  "4411414": {
+    "zipcode": "4411414",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手清岳"
+  },
+  "4411421": {
+    "zipcode": "4411421",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手黒瀬"
+  },
+  "4411422": {
+    "zipcode": "4411422",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手田原"
+  },
+  "4411423": {
+    "zipcode": "4411423",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手高里"
+  },
+  "4411424": {
+    "zipcode": "4411424",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手中河内"
+  },
+  "4411531": {
+    "zipcode": "4411531",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手大和田"
+  },
+  "4411532": {
+    "zipcode": "4411532",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手高松"
+  },
+  "4411533": {
+    "zipcode": "4411533",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手荒原"
+  },
+  "4411534": {
+    "zipcode": "4411534",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手田代"
+  },
+  "4411535": {
+    "zipcode": "4411535",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手杉平"
+  },
+  "4411536": {
+    "zipcode": "4411536",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "作手保永"
+  },
+  "4411601": {
+    "zipcode": "4411601",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "川合"
+  },
+  "4411602": {
+    "zipcode": "4411602",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "池場"
+  },
+  "4411603": {
+    "zipcode": "4411603",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "名号"
+  },
+  "4411604": {
+    "zipcode": "4411604",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "名越"
+  },
+  "4411605": {
+    "zipcode": "4411605",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "能登瀬"
+  },
+  "4411611": {
+    "zipcode": "4411611",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "七郷一色"
+  },
+  "4411612": {
+    "zipcode": "4411612",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "巣山"
+  },
+  "4411613": {
+    "zipcode": "4411613",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "細川"
+  },
+  "4411614": {
+    "zipcode": "4411614",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "睦平"
+  },
+  "4411615": {
+    "zipcode": "4411615",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "大野"
+  },
+  "4411616": {
+    "zipcode": "4411616",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "井代"
+  },
+  "4411621": {
+    "zipcode": "4411621",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "下吉田"
+  },
+  "4411622": {
+    "zipcode": "4411622",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "上吉田"
+  },
+  "4411623": {
+    "zipcode": "4411623",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "黄柳野"
+  },
+  "4411624": {
+    "zipcode": "4411624",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "竹ノ輪"
+  },
+  "4411631": {
+    "zipcode": "4411631",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "豊岡"
+  },
+  "4411632": {
+    "zipcode": "4411632",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富栄"
+  },
+  "4411633": {
+    "zipcode": "4411633",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "乗本"
+  },
+  "4411634": {
+    "zipcode": "4411634",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "長篠"
+  },
+  "4411636": {
+    "zipcode": "4411636",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "富保"
+  },
+  "4411693": {
+    "zipcode": "4411693",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "門谷（鳳来寺７番地）"
+  },
+  "4411941": {
+    "zipcode": "4411941",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "連合"
+  },
+  "4411942": {
+    "zipcode": "4411942",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "四谷"
+  },
+  "4411943": {
+    "zipcode": "4411943",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "海老"
+  },
+  "4411944": {
+    "zipcode": "4411944",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "門谷（その他）"
+  },
+  "4411945": {
+    "zipcode": "4411945",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "玖老勢"
+  },
+  "4411946": {
+    "zipcode": "4411946",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "副川"
+  },
+  "4411951": {
+    "zipcode": "4411951",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "愛郷"
+  },
+  "4411952": {
+    "zipcode": "4411952",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "中島"
+  },
+  "4411953": {
+    "zipcode": "4411953",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "一色"
+  },
+  "4411954": {
+    "zipcode": "4411954",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "只持"
+  },
+  "4411955": {
+    "zipcode": "4411955",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "布里"
+  },
+  "4411956": {
+    "zipcode": "4411956",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "新城市",
+    "town": "塩瀬"
+  },
+  "4412221": {
+    "zipcode": "4412221",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "田峯"
+  },
+  "4412222": {
+    "zipcode": "4412222",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "田内"
+  },
+  "4412223": {
+    "zipcode": "4412223",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "三都橋"
+  },
+  "4412224": {
+    "zipcode": "4412224",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "豊邦"
+  },
+  "4412300": {
+    "zipcode": "4412300",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "以下に掲載がない場合"
+  },
+  "4412301": {
+    "zipcode": "4412301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "田口"
+  },
+  "4412302": {
+    "zipcode": "4412302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "清崎"
+  },
+  "4412303": {
+    "zipcode": "4412303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "松戸"
+  },
+  "4412311": {
+    "zipcode": "4412311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "八橋"
+  },
+  "4412312": {
+    "zipcode": "4412312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "長江"
+  },
+  "4412313": {
+    "zipcode": "4412313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "和市"
+  },
+  "4412314": {
+    "zipcode": "4412314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "平山"
+  },
+  "4412315": {
+    "zipcode": "4412315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "神田"
+  },
+  "4412316": {
+    "zipcode": "4412316",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "荒尾"
+  },
+  "4412317": {
+    "zipcode": "4412317",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "小松"
+  },
+  "4412431": {
+    "zipcode": "4412431",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "西納庫（その他）"
+  },
+  "4412432": {
+    "zipcode": "4412432",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "東納庫"
+  },
+  "4412433": {
+    "zipcode": "4412433",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "川向"
+  },
+  "4412434": {
+    "zipcode": "4412434",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "大名倉"
+  },
+  "4412511": {
+    "zipcode": "4412511",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "大野瀬町"
+  },
+  "4412512": {
+    "zipcode": "4412512",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "野入町"
+  },
+  "4412513": {
+    "zipcode": "4412513",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "稲武町"
+  },
+  "4412514": {
+    "zipcode": "4412514",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "中当町"
+  },
+  "4412515": {
+    "zipcode": "4412515",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "夏焼町"
+  },
+  "4412516": {
+    "zipcode": "4412516",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "押山町"
+  },
+  "4412517": {
+    "zipcode": "4412517",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "川手町"
+  },
+  "4412521": {
+    "zipcode": "4412521",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "桑原町"
+  },
+  "4412522": {
+    "zipcode": "4412522",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "武節町"
+  },
+  "4412523": {
+    "zipcode": "4412523",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "御所貝津町"
+  },
+  "4412524": {
+    "zipcode": "4412524",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "黒田町"
+  },
+  "4412525": {
+    "zipcode": "4412525",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "小田木町"
+  },
+  "4412526": {
+    "zipcode": "4412526",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊田市",
+    "town": "富永町"
+  },
+  "4412531": {
+    "zipcode": "4412531",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "西納庫（沖ノ平）"
+  },
+  "4412601": {
+    "zipcode": "4412601",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "北設楽郡設楽町",
+    "town": "津具"
+  },
+  "4413101": {
+    "zipcode": "4413101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大脇町（大脇）"
+  },
+  "4413102": {
+    "zipcode": "4413102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大脇町（大脇ノ谷）"
+  },
+  "4413103": {
+    "zipcode": "4413103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "雲谷町（上ノ山）"
+  },
+  "4413104": {
+    "zipcode": "4413104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "雲谷町"
+  },
+  "4413105": {
+    "zipcode": "4413105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中原町（南）"
+  },
+  "4413106": {
+    "zipcode": "4413106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中原町"
+  },
+  "4413111": {
+    "zipcode": "4413111",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "原町"
+  },
+  "4413112": {
+    "zipcode": "4413112",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東細谷町"
+  },
+  "4413113": {
+    "zipcode": "4413113",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "細谷町"
+  },
+  "4413114": {
+    "zipcode": "4413114",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "三弥町"
+  },
+  "4413115": {
+    "zipcode": "4413115",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "豊清町"
+  },
+  "4413121": {
+    "zipcode": "4413121",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西山町"
+  },
+  "4413122": {
+    "zipcode": "4413122",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小島町"
+  },
+  "4413123": {
+    "zipcode": "4413123",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小松原町"
+  },
+  "4413124": {
+    "zipcode": "4413124",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "寺沢町"
+  },
+  "4413125": {
+    "zipcode": "4413125",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "豊栄町"
+  },
+  "4413126": {
+    "zipcode": "4413126",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "冨士見町"
+  },
+  "4413131": {
+    "zipcode": "4413131",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（小山塚）"
+  },
+  "4413132": {
+    "zipcode": "4413132",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（東荒田）"
+  },
+  "4413133": {
+    "zipcode": "4413133",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（西荒田）"
+  },
+  "4413134": {
+    "zipcode": "4413134",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（久保田）"
+  },
+  "4413141": {
+    "zipcode": "4413141",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（北山）"
+  },
+  "4413142": {
+    "zipcode": "4413142",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（東郷内）"
+  },
+  "4413143": {
+    "zipcode": "4413143",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（西郷内）"
+  },
+  "4413144": {
+    "zipcode": "4413144",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（南元屋敷）"
+  },
+  "4413145": {
+    "zipcode": "4413145",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（北元屋敷）"
+  },
+  "4413146": {
+    "zipcode": "4413146",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（北山６）"
+  },
+  "4413147": {
+    "zipcode": "4413147",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大岩町（その他）"
+  },
+  "4413151": {
+    "zipcode": "4413151",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "二川町（北裏）"
+  },
+  "4413152": {
+    "zipcode": "4413152",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "二川町（南裏）"
+  },
+  "4413153": {
+    "zipcode": "4413153",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "二川町（東向山）"
+  },
+  "4413154": {
+    "zipcode": "4413154",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "二川町（西向山）"
+  },
+  "4413155": {
+    "zipcode": "4413155",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "二川町（その他）"
+  },
+  "4413201": {
+    "zipcode": "4413201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東七根町"
+  },
+  "4413202": {
+    "zipcode": "4413202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西七根町"
+  },
+  "4413203": {
+    "zipcode": "4413203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高塚町"
+  },
+  "4413211": {
+    "zipcode": "4413211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "伊古部町"
+  },
+  "4413212": {
+    "zipcode": "4413212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東赤沢町"
+  },
+  "4413213": {
+    "zipcode": "4413213",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西赤沢町"
+  },
+  "4413214": {
+    "zipcode": "4413214",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "城下町"
+  },
+  "4413301": {
+    "zipcode": "4413301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "老津町"
+  },
+  "4413302": {
+    "zipcode": "4413302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "杉山町"
+  },
+  "4413400": {
+    "zipcode": "4413400",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "以下に掲載がない場合"
+  },
+  "4413401": {
+    "zipcode": "4413401",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "緑が浜"
+  },
+  "4413402": {
+    "zipcode": "4413402",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "吉胡町"
+  },
+  "4413403": {
+    "zipcode": "4413403",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "浦町"
+  },
+  "4413404": {
+    "zipcode": "4413404",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "片浜町"
+  },
+  "4413405": {
+    "zipcode": "4413405",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "姫見台"
+  },
+  "4413406": {
+    "zipcode": "4413406",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "波瀬町"
+  },
+  "4413407": {
+    "zipcode": "4413407",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "光崎"
+  },
+  "4413408": {
+    "zipcode": "4413408",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "吉胡台"
+  },
+  "4413409": {
+    "zipcode": "4413409",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "片西"
+  },
+  "4413411": {
+    "zipcode": "4413411",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "やぐま台"
+  },
+  "4413412": {
+    "zipcode": "4413412",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "谷熊町"
+  },
+  "4413413": {
+    "zipcode": "4413413",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "六連町"
+  },
+  "4413414": {
+    "zipcode": "4413414",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "東神戸町"
+  },
+  "4413415": {
+    "zipcode": "4413415",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "神戸町"
+  },
+  "4413416": {
+    "zipcode": "4413416",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "東赤石"
+  },
+  "4413417": {
+    "zipcode": "4413417",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "豊島町"
+  },
+  "4413418": {
+    "zipcode": "4413418",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "相川町"
+  },
+  "4413419": {
+    "zipcode": "4413419",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "御殿山"
+  },
+  "4413421": {
+    "zipcode": "4413421",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "田原町"
+  },
+  "4413422": {
+    "zipcode": "4413422",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "赤石"
+  },
+  "4413423": {
+    "zipcode": "4413423",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "西神戸町"
+  },
+  "4413424": {
+    "zipcode": "4413424",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "南神戸町"
+  },
+  "4413425": {
+    "zipcode": "4413425",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "大草町"
+  },
+  "4413426": {
+    "zipcode": "4413426",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "大久保町"
+  },
+  "4413427": {
+    "zipcode": "4413427",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "加治町"
+  },
+  "4413431": {
+    "zipcode": "4413431",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "白谷町"
+  },
+  "4413432": {
+    "zipcode": "4413432",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "野田町"
+  },
+  "4413433": {
+    "zipcode": "4413433",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "芦町"
+  },
+  "4413434": {
+    "zipcode": "4413434",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "ほると台"
+  },
+  "4413435": {
+    "zipcode": "4413435",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "仁崎町"
+  },
+  "4413436": {
+    "zipcode": "4413436",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "白浜"
+  },
+  "4413501": {
+    "zipcode": "4413501",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "高松町"
+  },
+  "4413502": {
+    "zipcode": "4413502",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "赤羽根町"
+  },
+  "4413503": {
+    "zipcode": "4413503",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "若見町"
+  },
+  "4413504": {
+    "zipcode": "4413504",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "越戸町"
+  },
+  "4413505": {
+    "zipcode": "4413505",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "池尻町"
+  },
+  "4413601": {
+    "zipcode": "4413601",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "宇津江町"
+  },
+  "4413602": {
+    "zipcode": "4413602",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "八王子町"
+  },
+  "4413603": {
+    "zipcode": "4413603",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "村松町"
+  },
+  "4413604": {
+    "zipcode": "4413604",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "伊川津町"
+  },
+  "4413605": {
+    "zipcode": "4413605",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "江比間町"
+  },
+  "4413606": {
+    "zipcode": "4413606",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "馬伏町"
+  },
+  "4413607": {
+    "zipcode": "4413607",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "夕陽が浜"
+  },
+  "4413608": {
+    "zipcode": "4413608",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "折立町"
+  },
+  "4413609": {
+    "zipcode": "4413609",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "長沢町"
+  },
+  "4413611": {
+    "zipcode": "4413611",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "石神町"
+  },
+  "4413612": {
+    "zipcode": "4413612",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "高木町"
+  },
+  "4413613": {
+    "zipcode": "4413613",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "古田町"
+  },
+  "4413614": {
+    "zipcode": "4413614",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "保美町"
+  },
+  "4413615": {
+    "zipcode": "4413615",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "中山町"
+  },
+  "4413616": {
+    "zipcode": "4413616",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "向山町"
+  },
+  "4413617": {
+    "zipcode": "4413617",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "福江町"
+  },
+  "4413618": {
+    "zipcode": "4413618",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "小中山町"
+  },
+  "4413619": {
+    "zipcode": "4413619",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "西山町"
+  },
+  "4413621": {
+    "zipcode": "4413621",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "山田町"
+  },
+  "4413622": {
+    "zipcode": "4413622",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "和地町"
+  },
+  "4413623": {
+    "zipcode": "4413623",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "日出町"
+  },
+  "4413624": {
+    "zipcode": "4413624",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "伊良湖町"
+  },
+  "4413625": {
+    "zipcode": "4413625",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "亀山町"
+  },
+  "4413626": {
+    "zipcode": "4413626",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "小塩津町"
+  },
+  "4413627": {
+    "zipcode": "4413627",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "田原市",
+    "town": "堀切町"
+  },
+  "4418001": {
+    "zipcode": "4418001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "野田町"
+  },
+  "4418002": {
+    "zipcode": "4418002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "吉川町"
+  },
+  "4418003": {
+    "zipcode": "4418003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小向町"
+  },
+  "4418004": {
+    "zipcode": "4418004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "吉前町"
+  },
+  "4418005": {
+    "zipcode": "4418005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "富久縞町"
+  },
+  "4418006": {
+    "zipcode": "4418006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高洲町"
+  },
+  "4418007": {
+    "zipcode": "4418007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "馬見塚町"
+  },
+  "4418008": {
+    "zipcode": "4418008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "三ツ相町"
+  },
+  "4418011": {
+    "zipcode": "4418011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "菰口町"
+  },
+  "4418012": {
+    "zipcode": "4418012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "羽田町"
+  },
+  "4418013": {
+    "zipcode": "4418013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花田一番町"
+  },
+  "4418014": {
+    "zipcode": "4418014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花田二番町"
+  },
+  "4418015": {
+    "zipcode": "4418015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "築地町"
+  },
+  "4418016": {
+    "zipcode": "4418016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "新栄町"
+  },
+  "4418017": {
+    "zipcode": "4418017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "北側町"
+  },
+  "4418018": {
+    "zipcode": "4418018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花田三番町"
+  },
+  "4418019": {
+    "zipcode": "4418019",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花田町（その他）"
+  },
+  "4418021": {
+    "zipcode": "4418021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "白河町"
+  },
+  "4418022": {
+    "zipcode": "4418022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "野黒町"
+  },
+  "4418023": {
+    "zipcode": "4418023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "八通町"
+  },
+  "4418024": {
+    "zipcode": "4418024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花田町（中郷）"
+  },
+  "4418025": {
+    "zipcode": "4418025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "羽根井町"
+  },
+  "4418026": {
+    "zipcode": "4418026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "羽根井西町"
+  },
+  "4418027": {
+    "zipcode": "4418027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "錦町"
+  },
+  "4418028": {
+    "zipcode": "4418028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "立花町"
+  },
+  "4418029": {
+    "zipcode": "4418029",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "羽根井本町"
+  },
+  "4418031": {
+    "zipcode": "4418031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中郷町"
+  },
+  "4418032": {
+    "zipcode": "4418032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "花中町"
+  },
+  "4418033": {
+    "zipcode": "4418033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "入船町"
+  },
+  "4418034": {
+    "zipcode": "4418034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "松村町"
+  },
+  "4418035": {
+    "zipcode": "4418035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "有楽町"
+  },
+  "4418036": {
+    "zipcode": "4418036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東橋良町"
+  },
+  "4418037": {
+    "zipcode": "4418037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中橋良町"
+  },
+  "4418038": {
+    "zipcode": "4418038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "堂坂町"
+  },
+  "4418039": {
+    "zipcode": "4418039",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西橋良町"
+  },
+  "4418041": {
+    "zipcode": "4418041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柳生町"
+  },
+  "4418042": {
+    "zipcode": "4418042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小池町"
+  },
+  "4418043": {
+    "zipcode": "4418043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高師石塚町"
+  },
+  "4418044": {
+    "zipcode": "4418044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "南小池町"
+  },
+  "4418045": {
+    "zipcode": "4418045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "北丘町"
+  },
+  "4418046": {
+    "zipcode": "4418046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "福岡町"
+  },
+  "4418047": {
+    "zipcode": "4418047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "鴨田町"
+  },
+  "4418048": {
+    "zipcode": "4418048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西小池町"
+  },
+  "4418051": {
+    "zipcode": "4418051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱四番町"
+  },
+  "4418052": {
+    "zipcode": "4418052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱三番町"
+  },
+  "4418053": {
+    "zipcode": "4418053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱二番町"
+  },
+  "4418054": {
+    "zipcode": "4418054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱一番町"
+  },
+  "4418055": {
+    "zipcode": "4418055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱九番町"
+  },
+  "4418056": {
+    "zipcode": "4418056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱八番町"
+  },
+  "4418057": {
+    "zipcode": "4418057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱七番町"
+  },
+  "4418058": {
+    "zipcode": "4418058",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱六番町"
+  },
+  "4418059": {
+    "zipcode": "4418059",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "柱五番町"
+  },
+  "4418061": {
+    "zipcode": "4418061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "藤沢町"
+  },
+  "4418062": {
+    "zipcode": "4418062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東小浜町"
+  },
+  "4418063": {
+    "zipcode": "4418063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "橋良町"
+  },
+  "4418064": {
+    "zipcode": "4418064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "富本町"
+  },
+  "4418065": {
+    "zipcode": "4418065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中浜町"
+  },
+  "4418066": {
+    "zipcode": "4418066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "王ケ崎町"
+  },
+  "4418067": {
+    "zipcode": "4418067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小浜町"
+  },
+  "4418068": {
+    "zipcode": "4418068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "神ノ輪町"
+  },
+  "4418069": {
+    "zipcode": "4418069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "潮崎町"
+  },
+  "4418071": {
+    "zipcode": "4418071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大山町"
+  },
+  "4418072": {
+    "zipcode": "4418072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "船渡町"
+  },
+  "4418073": {
+    "zipcode": "4418073",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大崎町"
+  },
+  "4418074": {
+    "zipcode": "4418074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "明海町"
+  },
+  "4418075": {
+    "zipcode": "4418075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "神野ふ頭町"
+  },
+  "4418076": {
+    "zipcode": "4418076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "神野西町"
+  },
+  "4418077": {
+    "zipcode": "4418077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "神野新田町"
+  },
+  "4418081": {
+    "zipcode": "4418081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西羽田町"
+  },
+  "4418082": {
+    "zipcode": "4418082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "往完町"
+  },
+  "4418083": {
+    "zipcode": "4418083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東脇"
+  },
+  "4418084": {
+    "zipcode": "4418084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "市場"
+  },
+  "4418085": {
+    "zipcode": "4418085",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "青竹町"
+  },
+  "4418086": {
+    "zipcode": "4418086",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "問屋町"
+  },
+  "4418087": {
+    "zipcode": "4418087",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂町"
+  },
+  "4418088": {
+    "zipcode": "4418088",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂市場町"
+  },
+  "4418089": {
+    "zipcode": "4418089",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂大西町"
+  },
+  "4418090": {
+    "zipcode": "4418090",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂公文町"
+  },
+  "4418091": {
+    "zipcode": "4418091",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂水神町"
+  },
+  "4418092": {
+    "zipcode": "4418092",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂外神町"
+  },
+  "4418093": {
+    "zipcode": "4418093",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牟呂中村町"
+  },
+  "4418101": {
+    "zipcode": "4418101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "山田町（瀬戸、郷、西山）"
+  },
+  "4418102": {
+    "zipcode": "4418102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "山田一番町"
+  },
+  "4418103": {
+    "zipcode": "4418103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "山田三番町"
+  },
+  "4418104": {
+    "zipcode": "4418104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "山田二番町"
+  },
+  "4418105": {
+    "zipcode": "4418105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "北山町"
+  },
+  "4418106": {
+    "zipcode": "4418106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "弥生町"
+  },
+  "4418107": {
+    "zipcode": "4418107",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "南栄町"
+  },
+  "4418108": {
+    "zipcode": "4418108",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "町畑町"
+  },
+  "4418109": {
+    "zipcode": "4418109",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "小松町"
+  },
+  "4418111": {
+    "zipcode": "4418111",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "江島町"
+  },
+  "4418112": {
+    "zipcode": "4418112",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "牧野町"
+  },
+  "4418113": {
+    "zipcode": "4418113",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西幸町"
+  },
+  "4418114": {
+    "zipcode": "4418114",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "藤並町"
+  },
+  "4418115": {
+    "zipcode": "4418115",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東高田町"
+  },
+  "4418116": {
+    "zipcode": "4418116",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高田町"
+  },
+  "4418117": {
+    "zipcode": "4418117",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "浜道町"
+  },
+  "4418121": {
+    "zipcode": "4418121",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "畑ケ田町"
+  },
+  "4418122": {
+    "zipcode": "4418122",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "天伯町"
+  },
+  "4418123": {
+    "zipcode": "4418123",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "若松町"
+  },
+  "4418124": {
+    "zipcode": "4418124",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "野依町"
+  },
+  "4418125": {
+    "zipcode": "4418125",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "野依台"
+  },
+  "4418131": {
+    "zipcode": "4418131",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "東大清水町"
+  },
+  "4418132": {
+    "zipcode": "4418132",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "南大清水町"
+  },
+  "4418133": {
+    "zipcode": "4418133",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "大清水町"
+  },
+  "4418134": {
+    "zipcode": "4418134",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "植田町"
+  },
+  "4418135": {
+    "zipcode": "4418135",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "富士見台"
+  },
+  "4418141": {
+    "zipcode": "4418141",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "草間町"
+  },
+  "4418142": {
+    "zipcode": "4418142",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "向草間町"
+  },
+  "4418143": {
+    "zipcode": "4418143",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "松井町"
+  },
+  "4418144": {
+    "zipcode": "4418144",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "磯辺下地町"
+  },
+  "4418145": {
+    "zipcode": "4418145",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "駒形町"
+  },
+  "4418146": {
+    "zipcode": "4418146",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "城山町"
+  },
+  "4418147": {
+    "zipcode": "4418147",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "内張町"
+  },
+  "4418148": {
+    "zipcode": "4418148",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "一色町"
+  },
+  "4418149": {
+    "zipcode": "4418149",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "中野町"
+  },
+  "4418151": {
+    "zipcode": "4418151",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "曙町"
+  },
+  "4418152": {
+    "zipcode": "4418152",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "三本木町"
+  },
+  "4418153": {
+    "zipcode": "4418153",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高師本郷町"
+  },
+  "4418154": {
+    "zipcode": "4418154",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "西高師町"
+  },
+  "4418155": {
+    "zipcode": "4418155",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "芦原町"
+  },
+  "4418156": {
+    "zipcode": "4418156",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "高師町（西沢）"
+  },
+  "4418157": {
+    "zipcode": "4418157",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "town": "上野町"
+  }
+}

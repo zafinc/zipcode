@@ -1,0 +1,738 @@
+{
+  "5050000": {
+    "zipcode": "5050000",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "以下に掲載がない場合"
+  },
+  "5050001": {
+    "zipcode": "5050001",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "三和町廿屋"
+  },
+  "5050002": {
+    "zipcode": "5050002",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "三和町川浦"
+  },
+  "5050003": {
+    "zipcode": "5050003",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "山之上町"
+  },
+  "5050004": {
+    "zipcode": "5050004",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋町上蜂屋"
+  },
+  "5050005": {
+    "zipcode": "5050005",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋町中蜂屋"
+  },
+  "5050006": {
+    "zipcode": "5050006",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋町伊瀬"
+  },
+  "5050007": {
+    "zipcode": "5050007",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋町下蜂屋"
+  },
+  "5050008": {
+    "zipcode": "5050008",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "伊深町"
+  },
+  "5050009": {
+    "zipcode": "5050009",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋町矢田"
+  },
+  "5050010": {
+    "zipcode": "5050010",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "健康のまち"
+  },
+  "5050011": {
+    "zipcode": "5050011",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町東栃井"
+  },
+  "5050012": {
+    "zipcode": "5050012",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町山本"
+  },
+  "5050013": {
+    "zipcode": "5050013",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町信友"
+  },
+  "5050014": {
+    "zipcode": "5050014",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町則光"
+  },
+  "5050015": {
+    "zipcode": "5050015",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町今"
+  },
+  "5050016": {
+    "zipcode": "5050016",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "牧野"
+  },
+  "5050017": {
+    "zipcode": "5050017",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町小山"
+  },
+  "5050018": {
+    "zipcode": "5050018",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町西脇"
+  },
+  "5050019": {
+    "zipcode": "5050019",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "下米田町為岡"
+  },
+  "5050021": {
+    "zipcode": "5050021",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "森山町"
+  },
+  "5050022": {
+    "zipcode": "5050022",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "川合町"
+  },
+  "5050023": {
+    "zipcode": "5050023",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "野笹町"
+  },
+  "5050024": {
+    "zipcode": "5050024",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "御門町"
+  },
+  "5050025": {
+    "zipcode": "5050025",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "島町"
+  },
+  "5050026": {
+    "zipcode": "5050026",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "清水町"
+  },
+  "5050027": {
+    "zipcode": "5050027",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "本郷町"
+  },
+  "5050028": {
+    "zipcode": "5050028",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "山崎町"
+  },
+  "5050029": {
+    "zipcode": "5050029",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "あじさいヶ丘"
+  },
+  "5050031": {
+    "zipcode": "5050031",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "新池町"
+  },
+  "5050032": {
+    "zipcode": "5050032",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "田島町"
+  },
+  "5050033": {
+    "zipcode": "5050033",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "中富町"
+  },
+  "5050034": {
+    "zipcode": "5050034",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "古井町下古井"
+  },
+  "5050035": {
+    "zipcode": "5050035",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "大手町"
+  },
+  "5050036": {
+    "zipcode": "5050036",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "山手町"
+  },
+  "5050037": {
+    "zipcode": "5050037",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "前平町"
+  },
+  "5050038": {
+    "zipcode": "5050038",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "中部台"
+  },
+  "5050039": {
+    "zipcode": "5050039",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "蜂屋台"
+  },
+  "5050041": {
+    "zipcode": "5050041",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "太田町"
+  },
+  "5050042": {
+    "zipcode": "5050042",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "太田本町"
+  },
+  "5050043": {
+    "zipcode": "5050043",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "深田町"
+  },
+  "5050044": {
+    "zipcode": "5050044",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂川町"
+  },
+  "5050045": {
+    "zipcode": "5050045",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "草笛町"
+  },
+  "5050046": {
+    "zipcode": "5050046",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "西町"
+  },
+  "5050051": {
+    "zipcode": "5050051",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町鷹之巣"
+  },
+  "5050052": {
+    "zipcode": "5050052",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町今泉"
+  },
+  "5050053": {
+    "zipcode": "5050053",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町木野"
+  },
+  "5050054": {
+    "zipcode": "5050054",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町加茂野"
+  },
+  "5050055": {
+    "zipcode": "5050055",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町稲辺"
+  },
+  "5050056": {
+    "zipcode": "5050056",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "美濃加茂市",
+    "town": "加茂野町市橋"
+  },
+  "5050071": {
+    "zipcode": "5050071",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "黒岩"
+  },
+  "5050072": {
+    "zipcode": "5050072",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "大針"
+  },
+  "5050073": {
+    "zipcode": "5050073",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "加茂山"
+  },
+  "5050074": {
+    "zipcode": "5050074",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "酒倉"
+  },
+  "5050075": {
+    "zipcode": "5050075",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "取組"
+  },
+  "5050076": {
+    "zipcode": "5050076",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "勝山"
+  },
+  "5050077": {
+    "zipcode": "5050077",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡坂祝町",
+    "town": "深萱"
+  },
+  "5050100": {
+    "zipcode": "5050100",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "以下に掲載がない場合"
+  },
+  "5050101": {
+    "zipcode": "5050101",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "大久後"
+  },
+  "5050102": {
+    "zipcode": "5050102",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "前沢"
+  },
+  "5050103": {
+    "zipcode": "5050103",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "津橋"
+  },
+  "5050104": {
+    "zipcode": "5050104",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "謡坂"
+  },
+  "5050105": {
+    "zipcode": "5050105",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "西洞"
+  },
+  "5050106": {
+    "zipcode": "5050106",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "小原"
+  },
+  "5050107": {
+    "zipcode": "5050107",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "上之郷"
+  },
+  "5050108": {
+    "zipcode": "5050108",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "小和沢"
+  },
+  "5050111": {
+    "zipcode": "5050111",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "次月"
+  },
+  "5050112": {
+    "zipcode": "5050112",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "美佐野"
+  },
+  "5050113": {
+    "zipcode": "5050113",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "宿"
+  },
+  "5050114": {
+    "zipcode": "5050114",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "中切"
+  },
+  "5050115": {
+    "zipcode": "5050115",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "井尻"
+  },
+  "5050116": {
+    "zipcode": "5050116",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "御嵩"
+  },
+  "5050121": {
+    "zipcode": "5050121",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "中"
+  },
+  "5050122": {
+    "zipcode": "5050122",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "顔戸"
+  },
+  "5050123": {
+    "zipcode": "5050123",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "古屋敷"
+  },
+  "5050124": {
+    "zipcode": "5050124",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "比衣"
+  },
+  "5050125": {
+    "zipcode": "5050125",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "伏見"
+  },
+  "5050126": {
+    "zipcode": "5050126",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町",
+    "town": "上恵土"
+  },
+  "5050130": {
+    "zipcode": "5050130",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "可児市",
+    "town": "兼山"
+  },
+  "5050300": {
+    "zipcode": "5050300",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "以下に掲載がない場合"
+  },
+  "5050301": {
+    "zipcode": "5050301",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "八百津"
+  },
+  "5050302": {
+    "zipcode": "5050302",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "錦織"
+  },
+  "5050303": {
+    "zipcode": "5050303",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "伊岐津志"
+  },
+  "5050304": {
+    "zipcode": "5050304",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "上牧野"
+  },
+  "5050305": {
+    "zipcode": "5050305",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "和知"
+  },
+  "5050306": {
+    "zipcode": "5050306",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "上飯田"
+  },
+  "5050307": {
+    "zipcode": "5050307",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "野上"
+  },
+  "5050421": {
+    "zipcode": "5050421",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "福地"
+  },
+  "5050422": {
+    "zipcode": "5050422",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "久田見"
+  },
+  "5050423": {
+    "zipcode": "5050423",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "上吉田"
+  },
+  "5050531": {
+    "zipcode": "5050531",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "潮見"
+  },
+  "5050532": {
+    "zipcode": "5050532",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "加茂郡八百津町",
+    "town": "南戸"
+  }
+}

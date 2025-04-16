@@ -1,0 +1,986 @@
+{
+  "9280000": {
+    "zipcode": "9280000",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "以下に掲載がない場合"
+  },
+  "9280001": {
+    "zipcode": "9280001",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "河井町"
+  },
+  "9280002": {
+    "zipcode": "9280002",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "久手川町"
+  },
+  "9280003": {
+    "zipcode": "9280003",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "塚田町"
+  },
+  "9280004": {
+    "zipcode": "9280004",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "稲舟町"
+  },
+  "9280005": {
+    "zipcode": "9280005",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "大野町"
+  },
+  "9280006": {
+    "zipcode": "9280006",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "惣領町"
+  },
+  "9280007": {
+    "zipcode": "9280007",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "深見町"
+  },
+  "9280008": {
+    "zipcode": "9280008",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "マリンタウン"
+  },
+  "9280011": {
+    "zipcode": "9280011",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "杉平町"
+  },
+  "9280012": {
+    "zipcode": "9280012",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "横地町"
+  },
+  "9280013": {
+    "zipcode": "9280013",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "石休場町"
+  },
+  "9280014": {
+    "zipcode": "9280014",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "山ノ上町"
+  },
+  "9280015": {
+    "zipcode": "9280015",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "市ノ瀬町"
+  },
+  "9280016": {
+    "zipcode": "9280016",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "熊野町"
+  },
+  "9280021": {
+    "zipcode": "9280021",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "二ツ屋町"
+  },
+  "9280022": {
+    "zipcode": "9280022",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "宅田町"
+  },
+  "9280023": {
+    "zipcode": "9280023",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "気勝平町"
+  },
+  "9280024": {
+    "zipcode": "9280024",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "山岸町"
+  },
+  "9280025": {
+    "zipcode": "9280025",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "東中尾町"
+  },
+  "9280026": {
+    "zipcode": "9280026",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "西脇町"
+  },
+  "9280027": {
+    "zipcode": "9280027",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "北谷町"
+  },
+  "9280028": {
+    "zipcode": "9280028",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "打越町"
+  },
+  "9280031": {
+    "zipcode": "9280031",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "二勢町"
+  },
+  "9280032": {
+    "zipcode": "9280032",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "小伊勢町"
+  },
+  "9280033": {
+    "zipcode": "9280033",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "稲屋町"
+  },
+  "9280034": {
+    "zipcode": "9280034",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "長井町"
+  },
+  "9280035": {
+    "zipcode": "9280035",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "別所谷町"
+  },
+  "9280036": {
+    "zipcode": "9280036",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "滝又町"
+  },
+  "9280037": {
+    "zipcode": "9280037",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "空熊町"
+  },
+  "9280041": {
+    "zipcode": "9280041",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "中段町"
+  },
+  "9280042": {
+    "zipcode": "9280042",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "山本町"
+  },
+  "9280043": {
+    "zipcode": "9280043",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "房田町"
+  },
+  "9280044": {
+    "zipcode": "9280044",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "下黒川町"
+  },
+  "9280045": {
+    "zipcode": "9280045",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "上黒川町"
+  },
+  "9280046": {
+    "zipcode": "9280046",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "二俣町"
+  },
+  "9280047": {
+    "zipcode": "9280047",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "繩又町"
+  },
+  "9280051": {
+    "zipcode": "9280051",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "小池町"
+  },
+  "9280052": {
+    "zipcode": "9280052",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "下山町"
+  },
+  "9280053": {
+    "zipcode": "9280053",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "赤崎町"
+  },
+  "9280054": {
+    "zipcode": "9280054",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "大沢町"
+  },
+  "9280055": {
+    "zipcode": "9280055",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "上大沢町"
+  },
+  "9280056": {
+    "zipcode": "9280056",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "西二又町"
+  },
+  "9280057": {
+    "zipcode": "9280057",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "上山町"
+  },
+  "9280061": {
+    "zipcode": "9280061",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "新橋通"
+  },
+  "9280062": {
+    "zipcode": "9280062",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "南町"
+  },
+  "9280063": {
+    "zipcode": "9280063",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "水守町"
+  },
+  "9280064": {
+    "zipcode": "9280064",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "釜屋谷町"
+  },
+  "9280065": {
+    "zipcode": "9280065",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鵜入町"
+  },
+  "9280066": {
+    "zipcode": "9280066",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "美谷町"
+  },
+  "9280067": {
+    "zipcode": "9280067",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "光浦町"
+  },
+  "9280068": {
+    "zipcode": "9280068",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "平成町"
+  },
+  "9280071": {
+    "zipcode": "9280071",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "輪島崎町"
+  },
+  "9280072": {
+    "zipcode": "9280072",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "海士町（舳倉島）"
+  },
+  "9280073": {
+    "zipcode": "9280073",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（袖ケ浜）"
+  },
+  "9280074": {
+    "zipcode": "9280074",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（鳳至丁）"
+  },
+  "9280075": {
+    "zipcode": "9280075",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（下町）"
+  },
+  "9280076": {
+    "zipcode": "9280076",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（石浦町）"
+  },
+  "9280077": {
+    "zipcode": "9280077",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（堂金田）"
+  },
+  "9280078": {
+    "zipcode": "9280078",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（稲荷町）"
+  },
+  "9280079": {
+    "zipcode": "9280079",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "鳳至町（畠田）"
+  },
+  "9280201": {
+    "zipcode": "9280201",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町広江"
+  },
+  "9280202": {
+    "zipcode": "9280202",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町寺地"
+  },
+  "9280203": {
+    "zipcode": "9280203",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町敷戸"
+  },
+  "9280204": {
+    "zipcode": "9280204",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町南時国"
+  },
+  "9280205": {
+    "zipcode": "9280205",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町西時国"
+  },
+  "9280206": {
+    "zipcode": "9280206",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町曽々木"
+  },
+  "9280211": {
+    "zipcode": "9280211",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町牛尾"
+  },
+  "9280212": {
+    "zipcode": "9280212",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町寺山"
+  },
+  "9280213": {
+    "zipcode": "9280213",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町舞谷"
+  },
+  "9280214": {
+    "zipcode": "9280214",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町佐野"
+  },
+  "9280215": {
+    "zipcode": "9280215",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町粟蔵"
+  },
+  "9280216": {
+    "zipcode": "9280216",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町桶戸"
+  },
+  "9280217": {
+    "zipcode": "9280217",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町井面"
+  },
+  "9280218": {
+    "zipcode": "9280218",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町鈴屋"
+  },
+  "9280221": {
+    "zipcode": "9280221",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町真久"
+  },
+  "9280222": {
+    "zipcode": "9280222",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町東"
+  },
+  "9280223": {
+    "zipcode": "9280223",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町北円山"
+  },
+  "9280224": {
+    "zipcode": "9280224",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町麦生野"
+  },
+  "9280225": {
+    "zipcode": "9280225",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町徳成谷内"
+  },
+  "9280226": {
+    "zipcode": "9280226",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町徳成"
+  },
+  "9280231": {
+    "zipcode": "9280231",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町大川"
+  },
+  "9280232": {
+    "zipcode": "9280232",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町伏戸"
+  },
+  "9280233": {
+    "zipcode": "9280233",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町東大野"
+  },
+  "9280234": {
+    "zipcode": "9280234",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町真喜野"
+  },
+  "9280235": {
+    "zipcode": "9280235",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町川西"
+  },
+  "9280236": {
+    "zipcode": "9280236",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "町野町金蔵"
+  },
+  "9280241": {
+    "zipcode": "9280241",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "渋田町"
+  },
+  "9280242": {
+    "zipcode": "9280242",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "東印内町"
+  },
+  "9280243": {
+    "zipcode": "9280243",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "西山町"
+  },
+  "9280244": {
+    "zipcode": "9280244",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "西院内町"
+  },
+  "9280245": {
+    "zipcode": "9280245",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "東山町"
+  },
+  "9280246": {
+    "zipcode": "9280246",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "里町"
+  },
+  "9280251": {
+    "zipcode": "9280251",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "小田屋町"
+  },
+  "9280252": {
+    "zipcode": "9280252",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "忍町"
+  },
+  "9280253": {
+    "zipcode": "9280253",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "尊利地町"
+  },
+  "9280254": {
+    "zipcode": "9280254",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "名舟町"
+  },
+  "9280255": {
+    "zipcode": "9280255",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "野田町"
+  },
+  "9280256": {
+    "zipcode": "9280256",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "town": "白米町"
+  },
+  "9280301": {
+    "zipcode": "9280301",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "上長尾"
+  },
+  "9280302": {
+    "zipcode": "9280302",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "小間生"
+  },
+  "9280303": {
+    "zipcode": "9280303",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "桐畑"
+  },
+  "9280304": {
+    "zipcode": "9280304",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "鈴ケ嶺"
+  },
+  "9280305": {
+    "zipcode": "9280305",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "久田"
+  },
+  "9280306": {
+    "zipcode": "9280306",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "石井"
+  },
+  "9280307": {
+    "zipcode": "9280307",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "国光"
+  },
+  "9280308": {
+    "zipcode": "9280308",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "鴨川"
+  },
+  "9280311": {
+    "zipcode": "9280311",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "合鹿"
+  },
+  "9280312": {
+    "zipcode": "9280312",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "上町"
+  },
+  "9280313": {
+    "zipcode": "9280313",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "天坂"
+  },
+  "9280314": {
+    "zipcode": "9280314",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "笹川"
+  },
+  "9280321": {
+    "zipcode": "9280321",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "十郎原"
+  },
+  "9280322": {
+    "zipcode": "9280322",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "寺分"
+  },
+  "9280323": {
+    "zipcode": "9280323",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "五郎左エ門分"
+  },
+  "9280324": {
+    "zipcode": "9280324",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "中斉"
+  },
+  "9280325": {
+    "zipcode": "9280325",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "神和住"
+  },
+  "9280326": {
+    "zipcode": "9280326",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "斉和"
+  },
+  "9280331": {
+    "zipcode": "9280331",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "柳田"
+  },
+  "9280332": {
+    "zipcode": "9280332",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "五十里"
+  },
+  "9280333": {
+    "zipcode": "9280333",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "黒川"
+  },
+  "9280334": {
+    "zipcode": "9280334",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "当目"
+  },
+  "9280335": {
+    "zipcode": "9280335",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "大箱"
+  },
+  "9280336": {
+    "zipcode": "9280336",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "鳳珠郡能登町",
+    "town": "北河内"
+  }
+}

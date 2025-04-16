@@ -1,0 +1,674 @@
+{
+  "0070001": {
+    "zipcode": "0070001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼一条"
+  },
+  "0070002": {
+    "zipcode": "0070002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼二条"
+  },
+  "0070003": {
+    "zipcode": "0070003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼三条"
+  },
+  "0070004": {
+    "zipcode": "0070004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼四条"
+  },
+  "0070005": {
+    "zipcode": "0070005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼五条"
+  },
+  "0070006": {
+    "zipcode": "0070006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼六条"
+  },
+  "0070011": {
+    "zipcode": "0070011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "モエレ沼公園"
+  },
+  "0070030": {
+    "zipcode": "0070030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来十条"
+  },
+  "0070031": {
+    "zipcode": "0070031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来十一条"
+  },
+  "0070032": {
+    "zipcode": "0070032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来十二条"
+  },
+  "0070033": {
+    "zipcode": "0070033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来十三条"
+  },
+  "0070034": {
+    "zipcode": "0070034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来十四条"
+  },
+  "0070801": {
+    "zipcode": "0070801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂一条"
+  },
+  "0070802": {
+    "zipcode": "0070802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂二条"
+  },
+  "0070803": {
+    "zipcode": "0070803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂三条"
+  },
+  "0070804": {
+    "zipcode": "0070804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂四条"
+  },
+  "0070805": {
+    "zipcode": "0070805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂五条"
+  },
+  "0070806": {
+    "zipcode": "0070806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂六条"
+  },
+  "0070807": {
+    "zipcode": "0070807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂七条"
+  },
+  "0070808": {
+    "zipcode": "0070808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂八条"
+  },
+  "0070809": {
+    "zipcode": "0070809",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂九条"
+  },
+  "0070810": {
+    "zipcode": "0070810",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十条"
+  },
+  "0070811": {
+    "zipcode": "0070811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十一条"
+  },
+  "0070812": {
+    "zipcode": "0070812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十二条"
+  },
+  "0070813": {
+    "zipcode": "0070813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十三条"
+  },
+  "0070814": {
+    "zipcode": "0070814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十四条"
+  },
+  "0070815": {
+    "zipcode": "0070815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂十五条"
+  },
+  "0070819": {
+    "zipcode": "0070819",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東苗穂町"
+  },
+  "0070820": {
+    "zipcode": "0070820",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来町"
+  },
+  "0070821": {
+    "zipcode": "0070821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来一条"
+  },
+  "0070822": {
+    "zipcode": "0070822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来二条"
+  },
+  "0070823": {
+    "zipcode": "0070823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来三条"
+  },
+  "0070824": {
+    "zipcode": "0070824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来四条"
+  },
+  "0070825": {
+    "zipcode": "0070825",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来五条"
+  },
+  "0070826": {
+    "zipcode": "0070826",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来六条"
+  },
+  "0070827": {
+    "zipcode": "0070827",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来七条"
+  },
+  "0070828": {
+    "zipcode": "0070828",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来八条"
+  },
+  "0070829": {
+    "zipcode": "0070829",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "東雁来九条"
+  },
+  "0070834": {
+    "zipcode": "0070834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十四条東"
+  },
+  "0070835": {
+    "zipcode": "0070835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十五条東"
+  },
+  "0070836": {
+    "zipcode": "0070836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十六条東"
+  },
+  "0070837": {
+    "zipcode": "0070837",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十七条東"
+  },
+  "0070838": {
+    "zipcode": "0070838",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十八条東"
+  },
+  "0070839": {
+    "zipcode": "0070839",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北三十九条東"
+  },
+  "0070840": {
+    "zipcode": "0070840",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十条東"
+  },
+  "0070841": {
+    "zipcode": "0070841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十一条東"
+  },
+  "0070842": {
+    "zipcode": "0070842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十二条東"
+  },
+  "0070843": {
+    "zipcode": "0070843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十三条東"
+  },
+  "0070844": {
+    "zipcode": "0070844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十四条東"
+  },
+  "0070845": {
+    "zipcode": "0070845",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十五条東"
+  },
+  "0070846": {
+    "zipcode": "0070846",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十六条東"
+  },
+  "0070847": {
+    "zipcode": "0070847",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十七条東"
+  },
+  "0070848": {
+    "zipcode": "0070848",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十八条東"
+  },
+  "0070849": {
+    "zipcode": "0070849",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北四十九条東"
+  },
+  "0070850": {
+    "zipcode": "0070850",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北五十条東"
+  },
+  "0070851": {
+    "zipcode": "0070851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北五十一条東"
+  },
+  "0070852": {
+    "zipcode": "0070852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "栄町"
+  },
+  "0070861": {
+    "zipcode": "0070861",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古一条"
+  },
+  "0070862": {
+    "zipcode": "0070862",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古二条"
+  },
+  "0070863": {
+    "zipcode": "0070863",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古三条"
+  },
+  "0070864": {
+    "zipcode": "0070864",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古四条"
+  },
+  "0070865": {
+    "zipcode": "0070865",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古五条"
+  },
+  "0070866": {
+    "zipcode": "0070866",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古六条"
+  },
+  "0070867": {
+    "zipcode": "0070867",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古七条"
+  },
+  "0070868": {
+    "zipcode": "0070868",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古八条"
+  },
+  "0070869": {
+    "zipcode": "0070869",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古九条"
+  },
+  "0070870": {
+    "zipcode": "0070870",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古十条"
+  },
+  "0070871": {
+    "zipcode": "0070871",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古十一条"
+  },
+  "0070872": {
+    "zipcode": "0070872",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古十二条"
+  },
+  "0070873": {
+    "zipcode": "0070873",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古十三条"
+  },
+  "0070874": {
+    "zipcode": "0070874",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "伏古十四条"
+  },
+  "0070880": {
+    "zipcode": "0070880",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "丘珠町"
+  },
+  "0070881": {
+    "zipcode": "0070881",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠一条"
+  },
+  "0070882": {
+    "zipcode": "0070882",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠二条"
+  },
+  "0070883": {
+    "zipcode": "0070883",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠三条"
+  },
+  "0070884": {
+    "zipcode": "0070884",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠四条"
+  },
+  "0070885": {
+    "zipcode": "0070885",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠五条"
+  },
+  "0070886": {
+    "zipcode": "0070886",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "北丘珠六条"
+  },
+  "0070890": {
+    "zipcode": "0070890",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼町"
+  },
+  "0070891": {
+    "zipcode": "0070891",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼西一条"
+  },
+  "0070892": {
+    "zipcode": "0070892",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼西二条"
+  },
+  "0070893": {
+    "zipcode": "0070893",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼西三条"
+  },
+  "0070894": {
+    "zipcode": "0070894",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼西四条"
+  },
+  "0070895": {
+    "zipcode": "0070895",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市東区",
+    "town": "中沼西五条"
+  }
+}

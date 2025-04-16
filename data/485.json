@@ -1,0 +1,770 @@
+{
+  "4850000": {
+    "zipcode": "4850000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "以下に掲載がない場合"
+  },
+  "4850001": {
+    "zipcode": "4850001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保一色東"
+  },
+  "4850002": {
+    "zipcode": "4850002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "葭原"
+  },
+  "4850003": {
+    "zipcode": "4850003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保一色"
+  },
+  "4850004": {
+    "zipcode": "4850004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "田県町"
+  },
+  "4850005": {
+    "zipcode": "4850005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保本町"
+  },
+  "4850006": {
+    "zipcode": "4850006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保新町"
+  },
+  "4850007": {
+    "zipcode": "4850007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保一色南"
+  },
+  "4850008": {
+    "zipcode": "4850008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "寺西"
+  },
+  "4850009": {
+    "zipcode": "4850009",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "久保"
+  },
+  "4850011": {
+    "zipcode": "4850011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "岩崎"
+  },
+  "4850012": {
+    "zipcode": "4850012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小牧原新田"
+  },
+  "4850013": {
+    "zipcode": "4850013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "新町"
+  },
+  "4850014": {
+    "zipcode": "4850014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "安田町"
+  },
+  "4850015": {
+    "zipcode": "4850015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "間々"
+  },
+  "4850016": {
+    "zipcode": "4850016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "間々原新田"
+  },
+  "4850017": {
+    "zipcode": "4850017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "岩崎原"
+  },
+  "4850021": {
+    "zipcode": "4850021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "二重堀"
+  },
+  "4850022": {
+    "zipcode": "4850022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "北外山入鹿新田"
+  },
+  "4850023": {
+    "zipcode": "4850023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "北外山"
+  },
+  "4850024": {
+    "zipcode": "4850024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "南外山"
+  },
+  "4850025": {
+    "zipcode": "4850025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "春日寺"
+  },
+  "4850026": {
+    "zipcode": "4850026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "大山（小牧大山）"
+  },
+  "4850027": {
+    "zipcode": "4850027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "緑町"
+  },
+  "4850028": {
+    "zipcode": "4850028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "東新町"
+  },
+  "4850029": {
+    "zipcode": "4850029",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "中央"
+  },
+  "4850031": {
+    "zipcode": "4850031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "若草町"
+  },
+  "4850032": {
+    "zipcode": "4850032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "掛割町"
+  },
+  "4850033": {
+    "zipcode": "4850033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "郷中"
+  },
+  "4850034": {
+    "zipcode": "4850034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "市之久田"
+  },
+  "4850035": {
+    "zipcode": "4850035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "多気東町"
+  },
+  "4850036": {
+    "zipcode": "4850036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "下小針天神"
+  },
+  "4850037": {
+    "zipcode": "4850037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小針"
+  },
+  "4850039": {
+    "zipcode": "4850039",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "外堀"
+  },
+  "4850041": {
+    "zipcode": "4850041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小牧"
+  },
+  "4850042": {
+    "zipcode": "4850042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "桜井"
+  },
+  "4850043": {
+    "zipcode": "4850043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "桜井本町"
+  },
+  "4850044": {
+    "zipcode": "4850044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "常普請"
+  },
+  "4850045": {
+    "zipcode": "4850045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "川西"
+  },
+  "4850046": {
+    "zipcode": "4850046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "堀の内"
+  },
+  "4850047": {
+    "zipcode": "4850047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "曙町"
+  },
+  "4850048": {
+    "zipcode": "4850048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "間々本町"
+  },
+  "4850049": {
+    "zipcode": "4850049",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "山北町"
+  },
+  "4850051": {
+    "zipcode": "4850051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "下小針中島"
+  },
+  "4850052": {
+    "zipcode": "4850052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "多気中町"
+  },
+  "4850053": {
+    "zipcode": "4850053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "多気南町"
+  },
+  "4850054": {
+    "zipcode": "4850054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "多気西町"
+  },
+  "4850055": {
+    "zipcode": "4850055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "多気北町"
+  },
+  "4850056": {
+    "zipcode": "4850056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小木南"
+  },
+  "4850057": {
+    "zipcode": "4850057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小木西"
+  },
+  "4850058": {
+    "zipcode": "4850058",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小木"
+  },
+  "4850059": {
+    "zipcode": "4850059",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小木東"
+  },
+  "4850061": {
+    "zipcode": "4850061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町向江"
+  },
+  "4850062": {
+    "zipcode": "4850062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町中島"
+  },
+  "4850063": {
+    "zipcode": "4850063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町鏡池"
+  },
+  "4850064": {
+    "zipcode": "4850064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町徳願寺"
+  },
+  "4850065": {
+    "zipcode": "4850065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町五才田"
+  },
+  "4850066": {
+    "zipcode": "4850066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町出口"
+  },
+  "4850067": {
+    "zipcode": "4850067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町居屋敷"
+  },
+  "4850068": {
+    "zipcode": "4850068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島"
+  },
+  "4850069": {
+    "zipcode": "4850069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "藤島町梵天"
+  },
+  "4850071": {
+    "zipcode": "4850071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "弥生町"
+  },
+  "4850072": {
+    "zipcode": "4850072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "元町"
+  },
+  "4850073": {
+    "zipcode": "4850073",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "舟津"
+  },
+  "4850074": {
+    "zipcode": "4850074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "新小木"
+  },
+  "4850075": {
+    "zipcode": "4850075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "三ツ渕"
+  },
+  "4850076": {
+    "zipcode": "4850076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "三ツ渕原新田"
+  },
+  "4850077": {
+    "zipcode": "4850077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "西之島"
+  },
+  "4850078": {
+    "zipcode": "4850078",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "西島町"
+  },
+  "4850081": {
+    "zipcode": "4850081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "横内"
+  },
+  "4850082": {
+    "zipcode": "4850082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "村中"
+  },
+  "4850083": {
+    "zipcode": "4850083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "村中新町"
+  },
+  "4850084": {
+    "zipcode": "4850084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "入鹿出新田"
+  },
+  "4850085": {
+    "zipcode": "4850085",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "河内屋新田"
+  },
+  "4850801": {
+    "zipcode": "4850801",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "大山（篠岡大山）"
+  },
+  "4850802": {
+    "zipcode": "4850802",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "大草"
+  },
+  "4850803": {
+    "zipcode": "4850803",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "高根"
+  },
+  "4850804": {
+    "zipcode": "4850804",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "池之内"
+  },
+  "4850805": {
+    "zipcode": "4850805",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "林"
+  },
+  "4850806": {
+    "zipcode": "4850806",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "野口"
+  },
+  "4850811": {
+    "zipcode": "4850811",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "光ケ丘"
+  },
+  "4850812": {
+    "zipcode": "4850812",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "城山"
+  },
+  "4850813": {
+    "zipcode": "4850813",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "桃ケ丘"
+  },
+  "4850814": {
+    "zipcode": "4850814",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "古雅"
+  },
+  "4850815": {
+    "zipcode": "4850815",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "篠岡"
+  },
+  "4850821": {
+    "zipcode": "4850821",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "本庄"
+  },
+  "4850822": {
+    "zipcode": "4850822",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "上末"
+  },
+  "4850823": {
+    "zipcode": "4850823",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "郷西町"
+  },
+  "4850824": {
+    "zipcode": "4850824",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "長治町"
+  },
+  "4850825": {
+    "zipcode": "4850825",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "下末"
+  },
+  "4850826": {
+    "zipcode": "4850826",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "東田中"
+  },
+  "4850827": {
+    "zipcode": "4850827",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "文津"
+  },
+  "4850828": {
+    "zipcode": "4850828",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小松寺"
+  },
+  "4850829": {
+    "zipcode": "4850829",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "小牧原"
+  },
+  "4850831": {
+    "zipcode": "4850831",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "東"
+  },
+  "4850832": {
+    "zipcode": "4850832",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "town": "応時"
+  }
+}

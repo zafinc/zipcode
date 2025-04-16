@@ -1,0 +1,706 @@
+{
+  "8980000": {
+    "zipcode": "8980000",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "以下に掲載がない場合"
+  },
+  "8980001": {
+    "zipcode": "8980001",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "松之尾町"
+  },
+  "8980002": {
+    "zipcode": "8980002",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "汐見町"
+  },
+  "8980003": {
+    "zipcode": "8980003",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "折口町"
+  },
+  "8980004": {
+    "zipcode": "8980004",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "港町"
+  },
+  "8980005": {
+    "zipcode": "8980005",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "中町"
+  },
+  "8980006": {
+    "zipcode": "8980006",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "泉町"
+  },
+  "8980007": {
+    "zipcode": "8980007",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "新町"
+  },
+  "8980008": {
+    "zipcode": "8980008",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "旭町"
+  },
+  "8980009": {
+    "zipcode": "8980009",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "恵比須町"
+  },
+  "8980011": {
+    "zipcode": "8980011",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "緑町"
+  },
+  "8980012": {
+    "zipcode": "8980012",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "千代田町"
+  },
+  "8980013": {
+    "zipcode": "8980013",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "山手町"
+  },
+  "8980014": {
+    "zipcode": "8980014",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "東本町"
+  },
+  "8980015": {
+    "zipcode": "8980015",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "西本町"
+  },
+  "8980016": {
+    "zipcode": "8980016",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "高見町"
+  },
+  "8980017": {
+    "zipcode": "8980017",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "住吉町"
+  },
+  "8980018": {
+    "zipcode": "8980018",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜木町"
+  },
+  "8980021": {
+    "zipcode": "8980021",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "東鹿篭"
+  },
+  "8980022": {
+    "zipcode": "8980022",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "宮田町"
+  },
+  "8980023": {
+    "zipcode": "8980023",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "若葉町"
+  },
+  "8980024": {
+    "zipcode": "8980024",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "西鹿篭"
+  },
+  "8980025": {
+    "zipcode": "8980025",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "立神本町"
+  },
+  "8980026": {
+    "zipcode": "8980026",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "大塚北町"
+  },
+  "8980027": {
+    "zipcode": "8980027",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "大塚西町"
+  },
+  "8980028": {
+    "zipcode": "8980028",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "大塚中町"
+  },
+  "8980029": {
+    "zipcode": "8980029",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "大塚南町"
+  },
+  "8980031": {
+    "zipcode": "8980031",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "枕崎"
+  },
+  "8980032": {
+    "zipcode": "8980032",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "別府"
+  },
+  "8980033": {
+    "zipcode": "8980033",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "宮前町"
+  },
+  "8980034": {
+    "zipcode": "8980034",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "日之出町"
+  },
+  "8980035": {
+    "zipcode": "8980035",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "平田町"
+  },
+  "8980036": {
+    "zipcode": "8980036",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "明和町"
+  },
+  "8980037": {
+    "zipcode": "8980037",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "栄本町"
+  },
+  "8980038": {
+    "zipcode": "8980038",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "栄中町"
+  },
+  "8980041": {
+    "zipcode": "8980041",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "塩屋北町"
+  },
+  "8980042": {
+    "zipcode": "8980042",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "塩屋南町"
+  },
+  "8980043": {
+    "zipcode": "8980043",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "火之神北町"
+  },
+  "8980044": {
+    "zipcode": "8980044",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "春日町"
+  },
+  "8980045": {
+    "zipcode": "8980045",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "立神北町"
+  },
+  "8980046": {
+    "zipcode": "8980046",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "園見本町"
+  },
+  "8980047": {
+    "zipcode": "8980047",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "園見西町"
+  },
+  "8980048": {
+    "zipcode": "8980048",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "火之神町"
+  },
+  "8980049": {
+    "zipcode": "8980049",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "火之神岬町"
+  },
+  "8980051": {
+    "zipcode": "8980051",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "中央町"
+  },
+  "8980052": {
+    "zipcode": "8980052",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "岩崎町"
+  },
+  "8980053": {
+    "zipcode": "8980053",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "木場町"
+  },
+  "8980054": {
+    "zipcode": "8980054",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "鹿篭麓町"
+  },
+  "8980055": {
+    "zipcode": "8980055",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜山西町"
+  },
+  "8980056": {
+    "zipcode": "8980056",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "美原町"
+  },
+  "8980057": {
+    "zipcode": "8980057",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "木原町"
+  },
+  "8980058": {
+    "zipcode": "8980058",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "岩戸町"
+  },
+  "8980061": {
+    "zipcode": "8980061",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜山町"
+  },
+  "8980062": {
+    "zipcode": "8980062",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "寿町"
+  },
+  "8980063": {
+    "zipcode": "8980063",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "妙見町"
+  },
+  "8980064": {
+    "zipcode": "8980064",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜山本町"
+  },
+  "8980065": {
+    "zipcode": "8980065",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜山東町"
+  },
+  "8980066": {
+    "zipcode": "8980066",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "清水町"
+  },
+  "8980071": {
+    "zipcode": "8980071",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "美山町"
+  },
+  "8980072": {
+    "zipcode": "8980072",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "道野町"
+  },
+  "8980073": {
+    "zipcode": "8980073",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "桜山上町"
+  },
+  "8980074": {
+    "zipcode": "8980074",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "金山西町"
+  },
+  "8980075": {
+    "zipcode": "8980075",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "田布川町"
+  },
+  "8980076": {
+    "zipcode": "8980076",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "金山町"
+  },
+  "8980080": {
+    "zipcode": "8980080",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "あけぼの町"
+  },
+  "8980081": {
+    "zipcode": "8980081",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "豊留町"
+  },
+  "8980082": {
+    "zipcode": "8980082",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "板敷本町"
+  },
+  "8980083": {
+    "zipcode": "8980083",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "板敷南町"
+  },
+  "8980084": {
+    "zipcode": "8980084",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "板敷西町"
+  },
+  "8980085": {
+    "zipcode": "8980085",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "別府東町"
+  },
+  "8980086": {
+    "zipcode": "8980086",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "別府西町"
+  },
+  "8980087": {
+    "zipcode": "8980087",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "瀬戸町"
+  },
+  "8980088": {
+    "zipcode": "8980088",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "国見町"
+  },
+  "8980089": {
+    "zipcode": "8980089",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "白沢北町"
+  },
+  "8980091": {
+    "zipcode": "8980091",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "白沢東町"
+  },
+  "8980092": {
+    "zipcode": "8980092",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "白沢西町"
+  },
+  "8980093": {
+    "zipcode": "8980093",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "仁田浦町"
+  },
+  "8980094": {
+    "zipcode": "8980094",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "駒水町"
+  },
+  "8980095": {
+    "zipcode": "8980095",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "下松町"
+  },
+  "8980096": {
+    "zipcode": "8980096",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "まかや町"
+  },
+  "8980097": {
+    "zipcode": "8980097",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "里町"
+  },
+  "8980098": {
+    "zipcode": "8980098",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "茅野町"
+  },
+  "8980099": {
+    "zipcode": "8980099",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "枕崎市",
+    "town": "小塚町"
+  },
+  "8980101": {
+    "zipcode": "8980101",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "town": "坊津町坊"
+  },
+  "8980102": {
+    "zipcode": "8980102",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "town": "坊津町泊"
+  },
+  "8980211": {
+    "zipcode": "8980211",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "town": "坊津町久志"
+  },
+  "8980212": {
+    "zipcode": "8980212",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "town": "坊津町秋目"
+  },
+  "8980221": {
+    "zipcode": "8980221",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "南さつま市",
+    "town": "大浦町（４７１３〜５２７７番地）"
+  }
+}

@@ -1,0 +1,3618 @@
+{
+  "3110100": {
+    "zipcode": "3110100",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "以下に掲載がない場合"
+  },
+  "3110101": {
+    "zipcode": "3110101",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "本米崎"
+  },
+  "3110102": {
+    "zipcode": "3110102",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "向山"
+  },
+  "3110103": {
+    "zipcode": "3110103",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "横堀"
+  },
+  "3110104": {
+    "zipcode": "3110104",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "堤"
+  },
+  "3110105": {
+    "zipcode": "3110105",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "菅谷"
+  },
+  "3110106": {
+    "zipcode": "3110106",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "杉"
+  },
+  "3110107": {
+    "zipcode": "3110107",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "額田南郷"
+  },
+  "3110108": {
+    "zipcode": "3110108",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "額田北郷"
+  },
+  "3110109": {
+    "zipcode": "3110109",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "額田東郷"
+  },
+  "3110110": {
+    "zipcode": "3110110",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "竹ノ内"
+  },
+  "3110111": {
+    "zipcode": "3110111",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "後台"
+  },
+  "3110112": {
+    "zipcode": "3110112",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "津田"
+  },
+  "3110113": {
+    "zipcode": "3110113",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "中台"
+  },
+  "3110114": {
+    "zipcode": "3110114",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "東木倉"
+  },
+  "3110115": {
+    "zipcode": "3110115",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "西木倉"
+  },
+  "3110116": {
+    "zipcode": "3110116",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "上河内"
+  },
+  "3110117": {
+    "zipcode": "3110117",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "豊喰"
+  },
+  "3110118": {
+    "zipcode": "3110118",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "福田"
+  },
+  "3110121": {
+    "zipcode": "3110121",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "戸崎"
+  },
+  "3110122": {
+    "zipcode": "3110122",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "戸"
+  },
+  "3110123": {
+    "zipcode": "3110123",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "上国井"
+  },
+  "3110124": {
+    "zipcode": "3110124",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "田崎"
+  },
+  "3110125": {
+    "zipcode": "3110125",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "大内"
+  },
+  "3110126": {
+    "zipcode": "3110126",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "下江戸"
+  },
+  "3110131": {
+    "zipcode": "3110131",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "北酒出"
+  },
+  "3110132": {
+    "zipcode": "3110132",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "南酒出"
+  },
+  "3110133": {
+    "zipcode": "3110133",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "鴻巣"
+  },
+  "3110134": {
+    "zipcode": "3110134",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "飯田"
+  },
+  "3110135": {
+    "zipcode": "3110135",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "鹿島"
+  },
+  "3110136": {
+    "zipcode": "3110136",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "那珂市",
+    "town": "門部"
+  },
+  "3110301": {
+    "zipcode": "3110301",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "河内西町"
+  },
+  "3110311": {
+    "zipcode": "3110311",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "町屋町"
+  },
+  "3110312": {
+    "zipcode": "3110312",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "西河内下町"
+  },
+  "3110313": {
+    "zipcode": "3110313",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "西河内中町"
+  },
+  "3110314": {
+    "zipcode": "3110314",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "西河内上町"
+  },
+  "3110321": {
+    "zipcode": "3110321",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "春友町"
+  },
+  "3110322": {
+    "zipcode": "3110322",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "常福地町"
+  },
+  "3110323": {
+    "zipcode": "3110323",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "茅根町"
+  },
+  "3110324": {
+    "zipcode": "3110324",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "白羽町"
+  },
+  "3110325": {
+    "zipcode": "3110325",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "里野宮町"
+  },
+  "3110401": {
+    "zipcode": "3110401",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "日立市",
+    "town": "中深荻町"
+  },
+  "3110402": {
+    "zipcode": "3110402",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "日立市",
+    "town": "入四間町"
+  },
+  "3110403": {
+    "zipcode": "3110403",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "日立市",
+    "town": "東河内町"
+  },
+  "3110404": {
+    "zipcode": "3110404",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "日立市",
+    "town": "下深荻町"
+  },
+  "3110501": {
+    "zipcode": "3110501",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "里川町"
+  },
+  "3110502": {
+    "zipcode": "3110502",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "徳田町"
+  },
+  "3110503": {
+    "zipcode": "3110503",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "小妻町"
+  },
+  "3110504": {
+    "zipcode": "3110504",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "小中町"
+  },
+  "3110505": {
+    "zipcode": "3110505",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "大中町"
+  },
+  "3110506": {
+    "zipcode": "3110506",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "折橋町"
+  },
+  "3110507": {
+    "zipcode": "3110507",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "小菅町"
+  },
+  "3110508": {
+    "zipcode": "3110508",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "大菅町"
+  },
+  "3110509": {
+    "zipcode": "3110509",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸太田市",
+    "town": "上深荻町"
+  },
+  "3111111": {
+    "zipcode": "3111111",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "小泉町"
+  },
+  "3111112": {
+    "zipcode": "3111112",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "川又町"
+  },
+  "3111113": {
+    "zipcode": "3111113",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "平戸町"
+  },
+  "3111114": {
+    "zipcode": "3111114",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "塩崎町"
+  },
+  "3111115": {
+    "zipcode": "3111115",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "大串町"
+  },
+  "3111121": {
+    "zipcode": "3111121",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "島田町"
+  },
+  "3111122": {
+    "zipcode": "3111122",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "秋成町"
+  },
+  "3111123": {
+    "zipcode": "3111123",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "下入野町"
+  },
+  "3111124": {
+    "zipcode": "3111124",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "森戸町"
+  },
+  "3111125": {
+    "zipcode": "3111125",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "大場町"
+  },
+  "3111131": {
+    "zipcode": "3111131",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "下大野町"
+  },
+  "3111132": {
+    "zipcode": "3111132",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東前町"
+  },
+  "3111133": {
+    "zipcode": "3111133",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "栗崎町"
+  },
+  "3111134": {
+    "zipcode": "3111134",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "百合が丘町"
+  },
+  "3111135": {
+    "zipcode": "3111135",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "六反田町"
+  },
+  "3111136": {
+    "zipcode": "3111136",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東前"
+  },
+  "3111201": {
+    "zipcode": "3111201",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "阿字ケ浦町"
+  },
+  "3111202": {
+    "zipcode": "3111202",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "磯崎町"
+  },
+  "3111203": {
+    "zipcode": "3111203",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "平磯町"
+  },
+  "3111204": {
+    "zipcode": "3111204",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "平磯遠原町"
+  },
+  "3111205": {
+    "zipcode": "3111205",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "十三奉行"
+  },
+  "3111206": {
+    "zipcode": "3111206",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "西十三奉行"
+  },
+  "3111207": {
+    "zipcode": "3111207",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "烏ケ台"
+  },
+  "3111211": {
+    "zipcode": "3111211",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "沢メキ"
+  },
+  "3111212": {
+    "zipcode": "3111212",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "殿山町"
+  },
+  "3111213": {
+    "zipcode": "3111213",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "牛久保"
+  },
+  "3111214": {
+    "zipcode": "3111214",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "和田町"
+  },
+  "3111215": {
+    "zipcode": "3111215",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "東本町"
+  },
+  "3111216": {
+    "zipcode": "3111216",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "湊泉町"
+  },
+  "3111217": {
+    "zipcode": "3111217",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "富士ノ下"
+  },
+  "3111218": {
+    "zipcode": "3111218",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "富士ノ上"
+  },
+  "3111221": {
+    "zipcode": "3111221",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "湊本町"
+  },
+  "3111222": {
+    "zipcode": "3111222",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "海門町"
+  },
+  "3111223": {
+    "zipcode": "3111223",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "栄町"
+  },
+  "3111224": {
+    "zipcode": "3111224",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "山ノ上町"
+  },
+  "3111225": {
+    "zipcode": "3111225",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "釈迦町"
+  },
+  "3111226": {
+    "zipcode": "3111226",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "幸町"
+  },
+  "3111227": {
+    "zipcode": "3111227",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "洞下町"
+  },
+  "3111228": {
+    "zipcode": "3111228",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "八幡町"
+  },
+  "3111229": {
+    "zipcode": "3111229",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "湊中央"
+  },
+  "3111231": {
+    "zipcode": "3111231",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "柳沢"
+  },
+  "3111232": {
+    "zipcode": "3111232",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "柳が丘"
+  },
+  "3111233": {
+    "zipcode": "3111233",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "堀川"
+  },
+  "3111234": {
+    "zipcode": "3111234",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "峰後"
+  },
+  "3111235": {
+    "zipcode": "3111235",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "田中後"
+  },
+  "3111236": {
+    "zipcode": "3111236",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "国神前"
+  },
+  "3111237": {
+    "zipcode": "3111237",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "関戸"
+  },
+  "3111238": {
+    "zipcode": "3111238",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "美田多町"
+  },
+  "3111241": {
+    "zipcode": "3111241",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "赤坂"
+  },
+  "3111242": {
+    "zipcode": "3111242",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "西赤坂"
+  },
+  "3111243": {
+    "zipcode": "3111243",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "北神敷台"
+  },
+  "3111244": {
+    "zipcode": "3111244",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "南神敷台"
+  },
+  "3111245": {
+    "zipcode": "3111245",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "館山"
+  },
+  "3111246": {
+    "zipcode": "3111246",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "相金町"
+  },
+  "3111247": {
+    "zipcode": "3111247",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "四十発句"
+  },
+  "3111248": {
+    "zipcode": "3111248",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "田宮原"
+  },
+  "3111251": {
+    "zipcode": "3111251",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "山崎"
+  },
+  "3111252": {
+    "zipcode": "3111252",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "部田野"
+  },
+  "3111253": {
+    "zipcode": "3111253",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "小谷金"
+  },
+  "3111254": {
+    "zipcode": "3111254",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "新堤"
+  },
+  "3111255": {
+    "zipcode": "3111255",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "雨沢谷津"
+  },
+  "3111261": {
+    "zipcode": "3111261",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "鶴代"
+  },
+  "3111262": {
+    "zipcode": "3111262",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "道メキ"
+  },
+  "3111263": {
+    "zipcode": "3111263",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "和尚塚"
+  },
+  "3111264": {
+    "zipcode": "3111264",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "浅井内"
+  },
+  "3111265": {
+    "zipcode": "3111265",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "狢谷津"
+  },
+  "3111266": {
+    "zipcode": "3111266",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "船窪"
+  },
+  "3111267": {
+    "zipcode": "3111267",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "廻り目"
+  },
+  "3111268": {
+    "zipcode": "3111268",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "town": "湊中原"
+  },
+  "3111300": {
+    "zipcode": "3111300",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "以下に掲載がない場合"
+  },
+  "3111301": {
+    "zipcode": "3111301",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "磯浜町"
+  },
+  "3111302": {
+    "zipcode": "3111302",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "磯道"
+  },
+  "3111303": {
+    "zipcode": "3111303",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "東光台"
+  },
+  "3111304": {
+    "zipcode": "3111304",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "和銅"
+  },
+  "3111305": {
+    "zipcode": "3111305",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "港中央"
+  },
+  "3111306": {
+    "zipcode": "3111306",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "五反田"
+  },
+  "3111307": {
+    "zipcode": "3111307",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "桜道"
+  },
+  "3111311": {
+    "zipcode": "3111311",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "大貫町"
+  },
+  "3111312": {
+    "zipcode": "3111312",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "神山町"
+  },
+  "3111313": {
+    "zipcode": "3111313",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "town": "成田町"
+  },
+  "3111401": {
+    "zipcode": "3111401",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "箕輪"
+  },
+  "3111402": {
+    "zipcode": "3111402",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "下太田"
+  },
+  "3111403": {
+    "zipcode": "3111403",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "上釜"
+  },
+  "3111404": {
+    "zipcode": "3111404",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "沢尻"
+  },
+  "3111405": {
+    "zipcode": "3111405",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "上太田"
+  },
+  "3111406": {
+    "zipcode": "3111406",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "田崎"
+  },
+  "3111411": {
+    "zipcode": "3111411",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "荒地"
+  },
+  "3111412": {
+    "zipcode": "3111412",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "玉田"
+  },
+  "3111413": {
+    "zipcode": "3111413",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "冷水"
+  },
+  "3111414": {
+    "zipcode": "3111414",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "子生"
+  },
+  "3111415": {
+    "zipcode": "3111415",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "造谷"
+  },
+  "3111416": {
+    "zipcode": "3111416",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "鹿田"
+  },
+  "3111421": {
+    "zipcode": "3111421",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "勝下新田"
+  },
+  "3111422": {
+    "zipcode": "3111422",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "勝下"
+  },
+  "3111423": {
+    "zipcode": "3111423",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "滝浜"
+  },
+  "3111424": {
+    "zipcode": "3111424",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "柏熊新田"
+  },
+  "3111425": {
+    "zipcode": "3111425",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "湯坪"
+  },
+  "3111426": {
+    "zipcode": "3111426",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "樅山"
+  },
+  "3111427": {
+    "zipcode": "3111427",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "常磐"
+  },
+  "3111500": {
+    "zipcode": "3111500",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "以下に掲載がない場合"
+  },
+  "3111501": {
+    "zipcode": "3111501",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "舟木"
+  },
+  "3111502": {
+    "zipcode": "3111502",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "大戸"
+  },
+  "3111503": {
+    "zipcode": "3111503",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "徳宿"
+  },
+  "3111504": {
+    "zipcode": "3111504",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "安房"
+  },
+  "3111505": {
+    "zipcode": "3111505",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "駒木根"
+  },
+  "3111506": {
+    "zipcode": "3111506",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "秋山"
+  },
+  "3111511": {
+    "zipcode": "3111511",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "柏熊"
+  },
+  "3111512": {
+    "zipcode": "3111512",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "白塚"
+  },
+  "3111513": {
+    "zipcode": "3111513",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "大竹"
+  },
+  "3111514": {
+    "zipcode": "3111514",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "安塚"
+  },
+  "3111515": {
+    "zipcode": "3111515",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "烟田"
+  },
+  "3111516": {
+    "zipcode": "3111516",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "新鉾田"
+  },
+  "3111517": {
+    "zipcode": "3111517",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "鉾田"
+  },
+  "3111518": {
+    "zipcode": "3111518",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "新鉾田西"
+  },
+  "3111521": {
+    "zipcode": "3111521",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "飯名"
+  },
+  "3111522": {
+    "zipcode": "3111522",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "塔ケ崎"
+  },
+  "3111523": {
+    "zipcode": "3111523",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "串挽"
+  },
+  "3111524": {
+    "zipcode": "3111524",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "高田"
+  },
+  "3111525": {
+    "zipcode": "3111525",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "野友"
+  },
+  "3111526": {
+    "zipcode": "3111526",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "半原"
+  },
+  "3111527": {
+    "zipcode": "3111527",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "借宿"
+  },
+  "3111528": {
+    "zipcode": "3111528",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "当間"
+  },
+  "3111531": {
+    "zipcode": "3111531",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "菅野谷"
+  },
+  "3111532": {
+    "zipcode": "3111532",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "上冨田"
+  },
+  "3111533": {
+    "zipcode": "3111533",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "下冨田"
+  },
+  "3111534": {
+    "zipcode": "3111534",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "鳥栖"
+  },
+  "3111535": {
+    "zipcode": "3111535",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "青柳"
+  },
+  "3111536": {
+    "zipcode": "3111536",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "大和田"
+  },
+  "3111537": {
+    "zipcode": "3111537",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "紅葉"
+  },
+  "3111701": {
+    "zipcode": "3111701",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "長野江"
+  },
+  "3111702": {
+    "zipcode": "3111702",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "三和"
+  },
+  "3111703": {
+    "zipcode": "3111703",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "成田"
+  },
+  "3111704": {
+    "zipcode": "3111704",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "山田"
+  },
+  "3111705": {
+    "zipcode": "3111705",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "内宿"
+  },
+  "3111706": {
+    "zipcode": "3111706",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "北浦"
+  },
+  "3111711": {
+    "zipcode": "3111711",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "吉川"
+  },
+  "3111712": {
+    "zipcode": "3111712",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "繁昌"
+  },
+  "3111713": {
+    "zipcode": "3111713",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "中根"
+  },
+  "3111714": {
+    "zipcode": "3111714",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "南高岡"
+  },
+  "3111715": {
+    "zipcode": "3111715",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "小幡"
+  },
+  "3111716": {
+    "zipcode": "3111716",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "北高岡"
+  },
+  "3111721": {
+    "zipcode": "3111721",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "両宿"
+  },
+  "3111722": {
+    "zipcode": "3111722",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "次木"
+  },
+  "3111723": {
+    "zipcode": "3111723",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "行戸"
+  },
+  "3111724": {
+    "zipcode": "3111724",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "小貫"
+  },
+  "3112101": {
+    "zipcode": "3112101",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "青山"
+  },
+  "3112102": {
+    "zipcode": "3112102",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "台濁沢"
+  },
+  "3112103": {
+    "zipcode": "3112103",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "汲上"
+  },
+  "3112104": {
+    "zipcode": "3112104",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "梶山"
+  },
+  "3112105": {
+    "zipcode": "3112105",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "二重作"
+  },
+  "3112111": {
+    "zipcode": "3112111",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "上沢"
+  },
+  "3112112": {
+    "zipcode": "3112112",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "飯島"
+  },
+  "3112113": {
+    "zipcode": "3112113",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "上幡木"
+  },
+  "3112114": {
+    "zipcode": "3112114",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "江川"
+  },
+  "3112115": {
+    "zipcode": "3112115",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "中居"
+  },
+  "3112116": {
+    "zipcode": "3112116",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "札"
+  },
+  "3112117": {
+    "zipcode": "3112117",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "大蔵"
+  },
+  "3112118": {
+    "zipcode": "3112118",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鉾田市",
+    "town": "阿玉"
+  },
+  "3112201": {
+    "zipcode": "3112201",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "大小志崎"
+  },
+  "3112202": {
+    "zipcode": "3112202",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "武井釜"
+  },
+  "3112203": {
+    "zipcode": "3112203",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "浜津賀"
+  },
+  "3112204": {
+    "zipcode": "3112204",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "荒井"
+  },
+  "3112205": {
+    "zipcode": "3112205",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "津賀"
+  },
+  "3112206": {
+    "zipcode": "3112206",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "武井"
+  },
+  "3112207": {
+    "zipcode": "3112207",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "志崎"
+  },
+  "3112211": {
+    "zipcode": "3112211",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "青塚"
+  },
+  "3112212": {
+    "zipcode": "3112212",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "角折"
+  },
+  "3112213": {
+    "zipcode": "3112213",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "中"
+  },
+  "3112214": {
+    "zipcode": "3112214",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "棚木"
+  },
+  "3112215": {
+    "zipcode": "3112215",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "和"
+  },
+  "3112221": {
+    "zipcode": "3112221",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "荒野"
+  },
+  "3112222": {
+    "zipcode": "3112222",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "小山"
+  },
+  "3112223": {
+    "zipcode": "3112223",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "林"
+  },
+  "3112224": {
+    "zipcode": "3112224",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "town": "奈良毛"
+  },
+  "3112400": {
+    "zipcode": "3112400",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "以下に掲載がない場合"
+  },
+  "3112401": {
+    "zipcode": "3112401",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "大賀"
+  },
+  "3112402": {
+    "zipcode": "3112402",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "大生"
+  },
+  "3112403": {
+    "zipcode": "3112403",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "釜谷"
+  },
+  "3112404": {
+    "zipcode": "3112404",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "水原"
+  },
+  "3112405": {
+    "zipcode": "3112405",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "築地"
+  },
+  "3112406": {
+    "zipcode": "3112406",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "新宮"
+  },
+  "3112407": {
+    "zipcode": "3112407",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "下田"
+  },
+  "3112408": {
+    "zipcode": "3112408",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "洲崎"
+  },
+  "3112409": {
+    "zipcode": "3112409",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "延方東"
+  },
+  "3112410": {
+    "zipcode": "3112410",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "延方西"
+  },
+  "3112412": {
+    "zipcode": "3112412",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "宮前"
+  },
+  "3112415": {
+    "zipcode": "3112415",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "延方"
+  },
+  "3112416": {
+    "zipcode": "3112416",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "前川"
+  },
+  "3112417": {
+    "zipcode": "3112417",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "米島"
+  },
+  "3112418": {
+    "zipcode": "3112418",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "徳島"
+  },
+  "3112419": {
+    "zipcode": "3112419",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "福島"
+  },
+  "3112421": {
+    "zipcode": "3112421",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "辻"
+  },
+  "3112422": {
+    "zipcode": "3112422",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "大洲"
+  },
+  "3112423": {
+    "zipcode": "3112423",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "日の出"
+  },
+  "3112424": {
+    "zipcode": "3112424",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "潮来"
+  },
+  "3112425": {
+    "zipcode": "3112425",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "あやめ"
+  },
+  "3112426": {
+    "zipcode": "3112426",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "大塚野"
+  },
+  "3112431": {
+    "zipcode": "3112431",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "清水"
+  },
+  "3112432": {
+    "zipcode": "3112432",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "茂木"
+  },
+  "3112433": {
+    "zipcode": "3112433",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "堀之内"
+  },
+  "3112434": {
+    "zipcode": "3112434",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "島須"
+  },
+  "3112435": {
+    "zipcode": "3112435",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "上戸"
+  },
+  "3112436": {
+    "zipcode": "3112436",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "牛堀"
+  },
+  "3112437": {
+    "zipcode": "3112437",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "永山"
+  },
+  "3112440": {
+    "zipcode": "3112440",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "川尾"
+  },
+  "3112441": {
+    "zipcode": "3112441",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "大山"
+  },
+  "3112442": {
+    "zipcode": "3112442",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "小泉"
+  },
+  "3112443": {
+    "zipcode": "3112443",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "新宮南"
+  },
+  "3112444": {
+    "zipcode": "3112444",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "小泉南"
+  },
+  "3112445": {
+    "zipcode": "3112445",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "曲松南"
+  },
+  "3112446": {
+    "zipcode": "3112446",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "須賀南"
+  },
+  "3112447": {
+    "zipcode": "3112447",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "曲松"
+  },
+  "3112448": {
+    "zipcode": "3112448",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "須賀"
+  },
+  "3112449": {
+    "zipcode": "3112449",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "潮来市",
+    "town": "古高"
+  },
+  "3113100": {
+    "zipcode": "3113100",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "以下に掲載がない場合"
+  },
+  "3113101": {
+    "zipcode": "3113101",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "南川又"
+  },
+  "3113102": {
+    "zipcode": "3113102",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "南栗崎"
+  },
+  "3113103": {
+    "zipcode": "3113103",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "野曽"
+  },
+  "3113104": {
+    "zipcode": "3113104",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "駒渡"
+  },
+  "3113105": {
+    "zipcode": "3113105",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "蕎麦原"
+  },
+  "3113106": {
+    "zipcode": "3113106",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "越安"
+  },
+  "3113107": {
+    "zipcode": "3113107",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "小鶴"
+  },
+  "3113108": {
+    "zipcode": "3113108",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "中央工業団地"
+  },
+  "3113111": {
+    "zipcode": "3113111",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "馬渡"
+  },
+  "3113112": {
+    "zipcode": "3113112",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "常井"
+  },
+  "3113113": {
+    "zipcode": "3113113",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "近藤"
+  },
+  "3113114": {
+    "zipcode": "3113114",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "大戸"
+  },
+  "3113115": {
+    "zipcode": "3113115",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "前田"
+  },
+  "3113116": {
+    "zipcode": "3113116",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "長岡"
+  },
+  "3113117": {
+    "zipcode": "3113117",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "桜の郷"
+  },
+  "3113121": {
+    "zipcode": "3113121",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "谷田部"
+  },
+  "3113122": {
+    "zipcode": "3113122",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "上石崎"
+  },
+  "3113123": {
+    "zipcode": "3113123",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "若宮"
+  },
+  "3113124": {
+    "zipcode": "3113124",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "中石崎"
+  },
+  "3113125": {
+    "zipcode": "3113125",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "下石崎"
+  },
+  "3113131": {
+    "zipcode": "3113131",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "小堤"
+  },
+  "3113132": {
+    "zipcode": "3113132",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "駒場"
+  },
+  "3113133": {
+    "zipcode": "3113133",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "南島田"
+  },
+  "3113134": {
+    "zipcode": "3113134",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "神宿"
+  },
+  "3113135": {
+    "zipcode": "3113135",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "海老沢"
+  },
+  "3113136": {
+    "zipcode": "3113136",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "宮ケ崎"
+  },
+  "3113137": {
+    "zipcode": "3113137",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "網掛"
+  },
+  "3113138": {
+    "zipcode": "3113138",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "城之内"
+  },
+  "3113141": {
+    "zipcode": "3113141",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "神谷"
+  },
+  "3113142": {
+    "zipcode": "3113142",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "鳥羽田"
+  },
+  "3113143": {
+    "zipcode": "3113143",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "生井沢"
+  },
+  "3113144": {
+    "zipcode": "3113144",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "下雨ケ谷"
+  },
+  "3113145": {
+    "zipcode": "3113145",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "上雨ケ谷"
+  },
+  "3113146": {
+    "zipcode": "3113146",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "下座"
+  },
+  "3113147": {
+    "zipcode": "3113147",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "秋葉"
+  },
+  "3113151": {
+    "zipcode": "3113151",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "木部"
+  },
+  "3113152": {
+    "zipcode": "3113152",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "飯沼"
+  },
+  "3113153": {
+    "zipcode": "3113153",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "上飯沼"
+  },
+  "3113154": {
+    "zipcode": "3113154",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "下飯沼"
+  },
+  "3113155": {
+    "zipcode": "3113155",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "下土師"
+  },
+  "3113156": {
+    "zipcode": "3113156",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "奥谷"
+  },
+  "3113157": {
+    "zipcode": "3113157",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡茨城町",
+    "town": "小幡"
+  },
+  "3113401": {
+    "zipcode": "3113401",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "世楽"
+  },
+  "3113402": {
+    "zipcode": "3113402",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "佐才"
+  },
+  "3113403": {
+    "zipcode": "3113403",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "上吉影"
+  },
+  "3113404": {
+    "zipcode": "3113404",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "飯前"
+  },
+  "3113405": {
+    "zipcode": "3113405",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "上合"
+  },
+  "3113406": {
+    "zipcode": "3113406",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "下吉影"
+  },
+  "3113411": {
+    "zipcode": "3113411",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "野田"
+  },
+  "3113412": {
+    "zipcode": "3113412",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "川戸"
+  },
+  "3113413": {
+    "zipcode": "3113413",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "山野"
+  },
+  "3113414": {
+    "zipcode": "3113414",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "外之内"
+  },
+  "3113415": {
+    "zipcode": "3113415",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "百里"
+  },
+  "3113416": {
+    "zipcode": "3113416",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "与沢"
+  },
+  "3113417": {
+    "zipcode": "3113417",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "倉数"
+  },
+  "3113421": {
+    "zipcode": "3113421",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "宮田"
+  },
+  "3113422": {
+    "zipcode": "3113422",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "中延"
+  },
+  "3113423": {
+    "zipcode": "3113423",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "小川"
+  },
+  "3113424": {
+    "zipcode": "3113424",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "幡谷"
+  },
+  "3113425": {
+    "zipcode": "3113425",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "小塙"
+  },
+  "3113426": {
+    "zipcode": "3113426",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "下馬場"
+  },
+  "3113431": {
+    "zipcode": "3113431",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "川中子"
+  },
+  "3113432": {
+    "zipcode": "3113432",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "下玉里"
+  },
+  "3113433": {
+    "zipcode": "3113433",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "高崎"
+  },
+  "3113434": {
+    "zipcode": "3113434",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "栗又四ケ"
+  },
+  "3113435": {
+    "zipcode": "3113435",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "田木谷"
+  },
+  "3113436": {
+    "zipcode": "3113436",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "上玉里"
+  },
+  "3113437": {
+    "zipcode": "3113437",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "小美玉市",
+    "town": "東田中"
+  },
+  "3113501": {
+    "zipcode": "3113501",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "芹沢"
+  },
+  "3113502": {
+    "zipcode": "3113502",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "若海"
+  },
+  "3113503": {
+    "zipcode": "3113503",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "捻木"
+  },
+  "3113504": {
+    "zipcode": "3113504",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "谷島"
+  },
+  "3113505": {
+    "zipcode": "3113505",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "浜"
+  },
+  "3113506": {
+    "zipcode": "3113506",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "八木蒔"
+  },
+  "3113507": {
+    "zipcode": "3113507",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "羽生"
+  },
+  "3113508": {
+    "zipcode": "3113508",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "沖洲"
+  },
+  "3113511": {
+    "zipcode": "3113511",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "玉造乙"
+  },
+  "3113512": {
+    "zipcode": "3113512",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "玉造甲"
+  },
+  "3113513": {
+    "zipcode": "3113513",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "手賀"
+  },
+  "3113514": {
+    "zipcode": "3113514",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "西蓮寺"
+  },
+  "3113515": {
+    "zipcode": "3113515",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "井上"
+  },
+  "3113516": {
+    "zipcode": "3113516",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "井上藤井"
+  },
+  "3113517": {
+    "zipcode": "3113517",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "藤井"
+  },
+  "3113518": {
+    "zipcode": "3113518",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "荒宿"
+  },
+  "3113800": {
+    "zipcode": "3113800",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "以下に掲載がない場合"
+  },
+  "3113801": {
+    "zipcode": "3113801",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "行方"
+  },
+  "3113802": {
+    "zipcode": "3113802",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "於下"
+  },
+  "3113803": {
+    "zipcode": "3113803",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "井貝"
+  },
+  "3113804": {
+    "zipcode": "3113804",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "小高"
+  },
+  "3113805": {
+    "zipcode": "3113805",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "橋門"
+  },
+  "3113806": {
+    "zipcode": "3113806",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "船子"
+  },
+  "3113807": {
+    "zipcode": "3113807",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "五町田"
+  },
+  "3113811": {
+    "zipcode": "3113811",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "四鹿"
+  },
+  "3113812": {
+    "zipcode": "3113812",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "杉平"
+  },
+  "3113813": {
+    "zipcode": "3113813",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "籠田"
+  },
+  "3113814": {
+    "zipcode": "3113814",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "天掛"
+  },
+  "3113815": {
+    "zipcode": "3113815",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "新宮"
+  },
+  "3113816": {
+    "zipcode": "3113816",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "小牧"
+  },
+  "3113817": {
+    "zipcode": "3113817",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "板峰"
+  },
+  "3113821": {
+    "zipcode": "3113821",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "蔵川"
+  },
+  "3113822": {
+    "zipcode": "3113822",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "岡"
+  },
+  "3113823": {
+    "zipcode": "3113823",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "白浜"
+  },
+  "3113824": {
+    "zipcode": "3113824",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "宇崎"
+  },
+  "3113825": {
+    "zipcode": "3113825",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "根小屋"
+  },
+  "3113826": {
+    "zipcode": "3113826",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "矢幡"
+  },
+  "3113827": {
+    "zipcode": "3113827",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "石神"
+  },
+  "3113831": {
+    "zipcode": "3113831",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "青沼"
+  },
+  "3113832": {
+    "zipcode": "3113832",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "麻生"
+  },
+  "3113833": {
+    "zipcode": "3113833",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "富田"
+  },
+  "3113834": {
+    "zipcode": "3113834",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "粗毛"
+  },
+  "3113835": {
+    "zipcode": "3113835",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "島並"
+  },
+  "3113836": {
+    "zipcode": "3113836",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "行方市",
+    "town": "南"
+  },
+  "3114141": {
+    "zipcode": "3114141",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "赤塚"
+  },
+  "3114142": {
+    "zipcode": "3114142",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東赤塚"
+  },
+  "3114143": {
+    "zipcode": "3114143",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "大塚町"
+  },
+  "3114144": {
+    "zipcode": "3114144",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "開江町"
+  },
+  "3114145": {
+    "zipcode": "3114145",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "双葉台"
+  },
+  "3114146": {
+    "zipcode": "3114146",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "中丸町"
+  },
+  "3114151": {
+    "zipcode": "3114151",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "姫子"
+  },
+  "3114152": {
+    "zipcode": "3114152",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "河和田"
+  },
+  "3114153": {
+    "zipcode": "3114153",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "河和田町"
+  },
+  "3114154": {
+    "zipcode": "3114154",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "萱場町"
+  },
+  "3114155": {
+    "zipcode": "3114155",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "飯島町"
+  },
+  "3114161": {
+    "zipcode": "3114161",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "全隈町"
+  },
+  "3114162": {
+    "zipcode": "3114162",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "金谷町"
+  },
+  "3114163": {
+    "zipcode": "3114163",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "加倉井町"
+  },
+  "3114164": {
+    "zipcode": "3114164",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "谷津町"
+  },
+  "3114165": {
+    "zipcode": "3114165",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "木葉下町"
+  },
+  "3114201": {
+    "zipcode": "3114201",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "藤井町"
+  },
+  "3114202": {
+    "zipcode": "3114202",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "岩根町"
+  },
+  "3114203": {
+    "zipcode": "3114203",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "上国井町"
+  },
+  "3114204": {
+    "zipcode": "3114204",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "田谷町"
+  },
+  "3114205": {
+    "zipcode": "3114205",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "下国井町"
+  },
+  "3114206": {
+    "zipcode": "3114206",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "飯富町"
+  },
+  "3114207": {
+    "zipcode": "3114207",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "成沢町"
+  },
+  "3114208": {
+    "zipcode": "3114208",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "藤が原"
+  },
+  "3114300": {
+    "zipcode": "3114300",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "以下に掲載がない場合"
+  },
+  "3114301": {
+    "zipcode": "3114301",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上泉"
+  },
+  "3114302": {
+    "zipcode": "3114302",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "那珂西"
+  },
+  "3114303": {
+    "zipcode": "3114303",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "石塚"
+  },
+  "3114304": {
+    "zipcode": "3114304",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "下青山"
+  },
+  "3114305": {
+    "zipcode": "3114305",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上青山"
+  },
+  "3114306": {
+    "zipcode": "3114306",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "春園"
+  },
+  "3114311": {
+    "zipcode": "3114311",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "増井"
+  },
+  "3114312": {
+    "zipcode": "3114312",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "磯野"
+  },
+  "3114313": {
+    "zipcode": "3114313",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上入野"
+  },
+  "3114314": {
+    "zipcode": "3114314",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "下古内"
+  },
+  "3114315": {
+    "zipcode": "3114315",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上古内"
+  },
+  "3114316": {
+    "zipcode": "3114316",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "小坂"
+  },
+  "3114317": {
+    "zipcode": "3114317",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "勝見沢"
+  },
+  "3114321": {
+    "zipcode": "3114321",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "粟"
+  },
+  "3114322": {
+    "zipcode": "3114322",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "下圷"
+  },
+  "3114323": {
+    "zipcode": "3114323",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上圷"
+  },
+  "3114324": {
+    "zipcode": "3114324",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "高久"
+  },
+  "3114325": {
+    "zipcode": "3114325",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "北方"
+  },
+  "3114331": {
+    "zipcode": "3114331",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "岩船"
+  },
+  "3114332": {
+    "zipcode": "3114332",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "高根台"
+  },
+  "3114333": {
+    "zipcode": "3114333",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "高根"
+  },
+  "3114334": {
+    "zipcode": "3114334",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "孫根"
+  },
+  "3114335": {
+    "zipcode": "3114335",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "錫高野"
+  },
+  "3114341": {
+    "zipcode": "3114341",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "御前山"
+  },
+  "3114342": {
+    "zipcode": "3114342",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上阿野沢"
+  },
+  "3114343": {
+    "zipcode": "3114343",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "下阿野沢"
+  },
+  "3114344": {
+    "zipcode": "3114344",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "阿波山"
+  },
+  "3114401": {
+    "zipcode": "3114401",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "塩子"
+  },
+  "3114402": {
+    "zipcode": "3114402",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "小勝"
+  },
+  "3114403": {
+    "zipcode": "3114403",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "大網"
+  },
+  "3114404": {
+    "zipcode": "3114404",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "真端"
+  },
+  "3114405": {
+    "zipcode": "3114405",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "上赤沢"
+  },
+  "3114406": {
+    "zipcode": "3114406",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "下赤沢"
+  },
+  "3114407": {
+    "zipcode": "3114407",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "東茨城郡城里町",
+    "town": "徳蔵"
+  },
+  "3114411": {
+    "zipcode": "3114411",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "芳賀郡茂木町",
+    "town": "桧山（道木橋）"
+  },
+  "3114501": {
+    "zipcode": "3114501",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "門井"
+  },
+  "3114502": {
+    "zipcode": "3114502",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "野口平"
+  },
+  "3114503": {
+    "zipcode": "3114503",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "野口"
+  },
+  "3114611": {
+    "zipcode": "3114611",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "秋田"
+  },
+  "3114612": {
+    "zipcode": "3114612",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "中居"
+  },
+  "3114613": {
+    "zipcode": "3114613",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "長倉"
+  },
+  "3114614": {
+    "zipcode": "3114614",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "金井"
+  },
+  "3114615": {
+    "zipcode": "3114615",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "下伊勢畑"
+  },
+  "3114616": {
+    "zipcode": "3114616",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "桧山"
+  },
+  "3114617": {
+    "zipcode": "3114617",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "上伊勢畑"
+  },
+  "3114618": {
+    "zipcode": "3114618",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "常陸大宮市",
+    "town": "野田"
+  }
+}

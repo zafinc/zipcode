@@ -1,0 +1,578 @@
+{
+  "0060000": {
+    "zipcode": "0060000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "以下に掲載がない場合"
+  },
+  "0060001": {
+    "zipcode": "0060001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢一条"
+  },
+  "0060002": {
+    "zipcode": "0060002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢二条"
+  },
+  "0060003": {
+    "zipcode": "0060003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢三条"
+  },
+  "0060004": {
+    "zipcode": "0060004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢四条"
+  },
+  "0060005": {
+    "zipcode": "0060005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢五条"
+  },
+  "0060006": {
+    "zipcode": "0060006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢六条"
+  },
+  "0060009": {
+    "zipcode": "0060009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "西宮の沢"
+  },
+  "0060011": {
+    "zipcode": "0060011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘一条"
+  },
+  "0060012": {
+    "zipcode": "0060012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘二条"
+  },
+  "0060013": {
+    "zipcode": "0060013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘三条"
+  },
+  "0060014": {
+    "zipcode": "0060014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘四条"
+  },
+  "0060015": {
+    "zipcode": "0060015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘五条"
+  },
+  "0060016": {
+    "zipcode": "0060016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "富丘六条"
+  },
+  "0060019": {
+    "zipcode": "0060019",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲富丘"
+  },
+  "0060021": {
+    "zipcode": "0060021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町一条"
+  },
+  "0060022": {
+    "zipcode": "0060022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町二条"
+  },
+  "0060023": {
+    "zipcode": "0060023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町三条"
+  },
+  "0060024": {
+    "zipcode": "0060024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町四条"
+  },
+  "0060025": {
+    "zipcode": "0060025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町五条"
+  },
+  "0060026": {
+    "zipcode": "0060026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町六条"
+  },
+  "0060029": {
+    "zipcode": "0060029",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲本町"
+  },
+  "0060031": {
+    "zipcode": "0060031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "稲穂一条"
+  },
+  "0060032": {
+    "zipcode": "0060032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "稲穂二条"
+  },
+  "0060033": {
+    "zipcode": "0060033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "稲穂三条"
+  },
+  "0060034": {
+    "zipcode": "0060034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "稲穂四条"
+  },
+  "0060035": {
+    "zipcode": "0060035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "稲穂五条"
+  },
+  "0060039": {
+    "zipcode": "0060039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲稲穂"
+  },
+  "0060041": {
+    "zipcode": "0060041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "金山一条"
+  },
+  "0060042": {
+    "zipcode": "0060042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "金山二条"
+  },
+  "0060043": {
+    "zipcode": "0060043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "金山三条"
+  },
+  "0060049": {
+    "zipcode": "0060049",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲金山"
+  },
+  "0060050": {
+    "zipcode": "0060050",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "星置南"
+  },
+  "0060801": {
+    "zipcode": "0060801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒一条"
+  },
+  "0060802": {
+    "zipcode": "0060802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒二条"
+  },
+  "0060803": {
+    "zipcode": "0060803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒三条"
+  },
+  "0060804": {
+    "zipcode": "0060804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒四条"
+  },
+  "0060805": {
+    "zipcode": "0060805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒五条"
+  },
+  "0060806": {
+    "zipcode": "0060806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒六条"
+  },
+  "0060807": {
+    "zipcode": "0060807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "新発寒七条"
+  },
+  "0060811": {
+    "zipcode": "0060811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田一条"
+  },
+  "0060812": {
+    "zipcode": "0060812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田二条"
+  },
+  "0060813": {
+    "zipcode": "0060813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田三条"
+  },
+  "0060814": {
+    "zipcode": "0060814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田四条"
+  },
+  "0060815": {
+    "zipcode": "0060815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田五条"
+  },
+  "0060816": {
+    "zipcode": "0060816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田六条"
+  },
+  "0060817": {
+    "zipcode": "0060817",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田七条"
+  },
+  "0060818": {
+    "zipcode": "0060818",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田八条"
+  },
+  "0060819": {
+    "zipcode": "0060819",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田九条"
+  },
+  "0060820": {
+    "zipcode": "0060820",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田十条"
+  },
+  "0060821": {
+    "zipcode": "0060821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田十一条"
+  },
+  "0060822": {
+    "zipcode": "0060822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田十二条"
+  },
+  "0060823": {
+    "zipcode": "0060823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "前田十三条"
+  },
+  "0060829": {
+    "zipcode": "0060829",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲前田"
+  },
+  "0060831": {
+    "zipcode": "0060831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙一条"
+  },
+  "0060832": {
+    "zipcode": "0060832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙二条"
+  },
+  "0060833": {
+    "zipcode": "0060833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙三条"
+  },
+  "0060834": {
+    "zipcode": "0060834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙四条"
+  },
+  "0060835": {
+    "zipcode": "0060835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙五条"
+  },
+  "0060836": {
+    "zipcode": "0060836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙六条"
+  },
+  "0060837": {
+    "zipcode": "0060837",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙七条"
+  },
+  "0060838": {
+    "zipcode": "0060838",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙八条"
+  },
+  "0060839": {
+    "zipcode": "0060839",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙九条"
+  },
+  "0060840": {
+    "zipcode": "0060840",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙十条"
+  },
+  "0060841": {
+    "zipcode": "0060841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙十一条"
+  },
+  "0060842": {
+    "zipcode": "0060842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "曙十二条"
+  },
+  "0060851": {
+    "zipcode": "0060851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "星置一条"
+  },
+  "0060852": {
+    "zipcode": "0060852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "星置二条"
+  },
+  "0060853": {
+    "zipcode": "0060853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "星置三条"
+  },
+  "0060859": {
+    "zipcode": "0060859",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲星置"
+  },
+  "0060860": {
+    "zipcode": "0060860",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "手稲山口"
+  },
+  "0060861": {
+    "zipcode": "0060861",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市手稲区",
+    "town": "明日風"
+  }
+}

@@ -1,0 +1,2674 @@
+{
+  "0100000": {
+    "zipcode": "0100000",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "以下に掲載がない場合"
+  },
+  "0100001": {
+    "zipcode": "0100001",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "中通"
+  },
+  "0100002": {
+    "zipcode": "0100002",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "東通仲町"
+  },
+  "0100003": {
+    "zipcode": "0100003",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "東通"
+  },
+  "0100004": {
+    "zipcode": "0100004",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "東通観音前"
+  },
+  "0100005": {
+    "zipcode": "0100005",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "東通明田"
+  },
+  "0100006": {
+    "zipcode": "0100006",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "東通館ノ越"
+  },
+  "0100011": {
+    "zipcode": "0100011",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "南通亀の町"
+  },
+  "0100012": {
+    "zipcode": "0100012",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "南通みその町"
+  },
+  "0100013": {
+    "zipcode": "0100013",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "南通築地"
+  },
+  "0100014": {
+    "zipcode": "0100014",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "南通宮田"
+  },
+  "0100021": {
+    "zipcode": "0100021",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山登町"
+  },
+  "0100022": {
+    "zipcode": "0100022",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山南中町"
+  },
+  "0100023": {
+    "zipcode": "0100023",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山本町"
+  },
+  "0100024": {
+    "zipcode": "0100024",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山南新町上丁"
+  },
+  "0100025": {
+    "zipcode": "0100025",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山佐竹町"
+  },
+  "0100026": {
+    "zipcode": "0100026",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山古川新町"
+  },
+  "0100027": {
+    "zipcode": "0100027",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山南新町下丁"
+  },
+  "0100028": {
+    "zipcode": "0100028",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山共和町"
+  },
+  "0100029": {
+    "zipcode": "0100029",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山川口境"
+  },
+  "0100031": {
+    "zipcode": "0100031",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山大元町"
+  },
+  "0100032": {
+    "zipcode": "0100032",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山太田町"
+  },
+  "0100033": {
+    "zipcode": "0100033",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山石塚町"
+  },
+  "0100034": {
+    "zipcode": "0100034",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山"
+  },
+  "0100035": {
+    "zipcode": "0100035",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山城南町"
+  },
+  "0100036": {
+    "zipcode": "0100036",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山金照町"
+  },
+  "0100037": {
+    "zipcode": "0100037",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山愛宕下"
+  },
+  "0100038": {
+    "zipcode": "0100038",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "楢山城南新町"
+  },
+  "0100041": {
+    "zipcode": "0100041",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "広面"
+  },
+  "0100042": {
+    "zipcode": "0100042",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "桜"
+  },
+  "0100043": {
+    "zipcode": "0100043",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "桜ガ丘"
+  },
+  "0100044": {
+    "zipcode": "0100044",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "横森"
+  },
+  "0100051": {
+    "zipcode": "0100051",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手松崎"
+  },
+  "0100052": {
+    "zipcode": "0100052",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手柳館"
+  },
+  "0100053": {
+    "zipcode": "0100053",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手寒川"
+  },
+  "0100054": {
+    "zipcode": "0100054",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手宝川"
+  },
+  "0100055": {
+    "zipcode": "0100055",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手通沢"
+  },
+  "0100056": {
+    "zipcode": "0100056",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手黒川"
+  },
+  "0100057": {
+    "zipcode": "0100057",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手梨平"
+  },
+  "0100058": {
+    "zipcode": "0100058",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下北手桜"
+  },
+  "0100059": {
+    "zipcode": "0100059",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "桜台"
+  },
+  "0100061": {
+    "zipcode": "0100061",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "卸町"
+  },
+  "0100062": {
+    "zipcode": "0100062",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "牛島東"
+  },
+  "0100063": {
+    "zipcode": "0100063",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "牛島西"
+  },
+  "0100064": {
+    "zipcode": "0100064",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "牛島"
+  },
+  "0100065": {
+    "zipcode": "0100065",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "茨島"
+  },
+  "0100066": {
+    "zipcode": "0100066",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "牛島南"
+  },
+  "0100101": {
+    "zipcode": "0100101",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "潟上市",
+    "town": "天王（追分、追分西、上北野、長沼）"
+  },
+  "0100111": {
+    "zipcode": "0100111",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足岩瀬"
+  },
+  "0100112": {
+    "zipcode": "0100112",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足堀内"
+  },
+  "0100113": {
+    "zipcode": "0100113",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足浦山"
+  },
+  "0100114": {
+    "zipcode": "0100114",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足下刈"
+  },
+  "0100115": {
+    "zipcode": "0100115",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足大清水"
+  },
+  "0100116": {
+    "zipcode": "0100116",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足小泉"
+  },
+  "0100121": {
+    "zipcode": "0100121",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足黒川"
+  },
+  "0100122": {
+    "zipcode": "0100122",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足吉田"
+  },
+  "0100123": {
+    "zipcode": "0100123",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足片田"
+  },
+  "0100124": {
+    "zipcode": "0100124",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足鳰崎"
+  },
+  "0100125": {
+    "zipcode": "0100125",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足高岡"
+  },
+  "0100126": {
+    "zipcode": "0100126",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "金足追分"
+  },
+  "0100131": {
+    "zipcode": "0100131",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城白山"
+  },
+  "0100132": {
+    "zipcode": "0100132",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城小又"
+  },
+  "0100133": {
+    "zipcode": "0100133",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城湯ノ里"
+  },
+  "0100134": {
+    "zipcode": "0100134",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城道川"
+  },
+  "0100135": {
+    "zipcode": "0100135",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城五十丁"
+  },
+  "0100136": {
+    "zipcode": "0100136",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城中"
+  },
+  "0100137": {
+    "zipcode": "0100137",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城石名坂"
+  },
+  "0100138": {
+    "zipcode": "0100138",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上新城保多野"
+  },
+  "0100141": {
+    "zipcode": "0100141",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城長岡"
+  },
+  "0100142": {
+    "zipcode": "0100142",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城青崎"
+  },
+  "0100143": {
+    "zipcode": "0100143",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城小友"
+  },
+  "0100144": {
+    "zipcode": "0100144",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城岩城"
+  },
+  "0100145": {
+    "zipcode": "0100145",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城笠岡"
+  },
+  "0100146": {
+    "zipcode": "0100146",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下新城中野"
+  },
+  "0100201": {
+    "zipcode": "0100201",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "潟上市",
+    "town": "天王（その他）"
+  },
+  "0100202": {
+    "zipcode": "0100202",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "潟上市",
+    "town": "天王大崎"
+  },
+  "0100341": {
+    "zipcode": "0100341",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船越"
+  },
+  "0100342": {
+    "zipcode": "0100342",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本脇本"
+  },
+  "0100343": {
+    "zipcode": "0100343",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本田谷沢"
+  },
+  "0100344": {
+    "zipcode": "0100344",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本富永"
+  },
+  "0100345": {
+    "zipcode": "0100345",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本浦田"
+  },
+  "0100346": {
+    "zipcode": "0100346",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本樽沢"
+  },
+  "0100347": {
+    "zipcode": "0100347",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "脇本百川"
+  },
+  "0100351": {
+    "zipcode": "0100351",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "五里合箱井"
+  },
+  "0100352": {
+    "zipcode": "0100352",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "五里合琴川"
+  },
+  "0100353": {
+    "zipcode": "0100353",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "五里合神谷"
+  },
+  "0100354": {
+    "zipcode": "0100354",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "五里合中石"
+  },
+  "0100355": {
+    "zipcode": "0100355",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "五里合鮪川"
+  },
+  "0100400": {
+    "zipcode": "0100400",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "以下に掲載がない場合"
+  },
+  "0100401": {
+    "zipcode": "0100401",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "野石"
+  },
+  "0100411": {
+    "zipcode": "0100411",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "福米沢"
+  },
+  "0100412": {
+    "zipcode": "0100412",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "本内"
+  },
+  "0100413": {
+    "zipcode": "0100413",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "松木沢"
+  },
+  "0100421": {
+    "zipcode": "0100421",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "鵜木"
+  },
+  "0100422": {
+    "zipcode": "0100422",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "角間崎"
+  },
+  "0100423": {
+    "zipcode": "0100423",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "福川"
+  },
+  "0100431": {
+    "zipcode": "0100431",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "払戸"
+  },
+  "0100441": {
+    "zipcode": "0100441",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "北"
+  },
+  "0100442": {
+    "zipcode": "0100442",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "東"
+  },
+  "0100443": {
+    "zipcode": "0100443",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "中央"
+  },
+  "0100444": {
+    "zipcode": "0100444",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "南"
+  },
+  "0100445": {
+    "zipcode": "0100445",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "西"
+  },
+  "0100451": {
+    "zipcode": "0100451",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "大潟"
+  },
+  "0100452": {
+    "zipcode": "0100452",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "方上"
+  },
+  "0100453": {
+    "zipcode": "0100453",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "方口"
+  },
+  "0100454": {
+    "zipcode": "0100454",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "中野"
+  },
+  "0100455": {
+    "zipcode": "0100455",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "西野"
+  },
+  "0100456": {
+    "zipcode": "0100456",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "南秋田郡大潟村",
+    "town": "東野"
+  },
+  "0100500": {
+    "zipcode": "0100500",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "以下に掲載がない場合"
+  },
+  "0100501": {
+    "zipcode": "0100501",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港仁井山"
+  },
+  "0100502": {
+    "zipcode": "0100502",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港比詰"
+  },
+  "0100503": {
+    "zipcode": "0100503",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港金川"
+  },
+  "0100511": {
+    "zipcode": "0100511",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港船川"
+  },
+  "0100521": {
+    "zipcode": "0100521",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港南平沢"
+  },
+  "0100522": {
+    "zipcode": "0100522",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港増川"
+  },
+  "0100523": {
+    "zipcode": "0100523",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港女川"
+  },
+  "0100531": {
+    "zipcode": "0100531",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港台島"
+  },
+  "0100532": {
+    "zipcode": "0100532",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港椿"
+  },
+  "0100533": {
+    "zipcode": "0100533",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港双六"
+  },
+  "0100534": {
+    "zipcode": "0100534",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港小浜"
+  },
+  "0100535": {
+    "zipcode": "0100535",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "船川港本山門前"
+  },
+  "0100661": {
+    "zipcode": "0100661",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "男鹿中浜間口"
+  },
+  "0100662": {
+    "zipcode": "0100662",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "男鹿中中間口"
+  },
+  "0100663": {
+    "zipcode": "0100663",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "男鹿中滝川"
+  },
+  "0100664": {
+    "zipcode": "0100664",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "男鹿中国有地内"
+  },
+  "0100665": {
+    "zipcode": "0100665",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "男鹿中山町"
+  },
+  "0100671": {
+    "zipcode": "0100671",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "戸賀加茂青砂"
+  },
+  "0100672": {
+    "zipcode": "0100672",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "戸賀浜塩谷"
+  },
+  "0100673": {
+    "zipcode": "0100673",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "戸賀塩浜"
+  },
+  "0100674": {
+    "zipcode": "0100674",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "戸賀戸賀"
+  },
+  "0100675": {
+    "zipcode": "0100675",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦入道崎"
+  },
+  "0100676": {
+    "zipcode": "0100676",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦西黒沢"
+  },
+  "0100681": {
+    "zipcode": "0100681",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦相川"
+  },
+  "0100682": {
+    "zipcode": "0100682",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦表町"
+  },
+  "0100683": {
+    "zipcode": "0100683",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦北浦"
+  },
+  "0100684": {
+    "zipcode": "0100684",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦安全寺"
+  },
+  "0100685": {
+    "zipcode": "0100685",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦真山"
+  },
+  "0100686": {
+    "zipcode": "0100686",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦西水口"
+  },
+  "0100687": {
+    "zipcode": "0100687",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦湯本"
+  },
+  "0100688": {
+    "zipcode": "0100688",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "男鹿市",
+    "town": "北浦野村"
+  },
+  "0100802": {
+    "zipcode": "0100802",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "外旭川"
+  },
+  "0100803": {
+    "zipcode": "0100803",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "外旭川八柳"
+  },
+  "0100804": {
+    "zipcode": "0100804",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "外旭川八幡田（丁目）"
+  },
+  "0100811": {
+    "zipcode": "0100811",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉釜ノ町"
+  },
+  "0100812": {
+    "zipcode": "0100812",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉三嶽根"
+  },
+  "0100813": {
+    "zipcode": "0100813",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉一ノ坪"
+  },
+  "0100814": {
+    "zipcode": "0100814",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉東町"
+  },
+  "0100815": {
+    "zipcode": "0100815",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉馬場"
+  },
+  "0100816": {
+    "zipcode": "0100816",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉"
+  },
+  "0100817": {
+    "zipcode": "0100817",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉菅野（丁目）"
+  },
+  "0100821": {
+    "zipcode": "0100821",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "濁川"
+  },
+  "0100822": {
+    "zipcode": "0100822",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "添川"
+  },
+  "0100823": {
+    "zipcode": "0100823",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山内"
+  },
+  "0100824": {
+    "zipcode": "0100824",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁別"
+  },
+  "0100825": {
+    "zipcode": "0100825",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "柳田"
+  },
+  "0100826": {
+    "zipcode": "0100826",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新藤田"
+  },
+  "0100831": {
+    "zipcode": "0100831",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭川清澄町"
+  },
+  "0100832": {
+    "zipcode": "0100832",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭川新藤田西町"
+  },
+  "0100833": {
+    "zipcode": "0100833",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭川新藤田東町"
+  },
+  "0100834": {
+    "zipcode": "0100834",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭川南町"
+  },
+  "0100841": {
+    "zipcode": "0100841",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山西町"
+  },
+  "0100842": {
+    "zipcode": "0100842",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山北町"
+  },
+  "0100843": {
+    "zipcode": "0100843",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山東町"
+  },
+  "0100844": {
+    "zipcode": "0100844",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山中町"
+  },
+  "0100845": {
+    "zipcode": "0100845",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山南町"
+  },
+  "0100851": {
+    "zipcode": "0100851",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形"
+  },
+  "0100852": {
+    "zipcode": "0100852",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形学園町"
+  },
+  "0100853": {
+    "zipcode": "0100853",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "蛇野"
+  },
+  "0100854": {
+    "zipcode": "0100854",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形山崎町"
+  },
+  "0100861": {
+    "zipcode": "0100861",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形からみでん"
+  },
+  "0100862": {
+    "zipcode": "0100862",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形田中"
+  },
+  "0100863": {
+    "zipcode": "0100863",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形休下町"
+  },
+  "0100864": {
+    "zipcode": "0100864",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形住吉町"
+  },
+  "0100865": {
+    "zipcode": "0100865",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "手形新栄町"
+  },
+  "0100871": {
+    "zipcode": "0100871",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋中島町"
+  },
+  "0100872": {
+    "zipcode": "0100872",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋北の丸"
+  },
+  "0100873": {
+    "zipcode": "0100873",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋城下町"
+  },
+  "0100874": {
+    "zipcode": "0100874",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋久保田町"
+  },
+  "0100875": {
+    "zipcode": "0100875",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋明徳町"
+  },
+  "0100876": {
+    "zipcode": "0100876",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋公園"
+  },
+  "0100877": {
+    "zipcode": "0100877",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "千秋矢留町"
+  },
+  "0100901": {
+    "zipcode": "0100901",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野桜町"
+  },
+  "0100902": {
+    "zipcode": "0100902",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野金砂町"
+  },
+  "0100903": {
+    "zipcode": "0100903",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野八丁"
+  },
+  "0100904": {
+    "zipcode": "0100904",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野原の町"
+  },
+  "0100905": {
+    "zipcode": "0100905",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野中町"
+  },
+  "0100911": {
+    "zipcode": "0100911",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野すわ町"
+  },
+  "0100912": {
+    "zipcode": "0100912",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野通町"
+  },
+  "0100913": {
+    "zipcode": "0100913",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野鉄砲町"
+  },
+  "0100914": {
+    "zipcode": "0100914",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野千代田町"
+  },
+  "0100915": {
+    "zipcode": "0100915",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "保戸野"
+  },
+  "0100916": {
+    "zipcode": "0100916",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉北"
+  },
+  "0100917": {
+    "zipcode": "0100917",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉中央"
+  },
+  "0100918": {
+    "zipcode": "0100918",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "泉南"
+  },
+  "0100921": {
+    "zipcode": "0100921",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "大町"
+  },
+  "0100922": {
+    "zipcode": "0100922",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭北栄町"
+  },
+  "0100923": {
+    "zipcode": "0100923",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭北錦町"
+  },
+  "0100924": {
+    "zipcode": "0100924",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭北寺町"
+  },
+  "0100925": {
+    "zipcode": "0100925",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "旭南"
+  },
+  "0100931": {
+    "zipcode": "0100931",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川元山下町"
+  },
+  "0100932": {
+    "zipcode": "0100932",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川元開和町"
+  },
+  "0100933": {
+    "zipcode": "0100933",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川元松丘町"
+  },
+  "0100934": {
+    "zipcode": "0100934",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川元むつみ町"
+  },
+  "0100935": {
+    "zipcode": "0100935",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川元小川町"
+  },
+  "0100941": {
+    "zipcode": "0100941",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻町"
+  },
+  "0100942": {
+    "zipcode": "0100942",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻大川町"
+  },
+  "0100943": {
+    "zipcode": "0100943",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻御休町"
+  },
+  "0100944": {
+    "zipcode": "0100944",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻若葉町"
+  },
+  "0100945": {
+    "zipcode": "0100945",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻みよし町"
+  },
+  "0100946": {
+    "zipcode": "0100946",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻総社町"
+  },
+  "0100947": {
+    "zipcode": "0100947",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻上野町"
+  },
+  "0100948": {
+    "zipcode": "0100948",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "川尻新川町"
+  },
+  "0100951": {
+    "zipcode": "0100951",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王"
+  },
+  "0100952": {
+    "zipcode": "0100952",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王新町"
+  },
+  "0100953": {
+    "zipcode": "0100953",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王中園町"
+  },
+  "0100954": {
+    "zipcode": "0100954",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王沼田町"
+  },
+  "0100955": {
+    "zipcode": "0100955",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王中島町"
+  },
+  "0100956": {
+    "zipcode": "0100956",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山王臨海町"
+  },
+  "0100961": {
+    "zipcode": "0100961",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋イサノ"
+  },
+  "0100962": {
+    "zipcode": "0100962",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋大畑"
+  },
+  "0100963": {
+    "zipcode": "0100963",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋大沼町"
+  },
+  "0100964": {
+    "zipcode": "0100964",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋鯲沼町"
+  },
+  "0100965": {
+    "zipcode": "0100965",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋新川向"
+  },
+  "0100966": {
+    "zipcode": "0100966",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "高陽青柳町"
+  },
+  "0100967": {
+    "zipcode": "0100967",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "高陽幸町"
+  },
+  "0100971": {
+    "zipcode": "0100971",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋三和町"
+  },
+  "0100972": {
+    "zipcode": "0100972",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋田五郎"
+  },
+  "0100973": {
+    "zipcode": "0100973",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋本町"
+  },
+  "0100974": {
+    "zipcode": "0100974",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋運動公園"
+  },
+  "0100975": {
+    "zipcode": "0100975",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋"
+  },
+  "0100976": {
+    "zipcode": "0100976",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋南"
+  },
+  "0100977": {
+    "zipcode": "0100977",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "八橋大道東"
+  },
+  "0101101": {
+    "zipcode": "0101101",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平八田"
+  },
+  "0101102": {
+    "zipcode": "0101102",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平目長崎"
+  },
+  "0101103": {
+    "zipcode": "0101103",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平中関"
+  },
+  "0101104": {
+    "zipcode": "0101104",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平寺庭"
+  },
+  "0101105": {
+    "zipcode": "0101105",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平黒沢"
+  },
+  "0101106": {
+    "zipcode": "0101106",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "太平山谷"
+  },
+  "0101201": {
+    "zipcode": "0101201",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和田草川"
+  },
+  "0101202": {
+    "zipcode": "0101202",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和芝野新田"
+  },
+  "0101203": {
+    "zipcode": "0101203",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和下黒瀬"
+  },
+  "0101211": {
+    "zipcode": "0101211",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和椿川"
+  },
+  "0101212": {
+    "zipcode": "0101212",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和平尾鳥"
+  },
+  "0101221": {
+    "zipcode": "0101221",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和平沢"
+  },
+  "0101222": {
+    "zipcode": "0101222",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和石田"
+  },
+  "0101223": {
+    "zipcode": "0101223",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和妙法"
+  },
+  "0101224": {
+    "zipcode": "0101224",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和種沢"
+  },
+  "0101225": {
+    "zipcode": "0101225",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和左手子"
+  },
+  "0101231": {
+    "zipcode": "0101231",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和相川"
+  },
+  "0101232": {
+    "zipcode": "0101232",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和戸賀沢"
+  },
+  "0101233": {
+    "zipcode": "0101233",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和女米木"
+  },
+  "0101341": {
+    "zipcode": "0101341",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和新波"
+  },
+  "0101342": {
+    "zipcode": "0101342",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和神ケ村"
+  },
+  "0101343": {
+    "zipcode": "0101343",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和繋"
+  },
+  "0101344": {
+    "zipcode": "0101344",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和向野"
+  },
+  "0101351": {
+    "zipcode": "0101351",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和碇田"
+  },
+  "0101352": {
+    "zipcode": "0101352",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "雄和萱ケ沢"
+  },
+  "0101401": {
+    "zipcode": "0101401",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手大杉沢"
+  },
+  "0101402": {
+    "zipcode": "0101402",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手小山田"
+  },
+  "0101403": {
+    "zipcode": "0101403",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手荒巻"
+  },
+  "0101404": {
+    "zipcode": "0101404",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手古野"
+  },
+  "0101405": {
+    "zipcode": "0101405",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手大山田"
+  },
+  "0101406": {
+    "zipcode": "0101406",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手猿田"
+  },
+  "0101407": {
+    "zipcode": "0101407",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手百崎"
+  },
+  "0101408": {
+    "zipcode": "0101408",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手大戸"
+  },
+  "0101409": {
+    "zipcode": "0101409",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "南ケ丘"
+  },
+  "0101411": {
+    "zipcode": "0101411",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "上北手御所野"
+  },
+  "0101412": {
+    "zipcode": "0101412",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御所野下堤"
+  },
+  "0101413": {
+    "zipcode": "0101413",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御所野地蔵田"
+  },
+  "0101414": {
+    "zipcode": "0101414",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御所野元町"
+  },
+  "0101415": {
+    "zipcode": "0101415",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御所野湯本"
+  },
+  "0101416": {
+    "zipcode": "0101416",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "四ツ小屋末戸松本"
+  },
+  "0101417": {
+    "zipcode": "0101417",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "四ツ小屋"
+  },
+  "0101418": {
+    "zipcode": "0101418",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "四ツ小屋小阿地"
+  },
+  "0101419": {
+    "zipcode": "0101419",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御所野堤台"
+  },
+  "0101420": {
+    "zipcode": "0101420",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "大住南"
+  },
+  "0101421": {
+    "zipcode": "0101421",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田本町"
+  },
+  "0101422": {
+    "zipcode": "0101422",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田目長田"
+  },
+  "0101423": {
+    "zipcode": "0101423",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田"
+  },
+  "0101424": {
+    "zipcode": "0101424",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御野場"
+  },
+  "0101425": {
+    "zipcode": "0101425",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "御野場新町"
+  },
+  "0101426": {
+    "zipcode": "0101426",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田小中島"
+  },
+  "0101427": {
+    "zipcode": "0101427",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田新田"
+  },
+  "0101428": {
+    "zipcode": "0101428",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "大平台"
+  },
+  "0101429": {
+    "zipcode": "0101429",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "山手台"
+  },
+  "0101431": {
+    "zipcode": "0101431",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田二ツ屋"
+  },
+  "0101432": {
+    "zipcode": "0101432",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田福島"
+  },
+  "0101433": {
+    "zipcode": "0101433",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田栄町"
+  },
+  "0101434": {
+    "zipcode": "0101434",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田蕗見町"
+  },
+  "0101435": {
+    "zipcode": "0101435",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田潟中町"
+  },
+  "0101436": {
+    "zipcode": "0101436",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "大住"
+  },
+  "0101437": {
+    "zipcode": "0101437",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "仁井田緑町"
+  },
+  "0101501": {
+    "zipcode": "0101501",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜桂根"
+  },
+  "0101502": {
+    "zipcode": "0101502",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜長浜"
+  },
+  "0101503": {
+    "zipcode": "0101503",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜羽川"
+  },
+  "0101504": {
+    "zipcode": "0101504",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜名ケ沢"
+  },
+  "0101505": {
+    "zipcode": "0101505",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜八田"
+  },
+  "0101506": {
+    "zipcode": "0101506",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "下浜楢田"
+  },
+  "0101601": {
+    "zipcode": "0101601",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "向浜"
+  },
+  "0101602": {
+    "zipcode": "0101602",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋下川原町"
+  },
+  "0101603": {
+    "zipcode": "0101603",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋勝平台"
+  },
+  "0101604": {
+    "zipcode": "0101604",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋松美町"
+  },
+  "0101605": {
+    "zipcode": "0101605",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋勝平町"
+  },
+  "0101606": {
+    "zipcode": "0101606",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋寿町"
+  },
+  "0101607": {
+    "zipcode": "0101607",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋南浜町"
+  },
+  "0101608": {
+    "zipcode": "0101608",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋北浜町"
+  },
+  "0101611": {
+    "zipcode": "0101611",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋天秤野"
+  },
+  "0101612": {
+    "zipcode": "0101612",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋豊町"
+  },
+  "0101613": {
+    "zipcode": "0101613",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋朝日町"
+  },
+  "0101614": {
+    "zipcode": "0101614",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋割山町"
+  },
+  "0101615": {
+    "zipcode": "0101615",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋船場町"
+  },
+  "0101616": {
+    "zipcode": "0101616",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋松美ガ丘南町"
+  },
+  "0101617": {
+    "zipcode": "0101617",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋松美ガ丘東町"
+  },
+  "0101618": {
+    "zipcode": "0101618",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋松美ガ丘北町"
+  },
+  "0101621": {
+    "zipcode": "0101621",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋栗田町"
+  },
+  "0101622": {
+    "zipcode": "0101622",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋日吉町"
+  },
+  "0101623": {
+    "zipcode": "0101623",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋町"
+  },
+  "0101631": {
+    "zipcode": "0101631",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋元町"
+  },
+  "0101632": {
+    "zipcode": "0101632",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋大川町"
+  },
+  "0101633": {
+    "zipcode": "0101633",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋鳥木町"
+  },
+  "0101634": {
+    "zipcode": "0101634",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋沖田町"
+  },
+  "0101635": {
+    "zipcode": "0101635",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋前野町"
+  },
+  "0101636": {
+    "zipcode": "0101636",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋比内町"
+  },
+  "0101637": {
+    "zipcode": "0101637",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋扇町"
+  },
+  "0101638": {
+    "zipcode": "0101638",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋表町"
+  },
+  "0101641": {
+    "zipcode": "0101641",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋高美町"
+  },
+  "0101642": {
+    "zipcode": "0101642",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋渋谷町"
+  },
+  "0101643": {
+    "zipcode": "0101643",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋田尻沢東町"
+  },
+  "0101644": {
+    "zipcode": "0101644",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋田尻沢中町"
+  },
+  "0101645": {
+    "zipcode": "0101645",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "新屋田尻沢西町"
+  },
+  "0101651": {
+    "zipcode": "0101651",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "豊岩石田坂"
+  },
+  "0101652": {
+    "zipcode": "0101652",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "豊岩豊巻"
+  },
+  "0101653": {
+    "zipcode": "0101653",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "豊岩小山"
+  },
+  "0101654": {
+    "zipcode": "0101654",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "town": "浜田"
+  }
+}

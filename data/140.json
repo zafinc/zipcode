@@ -1,0 +1,90 @@
+{
+  "1400000": {
+    "zipcode": "1400000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "以下に掲載がない場合"
+  },
+  "1400001": {
+    "zipcode": "1400001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "北品川（１〜４丁目）"
+  },
+  "1400002": {
+    "zipcode": "1400002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "東品川"
+  },
+  "1400003": {
+    "zipcode": "1400003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "八潮"
+  },
+  "1400004": {
+    "zipcode": "1400004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "南品川"
+  },
+  "1400005": {
+    "zipcode": "1400005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "広町"
+  },
+  "1400011": {
+    "zipcode": "1400011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "東大井"
+  },
+  "1400012": {
+    "zipcode": "1400012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "勝島"
+  },
+  "1400013": {
+    "zipcode": "1400013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "南大井"
+  },
+  "1400014": {
+    "zipcode": "1400014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "大井"
+  },
+  "1400015": {
+    "zipcode": "1400015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "西大井"
+  }
+}

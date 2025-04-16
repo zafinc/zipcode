@@ -1,0 +1,666 @@
+{
+  "4980000": {
+    "zipcode": "4980000",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "以下に掲載がない場合"
+  },
+  "4980001": {
+    "zipcode": "4980001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "西中地町"
+  },
+  "4980002": {
+    "zipcode": "4980002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "東中地"
+  },
+  "4980003": {
+    "zipcode": "4980003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "前ケ平"
+  },
+  "4980004": {
+    "zipcode": "4980004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "又八町"
+  },
+  "4980005": {
+    "zipcode": "4980005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "楽平"
+  },
+  "4980006": {
+    "zipcode": "4980006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "佐古木"
+  },
+  "4980007": {
+    "zipcode": "4980007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鎌倉町"
+  },
+  "4980011": {
+    "zipcode": "4980011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "荷之上町"
+  },
+  "4980012": {
+    "zipcode": "4980012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "五之三町"
+  },
+  "4980013": {
+    "zipcode": "4980013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "川平"
+  },
+  "4980014": {
+    "zipcode": "4980014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "五明町"
+  },
+  "4980015": {
+    "zipcode": "4980015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "海老江"
+  },
+  "4980016": {
+    "zipcode": "4980016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "小島町"
+  },
+  "4980017": {
+    "zipcode": "4980017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "前ケ須町"
+  },
+  "4980018": {
+    "zipcode": "4980018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "五之三川平"
+  },
+  "4980021": {
+    "zipcode": "4980021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（その他）"
+  },
+  "4980022": {
+    "zipcode": "4980022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（下六）"
+  },
+  "4980023": {
+    "zipcode": "4980023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（上六）"
+  },
+  "4980024": {
+    "zipcode": "4980024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（気開）"
+  },
+  "4980025": {
+    "zipcode": "4980025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "平島町（喜右味名）"
+  },
+  "4980026": {
+    "zipcode": "4980026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（西前新田）"
+  },
+  "4980027": {
+    "zipcode": "4980027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（南前新田）"
+  },
+  "4980028": {
+    "zipcode": "4980028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鯏浦町（中六）"
+  },
+  "4980031": {
+    "zipcode": "4980031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "平島町（その他）"
+  },
+  "4980032": {
+    "zipcode": "4980032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "平島中"
+  },
+  "4980033": {
+    "zipcode": "4980033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "平島西"
+  },
+  "4980034": {
+    "zipcode": "4980034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "平島東"
+  },
+  "4980035": {
+    "zipcode": "4980035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鎌島"
+  },
+  "4980036": {
+    "zipcode": "4980036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "森津町"
+  },
+  "4980037": {
+    "zipcode": "4980037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "川原欠町"
+  },
+  "4980038": {
+    "zipcode": "4980038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "中山町"
+  },
+  "4980039": {
+    "zipcode": "4980039",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "大藤町"
+  },
+  "4980040": {
+    "zipcode": "4980040",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "栄南町"
+  },
+  "4980041": {
+    "zipcode": "4980041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "芝井町"
+  },
+  "4980042": {
+    "zipcode": "4980042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "松名町"
+  },
+  "4980043": {
+    "zipcode": "4980043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "寛延"
+  },
+  "4980044": {
+    "zipcode": "4980044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "間崎町"
+  },
+  "4980045": {
+    "zipcode": "4980045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "稲元町"
+  },
+  "4980046": {
+    "zipcode": "4980046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "三好町"
+  },
+  "4980047": {
+    "zipcode": "4980047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "加稲"
+  },
+  "4980048": {
+    "zipcode": "4980048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "稲吉"
+  },
+  "4980049": {
+    "zipcode": "4980049",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "大縄場町"
+  },
+  "4980051": {
+    "zipcode": "4980051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "狐地町"
+  },
+  "4980052": {
+    "zipcode": "4980052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "稲荷町"
+  },
+  "4980053": {
+    "zipcode": "4980053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "稲狐町"
+  },
+  "4980054": {
+    "zipcode": "4980054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "三稲町"
+  },
+  "4980055": {
+    "zipcode": "4980055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "境町"
+  },
+  "4980056": {
+    "zipcode": "4980056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "稲荷崎町"
+  },
+  "4980057": {
+    "zipcode": "4980057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "中原町"
+  },
+  "4980058": {
+    "zipcode": "4980058",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "富島町"
+  },
+  "4980060": {
+    "zipcode": "4980060",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "曙"
+  },
+  "4980061": {
+    "zipcode": "4980061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "操出"
+  },
+  "4980062": {
+    "zipcode": "4980062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "大谷"
+  },
+  "4980063": {
+    "zipcode": "4980063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "東末広"
+  },
+  "4980064": {
+    "zipcode": "4980064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "西末広"
+  },
+  "4980065": {
+    "zipcode": "4980065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "駒野町"
+  },
+  "4980066": {
+    "zipcode": "4980066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "楠"
+  },
+  "4980067": {
+    "zipcode": "4980067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "上野町"
+  },
+  "4980068": {
+    "zipcode": "4980068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鍋田町"
+  },
+  "4980069": {
+    "zipcode": "4980069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "富浜"
+  },
+  "4980801": {
+    "zipcode": "4980801",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "加路戸"
+  },
+  "4980802": {
+    "zipcode": "4980802",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "見入"
+  },
+  "4980803": {
+    "zipcode": "4980803",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "和泉"
+  },
+  "4980804": {
+    "zipcode": "4980804",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "小和泉"
+  },
+  "4980805": {
+    "zipcode": "4980805",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "小林"
+  },
+  "4980806": {
+    "zipcode": "4980806",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "外平喜"
+  },
+  "4980807": {
+    "zipcode": "4980807",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "西対海地"
+  },
+  "4980808": {
+    "zipcode": "4980808",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "近江島"
+  },
+  "4980810": {
+    "zipcode": "4980810",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "川先"
+  },
+  "4980811": {
+    "zipcode": "4980811",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "栄"
+  },
+  "4980812": {
+    "zipcode": "4980812",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "中和泉"
+  },
+  "4980813": {
+    "zipcode": "4980813",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "富田子"
+  },
+  "4980814": {
+    "zipcode": "4980814",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "三崎"
+  },
+  "4980815": {
+    "zipcode": "4980815",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "白鷺"
+  },
+  "4980816": {
+    "zipcode": "4980816",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "源緑輪中"
+  },
+  "4980817": {
+    "zipcode": "4980817",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "松永"
+  },
+  "4980818": {
+    "zipcode": "4980818",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "雁ケ地"
+  },
+  "4980819": {
+    "zipcode": "4980819",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "田代"
+  },
+  "4980821": {
+    "zipcode": "4980821",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "新加路戸"
+  },
+  "4980822": {
+    "zipcode": "4980822",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "見入流作"
+  },
+  "4980823": {
+    "zipcode": "4980823",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "和富"
+  },
+  "4980824": {
+    "zipcode": "4980824",
+    "prefectureCode": "24",
+    "prefectureNumber": 24,
+    "prefecture": "三重県",
+    "city": "桑名郡木曽岬町",
+    "town": "新輪"
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "2500000": {
+    "zipcode": "2500000",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "以下に掲載がない場合"
+  },
+  "2500001": {
+    "zipcode": "2500001",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "扇町"
+  },
+  "2500002": {
+    "zipcode": "2500002",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "寿町"
+  },
+  "2500003": {
+    "zipcode": "2500003",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "東町"
+  },
+  "2500004": {
+    "zipcode": "2500004",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "浜町"
+  },
+  "2500005": {
+    "zipcode": "2500005",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "中町"
+  },
+  "2500011": {
+    "zipcode": "2500011",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "栄町"
+  },
+  "2500012": {
+    "zipcode": "2500012",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "本町"
+  },
+  "2500013": {
+    "zipcode": "2500013",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "南町"
+  },
+  "2500014": {
+    "zipcode": "2500014",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "城内"
+  },
+  "2500021": {
+    "zipcode": "2500021",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "早川"
+  },
+  "2500022": {
+    "zipcode": "2500022",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "石橋"
+  },
+  "2500023": {
+    "zipcode": "2500023",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "米神"
+  },
+  "2500024": {
+    "zipcode": "2500024",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "根府川"
+  },
+  "2500025": {
+    "zipcode": "2500025",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "江之浦"
+  },
+  "2500031": {
+    "zipcode": "2500031",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "入生田"
+  },
+  "2500032": {
+    "zipcode": "2500032",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "風祭"
+  },
+  "2500033": {
+    "zipcode": "2500033",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "水之尾"
+  },
+  "2500034": {
+    "zipcode": "2500034",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "板橋"
+  },
+  "2500035": {
+    "zipcode": "2500035",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "南板橋"
+  },
+  "2500041": {
+    "zipcode": "2500041",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "池上"
+  },
+  "2500042": {
+    "zipcode": "2500042",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "荻窪"
+  },
+  "2500043": {
+    "zipcode": "2500043",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "谷津"
+  },
+  "2500044": {
+    "zipcode": "2500044",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "緑"
+  },
+  "2500045": {
+    "zipcode": "2500045",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "城山"
+  },
+  "2500046": {
+    "zipcode": "2500046",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "十字"
+  },
+  "2500051": {
+    "zipcode": "2500051",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "北ノ窪"
+  },
+  "2500052": {
+    "zipcode": "2500052",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "府川"
+  },
+  "2500053": {
+    "zipcode": "2500053",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "穴部"
+  },
+  "2500054": {
+    "zipcode": "2500054",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "多古"
+  },
+  "2500055": {
+    "zipcode": "2500055",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "久野"
+  },
+  "2500056": {
+    "zipcode": "2500056",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "井細田"
+  },
+  "2500100": {
+    "zipcode": "2500100",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "以下に掲載がない場合"
+  },
+  "2500101": {
+    "zipcode": "2500101",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "班目"
+  },
+  "2500102": {
+    "zipcode": "2500102",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "千津島"
+  },
+  "2500103": {
+    "zipcode": "2500103",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "壗下"
+  },
+  "2500104": {
+    "zipcode": "2500104",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "向田"
+  },
+  "2500105": {
+    "zipcode": "2500105",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "関本"
+  },
+  "2500106": {
+    "zipcode": "2500106",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "怒田"
+  },
+  "2500107": {
+    "zipcode": "2500107",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "小市"
+  },
+  "2500111": {
+    "zipcode": "2500111",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "竹松"
+  },
+  "2500112": {
+    "zipcode": "2500112",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "和田河原"
+  },
+  "2500113": {
+    "zipcode": "2500113",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "岩原"
+  },
+  "2500114": {
+    "zipcode": "2500114",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "北窪"
+  },
+  "2500115": {
+    "zipcode": "2500115",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "沼田"
+  },
+  "2500116": {
+    "zipcode": "2500116",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "三竹"
+  },
+  "2500117": {
+    "zipcode": "2500117",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "塚原"
+  },
+  "2500121": {
+    "zipcode": "2500121",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "広町"
+  },
+  "2500122": {
+    "zipcode": "2500122",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "飯沢"
+  },
+  "2500123": {
+    "zipcode": "2500123",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "中沼"
+  },
+  "2500124": {
+    "zipcode": "2500124",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "生駒"
+  },
+  "2500125": {
+    "zipcode": "2500125",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "駒形新宿"
+  },
+  "2500126": {
+    "zipcode": "2500126",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "狩野"
+  },
+  "2500127": {
+    "zipcode": "2500127",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "大雄町"
+  },
+  "2500131": {
+    "zipcode": "2500131",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "内山"
+  },
+  "2500132": {
+    "zipcode": "2500132",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "弘西寺"
+  },
+  "2500133": {
+    "zipcode": "2500133",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "福泉"
+  },
+  "2500134": {
+    "zipcode": "2500134",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "雨坪"
+  },
+  "2500135": {
+    "zipcode": "2500135",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "苅野"
+  },
+  "2500136": {
+    "zipcode": "2500136",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "南足柄市",
+    "town": "矢倉沢"
+  },
+  "2500201": {
+    "zipcode": "2500201",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我大沢"
+  },
+  "2500202": {
+    "zipcode": "2500202",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "上曽我"
+  },
+  "2500203": {
+    "zipcode": "2500203",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我岸"
+  },
+  "2500204": {
+    "zipcode": "2500204",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我谷津"
+  },
+  "2500205": {
+    "zipcode": "2500205",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我別所"
+  },
+  "2500206": {
+    "zipcode": "2500206",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我原"
+  },
+  "2500207": {
+    "zipcode": "2500207",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽我光海"
+  },
+  "2500208": {
+    "zipcode": "2500208",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "下大井"
+  },
+  "2500211": {
+    "zipcode": "2500211",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "鬼柳"
+  },
+  "2500212": {
+    "zipcode": "2500212",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "西大友"
+  },
+  "2500213": {
+    "zipcode": "2500213",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "東大友"
+  },
+  "2500214": {
+    "zipcode": "2500214",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "永塚"
+  },
+  "2500215": {
+    "zipcode": "2500215",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "千代"
+  },
+  "2500216": {
+    "zipcode": "2500216",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "高田"
+  },
+  "2500217": {
+    "zipcode": "2500217",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "別堀"
+  },
+  "2500218": {
+    "zipcode": "2500218",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "延清"
+  },
+  "2500311": {
+    "zipcode": "2500311",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "湯本"
+  },
+  "2500312": {
+    "zipcode": "2500312",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "湯本茶屋"
+  },
+  "2500313": {
+    "zipcode": "2500313",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "須雲川"
+  },
+  "2500314": {
+    "zipcode": "2500314",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "畑宿"
+  },
+  "2500315": {
+    "zipcode": "2500315",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "塔之澤"
+  },
+  "2500401": {
+    "zipcode": "2500401",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "宮城野"
+  },
+  "2500402": {
+    "zipcode": "2500402",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "木賀"
+  },
+  "2500403": {
+    "zipcode": "2500403",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "底倉"
+  },
+  "2500404": {
+    "zipcode": "2500404",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "宮ノ下"
+  },
+  "2500405": {
+    "zipcode": "2500405",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "大平台"
+  },
+  "2500406": {
+    "zipcode": "2500406",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "小涌谷"
+  },
+  "2500407": {
+    "zipcode": "2500407",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "二ノ平"
+  },
+  "2500408": {
+    "zipcode": "2500408",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "強羅"
+  },
+  "2500500": {
+    "zipcode": "2500500",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "以下に掲載がない場合"
+  },
+  "2500521": {
+    "zipcode": "2500521",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "箱根"
+  },
+  "2500522": {
+    "zipcode": "2500522",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "元箱根"
+  },
+  "2500523": {
+    "zipcode": "2500523",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "芦之湯"
+  },
+  "2500631": {
+    "zipcode": "2500631",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "town": "仙石原"
+  },
+  "2500851": {
+    "zipcode": "2500851",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "曽比"
+  },
+  "2500852": {
+    "zipcode": "2500852",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "栢山"
+  },
+  "2500853": {
+    "zipcode": "2500853",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "堀之内"
+  },
+  "2500854": {
+    "zipcode": "2500854",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "飯田岡"
+  },
+  "2500855": {
+    "zipcode": "2500855",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "清水新田"
+  },
+  "2500856": {
+    "zipcode": "2500856",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "新屋"
+  },
+  "2500857": {
+    "zipcode": "2500857",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "柳新田"
+  },
+  "2500858": {
+    "zipcode": "2500858",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "小台"
+  },
+  "2500861": {
+    "zipcode": "2500861",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "桑原"
+  },
+  "2500862": {
+    "zipcode": "2500862",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "成田"
+  },
+  "2500863": {
+    "zipcode": "2500863",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "飯泉"
+  },
+  "2500864": {
+    "zipcode": "2500864",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "穴部新田"
+  },
+  "2500865": {
+    "zipcode": "2500865",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "蓮正寺"
+  },
+  "2500866": {
+    "zipcode": "2500866",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "中曽根"
+  },
+  "2500871": {
+    "zipcode": "2500871",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "下堀"
+  },
+  "2500872": {
+    "zipcode": "2500872",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "中里"
+  },
+  "2500873": {
+    "zipcode": "2500873",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "矢作"
+  },
+  "2500874": {
+    "zipcode": "2500874",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "鴨宮"
+  },
+  "2500875": {
+    "zipcode": "2500875",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "南鴨宮"
+  },
+  "2500876": {
+    "zipcode": "2500876",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "中新田"
+  },
+  "2500877": {
+    "zipcode": "2500877",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "上新田"
+  },
+  "2500878": {
+    "zipcode": "2500878",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "town": "下新田"
+  }
+}

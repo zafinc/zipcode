@@ -1,0 +1,938 @@
+{
+  "6660000": {
+    "zipcode": "6660000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "以下に掲載がない場合"
+  },
+  "6660001": {
+    "zipcode": "6660001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "鴬の森町"
+  },
+  "6660002": {
+    "zipcode": "6660002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "滝山町"
+  },
+  "6660003": {
+    "zipcode": "6660003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "丸の内町"
+  },
+  "6660004": {
+    "zipcode": "6660004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "萩原"
+  },
+  "6660005": {
+    "zipcode": "6660005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "萩原台東"
+  },
+  "6660006": {
+    "zipcode": "6660006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "萩原台西（１、２丁目、３丁目１番〜２８２番）"
+  },
+  "6660007": {
+    "zipcode": "6660007",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "鴬が丘"
+  },
+  "6660011": {
+    "zipcode": "6660011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "出在家町"
+  },
+  "6660012": {
+    "zipcode": "6660012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "絹延町"
+  },
+  "6660013": {
+    "zipcode": "6660013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "美園町"
+  },
+  "6660014": {
+    "zipcode": "6660014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "小戸"
+  },
+  "6660015": {
+    "zipcode": "6660015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "小花"
+  },
+  "6660016": {
+    "zipcode": "6660016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "中央町"
+  },
+  "6660017": {
+    "zipcode": "6660017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "火打"
+  },
+  "6660021": {
+    "zipcode": "6660021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "栄根"
+  },
+  "6660022": {
+    "zipcode": "6660022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "下加茂"
+  },
+  "6660023": {
+    "zipcode": "6660023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "東久代"
+  },
+  "6660024": {
+    "zipcode": "6660024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "久代"
+  },
+  "6660025": {
+    "zipcode": "6660025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "加茂"
+  },
+  "6660026": {
+    "zipcode": "6660026",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "南花屋敷"
+  },
+  "6660031": {
+    "zipcode": "6660031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "霞ケ丘"
+  },
+  "6660032": {
+    "zipcode": "6660032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "日高町"
+  },
+  "6660033": {
+    "zipcode": "6660033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "栄町"
+  },
+  "6660034": {
+    "zipcode": "6660034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "寺畑"
+  },
+  "6660035": {
+    "zipcode": "6660035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "花屋敷"
+  },
+  "6660036": {
+    "zipcode": "6660036",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "花屋敷山手町"
+  },
+  "6660037": {
+    "zipcode": "6660037",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "松が丘町"
+  },
+  "6660101": {
+    "zipcode": "6660101",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "黒川"
+  },
+  "6660102": {
+    "zipcode": "6660102",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "横路"
+  },
+  "6660103": {
+    "zipcode": "6660103",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "国崎"
+  },
+  "6660104": {
+    "zipcode": "6660104",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "笹部"
+  },
+  "6660105": {
+    "zipcode": "6660105",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "見野"
+  },
+  "6660106": {
+    "zipcode": "6660106",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "山下町"
+  },
+  "6660107": {
+    "zipcode": "6660107",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "下財町"
+  },
+  "6660111": {
+    "zipcode": "6660111",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "大和東"
+  },
+  "6660112": {
+    "zipcode": "6660112",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "大和西"
+  },
+  "6660113": {
+    "zipcode": "6660113",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "長尾町"
+  },
+  "6660114": {
+    "zipcode": "6660114",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "東畦野山手"
+  },
+  "6660115": {
+    "zipcode": "6660115",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "向陽台"
+  },
+  "6660116": {
+    "zipcode": "6660116",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "水明台"
+  },
+  "6660117": {
+    "zipcode": "6660117",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "東畦野"
+  },
+  "6660121": {
+    "zipcode": "6660121",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "平野"
+  },
+  "6660122": {
+    "zipcode": "6660122",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "東多田"
+  },
+  "6660123": {
+    "zipcode": "6660123",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "鼓が滝"
+  },
+  "6660124": {
+    "zipcode": "6660124",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "多田桜木"
+  },
+  "6660125": {
+    "zipcode": "6660125",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "新田"
+  },
+  "6660126": {
+    "zipcode": "6660126",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "多田院"
+  },
+  "6660127": {
+    "zipcode": "6660127",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "多田院多田所町"
+  },
+  "6660128": {
+    "zipcode": "6660128",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "多田院西"
+  },
+  "6660129": {
+    "zipcode": "6660129",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "緑台"
+  },
+  "6660131": {
+    "zipcode": "6660131",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "矢問"
+  },
+  "6660132": {
+    "zipcode": "6660132",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "矢問東町"
+  },
+  "6660133": {
+    "zipcode": "6660133",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "鴬台"
+  },
+  "6660134": {
+    "zipcode": "6660134",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "萩原台西（３丁目２８３番以上）"
+  },
+  "6660135": {
+    "zipcode": "6660135",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "錦松台"
+  },
+  "6660136": {
+    "zipcode": "6660136",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "南野坂"
+  },
+  "6660137": {
+    "zipcode": "6660137",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "湯山台"
+  },
+  "6660138": {
+    "zipcode": "6660138",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "西多田"
+  },
+  "6660141": {
+    "zipcode": "6660141",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "虫生"
+  },
+  "6660142": {
+    "zipcode": "6660142",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "清和台東"
+  },
+  "6660143": {
+    "zipcode": "6660143",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "清和台西"
+  },
+  "6660144": {
+    "zipcode": "6660144",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "柳谷"
+  },
+  "6660145": {
+    "zipcode": "6660145",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "けやき坂"
+  },
+  "6660146": {
+    "zipcode": "6660146",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "芋生"
+  },
+  "6660147": {
+    "zipcode": "6660147",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "若宮"
+  },
+  "6660148": {
+    "zipcode": "6660148",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "赤松"
+  },
+  "6660151": {
+    "zipcode": "6660151",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "美山台"
+  },
+  "6660152": {
+    "zipcode": "6660152",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "丸山台"
+  },
+  "6660153": {
+    "zipcode": "6660153",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "一庫"
+  },
+  "6660154": {
+    "zipcode": "6660154",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "山原"
+  },
+  "6660155": {
+    "zipcode": "6660155",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "西畦野"
+  },
+  "6660156": {
+    "zipcode": "6660156",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "石道"
+  },
+  "6660157": {
+    "zipcode": "6660157",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "緑が丘"
+  },
+  "6660158": {
+    "zipcode": "6660158",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "清流台"
+  },
+  "6660161": {
+    "zipcode": "6660161",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "切畑（長尾山１９−１４）"
+  },
+  "6660162": {
+    "zipcode": "6660162",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "花屋敷緑ガ丘"
+  },
+  "6660200": {
+    "zipcode": "6660200",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "以下に掲載がない場合"
+  },
+  "6660201": {
+    "zipcode": "6660201",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "杉生"
+  },
+  "6660202": {
+    "zipcode": "6660202",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "鎌倉"
+  },
+  "6660203": {
+    "zipcode": "6660203",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "西畑"
+  },
+  "6660204": {
+    "zipcode": "6660204",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "柏原"
+  },
+  "6660211": {
+    "zipcode": "6660211",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "仁頂寺"
+  },
+  "6660212": {
+    "zipcode": "6660212",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "旭ケ丘"
+  },
+  "6660213": {
+    "zipcode": "6660213",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "清水東"
+  },
+  "6660214": {
+    "zipcode": "6660214",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "清水"
+  },
+  "6660215": {
+    "zipcode": "6660215",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "島"
+  },
+  "6660221": {
+    "zipcode": "6660221",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "杤原"
+  },
+  "6660222": {
+    "zipcode": "6660222",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "槻並"
+  },
+  "6660223": {
+    "zipcode": "6660223",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "木間生"
+  },
+  "6660224": {
+    "zipcode": "6660224",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "万善"
+  },
+  "6660225": {
+    "zipcode": "6660225",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "木津"
+  },
+  "6660226": {
+    "zipcode": "6660226",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "林田"
+  },
+  "6660227": {
+    "zipcode": "6660227",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "笹尾"
+  },
+  "6660231": {
+    "zipcode": "6660231",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "上阿古谷"
+  },
+  "6660232": {
+    "zipcode": "6660232",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "民田"
+  },
+  "6660233": {
+    "zipcode": "6660233",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "紫合"
+  },
+  "6660234": {
+    "zipcode": "6660234",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "北野"
+  },
+  "6660235": {
+    "zipcode": "6660235",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "南田原"
+  },
+  "6660236": {
+    "zipcode": "6660236",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "北田原"
+  },
+  "6660237": {
+    "zipcode": "6660237",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "下阿古谷"
+  },
+  "6660238": {
+    "zipcode": "6660238",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "荘苑"
+  },
+  "6660241": {
+    "zipcode": "6660241",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "内馬場"
+  },
+  "6660242": {
+    "zipcode": "6660242",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "原"
+  },
+  "6660243": {
+    "zipcode": "6660243",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "柏梨田"
+  },
+  "6660244": {
+    "zipcode": "6660244",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "上野"
+  },
+  "6660245": {
+    "zipcode": "6660245",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "つつじが丘"
+  },
+  "6660246": {
+    "zipcode": "6660246",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "猪名川台"
+  },
+  "6660251": {
+    "zipcode": "6660251",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "若葉"
+  },
+  "6660252": {
+    "zipcode": "6660252",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "広根"
+  },
+  "6660253": {
+    "zipcode": "6660253",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "差組"
+  },
+  "6660254": {
+    "zipcode": "6660254",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "肝川"
+  },
+  "6660255": {
+    "zipcode": "6660255",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "猪渕"
+  },
+  "6660256": {
+    "zipcode": "6660256",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "銀山"
+  },
+  "6660257": {
+    "zipcode": "6660257",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "白金"
+  },
+  "6660261": {
+    "zipcode": "6660261",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "松尾台"
+  },
+  "6660262": {
+    "zipcode": "6660262",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川辺郡猪名川町",
+    "town": "伏見台"
+  }
+}

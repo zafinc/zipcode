@@ -1,0 +1,818 @@
+{
+  "5960000": {
+    "zipcode": "5960000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "以下に掲載がない場合"
+  },
+  "5960001": {
+    "zipcode": "5960001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "磯上町"
+  },
+  "5960002": {
+    "zipcode": "5960002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "吉井町"
+  },
+  "5960003": {
+    "zipcode": "5960003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "中井町"
+  },
+  "5960004": {
+    "zipcode": "5960004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "荒木町"
+  },
+  "5960005": {
+    "zipcode": "5960005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木旭町"
+  },
+  "5960006": {
+    "zipcode": "5960006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木若松町"
+  },
+  "5960011": {
+    "zipcode": "5960011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "木材町"
+  },
+  "5960012": {
+    "zipcode": "5960012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "新港町"
+  },
+  "5960013": {
+    "zipcode": "5960013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "臨海町"
+  },
+  "5960014": {
+    "zipcode": "5960014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "港緑町"
+  },
+  "5960015": {
+    "zipcode": "5960015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "地蔵浜町"
+  },
+  "5960016": {
+    "zipcode": "5960016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "岸之浦町"
+  },
+  "5960021": {
+    "zipcode": "5960021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "松風町"
+  },
+  "5960022": {
+    "zipcode": "5960022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "戎町"
+  },
+  "5960023": {
+    "zipcode": "5960023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "八幡町"
+  },
+  "5960024": {
+    "zipcode": "5960024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木宮川町"
+  },
+  "5960025": {
+    "zipcode": "5960025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木宮本町"
+  },
+  "5960026": {
+    "zipcode": "5960026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木大国町"
+  },
+  "5960031": {
+    "zipcode": "5960031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木大小路町"
+  },
+  "5960032": {
+    "zipcode": "5960032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木元町"
+  },
+  "5960033": {
+    "zipcode": "5960033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木中町"
+  },
+  "5960034": {
+    "zipcode": "5960034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木本町"
+  },
+  "5960035": {
+    "zipcode": "5960035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木泉町"
+  },
+  "5960036": {
+    "zipcode": "5960036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木南浜町"
+  },
+  "5960037": {
+    "zipcode": "5960037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "春木北浜町"
+  },
+  "5960041": {
+    "zipcode": "5960041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "下野町"
+  },
+  "5960042": {
+    "zipcode": "5960042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "加守町"
+  },
+  "5960043": {
+    "zipcode": "5960043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "宮前町"
+  },
+  "5960044": {
+    "zipcode": "5960044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "西之内町"
+  },
+  "5960045": {
+    "zipcode": "5960045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "別所町"
+  },
+  "5960046": {
+    "zipcode": "5960046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "藤井町"
+  },
+  "5960047": {
+    "zipcode": "5960047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "上野町東"
+  },
+  "5960048": {
+    "zipcode": "5960048",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "上野町西"
+  },
+  "5960049": {
+    "zipcode": "5960049",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "八阪町"
+  },
+  "5960051": {
+    "zipcode": "5960051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "岸野町"
+  },
+  "5960052": {
+    "zipcode": "5960052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "並松町"
+  },
+  "5960053": {
+    "zipcode": "5960053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "沼町"
+  },
+  "5960054": {
+    "zipcode": "5960054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "宮本町"
+  },
+  "5960055": {
+    "zipcode": "5960055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "五軒屋町"
+  },
+  "5960056": {
+    "zipcode": "5960056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "北町"
+  },
+  "5960057": {
+    "zipcode": "5960057",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "筋海町"
+  },
+  "5960061": {
+    "zipcode": "5960061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "大北町"
+  },
+  "5960062": {
+    "zipcode": "5960062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "中北町"
+  },
+  "5960063": {
+    "zipcode": "5960063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "大手町"
+  },
+  "5960064": {
+    "zipcode": "5960064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "紙屋町"
+  },
+  "5960065": {
+    "zipcode": "5960065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "中之浜町"
+  },
+  "5960066": {
+    "zipcode": "5960066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "大工町"
+  },
+  "5960067": {
+    "zipcode": "5960067",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "南町"
+  },
+  "5960071": {
+    "zipcode": "5960071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "魚屋町"
+  },
+  "5960072": {
+    "zipcode": "5960072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "堺町"
+  },
+  "5960073": {
+    "zipcode": "5960073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "岸城町"
+  },
+  "5960074": {
+    "zipcode": "5960074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "本町"
+  },
+  "5960075": {
+    "zipcode": "5960075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "中町"
+  },
+  "5960076": {
+    "zipcode": "5960076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "野田町"
+  },
+  "5960077": {
+    "zipcode": "5960077",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "上町"
+  },
+  "5960078": {
+    "zipcode": "5960078",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "南上町"
+  },
+  "5960101": {
+    "zipcode": "5960101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "包近町"
+  },
+  "5960102": {
+    "zipcode": "5960102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "山直中町"
+  },
+  "5960103": {
+    "zipcode": "5960103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "稲葉町"
+  },
+  "5960104": {
+    "zipcode": "5960104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "積川町"
+  },
+  "5960105": {
+    "zipcode": "5960105",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "内畑町"
+  },
+  "5960111": {
+    "zipcode": "5960111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "上白原町"
+  },
+  "5960112": {
+    "zipcode": "5960112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "神於町"
+  },
+  "5960113": {
+    "zipcode": "5960113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "河合町"
+  },
+  "5960114": {
+    "zipcode": "5960114",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "大沢町"
+  },
+  "5960115": {
+    "zipcode": "5960115",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "相川町"
+  },
+  "5960116": {
+    "zipcode": "5960116",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "塔原町"
+  },
+  "5960801": {
+    "zipcode": "5960801",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "箕土路町"
+  },
+  "5960802": {
+    "zipcode": "5960802",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "西大路町"
+  },
+  "5960803": {
+    "zipcode": "5960803",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "東大路町"
+  },
+  "5960804": {
+    "zipcode": "5960804",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "今木町"
+  },
+  "5960805": {
+    "zipcode": "5960805",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "田治米町"
+  },
+  "5960806": {
+    "zipcode": "5960806",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "摩湯町"
+  },
+  "5960807": {
+    "zipcode": "5960807",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "東ケ丘町"
+  },
+  "5960808": {
+    "zipcode": "5960808",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "三田町"
+  },
+  "5960811": {
+    "zipcode": "5960811",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "下池田町"
+  },
+  "5960812": {
+    "zipcode": "5960812",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "大町"
+  },
+  "5960813": {
+    "zipcode": "5960813",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "池尻町"
+  },
+  "5960814": {
+    "zipcode": "5960814",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "岡山町"
+  },
+  "5960815": {
+    "zipcode": "5960815",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "三ケ山町"
+  },
+  "5960816": {
+    "zipcode": "5960816",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "尾生町"
+  },
+  "5960817": {
+    "zipcode": "5960817",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "岸の丘町"
+  },
+  "5960821": {
+    "zipcode": "5960821",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "小松里町"
+  },
+  "5960822": {
+    "zipcode": "5960822",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "額原町"
+  },
+  "5960823": {
+    "zipcode": "5960823",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "下松町"
+  },
+  "5960824": {
+    "zipcode": "5960824",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "葛城町"
+  },
+  "5960825": {
+    "zipcode": "5960825",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "土生町"
+  },
+  "5960826": {
+    "zipcode": "5960826",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "作才町"
+  },
+  "5960827": {
+    "zipcode": "5960827",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "上松町"
+  },
+  "5960828": {
+    "zipcode": "5960828",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "門前町"
+  },
+  "5960831": {
+    "zipcode": "5960831",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "畑町"
+  },
+  "5960832": {
+    "zipcode": "5960832",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "極楽寺町"
+  },
+  "5960833": {
+    "zipcode": "5960833",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "神須屋町"
+  },
+  "5960834": {
+    "zipcode": "5960834",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "天神山町"
+  },
+  "5960835": {
+    "zipcode": "5960835",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "流木町"
+  },
+  "5960836": {
+    "zipcode": "5960836",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "行遇町"
+  },
+  "5960841": {
+    "zipcode": "5960841",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "八田町"
+  },
+  "5960842": {
+    "zipcode": "5960842",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "真上町"
+  },
+  "5960843": {
+    "zipcode": "5960843",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "北阪町"
+  },
+  "5960844": {
+    "zipcode": "5960844",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "土生滝町"
+  },
+  "5960845": {
+    "zipcode": "5960845",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "岸和田市",
+    "town": "阿間河滝町"
+  }
+}

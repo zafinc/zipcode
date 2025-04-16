@@ -1,0 +1,562 @@
+{
+  "6840000": {
+    "zipcode": "6840000",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "以下に掲載がない場合"
+  },
+  "6840001": {
+    "zipcode": "6840001",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "清水町"
+  },
+  "6840002": {
+    "zipcode": "6840002",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "弥生町"
+  },
+  "6840003": {
+    "zipcode": "6840003",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "浜ノ町"
+  },
+  "6840004": {
+    "zipcode": "6840004",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "大正町"
+  },
+  "6840005": {
+    "zipcode": "6840005",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "松ケ枝町"
+  },
+  "6840006": {
+    "zipcode": "6840006",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "栄町"
+  },
+  "6840011": {
+    "zipcode": "6840011",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "相生町"
+  },
+  "6840012": {
+    "zipcode": "6840012",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "中町"
+  },
+  "6840013": {
+    "zipcode": "6840013",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "朝日町"
+  },
+  "6840014": {
+    "zipcode": "6840014",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "入船町"
+  },
+  "6840015": {
+    "zipcode": "6840015",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "東雲町"
+  },
+  "6840016": {
+    "zipcode": "6840016",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "花町"
+  },
+  "6840017": {
+    "zipcode": "6840017",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "岬町"
+  },
+  "6840021": {
+    "zipcode": "6840021",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "馬場崎町"
+  },
+  "6840022": {
+    "zipcode": "6840022",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "明治町"
+  },
+  "6840023": {
+    "zipcode": "6840023",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "京町"
+  },
+  "6840024": {
+    "zipcode": "6840024",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "日ノ出町"
+  },
+  "6840025": {
+    "zipcode": "6840025",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "本町"
+  },
+  "6840026": {
+    "zipcode": "6840026",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "末広町"
+  },
+  "6840027": {
+    "zipcode": "6840027",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "東本町"
+  },
+  "6840031": {
+    "zipcode": "6840031",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "湊町"
+  },
+  "6840032": {
+    "zipcode": "6840032",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "元町"
+  },
+  "6840033": {
+    "zipcode": "6840033",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "上道町"
+  },
+  "6840034": {
+    "zipcode": "6840034",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "昭和町"
+  },
+  "6840041": {
+    "zipcode": "6840041",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "中野町"
+  },
+  "6840042": {
+    "zipcode": "6840042",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "福定町"
+  },
+  "6840043": {
+    "zipcode": "6840043",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "竹内町"
+  },
+  "6840044": {
+    "zipcode": "6840044",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "美保町"
+  },
+  "6840045": {
+    "zipcode": "6840045",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "高松町"
+  },
+  "6840046": {
+    "zipcode": "6840046",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "竹内団地"
+  },
+  "6840051": {
+    "zipcode": "6840051",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "新屋町"
+  },
+  "6840052": {
+    "zipcode": "6840052",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "麦垣町"
+  },
+  "6840053": {
+    "zipcode": "6840053",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "小篠津町"
+  },
+  "6840054": {
+    "zipcode": "6840054",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "財ノ木町"
+  },
+  "6840055": {
+    "zipcode": "6840055",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "佐斐神町"
+  },
+  "6840056": {
+    "zipcode": "6840056",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "幸神町"
+  },
+  "6840061": {
+    "zipcode": "6840061",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "米川町"
+  },
+  "6840062": {
+    "zipcode": "6840062",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "蓮池町"
+  },
+  "6840063": {
+    "zipcode": "6840063",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "誠道町"
+  },
+  "6840064": {
+    "zipcode": "6840064",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "三軒屋町"
+  },
+  "6840065": {
+    "zipcode": "6840065",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "森岡町"
+  },
+  "6840066": {
+    "zipcode": "6840066",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "芝町"
+  },
+  "6840071": {
+    "zipcode": "6840071",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "外江町"
+  },
+  "6840072": {
+    "zipcode": "6840072",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "渡町"
+  },
+  "6840073": {
+    "zipcode": "6840073",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "中海干拓地"
+  },
+  "6840074": {
+    "zipcode": "6840074",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "潮見町"
+  },
+  "6840075": {
+    "zipcode": "6840075",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "西工業団地"
+  },
+  "6840076": {
+    "zipcode": "6840076",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "town": "夕日ケ丘"
+  },
+  "6840100": {
+    "zipcode": "6840100",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "以下に掲載がない場合"
+  },
+  "6840101": {
+    "zipcode": "6840101",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "大江"
+  },
+  "6840102": {
+    "zipcode": "6840102",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "郡"
+  },
+  "6840103": {
+    "zipcode": "6840103",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "多沢"
+  },
+  "6840104": {
+    "zipcode": "6840104",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "薄毛"
+  },
+  "6840105": {
+    "zipcode": "6840105",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "仁夫"
+  },
+  "6840106": {
+    "zipcode": "6840106",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "来居"
+  },
+  "6840107": {
+    "zipcode": "6840107",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡知夫村",
+    "town": "古海"
+  },
+  "6840211": {
+    "zipcode": "6840211",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "town": "浦郷"
+  },
+  "6840300": {
+    "zipcode": "6840300",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "town": "以下に掲載がない場合"
+  },
+  "6840301": {
+    "zipcode": "6840301",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "town": "宇賀"
+  },
+  "6840302": {
+    "zipcode": "6840302",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "town": "別府"
+  },
+  "6840303": {
+    "zipcode": "6840303",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "town": "美田"
+  },
+  "6840400": {
+    "zipcode": "6840400",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "以下に掲載がない場合"
+  },
+  "6840401": {
+    "zipcode": "6840401",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "宇受賀"
+  },
+  "6840402": {
+    "zipcode": "6840402",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "豊田"
+  },
+  "6840403": {
+    "zipcode": "6840403",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "海士"
+  },
+  "6840404": {
+    "zipcode": "6840404",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "福井"
+  },
+  "6840411": {
+    "zipcode": "6840411",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "知々井"
+  },
+  "6840412": {
+    "zipcode": "6840412",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "御波"
+  },
+  "6840413": {
+    "zipcode": "6840413",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "隠岐郡海士町",
+    "town": "崎"
+  }
+}

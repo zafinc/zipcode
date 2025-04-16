@@ -1,0 +1,42 @@
+{
+  "3980000": {
+    "zipcode": "3980000",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "大町市",
+    "town": "以下に掲載がない場合"
+  },
+  "3980001": {
+    "zipcode": "3980001",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "大町市",
+    "town": "平"
+  },
+  "3980002": {
+    "zipcode": "3980002",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "大町市",
+    "town": "大町"
+  },
+  "3980003": {
+    "zipcode": "3980003",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "大町市",
+    "town": "社"
+  },
+  "3980004": {
+    "zipcode": "3980004",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "大町市",
+    "town": "常盤"
+  }
+}

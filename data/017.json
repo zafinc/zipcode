@@ -1,0 +1,930 @@
+{
+  "0170000": {
+    "zipcode": "0170000",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "以下に掲載がない場合"
+  },
+  "0170001": {
+    "zipcode": "0170001",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "長走"
+  },
+  "0170002": {
+    "zipcode": "0170002",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "白沢"
+  },
+  "0170003": {
+    "zipcode": "0170003",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "橋桁"
+  },
+  "0170004": {
+    "zipcode": "0170004",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "粕田"
+  },
+  "0170005": {
+    "zipcode": "0170005",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "花岡町"
+  },
+  "0170011": {
+    "zipcode": "0170011",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "商人留"
+  },
+  "0170012": {
+    "zipcode": "0170012",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "釈迦内"
+  },
+  "0170014": {
+    "zipcode": "0170014",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "小釈迦内道上"
+  },
+  "0170015": {
+    "zipcode": "0170015",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "小釈迦内道下"
+  },
+  "0170021": {
+    "zipcode": "0170021",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "雪沢"
+  },
+  "0170022": {
+    "zipcode": "0170022",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "茂内"
+  },
+  "0170023": {
+    "zipcode": "0170023",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "東"
+  },
+  "0170024": {
+    "zipcode": "0170024",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "大茂内"
+  },
+  "0170025": {
+    "zipcode": "0170025",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "芦田子"
+  },
+  "0170026": {
+    "zipcode": "0170026",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "二ツ屋境"
+  },
+  "0170031": {
+    "zipcode": "0170031",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "上代野"
+  },
+  "0170032": {
+    "zipcode": "0170032",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "新綱"
+  },
+  "0170033": {
+    "zipcode": "0170033",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "下綱"
+  },
+  "0170034": {
+    "zipcode": "0170034",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "下代野"
+  },
+  "0170035": {
+    "zipcode": "0170035",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "代野"
+  },
+  "0170036": {
+    "zipcode": "0170036",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "二本杉後"
+  },
+  "0170037": {
+    "zipcode": "0170037",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "清水堰合"
+  },
+  "0170041": {
+    "zipcode": "0170041",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "大田面"
+  },
+  "0170042": {
+    "zipcode": "0170042",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "観音堂"
+  },
+  "0170043": {
+    "zipcode": "0170043",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "有浦"
+  },
+  "0170044": {
+    "zipcode": "0170044",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "御成町"
+  },
+  "0170045": {
+    "zipcode": "0170045",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "中道"
+  },
+  "0170046": {
+    "zipcode": "0170046",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "清水"
+  },
+  "0170051": {
+    "zipcode": "0170051",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "松峰"
+  },
+  "0170052": {
+    "zipcode": "0170052",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "松木"
+  },
+  "0170053": {
+    "zipcode": "0170053",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "板子石境"
+  },
+  "0170054": {
+    "zipcode": "0170054",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "松館"
+  },
+  "0170055": {
+    "zipcode": "0170055",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "沼館道上"
+  },
+  "0170056": {
+    "zipcode": "0170056",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "沼館道南"
+  },
+  "0170057": {
+    "zipcode": "0170057",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "沼館"
+  },
+  "0170200": {
+    "zipcode": "0170200",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "以下に掲載がない場合"
+  },
+  "0170201": {
+    "zipcode": "0170201",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "小坂"
+  },
+  "0170202": {
+    "zipcode": "0170202",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "小坂鉱山"
+  },
+  "0170203": {
+    "zipcode": "0170203",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "上向"
+  },
+  "0170204": {
+    "zipcode": "0170204",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "荒谷"
+  },
+  "0170205": {
+    "zipcode": "0170205",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "鹿角郡小坂町",
+    "town": "大地"
+  },
+  "0170801": {
+    "zipcode": "0170801",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "一本杉"
+  },
+  "0170802": {
+    "zipcode": "0170802",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "長根山下"
+  },
+  "0170803": {
+    "zipcode": "0170803",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "東台"
+  },
+  "0170804": {
+    "zipcode": "0170804",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "柄沢"
+  },
+  "0170805": {
+    "zipcode": "0170805",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "扇田道下"
+  },
+  "0170806": {
+    "zipcode": "0170806",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "相染沢中岱"
+  },
+  "0170811": {
+    "zipcode": "0170811",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "八幡"
+  },
+  "0170812": {
+    "zipcode": "0170812",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "金坂"
+  },
+  "0170813": {
+    "zipcode": "0170813",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "金坂後"
+  },
+  "0170814": {
+    "zipcode": "0170814",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "赤館町"
+  },
+  "0170815": {
+    "zipcode": "0170815",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "部垂町"
+  },
+  "0170816": {
+    "zipcode": "0170816",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "赤館"
+  },
+  "0170817": {
+    "zipcode": "0170817",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "上町"
+  },
+  "0170821": {
+    "zipcode": "0170821",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "桜町"
+  },
+  "0170822": {
+    "zipcode": "0170822",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "桜町南"
+  },
+  "0170823": {
+    "zipcode": "0170823",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "八幡沢岱"
+  },
+  "0170824": {
+    "zipcode": "0170824",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "七曲岱"
+  },
+  "0170825": {
+    "zipcode": "0170825",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "一心院南"
+  },
+  "0170826": {
+    "zipcode": "0170826",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "谷地町後"
+  },
+  "0170827": {
+    "zipcode": "0170827",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "谷地町"
+  },
+  "0170828": {
+    "zipcode": "0170828",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "向町"
+  },
+  "0170831": {
+    "zipcode": "0170831",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "青葉町"
+  },
+  "0170832": {
+    "zipcode": "0170832",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "池内道下"
+  },
+  "0170833": {
+    "zipcode": "0170833",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "象ケ鼻"
+  },
+  "0170834": {
+    "zipcode": "0170834",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "池内道上"
+  },
+  "0170835": {
+    "zipcode": "0170835",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "小館花"
+  },
+  "0170836": {
+    "zipcode": "0170836",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "池内"
+  },
+  "0170837": {
+    "zipcode": "0170837",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "餌釣"
+  },
+  "0170838": {
+    "zipcode": "0170838",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "山館"
+  },
+  "0170839": {
+    "zipcode": "0170839",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "中山"
+  },
+  "0170841": {
+    "zipcode": "0170841",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "大町"
+  },
+  "0170842": {
+    "zipcode": "0170842",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "馬喰町"
+  },
+  "0170843": {
+    "zipcode": "0170843",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "中町"
+  },
+  "0170844": {
+    "zipcode": "0170844",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "新町"
+  },
+  "0170845": {
+    "zipcode": "0170845",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "泉町"
+  },
+  "0170846": {
+    "zipcode": "0170846",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "常盤木町"
+  },
+  "0170847": {
+    "zipcode": "0170847",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "幸町"
+  },
+  "0170851": {
+    "zipcode": "0170851",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "大披"
+  },
+  "0170852": {
+    "zipcode": "0170852",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "小袴"
+  },
+  "0170853": {
+    "zipcode": "0170853",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "板沢"
+  },
+  "0170854": {
+    "zipcode": "0170854",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "赤石"
+  },
+  "0170855": {
+    "zipcode": "0170855",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "櫃崎"
+  },
+  "0170857": {
+    "zipcode": "0170857",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "出川"
+  },
+  "0170861": {
+    "zipcode": "0170861",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "小館町"
+  },
+  "0170862": {
+    "zipcode": "0170862",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "根下戸"
+  },
+  "0170863": {
+    "zipcode": "0170863",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "根下戸町"
+  },
+  "0170864": {
+    "zipcode": "0170864",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "根下戸新町"
+  },
+  "0170865": {
+    "zipcode": "0170865",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "城西町"
+  },
+  "0170866": {
+    "zipcode": "0170866",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "北神明町"
+  },
+  "0170867": {
+    "zipcode": "0170867",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "中神明町"
+  },
+  "0170868": {
+    "zipcode": "0170868",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "南神明町"
+  },
+  "0170871": {
+    "zipcode": "0170871",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "片山"
+  },
+  "0170872": {
+    "zipcode": "0170872",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "片山町"
+  },
+  "0170873": {
+    "zipcode": "0170873",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "御坂"
+  },
+  "0170874": {
+    "zipcode": "0170874",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "美園町"
+  },
+  "0170875": {
+    "zipcode": "0170875",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "住吉町"
+  },
+  "0170876": {
+    "zipcode": "0170876",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "餅田"
+  },
+  "0170877": {
+    "zipcode": "0170877",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "立花"
+  },
+  "0170878": {
+    "zipcode": "0170878",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "川口"
+  },
+  "0170881": {
+    "zipcode": "0170881",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "長木川南"
+  },
+  "0170882": {
+    "zipcode": "0170882",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "鉄砲場"
+  },
+  "0170883": {
+    "zipcode": "0170883",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "古川町"
+  },
+  "0170884": {
+    "zipcode": "0170884",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "土飛山下"
+  },
+  "0170885": {
+    "zipcode": "0170885",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "豊町"
+  },
+  "0170886": {
+    "zipcode": "0170886",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "館下"
+  },
+  "0170887": {
+    "zipcode": "0170887",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "水門町"
+  },
+  "0170888": {
+    "zipcode": "0170888",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "水門前"
+  },
+  "0170891": {
+    "zipcode": "0170891",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "中城"
+  },
+  "0170892": {
+    "zipcode": "0170892",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "片町"
+  },
+  "0170893": {
+    "zipcode": "0170893",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "桂城"
+  },
+  "0170894": {
+    "zipcode": "0170894",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "裏町"
+  },
+  "0170895": {
+    "zipcode": "0170895",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "長倉"
+  },
+  "0170896": {
+    "zipcode": "0170896",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "大館"
+  },
+  "0170897": {
+    "zipcode": "0170897",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "town": "三ノ丸"
+  }
+}

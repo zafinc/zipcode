@@ -1,0 +1,634 @@
+{
+  "2210000": {
+    "zipcode": "2210000",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "以下に掲載がない場合"
+  },
+  "2210001": {
+    "zipcode": "2210001",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "西寺尾"
+  },
+  "2210002": {
+    "zipcode": "2210002",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "大口通"
+  },
+  "2210003": {
+    "zipcode": "2210003",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "大口仲町"
+  },
+  "2210004": {
+    "zipcode": "2210004",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "西大口"
+  },
+  "2210005": {
+    "zipcode": "2210005",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "松見町"
+  },
+  "2210011": {
+    "zipcode": "2210011",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "神之木台"
+  },
+  "2210012": {
+    "zipcode": "2210012",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "子安台"
+  },
+  "2210013": {
+    "zipcode": "2210013",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "新子安"
+  },
+  "2210014": {
+    "zipcode": "2210014",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "入江"
+  },
+  "2210015": {
+    "zipcode": "2210015",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "神之木町"
+  },
+  "2210021": {
+    "zipcode": "2210021",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "子安通"
+  },
+  "2210022": {
+    "zipcode": "2210022",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "守屋町"
+  },
+  "2210023": {
+    "zipcode": "2210023",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "宝町"
+  },
+  "2210024": {
+    "zipcode": "2210024",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "恵比須町"
+  },
+  "2210031": {
+    "zipcode": "2210031",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "新浦島町"
+  },
+  "2210032": {
+    "zipcode": "2210032",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "出田町"
+  },
+  "2210033": {
+    "zipcode": "2210033",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "鈴繁町"
+  },
+  "2210034": {
+    "zipcode": "2210034",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "瑞穂町"
+  },
+  "2210035": {
+    "zipcode": "2210035",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "星野町"
+  },
+  "2210036": {
+    "zipcode": "2210036",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "千若町"
+  },
+  "2210041": {
+    "zipcode": "2210041",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "亀住町"
+  },
+  "2210042": {
+    "zipcode": "2210042",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "浦島町"
+  },
+  "2210043": {
+    "zipcode": "2210043",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "新町"
+  },
+  "2210044": {
+    "zipcode": "2210044",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "東神奈川"
+  },
+  "2210045": {
+    "zipcode": "2210045",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "神奈川"
+  },
+  "2210046": {
+    "zipcode": "2210046",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "神奈川本町"
+  },
+  "2210051": {
+    "zipcode": "2210051",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "幸ケ谷"
+  },
+  "2210052": {
+    "zipcode": "2210052",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "栄町"
+  },
+  "2210053": {
+    "zipcode": "2210053",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "橋本町"
+  },
+  "2210054": {
+    "zipcode": "2210054",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "山内町"
+  },
+  "2210055": {
+    "zipcode": "2210055",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "大野町"
+  },
+  "2210056": {
+    "zipcode": "2210056",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "金港町"
+  },
+  "2210057": {
+    "zipcode": "2210057",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "青木町"
+  },
+  "2210061": {
+    "zipcode": "2210061",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "七島町"
+  },
+  "2210062": {
+    "zipcode": "2210062",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "浦島丘"
+  },
+  "2210063": {
+    "zipcode": "2210063",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "立町"
+  },
+  "2210064": {
+    "zipcode": "2210064",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "鳥越"
+  },
+  "2210065": {
+    "zipcode": "2210065",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白楽"
+  },
+  "2210071": {
+    "zipcode": "2210071",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡仲町"
+  },
+  "2210072": {
+    "zipcode": "2210072",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡東町"
+  },
+  "2210073": {
+    "zipcode": "2210073",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡南町"
+  },
+  "2210074": {
+    "zipcode": "2210074",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡西町"
+  },
+  "2210075": {
+    "zipcode": "2210075",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡上町"
+  },
+  "2210076": {
+    "zipcode": "2210076",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡町"
+  },
+  "2210077": {
+    "zipcode": "2210077",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "白幡向町"
+  },
+  "2210801": {
+    "zipcode": "2210801",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "神大寺"
+  },
+  "2210802": {
+    "zipcode": "2210802",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "六角橋"
+  },
+  "2210803": {
+    "zipcode": "2210803",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "中丸"
+  },
+  "2210804": {
+    "zipcode": "2210804",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "栗田谷"
+  },
+  "2210811": {
+    "zipcode": "2210811",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "斎藤分町"
+  },
+  "2210812": {
+    "zipcode": "2210812",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "平川町"
+  },
+  "2210813": {
+    "zipcode": "2210813",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "二本榎"
+  },
+  "2210814": {
+    "zipcode": "2210814",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "旭ケ丘"
+  },
+  "2210821": {
+    "zipcode": "2210821",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "富家町"
+  },
+  "2210822": {
+    "zipcode": "2210822",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "西神奈川"
+  },
+  "2210823": {
+    "zipcode": "2210823",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "二ツ谷町"
+  },
+  "2210824": {
+    "zipcode": "2210824",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "広台太田町"
+  },
+  "2210825": {
+    "zipcode": "2210825",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "反町"
+  },
+  "2210831": {
+    "zipcode": "2210831",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "上反町"
+  },
+  "2210832": {
+    "zipcode": "2210832",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "桐畑"
+  },
+  "2210833": {
+    "zipcode": "2210833",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "高島台"
+  },
+  "2210834": {
+    "zipcode": "2210834",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "台町"
+  },
+  "2210835": {
+    "zipcode": "2210835",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "鶴屋町"
+  },
+  "2210841": {
+    "zipcode": "2210841",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "松本町"
+  },
+  "2210842": {
+    "zipcode": "2210842",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "泉町"
+  },
+  "2210843": {
+    "zipcode": "2210843",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "松ケ丘"
+  },
+  "2210844": {
+    "zipcode": "2210844",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "沢渡"
+  },
+  "2210851": {
+    "zipcode": "2210851",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢中町"
+  },
+  "2210852": {
+    "zipcode": "2210852",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢下町"
+  },
+  "2210853": {
+    "zipcode": "2210853",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢東町"
+  },
+  "2210854": {
+    "zipcode": "2210854",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢南町"
+  },
+  "2210855": {
+    "zipcode": "2210855",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢西町"
+  },
+  "2210856": {
+    "zipcode": "2210856",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三ツ沢上町"
+  },
+  "2210862": {
+    "zipcode": "2210862",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "三枚町"
+  },
+  "2210863": {
+    "zipcode": "2210863",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "羽沢町"
+  },
+  "2210864": {
+    "zipcode": "2210864",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "菅田町"
+  },
+  "2210865": {
+    "zipcode": "2210865",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "片倉"
+  },
+  "2210866": {
+    "zipcode": "2210866",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "town": "羽沢南"
+  }
+}

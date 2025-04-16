@@ -1,0 +1,906 @@
+{
+  "3270000": {
+    "zipcode": "3270000",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "以下に掲載がない場合"
+  },
+  "3270001": {
+    "zipcode": "3270001",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "小中町"
+  },
+  "3270002": {
+    "zipcode": "3270002",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "並木町"
+  },
+  "3270003": {
+    "zipcode": "3270003",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大橋町"
+  },
+  "3270004": {
+    "zipcode": "3270004",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "赤坂町"
+  },
+  "3270005": {
+    "zipcode": "3270005",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "七軒町"
+  },
+  "3270006": {
+    "zipcode": "3270006",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "上台町"
+  },
+  "3270007": {
+    "zipcode": "3270007",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "金吹町"
+  },
+  "3270011": {
+    "zipcode": "3270011",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "朝日町"
+  },
+  "3270012": {
+    "zipcode": "3270012",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大蔵町"
+  },
+  "3270013": {
+    "zipcode": "3270013",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "本町"
+  },
+  "3270014": {
+    "zipcode": "3270014",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "天明町"
+  },
+  "3270015": {
+    "zipcode": "3270015",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "金井上町"
+  },
+  "3270016": {
+    "zipcode": "3270016",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大祝町"
+  },
+  "3270017": {
+    "zipcode": "3270017",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大町"
+  },
+  "3270021": {
+    "zipcode": "3270021",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "伊賀町"
+  },
+  "3270022": {
+    "zipcode": "3270022",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "高砂町"
+  },
+  "3270023": {
+    "zipcode": "3270023",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "相生町"
+  },
+  "3270024": {
+    "zipcode": "3270024",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "亀井町"
+  },
+  "3270025": {
+    "zipcode": "3270025",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "金屋下町"
+  },
+  "3270026": {
+    "zipcode": "3270026",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "金屋仲町"
+  },
+  "3270027": {
+    "zipcode": "3270027",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大和町"
+  },
+  "3270028": {
+    "zipcode": "3270028",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "万町"
+  },
+  "3270031": {
+    "zipcode": "3270031",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "田島町"
+  },
+  "3270032": {
+    "zipcode": "3270032",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "庚申塚町"
+  },
+  "3270033": {
+    "zipcode": "3270033",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大古屋町"
+  },
+  "3270034": {
+    "zipcode": "3270034",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "伊保内町"
+  },
+  "3270035": {
+    "zipcode": "3270035",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "船津川町"
+  },
+  "3270041": {
+    "zipcode": "3270041",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "免鳥町"
+  },
+  "3270042": {
+    "zipcode": "3270042",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "上羽田町"
+  },
+  "3270043": {
+    "zipcode": "3270043",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "君田町"
+  },
+  "3270044": {
+    "zipcode": "3270044",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "下羽田町"
+  },
+  "3270045": {
+    "zipcode": "3270045",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "高橋町"
+  },
+  "3270046": {
+    "zipcode": "3270046",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "村上町"
+  },
+  "3270101": {
+    "zipcode": "3270101",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "寺久保町"
+  },
+  "3270102": {
+    "zipcode": "3270102",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "出流原町"
+  },
+  "3270103": {
+    "zipcode": "3270103",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "石塚町"
+  },
+  "3270104": {
+    "zipcode": "3270104",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "赤見町"
+  },
+  "3270231": {
+    "zipcode": "3270231",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "飛駒町"
+  },
+  "3270301": {
+    "zipcode": "3270301",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "作原町"
+  },
+  "3270302": {
+    "zipcode": "3270302",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "白岩町"
+  },
+  "3270303": {
+    "zipcode": "3270303",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "長谷場町"
+  },
+  "3270304": {
+    "zipcode": "3270304",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "御神楽町"
+  },
+  "3270305": {
+    "zipcode": "3270305",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "船越町"
+  },
+  "3270306": {
+    "zipcode": "3270306",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "戸室町"
+  },
+  "3270307": {
+    "zipcode": "3270307",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "岩崎町"
+  },
+  "3270311": {
+    "zipcode": "3270311",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "多田町"
+  },
+  "3270312": {
+    "zipcode": "3270312",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "栃本町"
+  },
+  "3270313": {
+    "zipcode": "3270313",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "吉水町"
+  },
+  "3270314": {
+    "zipcode": "3270314",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "新吉水町"
+  },
+  "3270315": {
+    "zipcode": "3270315",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "吉水駅前"
+  },
+  "3270316": {
+    "zipcode": "3270316",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "小見町"
+  },
+  "3270317": {
+    "zipcode": "3270317",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "田沼町"
+  },
+  "3270318": {
+    "zipcode": "3270318",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "山越町"
+  },
+  "3270321": {
+    "zipcode": "3270321",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "閑馬町"
+  },
+  "3270322": {
+    "zipcode": "3270322",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "梅園町"
+  },
+  "3270323": {
+    "zipcode": "3270323",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "戸奈良町"
+  },
+  "3270324": {
+    "zipcode": "3270324",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "山形町"
+  },
+  "3270325": {
+    "zipcode": "3270325",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "下彦間町"
+  },
+  "3270501": {
+    "zipcode": "3270501",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "葛生東"
+  },
+  "3270502": {
+    "zipcode": "3270502",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "築地町"
+  },
+  "3270503": {
+    "zipcode": "3270503",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "富士見町"
+  },
+  "3270504": {
+    "zipcode": "3270504",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "中町"
+  },
+  "3270505": {
+    "zipcode": "3270505",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "山菅町"
+  },
+  "3270507": {
+    "zipcode": "3270507",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "葛生西"
+  },
+  "3270508": {
+    "zipcode": "3270508",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "鉢木町"
+  },
+  "3270509": {
+    "zipcode": "3270509",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "宮下町"
+  },
+  "3270511": {
+    "zipcode": "3270511",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "会沢町"
+  },
+  "3270512": {
+    "zipcode": "3270512",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "豊代町"
+  },
+  "3270513": {
+    "zipcode": "3270513",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "牧町"
+  },
+  "3270514": {
+    "zipcode": "3270514",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "仙波町（その他）"
+  },
+  "3270515": {
+    "zipcode": "3270515",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "柿平町"
+  },
+  "3270516": {
+    "zipcode": "3270516",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "水木町"
+  },
+  "3270517": {
+    "zipcode": "3270517",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "秋山町"
+  },
+  "3270523": {
+    "zipcode": "3270523",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "嘉多山町"
+  },
+  "3270524": {
+    "zipcode": "3270524",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "長坂町"
+  },
+  "3270525": {
+    "zipcode": "3270525",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "あくと町"
+  },
+  "3270801": {
+    "zipcode": "3270801",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "富士町"
+  },
+  "3270802": {
+    "zipcode": "3270802",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "韮川町"
+  },
+  "3270803": {
+    "zipcode": "3270803",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "犬伏新町"
+  },
+  "3270804": {
+    "zipcode": "3270804",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "犬伏下町"
+  },
+  "3270805": {
+    "zipcode": "3270805",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "犬伏中町"
+  },
+  "3270806": {
+    "zipcode": "3270806",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "犬伏上町"
+  },
+  "3270807": {
+    "zipcode": "3270807",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "大栗町"
+  },
+  "3270811": {
+    "zipcode": "3270811",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "関川町"
+  },
+  "3270812": {
+    "zipcode": "3270812",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "町谷町"
+  },
+  "3270813": {
+    "zipcode": "3270813",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "黒袴町"
+  },
+  "3270814": {
+    "zipcode": "3270814",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "西浦町"
+  },
+  "3270815": {
+    "zipcode": "3270815",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "鐙塚町"
+  },
+  "3270816": {
+    "zipcode": "3270816",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "栄町"
+  },
+  "3270817": {
+    "zipcode": "3270817",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "伊勢山町"
+  },
+  "3270818": {
+    "zipcode": "3270818",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "米山南町"
+  },
+  "3270821": {
+    "zipcode": "3270821",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "高萩町"
+  },
+  "3270822": {
+    "zipcode": "3270822",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "越名町"
+  },
+  "3270823": {
+    "zipcode": "3270823",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "高山町"
+  },
+  "3270824": {
+    "zipcode": "3270824",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "馬門町"
+  },
+  "3270825": {
+    "zipcode": "3270825",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "飯田町"
+  },
+  "3270826": {
+    "zipcode": "3270826",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "茂呂山町"
+  },
+  "3270827": {
+    "zipcode": "3270827",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "北茂呂町"
+  },
+  "3270831": {
+    "zipcode": "3270831",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "浅沼町"
+  },
+  "3270832": {
+    "zipcode": "3270832",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "植上町"
+  },
+  "3270833": {
+    "zipcode": "3270833",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "若宮上町"
+  },
+  "3270834": {
+    "zipcode": "3270834",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "若宮下町"
+  },
+  "3270835": {
+    "zipcode": "3270835",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "植下町"
+  },
+  "3270836": {
+    "zipcode": "3270836",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "寺中町"
+  },
+  "3270837": {
+    "zipcode": "3270837",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "植野町"
+  },
+  "3270841": {
+    "zipcode": "3270841",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "田之入町"
+  },
+  "3270842": {
+    "zipcode": "3270842",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "奈良渕町"
+  },
+  "3270843": {
+    "zipcode": "3270843",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "堀米町"
+  },
+  "3270844": {
+    "zipcode": "3270844",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "富岡町"
+  },
+  "3270845": {
+    "zipcode": "3270845",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "久保町"
+  },
+  "3270846": {
+    "zipcode": "3270846",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "若松町"
+  },
+  "3270847": {
+    "zipcode": "3270847",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "天神町"
+  }
+}

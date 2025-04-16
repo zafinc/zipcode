@@ -1,0 +1,906 @@
+{
+  "6480000": {
+    "zipcode": "6480000",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "以下に掲載がない場合"
+  },
+  "6480001": {
+    "zipcode": "6480001",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "杉尾"
+  },
+  "6480002": {
+    "zipcode": "6480002",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町平野"
+  },
+  "6480003": {
+    "zipcode": "6480003",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町山内"
+  },
+  "6480004": {
+    "zipcode": "6480004",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町霜草"
+  },
+  "6480005": {
+    "zipcode": "6480005",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "小峰台"
+  },
+  "6480006": {
+    "zipcode": "6480006",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "境原"
+  },
+  "6480007": {
+    "zipcode": "6480007",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "紀ノ光台"
+  },
+  "6480011": {
+    "zipcode": "6480011",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町真土"
+  },
+  "6480012": {
+    "zipcode": "6480012",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町芋生"
+  },
+  "6480013": {
+    "zipcode": "6480013",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町中下"
+  },
+  "6480014": {
+    "zipcode": "6480014",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町上兵庫"
+  },
+  "6480015": {
+    "zipcode": "6480015",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町河瀬"
+  },
+  "6480016": {
+    "zipcode": "6480016",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町下兵庫"
+  },
+  "6480017": {
+    "zipcode": "6480017",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町中島"
+  },
+  "6480018": {
+    "zipcode": "6480018",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "隅田町垂井"
+  },
+  "6480019": {
+    "zipcode": "6480019",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "あやの台"
+  },
+  "6480021": {
+    "zipcode": "6480021",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "恋野"
+  },
+  "6480022": {
+    "zipcode": "6480022",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "赤塚"
+  },
+  "6480023": {
+    "zipcode": "6480023",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "中道"
+  },
+  "6480024": {
+    "zipcode": "6480024",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "上田"
+  },
+  "6480025": {
+    "zipcode": "6480025",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "向副"
+  },
+  "6480031": {
+    "zipcode": "6480031",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "只野"
+  },
+  "6480032": {
+    "zipcode": "6480032",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "谷奥深"
+  },
+  "6480033": {
+    "zipcode": "6480033",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "北宿"
+  },
+  "6480034": {
+    "zipcode": "6480034",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "南宿"
+  },
+  "6480035": {
+    "zipcode": "6480035",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "彦谷"
+  },
+  "6480036": {
+    "zipcode": "6480036",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "横座"
+  },
+  "6480037": {
+    "zipcode": "6480037",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "賢堂"
+  },
+  "6480038": {
+    "zipcode": "6480038",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "須河"
+  },
+  "6480041": {
+    "zipcode": "6480041",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "清水"
+  },
+  "6480042": {
+    "zipcode": "6480042",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "西畑"
+  },
+  "6480043": {
+    "zipcode": "6480043",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "学文路"
+  },
+  "6480044": {
+    "zipcode": "6480044",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "南馬場"
+  },
+  "6480051": {
+    "zipcode": "6480051",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "細川"
+  },
+  "6480052": {
+    "zipcode": "6480052",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "紀見"
+  },
+  "6480053": {
+    "zipcode": "6480053",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "しらさぎ台"
+  },
+  "6480054": {
+    "zipcode": "6480054",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "城山台"
+  },
+  "6480061": {
+    "zipcode": "6480061",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "北馬場"
+  },
+  "6480062": {
+    "zipcode": "6480062",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "妻"
+  },
+  "6480063": {
+    "zipcode": "6480063",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "原田"
+  },
+  "6480064": {
+    "zipcode": "6480064",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "橋本"
+  },
+  "6480065": {
+    "zipcode": "6480065",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "古佐田"
+  },
+  "6480066": {
+    "zipcode": "6480066",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "胡麻生"
+  },
+  "6480071": {
+    "zipcode": "6480071",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "小原田"
+  },
+  "6480072": {
+    "zipcode": "6480072",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "東家"
+  },
+  "6480073": {
+    "zipcode": "6480073",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "市脇"
+  },
+  "6480074": {
+    "zipcode": "6480074",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "野"
+  },
+  "6480075": {
+    "zipcode": "6480075",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "さつき台"
+  },
+  "6480081": {
+    "zipcode": "6480081",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "山田"
+  },
+  "6480082": {
+    "zipcode": "6480082",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "菖蒲谷"
+  },
+  "6480083": {
+    "zipcode": "6480083",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "出塔"
+  },
+  "6480084": {
+    "zipcode": "6480084",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "柏原"
+  },
+  "6480085": {
+    "zipcode": "6480085",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "岸上"
+  },
+  "6480086": {
+    "zipcode": "6480086",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "神野々"
+  },
+  "6480087": {
+    "zipcode": "6480087",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "吉原"
+  },
+  "6480088": {
+    "zipcode": "6480088",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "みゆき台"
+  },
+  "6480091": {
+    "zipcode": "6480091",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "柱本"
+  },
+  "6480092": {
+    "zipcode": "6480092",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "紀見ケ丘"
+  },
+  "6480093": {
+    "zipcode": "6480093",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "慶賀野"
+  },
+  "6480094": {
+    "zipcode": "6480094",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "三石台"
+  },
+  "6480095": {
+    "zipcode": "6480095",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "橋谷"
+  },
+  "6480096": {
+    "zipcode": "6480096",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "御幸辻"
+  },
+  "6480097": {
+    "zipcode": "6480097",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "柿の木坂"
+  },
+  "6480098": {
+    "zipcode": "6480098",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "矢倉脇"
+  },
+  "6480099": {
+    "zipcode": "6480099",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "橋本市",
+    "town": "光陽台"
+  },
+  "6480100": {
+    "zipcode": "6480100",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "以下に掲載がない場合"
+  },
+  "6480101": {
+    "zipcode": "6480101",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "九度山"
+  },
+  "6480111": {
+    "zipcode": "6480111",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "河根"
+  },
+  "6480121": {
+    "zipcode": "6480121",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "丹生川"
+  },
+  "6480131": {
+    "zipcode": "6480131",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "市平"
+  },
+  "6480132": {
+    "zipcode": "6480132",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "北又"
+  },
+  "6480133": {
+    "zipcode": "6480133",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "東郷"
+  },
+  "6480141": {
+    "zipcode": "6480141",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "椎出"
+  },
+  "6480142": {
+    "zipcode": "6480142",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "笠木"
+  },
+  "6480143": {
+    "zipcode": "6480143",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "上古沢"
+  },
+  "6480144": {
+    "zipcode": "6480144",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "中古沢"
+  },
+  "6480145": {
+    "zipcode": "6480145",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "下古沢"
+  },
+  "6480151": {
+    "zipcode": "6480151",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "慈尊院"
+  },
+  "6480161": {
+    "zipcode": "6480161",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡九度山町",
+    "town": "入郷"
+  },
+  "6480171": {
+    "zipcode": "6480171",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "西郷（その他）"
+  },
+  "6480200": {
+    "zipcode": "6480200",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "以下に掲載がない場合"
+  },
+  "6480201": {
+    "zipcode": "6480201",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園久木"
+  },
+  "6480202": {
+    "zipcode": "6480202",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園中南"
+  },
+  "6480211": {
+    "zipcode": "6480211",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "高野山"
+  },
+  "6480221": {
+    "zipcode": "6480221",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "西ケ峰"
+  },
+  "6480222": {
+    "zipcode": "6480222",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "南"
+  },
+  "6480223": {
+    "zipcode": "6480223",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "林"
+  },
+  "6480224": {
+    "zipcode": "6480224",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "平原"
+  },
+  "6480225": {
+    "zipcode": "6480225",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "杖ケ薮"
+  },
+  "6480226": {
+    "zipcode": "6480226",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "東又"
+  },
+  "6480227": {
+    "zipcode": "6480227",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "樫原"
+  },
+  "6480231": {
+    "zipcode": "6480231",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "大滝"
+  },
+  "6480241": {
+    "zipcode": "6480241",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "相ノ浦"
+  },
+  "6480251": {
+    "zipcode": "6480251",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "湯川"
+  },
+  "6480261": {
+    "zipcode": "6480261",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "西郷（神谷）"
+  },
+  "6480262": {
+    "zipcode": "6480262",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "細川"
+  },
+  "6480263": {
+    "zipcode": "6480263",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "花坂"
+  },
+  "6480300": {
+    "zipcode": "6480300",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "以下に掲載がない場合"
+  },
+  "6480301": {
+    "zipcode": "6480301",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "池津川"
+  },
+  "6480302": {
+    "zipcode": "6480302",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "紫園"
+  },
+  "6480303": {
+    "zipcode": "6480303",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "中津川"
+  },
+  "6480304": {
+    "zipcode": "6480304",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "立里"
+  },
+  "6480305": {
+    "zipcode": "6480305",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "北股"
+  },
+  "6480306": {
+    "zipcode": "6480306",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "平"
+  },
+  "6480307": {
+    "zipcode": "6480307",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "北今西"
+  },
+  "6480308": {
+    "zipcode": "6480308",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "桧股"
+  },
+  "6480309": {
+    "zipcode": "6480309",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "吉野郡野迫川村",
+    "town": "弓手原"
+  },
+  "6480401": {
+    "zipcode": "6480401",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "西富貴"
+  },
+  "6480402": {
+    "zipcode": "6480402",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "東富貴"
+  },
+  "6480403": {
+    "zipcode": "6480403",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "上筒香"
+  },
+  "6480404": {
+    "zipcode": "6480404",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "中筒香"
+  },
+  "6480405": {
+    "zipcode": "6480405",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡高野町",
+    "town": "下筒香"
+  }
+}

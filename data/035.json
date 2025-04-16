@@ -1,0 +1,490 @@
+{
+  "0350000": {
+    "zipcode": "0350000",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "以下に掲載がない場合"
+  },
+  "0350001": {
+    "zipcode": "0350001",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "大利"
+  },
+  "0350002": {
+    "zipcode": "0350002",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "目名"
+  },
+  "0350003": {
+    "zipcode": "0350003",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "野牛（稲崎平３０２番地・３１５番地、トクサ沢）"
+  },
+  "0350004": {
+    "zipcode": "0350004",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "蒲野沢（その他）"
+  },
+  "0350005": {
+    "zipcode": "0350005",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "田屋"
+  },
+  "0350011": {
+    "zipcode": "0350011",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "奥内"
+  },
+  "0350012": {
+    "zipcode": "0350012",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "中野沢"
+  },
+  "0350021": {
+    "zipcode": "0350021",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "田名部"
+  },
+  "0350022": {
+    "zipcode": "0350022",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "関根"
+  },
+  "0350031": {
+    "zipcode": "0350031",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "柳町"
+  },
+  "0350032": {
+    "zipcode": "0350032",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "上川町"
+  },
+  "0350033": {
+    "zipcode": "0350033",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "横迎町"
+  },
+  "0350034": {
+    "zipcode": "0350034",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "田名部町"
+  },
+  "0350035": {
+    "zipcode": "0350035",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "本町"
+  },
+  "0350036": {
+    "zipcode": "0350036",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "栗山町"
+  },
+  "0350041": {
+    "zipcode": "0350041",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "金曲"
+  },
+  "0350042": {
+    "zipcode": "0350042",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大曲"
+  },
+  "0350043": {
+    "zipcode": "0350043",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "南赤川町"
+  },
+  "0350044": {
+    "zipcode": "0350044",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "赤川町"
+  },
+  "0350045": {
+    "zipcode": "0350045",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "松原町"
+  },
+  "0350046": {
+    "zipcode": "0350046",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "南町"
+  },
+  "0350051": {
+    "zipcode": "0350051",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "新町"
+  },
+  "0350052": {
+    "zipcode": "0350052",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "昭和町"
+  },
+  "0350053": {
+    "zipcode": "0350053",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "緑町"
+  },
+  "0350054": {
+    "zipcode": "0350054",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "海老川町"
+  },
+  "0350055": {
+    "zipcode": "0350055",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "苫生町"
+  },
+  "0350061": {
+    "zipcode": "0350061",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "下北町"
+  },
+  "0350062": {
+    "zipcode": "0350062",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "仲町"
+  },
+  "0350063": {
+    "zipcode": "0350063",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "若松町"
+  },
+  "0350064": {
+    "zipcode": "0350064",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "港町"
+  },
+  "0350065": {
+    "zipcode": "0350065",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "松山町"
+  },
+  "0350066": {
+    "zipcode": "0350066",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "緑ヶ丘"
+  },
+  "0350067": {
+    "zipcode": "0350067",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "十二林"
+  },
+  "0350068": {
+    "zipcode": "0350068",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "美里町"
+  },
+  "0350071": {
+    "zipcode": "0350071",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "小川町"
+  },
+  "0350072": {
+    "zipcode": "0350072",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "金谷"
+  },
+  "0350073": {
+    "zipcode": "0350073",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "中央"
+  },
+  "0350074": {
+    "zipcode": "0350074",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大平"
+  },
+  "0350075": {
+    "zipcode": "0350075",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "真砂町"
+  },
+  "0350076": {
+    "zipcode": "0350076",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "旭町"
+  },
+  "0350077": {
+    "zipcode": "0350077",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "山田町"
+  },
+  "0350078": {
+    "zipcode": "0350078",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "松森町"
+  },
+  "0350079": {
+    "zipcode": "0350079",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "荒川町"
+  },
+  "0350081": {
+    "zipcode": "0350081",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "並川町"
+  },
+  "0350082": {
+    "zipcode": "0350082",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "文京町"
+  },
+  "0350083": {
+    "zipcode": "0350083",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大平町"
+  },
+  "0350084": {
+    "zipcode": "0350084",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大湊新町"
+  },
+  "0350085": {
+    "zipcode": "0350085",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大湊浜町"
+  },
+  "0350086": {
+    "zipcode": "0350086",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大湊上町"
+  },
+  "0350091": {
+    "zipcode": "0350091",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "川守町"
+  },
+  "0350092": {
+    "zipcode": "0350092",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "宇田町"
+  },
+  "0350093": {
+    "zipcode": "0350093",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大湊町"
+  },
+  "0350094": {
+    "zipcode": "0350094",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "桜木町"
+  },
+  "0350095": {
+    "zipcode": "0350095",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "城ケ沢"
+  },
+  "0350096": {
+    "zipcode": "0350096",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "town": "大湊"
+  },
+  "0350103": {
+    "zipcode": "0350103",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "野牛（その他）"
+  },
+  "0350104": {
+    "zipcode": "0350104",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "蒲野沢（稲崎、浜の平）"
+  },
+  "0350111": {
+    "zipcode": "0350111",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "尻屋"
+  },
+  "0350112": {
+    "zipcode": "0350112",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "尻労"
+  },
+  "0350113": {
+    "zipcode": "0350113",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "下北郡東通村",
+    "town": "岩屋"
+  }
+}

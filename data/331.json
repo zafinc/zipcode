@@ -1,0 +1,386 @@
+{
+  "3310000": {
+    "zipcode": "3310000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "以下に掲載がない場合"
+  },
+  "3310045": {
+    "zipcode": "3310045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "内野本郷"
+  },
+  "3310046": {
+    "zipcode": "3310046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "宮前町"
+  },
+  "3310047": {
+    "zipcode": "3310047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "指扇"
+  },
+  "3310048": {
+    "zipcode": "3310048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "清河寺"
+  },
+  "3310049": {
+    "zipcode": "3310049",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "西新井"
+  },
+  "3310052": {
+    "zipcode": "3310052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "三橋"
+  },
+  "3310053": {
+    "zipcode": "3310053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "植田谷本"
+  },
+  "3310054": {
+    "zipcode": "3310054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "島根"
+  },
+  "3310055": {
+    "zipcode": "3310055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "昭和"
+  },
+  "3310056": {
+    "zipcode": "3310056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "三条町"
+  },
+  "3310057": {
+    "zipcode": "3310057",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "中野林"
+  },
+  "3310058": {
+    "zipcode": "3310058",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "飯田"
+  },
+  "3310059": {
+    "zipcode": "3310059",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "水判土"
+  },
+  "3310060": {
+    "zipcode": "3310060",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "塚本町"
+  },
+  "3310061": {
+    "zipcode": "3310061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "西遊馬"
+  },
+  "3310062": {
+    "zipcode": "3310062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "土屋"
+  },
+  "3310063": {
+    "zipcode": "3310063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "プラザ"
+  },
+  "3310064": {
+    "zipcode": "3310064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "佐知川"
+  },
+  "3310065": {
+    "zipcode": "3310065",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "二ツ宮"
+  },
+  "3310066": {
+    "zipcode": "3310066",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "塚本"
+  },
+  "3310067": {
+    "zipcode": "3310067",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "植田谷本村新田"
+  },
+  "3310068": {
+    "zipcode": "3310068",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "飯田新田"
+  },
+  "3310069": {
+    "zipcode": "3310069",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "湯木町"
+  },
+  "3310071": {
+    "zipcode": "3310071",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "高木"
+  },
+  "3310072": {
+    "zipcode": "3310072",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "平方領々家"
+  },
+  "3310073": {
+    "zipcode": "3310073",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "指扇領別所"
+  },
+  "3310074": {
+    "zipcode": "3310074",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "宝来"
+  },
+  "3310075": {
+    "zipcode": "3310075",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "峰岸"
+  },
+  "3310076": {
+    "zipcode": "3310076",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "指扇領辻"
+  },
+  "3310077": {
+    "zipcode": "3310077",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "中釘"
+  },
+  "3310078": {
+    "zipcode": "3310078",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市西区",
+    "town": "西大宮"
+  },
+  "3310800": {
+    "zipcode": "3310800",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "以下に掲載がない場合"
+  },
+  "3310801": {
+    "zipcode": "3310801",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "今羽町"
+  },
+  "3310802": {
+    "zipcode": "3310802",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "本郷町"
+  },
+  "3310803": {
+    "zipcode": "3310803",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "見沼"
+  },
+  "3310804": {
+    "zipcode": "3310804",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "土呂町"
+  },
+  "3310805": {
+    "zipcode": "3310805",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "盆栽町"
+  },
+  "3310811": {
+    "zipcode": "3310811",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "吉野町"
+  },
+  "3310812": {
+    "zipcode": "3310812",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "宮原町"
+  },
+  "3310813": {
+    "zipcode": "3310813",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "植竹町"
+  },
+  "3310814": {
+    "zipcode": "3310814",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "東大成町"
+  },
+  "3310815": {
+    "zipcode": "3310815",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "大成町"
+  },
+  "3310821": {
+    "zipcode": "3310821",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "別所町"
+  },
+  "3310822": {
+    "zipcode": "3310822",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "奈良町"
+  },
+  "3310823": {
+    "zipcode": "3310823",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "日進町"
+  },
+  "3310824": {
+    "zipcode": "3310824",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "上加"
+  },
+  "3310825": {
+    "zipcode": "3310825",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市北区",
+    "town": "櫛引町"
+  }
+}

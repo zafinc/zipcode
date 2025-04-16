@@ -1,0 +1,986 @@
+{
+  "0430000": {
+    "zipcode": "0430000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "以下に掲載がない場合"
+  },
+  "0430011": {
+    "zipcode": "0430011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "五厘沢町"
+  },
+  "0430012": {
+    "zipcode": "0430012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "鰔川町"
+  },
+  "0430013": {
+    "zipcode": "0430013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "朝日町"
+  },
+  "0430014": {
+    "zipcode": "0430014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "小黒部町"
+  },
+  "0430015": {
+    "zipcode": "0430015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "中網町"
+  },
+  "0430016": {
+    "zipcode": "0430016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "越前町"
+  },
+  "0430017": {
+    "zipcode": "0430017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "水堀町"
+  },
+  "0430021": {
+    "zipcode": "0430021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "柳崎町"
+  },
+  "0430022": {
+    "zipcode": "0430022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "伏木戸町"
+  },
+  "0430023": {
+    "zipcode": "0430023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "田沢町"
+  },
+  "0430024": {
+    "zipcode": "0430024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "尾山町"
+  },
+  "0430025": {
+    "zipcode": "0430025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "泊町"
+  },
+  "0430026": {
+    "zipcode": "0430026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "大澗町"
+  },
+  "0430031": {
+    "zipcode": "0430031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "愛宕町"
+  },
+  "0430032": {
+    "zipcode": "0430032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "新栄町"
+  },
+  "0430033": {
+    "zipcode": "0430033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "豊川町"
+  },
+  "0430034": {
+    "zipcode": "0430034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "中歌町"
+  },
+  "0430035": {
+    "zipcode": "0430035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "桧岱"
+  },
+  "0430036": {
+    "zipcode": "0430036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "東山"
+  },
+  "0430041": {
+    "zipcode": "0430041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "姥神町"
+  },
+  "0430042": {
+    "zipcode": "0430042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "上野町"
+  },
+  "0430043": {
+    "zipcode": "0430043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "本町"
+  },
+  "0430044": {
+    "zipcode": "0430044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "橋本町"
+  },
+  "0430045": {
+    "zipcode": "0430045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "鴎島"
+  },
+  "0430046": {
+    "zipcode": "0430046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "江差港北埠頭"
+  },
+  "0430051": {
+    "zipcode": "0430051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "津花町"
+  },
+  "0430052": {
+    "zipcode": "0430052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "茂尻町"
+  },
+  "0430053": {
+    "zipcode": "0430053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "新地町"
+  },
+  "0430054": {
+    "zipcode": "0430054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "緑丘"
+  },
+  "0430055": {
+    "zipcode": "0430055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "円山"
+  },
+  "0430056": {
+    "zipcode": "0430056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "陣屋町"
+  },
+  "0430057": {
+    "zipcode": "0430057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "海岸町"
+  },
+  "0430061": {
+    "zipcode": "0430061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "南が丘"
+  },
+  "0430062": {
+    "zipcode": "0430062",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "萩の岱"
+  },
+  "0430063": {
+    "zipcode": "0430063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "南浜町"
+  },
+  "0430064": {
+    "zipcode": "0430064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "柏町"
+  },
+  "0430065": {
+    "zipcode": "0430065",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "砂川"
+  },
+  "0430066": {
+    "zipcode": "0430066",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡江差町",
+    "town": "とど川町"
+  },
+  "0430100": {
+    "zipcode": "0430100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "以下に掲載がない場合"
+  },
+  "0430101": {
+    "zipcode": "0430101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "滝瀬"
+  },
+  "0430102": {
+    "zipcode": "0430102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "元町"
+  },
+  "0430103": {
+    "zipcode": "0430103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "緑町"
+  },
+  "0430104": {
+    "zipcode": "0430104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "館浦"
+  },
+  "0430111": {
+    "zipcode": "0430111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "鳥山"
+  },
+  "0430112": {
+    "zipcode": "0430112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "栄野"
+  },
+  "0430113": {
+    "zipcode": "0430113",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "栄浜"
+  },
+  "0430114": {
+    "zipcode": "0430114",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "元和"
+  },
+  "0430115": {
+    "zipcode": "0430115",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "富岡"
+  },
+  "0430116": {
+    "zipcode": "0430116",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "旭岱"
+  },
+  "0430117": {
+    "zipcode": "0430117",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "姫川"
+  },
+  "0430231": {
+    "zipcode": "0430231",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "豊浜"
+  },
+  "0430232": {
+    "zipcode": "0430232",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "花磯"
+  },
+  "0430233": {
+    "zipcode": "0430233",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "潮見"
+  },
+  "0430234": {
+    "zipcode": "0430234",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "爾志郡乙部町",
+    "town": "三ツ谷"
+  },
+  "0430331": {
+    "zipcode": "0430331",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石折戸町"
+  },
+  "0430332": {
+    "zipcode": "0430332",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石相沼町"
+  },
+  "0430333": {
+    "zipcode": "0430333",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石館平町"
+  },
+  "0430334": {
+    "zipcode": "0430334",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石泊川町"
+  },
+  "0430335": {
+    "zipcode": "0430335",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石黒岩町"
+  },
+  "0430401": {
+    "zipcode": "0430401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石見日町"
+  },
+  "0430402": {
+    "zipcode": "0430402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石鮎川町"
+  },
+  "0430403": {
+    "zipcode": "0430403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石平町"
+  },
+  "0430404": {
+    "zipcode": "0430404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石畳岩町"
+  },
+  "0430405": {
+    "zipcode": "0430405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石大谷町"
+  },
+  "0430415": {
+    "zipcode": "0430415",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石根崎町"
+  },
+  "0430416": {
+    "zipcode": "0430416",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石雲石町"
+  },
+  "0430417": {
+    "zipcode": "0430417",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石鳴神町"
+  },
+  "0430418": {
+    "zipcode": "0430418",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石関内町"
+  },
+  "0430419": {
+    "zipcode": "0430419",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "二海郡八雲町",
+    "town": "熊石西浜町"
+  },
+  "0430421": {
+    "zipcode": "0430421",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区長磯"
+  },
+  "0430501": {
+    "zipcode": "0430501",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区太田"
+  },
+  "0430502": {
+    "zipcode": "0430502",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区富磯"
+  },
+  "0430503": {
+    "zipcode": "0430503",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区上浦"
+  },
+  "0430504": {
+    "zipcode": "0430504",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区都"
+  },
+  "0430505": {
+    "zipcode": "0430505",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区本陣"
+  },
+  "0430511": {
+    "zipcode": "0430511",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区久遠"
+  },
+  "0430512": {
+    "zipcode": "0430512",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区花歌"
+  },
+  "0430513": {
+    "zipcode": "0430513",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区宮野"
+  },
+  "0430514": {
+    "zipcode": "0430514",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区平浜"
+  },
+  "0430515": {
+    "zipcode": "0430515",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "久遠郡せたな町",
+    "town": "大成区貝取澗"
+  },
+  "0431100": {
+    "zipcode": "0431100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "以下に掲載がない場合"
+  },
+  "0431101": {
+    "zipcode": "0431101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "清水"
+  },
+  "0431102": {
+    "zipcode": "0431102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "稲見"
+  },
+  "0431103": {
+    "zipcode": "0431103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "滝野"
+  },
+  "0431104": {
+    "zipcode": "0431104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "上里"
+  },
+  "0431111": {
+    "zipcode": "0431111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "赤沼町"
+  },
+  "0431112": {
+    "zipcode": "0431112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "緑町"
+  },
+  "0431113": {
+    "zipcode": "0431113",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "新町"
+  },
+  "0431114": {
+    "zipcode": "0431114",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "本町"
+  },
+  "0431115": {
+    "zipcode": "0431115",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "松園町"
+  },
+  "0431116": {
+    "zipcode": "0431116",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "上の山"
+  },
+  "0431117": {
+    "zipcode": "0431117",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "美和"
+  },
+  "0431118": {
+    "zipcode": "0431118",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "富栄"
+  },
+  "0431231": {
+    "zipcode": "0431231",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "共和"
+  },
+  "0431232": {
+    "zipcode": "0431232",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "相生"
+  },
+  "0431233": {
+    "zipcode": "0431233",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "旭丘"
+  },
+  "0431234": {
+    "zipcode": "0431234",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "木間内"
+  },
+  "0431235": {
+    "zipcode": "0431235",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "峠下"
+  },
+  "0431236": {
+    "zipcode": "0431236",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "社の山（その他）"
+  },
+  "0431237": {
+    "zipcode": "0431237",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "鶉町"
+  },
+  "0431238": {
+    "zipcode": "0431238",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "鶉"
+  },
+  "0431351": {
+    "zipcode": "0431351",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "館町"
+  },
+  "0431361": {
+    "zipcode": "0431361",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "社の山（中の沢）"
+  },
+  "0431362": {
+    "zipcode": "0431362",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "須賀"
+  },
+  "0431363": {
+    "zipcode": "0431363",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "富里"
+  },
+  "0431364": {
+    "zipcode": "0431364",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "城丘"
+  },
+  "0431365": {
+    "zipcode": "0431365",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "南館町"
+  },
+  "0431366": {
+    "zipcode": "0431366",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "当路"
+  },
+  "0431367": {
+    "zipcode": "0431367",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "新栄"
+  },
+  "0431368": {
+    "zipcode": "0431368",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "檜山郡厚沢部町",
+    "town": "中館"
+  },
+  "0431400": {
+    "zipcode": "0431400",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "以下に掲載がない場合"
+  },
+  "0431401": {
+    "zipcode": "0431401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "奥尻"
+  },
+  "0431402": {
+    "zipcode": "0431402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "赤石"
+  },
+  "0431403": {
+    "zipcode": "0431403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "球浦"
+  },
+  "0431404": {
+    "zipcode": "0431404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "宮津"
+  },
+  "0431405": {
+    "zipcode": "0431405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "稲穂"
+  },
+  "0431406": {
+    "zipcode": "0431406",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "湯浜（その他）"
+  },
+  "0431521": {
+    "zipcode": "0431521",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "青苗"
+  },
+  "0431522": {
+    "zipcode": "0431522",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "富里"
+  },
+  "0431523": {
+    "zipcode": "0431523",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "松江"
+  },
+  "0431524": {
+    "zipcode": "0431524",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "米岡"
+  },
+  "0431525": {
+    "zipcode": "0431525",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "奥尻郡奥尻町",
+    "town": "湯浜（神威脇、幌内）"
+  }
+}

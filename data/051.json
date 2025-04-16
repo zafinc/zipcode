@@ -1,0 +1,210 @@
+{
+  "0510001": {
+    "zipcode": "0510001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "御崎町"
+  },
+  "0510002": {
+    "zipcode": "0510002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "御前水町"
+  },
+  "0510003": {
+    "zipcode": "0510003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "母恋南町"
+  },
+  "0510004": {
+    "zipcode": "0510004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "母恋北町"
+  },
+  "0510005": {
+    "zipcode": "0510005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "新富町"
+  },
+  "0510006": {
+    "zipcode": "0510006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "茶津町"
+  },
+  "0510011": {
+    "zipcode": "0510011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "中央町"
+  },
+  "0510012": {
+    "zipcode": "0510012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "山手町"
+  },
+  "0510013": {
+    "zipcode": "0510013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "舟見町"
+  },
+  "0510014": {
+    "zipcode": "0510014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "栄町"
+  },
+  "0510015": {
+    "zipcode": "0510015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "本町"
+  },
+  "0510016": {
+    "zipcode": "0510016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "幸町"
+  },
+  "0510021": {
+    "zipcode": "0510021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "緑町"
+  },
+  "0510022": {
+    "zipcode": "0510022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "海岸町"
+  },
+  "0510023": {
+    "zipcode": "0510023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "入江町"
+  },
+  "0510024": {
+    "zipcode": "0510024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "幕西町"
+  },
+  "0510025": {
+    "zipcode": "0510025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "常盤町"
+  },
+  "0510026": {
+    "zipcode": "0510026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "清水町"
+  },
+  "0510027": {
+    "zipcode": "0510027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "沢町"
+  },
+  "0510028": {
+    "zipcode": "0510028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "西小路町"
+  },
+  "0510031": {
+    "zipcode": "0510031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "築地町"
+  },
+  "0510032": {
+    "zipcode": "0510032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "港南町"
+  },
+  "0510033": {
+    "zipcode": "0510033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "小橋内町"
+  },
+  "0510034": {
+    "zipcode": "0510034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "増市町"
+  },
+  "0510035": {
+    "zipcode": "0510035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "絵鞆町"
+  },
+  "0510036": {
+    "zipcode": "0510036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "室蘭市",
+    "town": "祝津町"
+  }
+}

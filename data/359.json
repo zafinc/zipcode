@@ -1,0 +1,658 @@
+{
+  "3590000": {
+    "zipcode": "3590000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "以下に掲載がない場合"
+  },
+  "3590001": {
+    "zipcode": "3590001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "下富"
+  },
+  "3590002": {
+    "zipcode": "3590002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "中富"
+  },
+  "3590003": {
+    "zipcode": "3590003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "中富南"
+  },
+  "3590004": {
+    "zipcode": "3590004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北原町"
+  },
+  "3590005": {
+    "zipcode": "3590005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "神米金"
+  },
+  "3590006": {
+    "zipcode": "3590006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "所沢新町"
+  },
+  "3590007": {
+    "zipcode": "3590007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北岩岡"
+  },
+  "3590011": {
+    "zipcode": "3590011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "南永井"
+  },
+  "3590012": {
+    "zipcode": "3590012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "坂之下"
+  },
+  "3590013": {
+    "zipcode": "3590013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "城"
+  },
+  "3590014": {
+    "zipcode": "3590014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "亀ケ谷"
+  },
+  "3590015": {
+    "zipcode": "3590015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "日比田"
+  },
+  "3590016": {
+    "zipcode": "3590016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "新郷"
+  },
+  "3590021": {
+    "zipcode": "3590021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東所沢"
+  },
+  "3590022": {
+    "zipcode": "3590022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "本郷"
+  },
+  "3590023": {
+    "zipcode": "3590023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東所沢和田"
+  },
+  "3590024": {
+    "zipcode": "3590024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "下安松"
+  },
+  "3590025": {
+    "zipcode": "3590025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "上安松"
+  },
+  "3590026": {
+    "zipcode": "3590026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "牛沼"
+  },
+  "3590027": {
+    "zipcode": "3590027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "松郷"
+  },
+  "3590031": {
+    "zipcode": "3590031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "下新井"
+  },
+  "3590032": {
+    "zipcode": "3590032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "若松町"
+  },
+  "3590033": {
+    "zipcode": "3590033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "こぶし町"
+  },
+  "3590034": {
+    "zipcode": "3590034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東新井町"
+  },
+  "3590035": {
+    "zipcode": "3590035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "西新井町"
+  },
+  "3590036": {
+    "zipcode": "3590036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "旭町"
+  },
+  "3590037": {
+    "zipcode": "3590037",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "くすのき台"
+  },
+  "3590038": {
+    "zipcode": "3590038",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北秋津"
+  },
+  "3590041": {
+    "zipcode": "3590041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "中新井"
+  },
+  "3590042": {
+    "zipcode": "3590042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "並木"
+  },
+  "3590043": {
+    "zipcode": "3590043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "弥生町"
+  },
+  "3590044": {
+    "zipcode": "3590044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "松葉町"
+  },
+  "3590045": {
+    "zipcode": "3590045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "美原町"
+  },
+  "3590046": {
+    "zipcode": "3590046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北所沢町"
+  },
+  "3590047": {
+    "zipcode": "3590047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "花園"
+  },
+  "3591101": {
+    "zipcode": "3591101",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北中"
+  },
+  "3591102": {
+    "zipcode": "3591102",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "岩岡町"
+  },
+  "3591103": {
+    "zipcode": "3591103",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "向陽町"
+  },
+  "3591104": {
+    "zipcode": "3591104",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "榎町"
+  },
+  "3591105": {
+    "zipcode": "3591105",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "青葉台"
+  },
+  "3591106": {
+    "zipcode": "3591106",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東狭山ケ丘"
+  },
+  "3591111": {
+    "zipcode": "3591111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "緑町"
+  },
+  "3591112": {
+    "zipcode": "3591112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "泉町"
+  },
+  "3591113": {
+    "zipcode": "3591113",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "喜多町"
+  },
+  "3591114": {
+    "zipcode": "3591114",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北有楽町"
+  },
+  "3591115": {
+    "zipcode": "3591115",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "御幸町"
+  },
+  "3591116": {
+    "zipcode": "3591116",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東町"
+  },
+  "3591117": {
+    "zipcode": "3591117",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "有楽町"
+  },
+  "3591118": {
+    "zipcode": "3591118",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "けやき台"
+  },
+  "3591121": {
+    "zipcode": "3591121",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "元町"
+  },
+  "3591122": {
+    "zipcode": "3591122",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "寿町"
+  },
+  "3591123": {
+    "zipcode": "3591123",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "日吉町"
+  },
+  "3591124": {
+    "zipcode": "3591124",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "東住吉"
+  },
+  "3591125": {
+    "zipcode": "3591125",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "南住吉"
+  },
+  "3591126": {
+    "zipcode": "3591126",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "西住吉"
+  },
+  "3591127": {
+    "zipcode": "3591127",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "星の宮"
+  },
+  "3591128": {
+    "zipcode": "3591128",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "金山町"
+  },
+  "3591131": {
+    "zipcode": "3591131",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "久米"
+  },
+  "3591132": {
+    "zipcode": "3591132",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "松が丘"
+  },
+  "3591133": {
+    "zipcode": "3591133",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "荒幡"
+  },
+  "3591141": {
+    "zipcode": "3591141",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "小手指町"
+  },
+  "3591142": {
+    "zipcode": "3591142",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "上新井"
+  },
+  "3591143": {
+    "zipcode": "3591143",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "宮本町"
+  },
+  "3591144": {
+    "zipcode": "3591144",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "西所沢"
+  },
+  "3591145": {
+    "zipcode": "3591145",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "山口"
+  },
+  "3591146": {
+    "zipcode": "3591146",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "小手指南"
+  },
+  "3591147": {
+    "zipcode": "3591147",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "小手指元町"
+  },
+  "3591148": {
+    "zipcode": "3591148",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "小手指台"
+  },
+  "3591151": {
+    "zipcode": "3591151",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "若狭"
+  },
+  "3591152": {
+    "zipcode": "3591152",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北野"
+  },
+  "3591153": {
+    "zipcode": "3591153",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "上山口"
+  },
+  "3591154": {
+    "zipcode": "3591154",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "勝楽寺"
+  },
+  "3591155": {
+    "zipcode": "3591155",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北野新町"
+  },
+  "3591156": {
+    "zipcode": "3591156",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "北野南"
+  },
+  "3591161": {
+    "zipcode": "3591161",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "狭山ケ丘"
+  },
+  "3591162": {
+    "zipcode": "3591162",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "和ケ原"
+  },
+  "3591163": {
+    "zipcode": "3591163",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "西狭山ケ丘"
+  },
+  "3591164": {
+    "zipcode": "3591164",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "三ケ島"
+  },
+  "3591165": {
+    "zipcode": "3591165",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "堀之内"
+  },
+  "3591166": {
+    "zipcode": "3591166",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "糀谷"
+  },
+  "3591167": {
+    "zipcode": "3591167",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "town": "林"
+  }
+}

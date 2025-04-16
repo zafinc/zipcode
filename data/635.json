@@ -1,0 +1,938 @@
+{
+  "6350000": {
+    "zipcode": "6350000",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "以下に掲載がない場合"
+  },
+  "6350001": {
+    "zipcode": "6350001",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "松塚"
+  },
+  "6350002": {
+    "zipcode": "6350002",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "土庫（丁目）"
+  },
+  "6350003": {
+    "zipcode": "6350003",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "土庫（番地）"
+  },
+  "6350004": {
+    "zipcode": "6350004",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "藤森"
+  },
+  "6350011": {
+    "zipcode": "6350011",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "材木町"
+  },
+  "6350012": {
+    "zipcode": "6350012",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "曙町"
+  },
+  "6350013": {
+    "zipcode": "6350013",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "昭和町"
+  },
+  "6350014": {
+    "zipcode": "6350014",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "三和町"
+  },
+  "6350015": {
+    "zipcode": "6350015",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "幸町"
+  },
+  "6350016": {
+    "zipcode": "6350016",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "大東町"
+  },
+  "6350017": {
+    "zipcode": "6350017",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "東雲町"
+  },
+  "6350021": {
+    "zipcode": "6350021",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "池尻"
+  },
+  "6350022": {
+    "zipcode": "6350022",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "日之出町"
+  },
+  "6350023": {
+    "zipcode": "6350023",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "日之出東本町"
+  },
+  "6350024": {
+    "zipcode": "6350024",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "日之出西本町"
+  },
+  "6350025": {
+    "zipcode": "6350025",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "神楽（丁目）"
+  },
+  "6350026": {
+    "zipcode": "6350026",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "神楽（番地）"
+  },
+  "6350031": {
+    "zipcode": "6350031",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "今里町"
+  },
+  "6350032": {
+    "zipcode": "6350032",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "今里川合方"
+  },
+  "6350033": {
+    "zipcode": "6350033",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "南今里町"
+  },
+  "6350034": {
+    "zipcode": "6350034",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "東三倉堂町"
+  },
+  "6350035": {
+    "zipcode": "6350035",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "旭南町"
+  },
+  "6350036": {
+    "zipcode": "6350036",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "旭北町"
+  },
+  "6350037": {
+    "zipcode": "6350037",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "中今里町"
+  },
+  "6350041": {
+    "zipcode": "6350041",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "田井"
+  },
+  "6350042": {
+    "zipcode": "6350042",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "勝目"
+  },
+  "6350043": {
+    "zipcode": "6350043",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "出"
+  },
+  "6350044": {
+    "zipcode": "6350044",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "蔵之宮町"
+  },
+  "6350045": {
+    "zipcode": "6350045",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "中三倉堂"
+  },
+  "6350046": {
+    "zipcode": "6350046",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "西三倉堂"
+  },
+  "6350047": {
+    "zipcode": "6350047",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "田井新町"
+  },
+  "6350051": {
+    "zipcode": "6350051",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "根成柿"
+  },
+  "6350052": {
+    "zipcode": "6350052",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "奥田"
+  },
+  "6350053": {
+    "zipcode": "6350053",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "秋吉"
+  },
+  "6350054": {
+    "zipcode": "6350054",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "曽大根（番地）"
+  },
+  "6350055": {
+    "zipcode": "6350055",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "曽大根（丁目）"
+  },
+  "6350056": {
+    "zipcode": "6350056",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "甘田町"
+  },
+  "6350057": {
+    "zipcode": "6350057",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "南陽町"
+  },
+  "6350058": {
+    "zipcode": "6350058",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "西坊城"
+  },
+  "6350059": {
+    "zipcode": "6350059",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "吉井"
+  },
+  "6350061": {
+    "zipcode": "6350061",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "礒野東町"
+  },
+  "6350062": {
+    "zipcode": "6350062",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "礒野南町"
+  },
+  "6350063": {
+    "zipcode": "6350063",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "礒野新町"
+  },
+  "6350064": {
+    "zipcode": "6350064",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "栄町"
+  },
+  "6350065": {
+    "zipcode": "6350065",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "東中（丁目）"
+  },
+  "6350066": {
+    "zipcode": "6350066",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "東中（番地）"
+  },
+  "6350067": {
+    "zipcode": "6350067",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "春日町"
+  },
+  "6350071": {
+    "zipcode": "6350071",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "築山"
+  },
+  "6350072": {
+    "zipcode": "6350072",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "有井"
+  },
+  "6350073": {
+    "zipcode": "6350073",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "岡崎"
+  },
+  "6350074": {
+    "zipcode": "6350074",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "市場"
+  },
+  "6350075": {
+    "zipcode": "6350075",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "野口"
+  },
+  "6350076": {
+    "zipcode": "6350076",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "大谷"
+  },
+  "6350077": {
+    "zipcode": "6350077",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "池田"
+  },
+  "6350081": {
+    "zipcode": "6350081",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "高砂町"
+  },
+  "6350082": {
+    "zipcode": "6350082",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "本郷町"
+  },
+  "6350083": {
+    "zipcode": "6350083",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "永和町"
+  },
+  "6350084": {
+    "zipcode": "6350084",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "北片塩町"
+  },
+  "6350085": {
+    "zipcode": "6350085",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "片塩町"
+  },
+  "6350086": {
+    "zipcode": "6350086",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "南本町"
+  },
+  "6350087": {
+    "zipcode": "6350087",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "内本町"
+  },
+  "6350091": {
+    "zipcode": "6350091",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "大中東町"
+  },
+  "6350092": {
+    "zipcode": "6350092",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "大中南町"
+  },
+  "6350093": {
+    "zipcode": "6350093",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "礒野町"
+  },
+  "6350094": {
+    "zipcode": "6350094",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "礒野北町"
+  },
+  "6350095": {
+    "zipcode": "6350095",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "大中"
+  },
+  "6350096": {
+    "zipcode": "6350096",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "西町"
+  },
+  "6350097": {
+    "zipcode": "6350097",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "大和高田市",
+    "town": "北本町"
+  },
+  "6350100": {
+    "zipcode": "6350100",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "以下に掲載がない場合"
+  },
+  "6350101": {
+    "zipcode": "6350101",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "高取"
+  },
+  "6350102": {
+    "zipcode": "6350102",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "壺阪"
+  },
+  "6350103": {
+    "zipcode": "6350103",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "清水谷"
+  },
+  "6350104": {
+    "zipcode": "6350104",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "上子島"
+  },
+  "6350111": {
+    "zipcode": "6350111",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "松山"
+  },
+  "6350112": {
+    "zipcode": "6350112",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "藤井"
+  },
+  "6350113": {
+    "zipcode": "6350113",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "羽内"
+  },
+  "6350121": {
+    "zipcode": "6350121",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "丹生谷"
+  },
+  "6350122": {
+    "zipcode": "6350122",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "谷田"
+  },
+  "6350123": {
+    "zipcode": "6350123",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "市尾"
+  },
+  "6350131": {
+    "zipcode": "6350131",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "佐田"
+  },
+  "6350132": {
+    "zipcode": "6350132",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "森"
+  },
+  "6350133": {
+    "zipcode": "6350133",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "吉備"
+  },
+  "6350134": {
+    "zipcode": "6350134",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "薩摩"
+  },
+  "6350135": {
+    "zipcode": "6350135",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "田井庄"
+  },
+  "6350136": {
+    "zipcode": "6350136",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "兵庫"
+  },
+  "6350141": {
+    "zipcode": "6350141",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "与楽"
+  },
+  "6350142": {
+    "zipcode": "6350142",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "寺崎"
+  },
+  "6350143": {
+    "zipcode": "6350143",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "車木"
+  },
+  "6350144": {
+    "zipcode": "6350144",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "越智"
+  },
+  "6350151": {
+    "zipcode": "6350151",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "下子島"
+  },
+  "6350152": {
+    "zipcode": "6350152",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "上土佐"
+  },
+  "6350153": {
+    "zipcode": "6350153",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "下土佐"
+  },
+  "6350154": {
+    "zipcode": "6350154",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "高市郡高取町",
+    "town": "観覚寺"
+  },
+  "6350801": {
+    "zipcode": "6350801",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "大場"
+  },
+  "6350802": {
+    "zipcode": "6350802",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "的場"
+  },
+  "6350803": {
+    "zipcode": "6350803",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "大野"
+  },
+  "6350804": {
+    "zipcode": "6350804",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "沢"
+  },
+  "6350805": {
+    "zipcode": "6350805",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "萱野"
+  },
+  "6350811": {
+    "zipcode": "6350811",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "弁財天"
+  },
+  "6350812": {
+    "zipcode": "6350812",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "広瀬"
+  },
+  "6350813": {
+    "zipcode": "6350813",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "百済"
+  },
+  "6350814": {
+    "zipcode": "6350814",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "南郷"
+  },
+  "6350815": {
+    "zipcode": "6350815",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "古寺"
+  },
+  "6350816": {
+    "zipcode": "6350816",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "中"
+  },
+  "6350817": {
+    "zipcode": "6350817",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "寺戸"
+  },
+  "6350818": {
+    "zipcode": "6350818",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "南"
+  },
+  "6350821": {
+    "zipcode": "6350821",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "笠"
+  },
+  "6350822": {
+    "zipcode": "6350822",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "平尾"
+  },
+  "6350823": {
+    "zipcode": "6350823",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "三吉"
+  },
+  "6350824": {
+    "zipcode": "6350824",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "疋相"
+  },
+  "6350825": {
+    "zipcode": "6350825",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "安部"
+  },
+  "6350831": {
+    "zipcode": "6350831",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "馬見北"
+  },
+  "6350832": {
+    "zipcode": "6350832",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "馬見中"
+  },
+  "6350833": {
+    "zipcode": "6350833",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "馬見南"
+  },
+  "6350834": {
+    "zipcode": "6350834",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "大塚"
+  },
+  "6350835": {
+    "zipcode": "6350835",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "北葛城郡広陵町",
+    "town": "みささぎ台"
+  }
+}

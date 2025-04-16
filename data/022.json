@@ -1,0 +1,90 @@
+{
+  "0220000": {
+    "zipcode": "0220000",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "以下に掲載がない場合"
+  },
+  "0220001": {
+    "zipcode": "0220001",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "末崎町"
+  },
+  "0220002": {
+    "zipcode": "0220002",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "大船渡町"
+  },
+  "0220003": {
+    "zipcode": "0220003",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "盛町"
+  },
+  "0220004": {
+    "zipcode": "0220004",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "猪川町"
+  },
+  "0220005": {
+    "zipcode": "0220005",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "日頃市町"
+  },
+  "0220006": {
+    "zipcode": "0220006",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "立根町"
+  },
+  "0220007": {
+    "zipcode": "0220007",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "赤崎町"
+  },
+  "0220101": {
+    "zipcode": "0220101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "三陸町越喜来"
+  },
+  "0220102": {
+    "zipcode": "0220102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "三陸町吉浜"
+  },
+  "0220211": {
+    "zipcode": "0220211",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "大船渡市",
+    "town": "三陸町綾里"
+  }
+}

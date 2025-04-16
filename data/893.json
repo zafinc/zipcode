@@ -1,0 +1,778 @@
+{
+  "8930000": {
+    "zipcode": "8930000",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "以下に掲載がない場合"
+  },
+  "8930001": {
+    "zipcode": "8930001",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "古前城町"
+  },
+  "8930002": {
+    "zipcode": "8930002",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "本町"
+  },
+  "8930003": {
+    "zipcode": "8930003",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "曽田町"
+  },
+  "8930004": {
+    "zipcode": "8930004",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "朝日町"
+  },
+  "8930005": {
+    "zipcode": "8930005",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "共栄町"
+  },
+  "8930006": {
+    "zipcode": "8930006",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "向江町"
+  },
+  "8930007": {
+    "zipcode": "8930007",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "北田町"
+  },
+  "8930008": {
+    "zipcode": "8930008",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "西大手町"
+  },
+  "8930009": {
+    "zipcode": "8930009",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "大手町"
+  },
+  "8930011": {
+    "zipcode": "8930011",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "打馬"
+  },
+  "8930012": {
+    "zipcode": "8930012",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "王子町"
+  },
+  "8930013": {
+    "zipcode": "8930013",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "札元"
+  },
+  "8930014": {
+    "zipcode": "8930014",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "寿"
+  },
+  "8930015": {
+    "zipcode": "8930015",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "新川町"
+  },
+  "8930016": {
+    "zipcode": "8930016",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "白崎町"
+  },
+  "8930021": {
+    "zipcode": "8930021",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "東原町"
+  },
+  "8930022": {
+    "zipcode": "8930022",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "旭原町"
+  },
+  "8930023": {
+    "zipcode": "8930023",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "笠之原町"
+  },
+  "8930024": {
+    "zipcode": "8930024",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "下祓川町"
+  },
+  "8930025": {
+    "zipcode": "8930025",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "西祓川町"
+  },
+  "8930026": {
+    "zipcode": "8930026",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "祓川町"
+  },
+  "8930027": {
+    "zipcode": "8930027",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "上祓川町"
+  },
+  "8930031": {
+    "zipcode": "8930031",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "川東町"
+  },
+  "8930032": {
+    "zipcode": "8930032",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "川西町"
+  },
+  "8930033": {
+    "zipcode": "8930033",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "永野田町"
+  },
+  "8930034": {
+    "zipcode": "8930034",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "名貫町"
+  },
+  "8930035": {
+    "zipcode": "8930035",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "飯隈町"
+  },
+  "8930036": {
+    "zipcode": "8930036",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "萩塚町"
+  },
+  "8930037": {
+    "zipcode": "8930037",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "田崎町"
+  },
+  "8930041": {
+    "zipcode": "8930041",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "星塚町"
+  },
+  "8930042": {
+    "zipcode": "8930042",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "池園町"
+  },
+  "8930043": {
+    "zipcode": "8930043",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "南町"
+  },
+  "8930044": {
+    "zipcode": "8930044",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "獅子目町"
+  },
+  "8930045": {
+    "zipcode": "8930045",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "田淵町"
+  },
+  "8930046": {
+    "zipcode": "8930046",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "横山町"
+  },
+  "8930047": {
+    "zipcode": "8930047",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "下堀町"
+  },
+  "8930051": {
+    "zipcode": "8930051",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "大姶良町"
+  },
+  "8930052": {
+    "zipcode": "8930052",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "永小原町"
+  },
+  "8930053": {
+    "zipcode": "8930053",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "浜田町"
+  },
+  "8930054": {
+    "zipcode": "8930054",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "高須町"
+  },
+  "8930055": {
+    "zipcode": "8930055",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "野里町"
+  },
+  "8930056": {
+    "zipcode": "8930056",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "上野町"
+  },
+  "8930057": {
+    "zipcode": "8930057",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "今坂町"
+  },
+  "8930061": {
+    "zipcode": "8930061",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "上谷町"
+  },
+  "8930062": {
+    "zipcode": "8930062",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "新生町"
+  },
+  "8930063": {
+    "zipcode": "8930063",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "新栄町"
+  },
+  "8930064": {
+    "zipcode": "8930064",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "西原"
+  },
+  "8930065": {
+    "zipcode": "8930065",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "郷之原町"
+  },
+  "8930066": {
+    "zipcode": "8930066",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "高牧町"
+  },
+  "8930067": {
+    "zipcode": "8930067",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "大浦町"
+  },
+  "8930131": {
+    "zipcode": "8930131",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "上高隈町"
+  },
+  "8930132": {
+    "zipcode": "8930132",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "下高隈町"
+  },
+  "8930201": {
+    "zipcode": "8930201",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "輝北町上百引"
+  },
+  "8930202": {
+    "zipcode": "8930202",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "輝北町下百引"
+  },
+  "8930203": {
+    "zipcode": "8930203",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "輝北町平房"
+  },
+  "8931101": {
+    "zipcode": "8931101",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "吾平町上名"
+  },
+  "8931102": {
+    "zipcode": "8931102",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "吾平町下名"
+  },
+  "8931103": {
+    "zipcode": "8931103",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "吾平町麓"
+  },
+  "8931200": {
+    "zipcode": "8931200",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "以下に掲載がない場合"
+  },
+  "8931201": {
+    "zipcode": "8931201",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "野崎"
+  },
+  "8931202": {
+    "zipcode": "8931202",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "波見"
+  },
+  "8931203": {
+    "zipcode": "8931203",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "後田"
+  },
+  "8931204": {
+    "zipcode": "8931204",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "富山"
+  },
+  "8931205": {
+    "zipcode": "8931205",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "宮下"
+  },
+  "8931206": {
+    "zipcode": "8931206",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "前田"
+  },
+  "8931207": {
+    "zipcode": "8931207",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "新富"
+  },
+  "8931401": {
+    "zipcode": "8931401",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "北方"
+  },
+  "8931402": {
+    "zipcode": "8931402",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "南方"
+  },
+  "8931511": {
+    "zipcode": "8931511",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡肝付町",
+    "town": "岸良"
+  },
+  "8931600": {
+    "zipcode": "8931600",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "以下に掲載がない場合"
+  },
+  "8931601": {
+    "zipcode": "8931601",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "串良町細山田"
+  },
+  "8931602": {
+    "zipcode": "8931602",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "串良町有里"
+  },
+  "8931603": {
+    "zipcode": "8931603",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "串良町岡崎"
+  },
+  "8931604": {
+    "zipcode": "8931604",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "串良町下小原"
+  },
+  "8931605": {
+    "zipcode": "8931605",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿屋市",
+    "town": "串良町上小原"
+  },
+  "8931611": {
+    "zipcode": "8931611",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "岩弘"
+  },
+  "8931612": {
+    "zipcode": "8931612",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "池之原"
+  },
+  "8931613": {
+    "zipcode": "8931613",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "川西"
+  },
+  "8931614": {
+    "zipcode": "8931614",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "新川西"
+  },
+  "8931615": {
+    "zipcode": "8931615",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡東串良町",
+    "town": "川東"
+  },
+  "8932300": {
+    "zipcode": "8932300",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "以下に掲載がない場合"
+  },
+  "8932301": {
+    "zipcode": "8932301",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "神川"
+  },
+  "8932302": {
+    "zipcode": "8932302",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "城元"
+  },
+  "8932303": {
+    "zipcode": "8932303",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "馬場"
+  },
+  "8932401": {
+    "zipcode": "8932401",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "田代麓"
+  },
+  "8932402": {
+    "zipcode": "8932402",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡錦江町",
+    "town": "田代川原"
+  },
+  "8932500": {
+    "zipcode": "8932500",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "以下に掲載がない場合"
+  },
+  "8932501": {
+    "zipcode": "8932501",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "根占川北"
+  },
+  "8932502": {
+    "zipcode": "8932502",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "根占川南"
+  },
+  "8932503": {
+    "zipcode": "8932503",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "根占横別府"
+  },
+  "8932504": {
+    "zipcode": "8932504",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "根占山本"
+  },
+  "8932505": {
+    "zipcode": "8932505",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "根占辺田"
+  },
+  "8932601": {
+    "zipcode": "8932601",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "佐多伊座敷"
+  },
+  "8932602": {
+    "zipcode": "8932602",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "佐多辺塚"
+  },
+  "8932603": {
+    "zipcode": "8932603",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "佐多郡"
+  },
+  "8932604": {
+    "zipcode": "8932604",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "肝属郡南大隅町",
+    "town": "佐多馬籠"
+  }
+}

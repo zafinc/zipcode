@@ -1,0 +1,578 @@
+{
+  "0030000": {
+    "zipcode": "0030000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "以下に掲載がない場合"
+  },
+  "0030001": {
+    "zipcode": "0030001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌一条"
+  },
+  "0030002": {
+    "zipcode": "0030002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌二条"
+  },
+  "0030003": {
+    "zipcode": "0030003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌三条"
+  },
+  "0030004": {
+    "zipcode": "0030004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌四条"
+  },
+  "0030005": {
+    "zipcode": "0030005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌五条"
+  },
+  "0030006": {
+    "zipcode": "0030006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東札幌六条"
+  },
+  "0030011": {
+    "zipcode": "0030011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "中央一条"
+  },
+  "0030012": {
+    "zipcode": "0030012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "中央二条"
+  },
+  "0030013": {
+    "zipcode": "0030013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "中央三条"
+  },
+  "0030021": {
+    "zipcode": "0030021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "栄通"
+  },
+  "0030022": {
+    "zipcode": "0030022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "南郷通（南）"
+  },
+  "0030023": {
+    "zipcode": "0030023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "南郷通（北）"
+  },
+  "0030024": {
+    "zipcode": "0030024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "本郷通（南）"
+  },
+  "0030025": {
+    "zipcode": "0030025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "本郷通（北）"
+  },
+  "0030026": {
+    "zipcode": "0030026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "本通（南）"
+  },
+  "0030027": {
+    "zipcode": "0030027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "本通（北）"
+  },
+  "0030028": {
+    "zipcode": "0030028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "平和通（南）"
+  },
+  "0030029": {
+    "zipcode": "0030029",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "平和通（北）"
+  },
+  "0030030": {
+    "zipcode": "0030030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "流通センター"
+  },
+  "0030801": {
+    "zipcode": "0030801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水一条"
+  },
+  "0030802": {
+    "zipcode": "0030802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水二条"
+  },
+  "0030803": {
+    "zipcode": "0030803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水三条"
+  },
+  "0030804": {
+    "zipcode": "0030804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水四条"
+  },
+  "0030805": {
+    "zipcode": "0030805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水五条"
+  },
+  "0030806": {
+    "zipcode": "0030806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水六条"
+  },
+  "0030807": {
+    "zipcode": "0030807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水七条"
+  },
+  "0030808": {
+    "zipcode": "0030808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水八条"
+  },
+  "0030809": {
+    "zipcode": "0030809",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水九条"
+  },
+  "0030811": {
+    "zipcode": "0030811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水上町一条"
+  },
+  "0030812": {
+    "zipcode": "0030812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水上町二条"
+  },
+  "0030813": {
+    "zipcode": "0030813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水上町三条"
+  },
+  "0030814": {
+    "zipcode": "0030814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水上町四条"
+  },
+  "0030821": {
+    "zipcode": "0030821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町一条"
+  },
+  "0030822": {
+    "zipcode": "0030822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町二条"
+  },
+  "0030823": {
+    "zipcode": "0030823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町三条"
+  },
+  "0030824": {
+    "zipcode": "0030824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町四条"
+  },
+  "0030825": {
+    "zipcode": "0030825",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町五条"
+  },
+  "0030826": {
+    "zipcode": "0030826",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町六条"
+  },
+  "0030827": {
+    "zipcode": "0030827",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町七条"
+  },
+  "0030828": {
+    "zipcode": "0030828",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町八条"
+  },
+  "0030829": {
+    "zipcode": "0030829",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町九条"
+  },
+  "0030830": {
+    "zipcode": "0030830",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "菊水元町十条"
+  },
+  "0030831": {
+    "zipcode": "0030831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷一条"
+  },
+  "0030832": {
+    "zipcode": "0030832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷二条"
+  },
+  "0030833": {
+    "zipcode": "0030833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷三条"
+  },
+  "0030834": {
+    "zipcode": "0030834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷四条"
+  },
+  "0030835": {
+    "zipcode": "0030835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷五条"
+  },
+  "0030836": {
+    "zipcode": "0030836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷六条"
+  },
+  "0030837": {
+    "zipcode": "0030837",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷七条"
+  },
+  "0030838": {
+    "zipcode": "0030838",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷八条"
+  },
+  "0030839": {
+    "zipcode": "0030839",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷九条"
+  },
+  "0030840": {
+    "zipcode": "0030840",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷十条"
+  },
+  "0030849": {
+    "zipcode": "0030849",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "北郷"
+  },
+  "0030851": {
+    "zipcode": "0030851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北一条"
+  },
+  "0030852": {
+    "zipcode": "0030852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北二条"
+  },
+  "0030853": {
+    "zipcode": "0030853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北三条"
+  },
+  "0030854": {
+    "zipcode": "0030854",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北四条"
+  },
+  "0030855": {
+    "zipcode": "0030855",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北五条"
+  },
+  "0030859": {
+    "zipcode": "0030859",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川北"
+  },
+  "0030861": {
+    "zipcode": "0030861",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下一条"
+  },
+  "0030862": {
+    "zipcode": "0030862",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下二条"
+  },
+  "0030863": {
+    "zipcode": "0030863",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下三条"
+  },
+  "0030864": {
+    "zipcode": "0030864",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下四条"
+  },
+  "0030865": {
+    "zipcode": "0030865",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下五条"
+  },
+  "0030869": {
+    "zipcode": "0030869",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "川下"
+  },
+  "0030871": {
+    "zipcode": "0030871",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "米里一条"
+  },
+  "0030872": {
+    "zipcode": "0030872",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "米里二条"
+  },
+  "0030873": {
+    "zipcode": "0030873",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "米里三条"
+  },
+  "0030874": {
+    "zipcode": "0030874",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "米里四条"
+  },
+  "0030875": {
+    "zipcode": "0030875",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "米里五条"
+  },
+  "0030876": {
+    "zipcode": "0030876",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市白石区",
+    "town": "東米里"
+  }
+}

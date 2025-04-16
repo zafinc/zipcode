@@ -1,0 +1,578 @@
+{
+  "0760000": {
+    "zipcode": "0760000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "以下に掲載がない場合"
+  },
+  "0760001": {
+    "zipcode": "0760001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北扇山"
+  },
+  "0760002": {
+    "zipcode": "0760002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南扇山"
+  },
+  "0760003": {
+    "zipcode": "0760003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "布部石綿"
+  },
+  "0760004": {
+    "zipcode": "0760004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "布部市街地"
+  },
+  "0760005": {
+    "zipcode": "0760005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "布部一"
+  },
+  "0760006": {
+    "zipcode": "0760006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西扇山"
+  },
+  "0760007": {
+    "zipcode": "0760007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南町"
+  },
+  "0760008": {
+    "zipcode": "0760008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "扇町"
+  },
+  "0760011": {
+    "zipcode": "0760011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "末広町"
+  },
+  "0760012": {
+    "zipcode": "0760012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "下五区"
+  },
+  "0760013": {
+    "zipcode": "0760013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "中五区"
+  },
+  "0760014": {
+    "zipcode": "0760014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "上五区"
+  },
+  "0760015": {
+    "zipcode": "0760015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "上御料"
+  },
+  "0760016": {
+    "zipcode": "0760016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "中御料"
+  },
+  "0760017": {
+    "zipcode": "0760017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "下御料"
+  },
+  "0760018": {
+    "zipcode": "0760018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "弥生町"
+  },
+  "0760021": {
+    "zipcode": "0760021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "緑町"
+  },
+  "0760022": {
+    "zipcode": "0760022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "若葉町"
+  },
+  "0760023": {
+    "zipcode": "0760023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "栄町"
+  },
+  "0760024": {
+    "zipcode": "0760024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "幸町"
+  },
+  "0760025": {
+    "zipcode": "0760025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "日の出町"
+  },
+  "0760026": {
+    "zipcode": "0760026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "朝日町"
+  },
+  "0760027": {
+    "zipcode": "0760027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "花園町"
+  },
+  "0760028": {
+    "zipcode": "0760028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "錦町"
+  },
+  "0760031": {
+    "zipcode": "0760031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "本町"
+  },
+  "0760032": {
+    "zipcode": "0760032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "若松町"
+  },
+  "0760033": {
+    "zipcode": "0760033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "新富町"
+  },
+  "0760034": {
+    "zipcode": "0760034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北の峰町"
+  },
+  "0760035": {
+    "zipcode": "0760035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "学田三区"
+  },
+  "0760036": {
+    "zipcode": "0760036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "島ノ下"
+  },
+  "0760037": {
+    "zipcode": "0760037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西町"
+  },
+  "0760038": {
+    "zipcode": "0760038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "桂木町"
+  },
+  "0760039": {
+    "zipcode": "0760039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "信濃沢"
+  },
+  "0760041": {
+    "zipcode": "0760041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東鳥沼"
+  },
+  "0760042": {
+    "zipcode": "0760042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西鳥沼"
+  },
+  "0760043": {
+    "zipcode": "0760043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南大沼"
+  },
+  "0760044": {
+    "zipcode": "0760044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北大沼"
+  },
+  "0760045": {
+    "zipcode": "0760045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東学田二区"
+  },
+  "0760046": {
+    "zipcode": "0760046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北斗町"
+  },
+  "0760047": {
+    "zipcode": "0760047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西学田二区"
+  },
+  "0760048": {
+    "zipcode": "0760048",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "清水山"
+  },
+  "0760050": {
+    "zipcode": "0760050",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東雲町"
+  },
+  "0760051": {
+    "zipcode": "0760051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東麻町"
+  },
+  "0760052": {
+    "zipcode": "0760052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南麻町"
+  },
+  "0760053": {
+    "zipcode": "0760053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東町"
+  },
+  "0760054": {
+    "zipcode": "0760054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "春日町"
+  },
+  "0760055": {
+    "zipcode": "0760055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西麻町"
+  },
+  "0760056": {
+    "zipcode": "0760056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "瑞穂町"
+  },
+  "0760057": {
+    "zipcode": "0760057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "住吉町"
+  },
+  "0760058": {
+    "zipcode": "0760058",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "新光町"
+  },
+  "0760059": {
+    "zipcode": "0760059",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北麻町"
+  },
+  "0760081": {
+    "zipcode": "0760081",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "芦別市",
+    "town": "泉"
+  },
+  "0760161": {
+    "zipcode": "0760161",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "麓郷市街地"
+  },
+  "0760162": {
+    "zipcode": "0760162",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東麓郷"
+  },
+  "0760163": {
+    "zipcode": "0760163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西麓郷"
+  },
+  "0760164": {
+    "zipcode": "0760164",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南麓郷"
+  },
+  "0760165": {
+    "zipcode": "0760165",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北麓郷"
+  },
+  "0760171": {
+    "zipcode": "0760171",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "布礼別市街地"
+  },
+  "0760172": {
+    "zipcode": "0760172",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東布礼別"
+  },
+  "0760173": {
+    "zipcode": "0760173",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西布礼別"
+  },
+  "0760174": {
+    "zipcode": "0760174",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "南布礼別"
+  },
+  "0760175": {
+    "zipcode": "0760175",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "北布礼別"
+  },
+  "0760176": {
+    "zipcode": "0760176",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "中布礼別"
+  },
+  "0760181": {
+    "zipcode": "0760181",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東富丘"
+  },
+  "0760182": {
+    "zipcode": "0760182",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西富丘"
+  },
+  "0760183": {
+    "zipcode": "0760183",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "富丘更生"
+  },
+  "0760184": {
+    "zipcode": "0760184",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "八幡丘"
+  },
+  "0760201": {
+    "zipcode": "0760201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "西達布"
+  },
+  "0760202": {
+    "zipcode": "0760202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "東山（その他）"
+  },
+  "0760203": {
+    "zipcode": "0760203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "老節布"
+  },
+  "0760204": {
+    "zipcode": "0760204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "富良野市",
+    "town": "平沢"
+  }
+}

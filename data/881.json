@@ -1,0 +1,426 @@
+{
+  "8810000": {
+    "zipcode": "8810000",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "以下に掲載がない場合"
+  },
+  "8810001": {
+    "zipcode": "8810001",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "岡富"
+  },
+  "8810002": {
+    "zipcode": "8810002",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "黒生野"
+  },
+  "8810003": {
+    "zipcode": "8810003",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "右松"
+  },
+  "8810004": {
+    "zipcode": "8810004",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "清水"
+  },
+  "8810005": {
+    "zipcode": "8810005",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "三宅"
+  },
+  "8810006": {
+    "zipcode": "8810006",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "新町"
+  },
+  "8810011": {
+    "zipcode": "8810011",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "有吉町"
+  },
+  "8810012": {
+    "zipcode": "8810012",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "小野崎"
+  },
+  "8810013": {
+    "zipcode": "8810013",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "小野崎町"
+  },
+  "8810014": {
+    "zipcode": "8810014",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "下妻"
+  },
+  "8810015": {
+    "zipcode": "8810015",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "聖陵町"
+  },
+  "8810016": {
+    "zipcode": "8810016",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "御舟町"
+  },
+  "8810021": {
+    "zipcode": "8810021",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "上町"
+  },
+  "8810022": {
+    "zipcode": "8810022",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "桜川町"
+  },
+  "8810023": {
+    "zipcode": "8810023",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "調殿"
+  },
+  "8810024": {
+    "zipcode": "8810024",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "中妻"
+  },
+  "8810025": {
+    "zipcode": "8810025",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "童子丸"
+  },
+  "8810026": {
+    "zipcode": "8810026",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "穂北"
+  },
+  "8810027": {
+    "zipcode": "8810027",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "南方"
+  },
+  "8810031": {
+    "zipcode": "8810031",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "旭"
+  },
+  "8810032": {
+    "zipcode": "8810032",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "白馬町"
+  },
+  "8810033": {
+    "zipcode": "8810033",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "妻"
+  },
+  "8810034": {
+    "zipcode": "8810034",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "妻町"
+  },
+  "8810035": {
+    "zipcode": "8810035",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "中央町"
+  },
+  "8810036": {
+    "zipcode": "8810036",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "水流崎町"
+  },
+  "8810037": {
+    "zipcode": "8810037",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "茶臼原"
+  },
+  "8810101": {
+    "zipcode": "8810101",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "三納"
+  },
+  "8810102": {
+    "zipcode": "8810102",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "平郡"
+  },
+  "8810103": {
+    "zipcode": "8810103",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "加勢"
+  },
+  "8810104": {
+    "zipcode": "8810104",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "鹿野田"
+  },
+  "8810105": {
+    "zipcode": "8810105",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "都於郡町"
+  },
+  "8810106": {
+    "zipcode": "8810106",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "岩爪"
+  },
+  "8810111": {
+    "zipcode": "8810111",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "荒武"
+  },
+  "8810112": {
+    "zipcode": "8810112",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "山田"
+  },
+  "8810113": {
+    "zipcode": "8810113",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "下三財"
+  },
+  "8810114": {
+    "zipcode": "8810114",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "藤田"
+  },
+  "8810115": {
+    "zipcode": "8810115",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "上三財"
+  },
+  "8810116": {
+    "zipcode": "8810116",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "寒川"
+  },
+  "8811121": {
+    "zipcode": "8811121",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "尾八重"
+  },
+  "8811122": {
+    "zipcode": "8811122",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "片内"
+  },
+  "8811123": {
+    "zipcode": "8811123",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "中尾"
+  },
+  "8811231": {
+    "zipcode": "8811231",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "上揚"
+  },
+  "8811232": {
+    "zipcode": "8811232",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "銀鏡"
+  },
+  "8811233": {
+    "zipcode": "8811233",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "西都市",
+    "town": "八重"
+  },
+  "8811301": {
+    "zipcode": "8811301",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "越野尾"
+  },
+  "8811302": {
+    "zipcode": "8811302",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "小川"
+  },
+  "8811303": {
+    "zipcode": "8811303",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "横野"
+  },
+  "8811400": {
+    "zipcode": "8811400",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "以下に掲載がない場合"
+  },
+  "8811411": {
+    "zipcode": "8811411",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "村所"
+  },
+  "8811412": {
+    "zipcode": "8811412",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "板谷"
+  },
+  "8811413": {
+    "zipcode": "8811413",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "上米良"
+  },
+  "8811414": {
+    "zipcode": "8811414",
+    "prefectureCode": "45",
+    "prefectureNumber": 45,
+    "prefecture": "宮崎県",
+    "city": "児湯郡西米良村",
+    "town": "竹原"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "0050000": {
+    "zipcode": "0050000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "以下に掲載がない場合"
+  },
+  "0050001": {
+    "zipcode": "0050001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川一条"
+  },
+  "0050002": {
+    "zipcode": "0050002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川二条"
+  },
+  "0050003": {
+    "zipcode": "0050003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川三条"
+  },
+  "0050004": {
+    "zipcode": "0050004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川四条"
+  },
+  "0050005": {
+    "zipcode": "0050005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川五条"
+  },
+  "0050006": {
+    "zipcode": "0050006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川六条"
+  },
+  "0050007": {
+    "zipcode": "0050007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "澄川"
+  },
+  "0050008": {
+    "zipcode": "0050008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内（１７番地）"
+  },
+  "0050011": {
+    "zipcode": "0050011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内東町"
+  },
+  "0050012": {
+    "zipcode": "0050012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内上町"
+  },
+  "0050013": {
+    "zipcode": "0050013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内緑町"
+  },
+  "0050014": {
+    "zipcode": "0050014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内幸町"
+  },
+  "0050015": {
+    "zipcode": "0050015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内泉町"
+  },
+  "0050016": {
+    "zipcode": "0050016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内南町"
+  },
+  "0050017": {
+    "zipcode": "0050017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内公園"
+  },
+  "0050018": {
+    "zipcode": "0050018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内曙町"
+  },
+  "0050021": {
+    "zipcode": "0050021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内本町"
+  },
+  "0050022": {
+    "zipcode": "0050022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内柏丘"
+  },
+  "0050030": {
+    "zipcode": "0050030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十条西（８丁目）"
+  },
+  "0050031": {
+    "zipcode": "0050031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十一条西"
+  },
+  "0050032": {
+    "zipcode": "0050032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十二条西"
+  },
+  "0050033": {
+    "zipcode": "0050033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十三条西"
+  },
+  "0050034": {
+    "zipcode": "0050034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十四条西"
+  },
+  "0050035": {
+    "zipcode": "0050035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十五条西"
+  },
+  "0050036": {
+    "zipcode": "0050036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十六条西"
+  },
+  "0050037": {
+    "zipcode": "0050037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十七条西"
+  },
+  "0050038": {
+    "zipcode": "0050038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十八条西"
+  },
+  "0050039": {
+    "zipcode": "0050039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南三十九条西"
+  },
+  "0050040": {
+    "zipcode": "0050040",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "藻岩下"
+  },
+  "0050041": {
+    "zipcode": "0050041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "藻岩山"
+  },
+  "0050801": {
+    "zipcode": "0050801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿一条"
+  },
+  "0050802": {
+    "zipcode": "0050802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿二条"
+  },
+  "0050803": {
+    "zipcode": "0050803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿三条"
+  },
+  "0050804": {
+    "zipcode": "0050804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿四条"
+  },
+  "0050805": {
+    "zipcode": "0050805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿五条"
+  },
+  "0050806": {
+    "zipcode": "0050806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿六条"
+  },
+  "0050807": {
+    "zipcode": "0050807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿七条"
+  },
+  "0050808": {
+    "zipcode": "0050808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿八条"
+  },
+  "0050809": {
+    "zipcode": "0050809",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿九条"
+  },
+  "0050810": {
+    "zipcode": "0050810",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十条"
+  },
+  "0050811": {
+    "zipcode": "0050811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十一条"
+  },
+  "0050812": {
+    "zipcode": "0050812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十二条"
+  },
+  "0050813": {
+    "zipcode": "0050813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十三条"
+  },
+  "0050814": {
+    "zipcode": "0050814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十四条"
+  },
+  "0050815": {
+    "zipcode": "0050815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十五条"
+  },
+  "0050816": {
+    "zipcode": "0050816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十六条"
+  },
+  "0050817": {
+    "zipcode": "0050817",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十七条"
+  },
+  "0050818": {
+    "zipcode": "0050818",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "川沿十八条"
+  },
+  "0050821": {
+    "zipcode": "0050821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢一条"
+  },
+  "0050822": {
+    "zipcode": "0050822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢二条"
+  },
+  "0050823": {
+    "zipcode": "0050823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢三条"
+  },
+  "0050824": {
+    "zipcode": "0050824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢四条"
+  },
+  "0050825": {
+    "zipcode": "0050825",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢五条"
+  },
+  "0050826": {
+    "zipcode": "0050826",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢六条"
+  },
+  "0050827": {
+    "zipcode": "0050827",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "南沢"
+  },
+  "0050830": {
+    "zipcode": "0050830",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "砥石山"
+  },
+  "0050831": {
+    "zipcode": "0050831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "中ノ沢"
+  },
+  "0050832": {
+    "zipcode": "0050832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "北ノ沢"
+  },
+  "0050840": {
+    "zipcode": "0050840",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "藤野（４００、４００−２番地）"
+  },
+  "0050841": {
+    "zipcode": "0050841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山一条"
+  },
+  "0050842": {
+    "zipcode": "0050842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山二条"
+  },
+  "0050843": {
+    "zipcode": "0050843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山三条"
+  },
+  "0050844": {
+    "zipcode": "0050844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山四条"
+  },
+  "0050849": {
+    "zipcode": "0050849",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山"
+  },
+  "0050850": {
+    "zipcode": "0050850",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "石山東"
+  },
+  "0050851": {
+    "zipcode": "0050851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤一条"
+  },
+  "0050852": {
+    "zipcode": "0050852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤二条"
+  },
+  "0050853": {
+    "zipcode": "0050853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤三条"
+  },
+  "0050854": {
+    "zipcode": "0050854",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤四条"
+  },
+  "0050855": {
+    "zipcode": "0050855",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤五条"
+  },
+  "0050856": {
+    "zipcode": "0050856",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤六条"
+  },
+  "0050861": {
+    "zipcode": "0050861",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "真駒内（その他）"
+  },
+  "0050862": {
+    "zipcode": "0050862",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "滝野"
+  },
+  "0050863": {
+    "zipcode": "0050863",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤（その他）"
+  },
+  "0050864": {
+    "zipcode": "0050864",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "芸術の森"
+  },
+  "0050865": {
+    "zipcode": "0050865",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "town": "常盤（１〜１３１番地）"
+  }
+}

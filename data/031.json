@@ -1,0 +1,650 @@
+{
+  "0310000": {
+    "zipcode": "0310000",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "以下に掲載がない場合"
+  },
+  "0310001": {
+    "zipcode": "0310001",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "類家"
+  },
+  "0310002": {
+    "zipcode": "0310002",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "中居林"
+  },
+  "0310003": {
+    "zipcode": "0310003",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "吹上"
+  },
+  "0310004": {
+    "zipcode": "0310004",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南類家"
+  },
+  "0310007": {
+    "zipcode": "0310007",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "櫛引（土橋）"
+  },
+  "0310011": {
+    "zipcode": "0310011",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "田向"
+  },
+  "0310012": {
+    "zipcode": "0310012",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "十日市"
+  },
+  "0310013": {
+    "zipcode": "0310013",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "石手洗"
+  },
+  "0310021": {
+    "zipcode": "0310021",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "長者"
+  },
+  "0310022": {
+    "zipcode": "0310022",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "糠塚"
+  },
+  "0310023": {
+    "zipcode": "0310023",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "是川"
+  },
+  "0310031": {
+    "zipcode": "0310031",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "番町"
+  },
+  "0310032": {
+    "zipcode": "0310032",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "三日町"
+  },
+  "0310033": {
+    "zipcode": "0310033",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "六日町"
+  },
+  "0310034": {
+    "zipcode": "0310034",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "鷹匠小路"
+  },
+  "0310035": {
+    "zipcode": "0310035",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "寺横町"
+  },
+  "0310036": {
+    "zipcode": "0310036",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "大工町"
+  },
+  "0310037": {
+    "zipcode": "0310037",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "鍛冶町"
+  },
+  "0310038": {
+    "zipcode": "0310038",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "山伏小路"
+  },
+  "0310039": {
+    "zipcode": "0310039",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "鳥屋部町"
+  },
+  "0310041": {
+    "zipcode": "0310041",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "廿三日町"
+  },
+  "0310042": {
+    "zipcode": "0310042",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "十三日町"
+  },
+  "0310043": {
+    "zipcode": "0310043",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "十六日町"
+  },
+  "0310044": {
+    "zipcode": "0310044",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "廿六日町"
+  },
+  "0310045": {
+    "zipcode": "0310045",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "本鍛冶町"
+  },
+  "0310046": {
+    "zipcode": "0310046",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "町組町"
+  },
+  "0310047": {
+    "zipcode": "0310047",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "常番町"
+  },
+  "0310051": {
+    "zipcode": "0310051",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "堤町"
+  },
+  "0310052": {
+    "zipcode": "0310052",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "本徒士町"
+  },
+  "0310053": {
+    "zipcode": "0310053",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "徒士町"
+  },
+  "0310054": {
+    "zipcode": "0310054",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "稲荷町"
+  },
+  "0310055": {
+    "zipcode": "0310055",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "荒町"
+  },
+  "0310056": {
+    "zipcode": "0310056",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "新荒町"
+  },
+  "0310057": {
+    "zipcode": "0310057",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "上徒士町"
+  },
+  "0310058": {
+    "zipcode": "0310058",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "上組町"
+  },
+  "0310071": {
+    "zipcode": "0310071",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "沼館"
+  },
+  "0310072": {
+    "zipcode": "0310072",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "城下"
+  },
+  "0310073": {
+    "zipcode": "0310073",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "売市"
+  },
+  "0310074": {
+    "zipcode": "0310074",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "馬場町"
+  },
+  "0310075": {
+    "zipcode": "0310075",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "内丸"
+  },
+  "0310076": {
+    "zipcode": "0310076",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "堀端町"
+  },
+  "0310077": {
+    "zipcode": "0310077",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "長根"
+  },
+  "0310081": {
+    "zipcode": "0310081",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "柏崎"
+  },
+  "0310082": {
+    "zipcode": "0310082",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "常海町"
+  },
+  "0310083": {
+    "zipcode": "0310083",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "窪町"
+  },
+  "0310084": {
+    "zipcode": "0310084",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "十八日町"
+  },
+  "0310085": {
+    "zipcode": "0310085",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "十一日町"
+  },
+  "0310086": {
+    "zipcode": "0310086",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "八日町"
+  },
+  "0310087": {
+    "zipcode": "0310087",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "朔日町"
+  },
+  "0310088": {
+    "zipcode": "0310088",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "岩泉町"
+  },
+  "0310089": {
+    "zipcode": "0310089",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "長横町"
+  },
+  "0310111": {
+    "zipcode": "0310111",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷市野沢"
+  },
+  "0310112": {
+    "zipcode": "0310112",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷大森"
+  },
+  "0310113": {
+    "zipcode": "0310113",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷泉清水"
+  },
+  "0310114": {
+    "zipcode": "0310114",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷中野"
+  },
+  "0310115": {
+    "zipcode": "0310115",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷泥障作"
+  },
+  "0310201": {
+    "zipcode": "0310201",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷頃巻沢"
+  },
+  "0310202": {
+    "zipcode": "0310202",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "南郷島守"
+  },
+  "0310801": {
+    "zipcode": "0310801",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "江陽"
+  },
+  "0310802": {
+    "zipcode": "0310802",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "小中野"
+  },
+  "0310803": {
+    "zipcode": "0310803",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "諏訪"
+  },
+  "0310804": {
+    "zipcode": "0310804",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "青葉"
+  },
+  "0310811": {
+    "zipcode": "0310811",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "新湊"
+  },
+  "0310812": {
+    "zipcode": "0310812",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "湊町"
+  },
+  "0310813": {
+    "zipcode": "0310813",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "新井田"
+  },
+  "0310814": {
+    "zipcode": "0310814",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "妙"
+  },
+  "0310815": {
+    "zipcode": "0310815",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "松館"
+  },
+  "0310816": {
+    "zipcode": "0310816",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "新井田西"
+  },
+  "0310821": {
+    "zipcode": "0310821",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "白銀"
+  },
+  "0310822": {
+    "zipcode": "0310822",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "白銀町"
+  },
+  "0310823": {
+    "zipcode": "0310823",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "湊高台"
+  },
+  "0310824": {
+    "zipcode": "0310824",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "旭ケ丘"
+  },
+  "0310831": {
+    "zipcode": "0310831",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "築港街"
+  },
+  "0310832": {
+    "zipcode": "0310832",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "白銀台"
+  },
+  "0310833": {
+    "zipcode": "0310833",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "大久保"
+  },
+  "0310834": {
+    "zipcode": "0310834",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "桜ケ丘"
+  },
+  "0310841": {
+    "zipcode": "0310841",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "鮫町"
+  },
+  "0310842": {
+    "zipcode": "0310842",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "岬台"
+  },
+  "0310843": {
+    "zipcode": "0310843",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "金浜"
+  },
+  "0310844": {
+    "zipcode": "0310844",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "八戸市",
+    "town": "美保野"
+  }
+}

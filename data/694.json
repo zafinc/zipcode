@@ -1,0 +1,338 @@
+{
+  "6940000": {
+    "zipcode": "6940000",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "以下に掲載がない場合"
+  },
+  "6940001": {
+    "zipcode": "6940001",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "山口町佐津目"
+  },
+  "6940002": {
+    "zipcode": "6940002",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "山口町山口"
+  },
+  "6940003": {
+    "zipcode": "6940003",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町多根"
+  },
+  "6940004": {
+    "zipcode": "6940004",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町野城"
+  },
+  "6940011": {
+    "zipcode": "6940011",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "川合町川合"
+  },
+  "6940012": {
+    "zipcode": "6940012",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "川合町忍原"
+  },
+  "6940013": {
+    "zipcode": "6940013",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "川合町吉永"
+  },
+  "6940021": {
+    "zipcode": "6940021",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久利町行恒"
+  },
+  "6940022": {
+    "zipcode": "6940022",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久利町市原"
+  },
+  "6940023": {
+    "zipcode": "6940023",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久利町佐摩"
+  },
+  "6940024": {
+    "zipcode": "6940024",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久利町久利"
+  },
+  "6940025": {
+    "zipcode": "6940025",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久利町松代"
+  },
+  "6940031": {
+    "zipcode": "6940031",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "静間町"
+  },
+  "6940032": {
+    "zipcode": "6940032",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大屋町鬼村"
+  },
+  "6940033": {
+    "zipcode": "6940033",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大屋町大国"
+  },
+  "6940034": {
+    "zipcode": "6940034",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大屋町大屋"
+  },
+  "6940035": {
+    "zipcode": "6940035",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "五十猛町"
+  },
+  "6940041": {
+    "zipcode": "6940041",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "長久町長久"
+  },
+  "6940042": {
+    "zipcode": "6940042",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "長久町稲用"
+  },
+  "6940043": {
+    "zipcode": "6940043",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "長久町延里"
+  },
+  "6940044": {
+    "zipcode": "6940044",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "長久町土江"
+  },
+  "6940051": {
+    "zipcode": "6940051",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久手町波根西"
+  },
+  "6940052": {
+    "zipcode": "6940052",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "久手町刺鹿"
+  },
+  "6940053": {
+    "zipcode": "6940053",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "鳥井町鳥越"
+  },
+  "6940054": {
+    "zipcode": "6940054",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "鳥井町鳥井"
+  },
+  "6940061": {
+    "zipcode": "6940061",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "富山町山中（押ケ峠）"
+  },
+  "6940062": {
+    "zipcode": "6940062",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大田町野城"
+  },
+  "6940063": {
+    "zipcode": "6940063",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大田町吉永"
+  },
+  "6940064": {
+    "zipcode": "6940064",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大田町大田"
+  },
+  "6940221": {
+    "zipcode": "6940221",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町上山"
+  },
+  "6940222": {
+    "zipcode": "6940222",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町志学"
+  },
+  "6940223": {
+    "zipcode": "6940223",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町池田"
+  },
+  "6940224": {
+    "zipcode": "6940224",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "三瓶町小屋原"
+  },
+  "6940301": {
+    "zipcode": "6940301",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "水上町荻原"
+  },
+  "6940302": {
+    "zipcode": "6940302",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "水上町福原"
+  },
+  "6940303": {
+    "zipcode": "6940303",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "水上町白坏"
+  },
+  "6940304": {
+    "zipcode": "6940304",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "水上町三久須"
+  },
+  "6940305": {
+    "zipcode": "6940305",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大森町"
+  },
+  "6940431": {
+    "zipcode": "6940431",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "祖式町"
+  },
+  "6940432": {
+    "zipcode": "6940432",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大代町新屋"
+  },
+  "6940433": {
+    "zipcode": "6940433",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "大田市",
+    "town": "大代町大家"
+  }
+}

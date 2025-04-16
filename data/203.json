@@ -1,0 +1,194 @@
+{
+  "2030000": {
+    "zipcode": "2030000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "以下に掲載がない場合"
+  },
+  "2030001": {
+    "zipcode": "2030001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "上の原"
+  },
+  "2030002": {
+    "zipcode": "2030002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "神宝町"
+  },
+  "2030003": {
+    "zipcode": "2030003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "金山町"
+  },
+  "2030004": {
+    "zipcode": "2030004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "氷川台"
+  },
+  "2030011": {
+    "zipcode": "2030011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "大門町"
+  },
+  "2030012": {
+    "zipcode": "2030012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "浅間町"
+  },
+  "2030013": {
+    "zipcode": "2030013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "新川町"
+  },
+  "2030014": {
+    "zipcode": "2030014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "東本町"
+  },
+  "2030021": {
+    "zipcode": "2030021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "学園町"
+  },
+  "2030022": {
+    "zipcode": "2030022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "ひばりが丘団地"
+  },
+  "2030023": {
+    "zipcode": "2030023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "南沢"
+  },
+  "2030031": {
+    "zipcode": "2030031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "南町"
+  },
+  "2030032": {
+    "zipcode": "2030032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "前沢"
+  },
+  "2030033": {
+    "zipcode": "2030033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "滝山"
+  },
+  "2030034": {
+    "zipcode": "2030034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "弥生"
+  },
+  "2030041": {
+    "zipcode": "2030041",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "野火止"
+  },
+  "2030042": {
+    "zipcode": "2030042",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "八幡町"
+  },
+  "2030043": {
+    "zipcode": "2030043",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "下里"
+  },
+  "2030044": {
+    "zipcode": "2030044",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "柳窪"
+  },
+  "2030051": {
+    "zipcode": "2030051",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "小山"
+  },
+  "2030052": {
+    "zipcode": "2030052",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "幸町"
+  },
+  "2030053": {
+    "zipcode": "2030053",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "本町"
+  },
+  "2030054": {
+    "zipcode": "2030054",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "town": "中央町"
+  }
+}

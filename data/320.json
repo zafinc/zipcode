@@ -1,0 +1,874 @@
+{
+  "3200001": {
+    "zipcode": "3200001",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "横山町"
+  },
+  "3200002": {
+    "zipcode": "3200002",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "瓦谷町"
+  },
+  "3200003": {
+    "zipcode": "3200003",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "豊郷台"
+  },
+  "3200004": {
+    "zipcode": "3200004",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "長岡町"
+  },
+  "3200005": {
+    "zipcode": "3200005",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "横山"
+  },
+  "3200011": {
+    "zipcode": "3200011",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "富士見が丘"
+  },
+  "3200012": {
+    "zipcode": "3200012",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "山本"
+  },
+  "3200013": {
+    "zipcode": "3200013",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "上大曽町"
+  },
+  "3200014": {
+    "zipcode": "3200014",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "大曽"
+  },
+  "3200015": {
+    "zipcode": "3200015",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "八幡台"
+  },
+  "3200016": {
+    "zipcode": "3200016",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "山本町"
+  },
+  "3200017": {
+    "zipcode": "3200017",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "戸祭台"
+  },
+  "3200021": {
+    "zipcode": "3200021",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "東塙田"
+  },
+  "3200022": {
+    "zipcode": "3200022",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "千波町"
+  },
+  "3200023": {
+    "zipcode": "3200023",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "仲町"
+  },
+  "3200024": {
+    "zipcode": "3200024",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "栄町"
+  },
+  "3200025": {
+    "zipcode": "3200025",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "宮町"
+  },
+  "3200026": {
+    "zipcode": "3200026",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "馬場通り"
+  },
+  "3200027": {
+    "zipcode": "3200027",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "塙田"
+  },
+  "3200031": {
+    "zipcode": "3200031",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "戸祭元町"
+  },
+  "3200032": {
+    "zipcode": "3200032",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "昭和"
+  },
+  "3200033": {
+    "zipcode": "3200033",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "本町"
+  },
+  "3200034": {
+    "zipcode": "3200034",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "泉町"
+  },
+  "3200035": {
+    "zipcode": "3200035",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "伝馬町"
+  },
+  "3200036": {
+    "zipcode": "3200036",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "小幡"
+  },
+  "3200037": {
+    "zipcode": "3200037",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "清住"
+  },
+  "3200038": {
+    "zipcode": "3200038",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "星が丘"
+  },
+  "3200041": {
+    "zipcode": "3200041",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "松原"
+  },
+  "3200042": {
+    "zipcode": "3200042",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "材木町"
+  },
+  "3200043": {
+    "zipcode": "3200043",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "桜"
+  },
+  "3200044": {
+    "zipcode": "3200044",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "南一の沢町"
+  },
+  "3200045": {
+    "zipcode": "3200045",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中一の沢町"
+  },
+  "3200046": {
+    "zipcode": "3200046",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西一の沢町"
+  },
+  "3200047": {
+    "zipcode": "3200047",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "一の沢"
+  },
+  "3200048": {
+    "zipcode": "3200048",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "北一の沢町"
+  },
+  "3200049": {
+    "zipcode": "3200049",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "一ノ沢町"
+  },
+  "3200051": {
+    "zipcode": "3200051",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "上戸祭町"
+  },
+  "3200052": {
+    "zipcode": "3200052",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中戸祭町"
+  },
+  "3200053": {
+    "zipcode": "3200053",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "戸祭町"
+  },
+  "3200054": {
+    "zipcode": "3200054",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "東戸祭"
+  },
+  "3200055": {
+    "zipcode": "3200055",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "下戸祭"
+  },
+  "3200056": {
+    "zipcode": "3200056",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "戸祭"
+  },
+  "3200057": {
+    "zipcode": "3200057",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中戸祭"
+  },
+  "3200058": {
+    "zipcode": "3200058",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "上戸祭"
+  },
+  "3200061": {
+    "zipcode": "3200061",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "宝木町"
+  },
+  "3200062": {
+    "zipcode": "3200062",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "東宝木町"
+  },
+  "3200063": {
+    "zipcode": "3200063",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "陽西町"
+  },
+  "3200064": {
+    "zipcode": "3200064",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西の宮"
+  },
+  "3200065": {
+    "zipcode": "3200065",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "駒生町"
+  },
+  "3200066": {
+    "zipcode": "3200066",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "駒生"
+  },
+  "3200071": {
+    "zipcode": "3200071",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "野沢町"
+  },
+  "3200072": {
+    "zipcode": "3200072",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "若草"
+  },
+  "3200073": {
+    "zipcode": "3200073",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "細谷"
+  },
+  "3200074": {
+    "zipcode": "3200074",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "細谷町"
+  },
+  "3200075": {
+    "zipcode": "3200075",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "宝木本町"
+  },
+  "3200801": {
+    "zipcode": "3200801",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "池上町"
+  },
+  "3200802": {
+    "zipcode": "3200802",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "江野町"
+  },
+  "3200803": {
+    "zipcode": "3200803",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "曲師町"
+  },
+  "3200804": {
+    "zipcode": "3200804",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "二荒町"
+  },
+  "3200805": {
+    "zipcode": "3200805",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中央本町"
+  },
+  "3200806": {
+    "zipcode": "3200806",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中央"
+  },
+  "3200807": {
+    "zipcode": "3200807",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "松が峰"
+  },
+  "3200808": {
+    "zipcode": "3200808",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "宮園町"
+  },
+  "3200811": {
+    "zipcode": "3200811",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "大通り"
+  },
+  "3200812": {
+    "zipcode": "3200812",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "一番町"
+  },
+  "3200813": {
+    "zipcode": "3200813",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "二番町"
+  },
+  "3200814": {
+    "zipcode": "3200814",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "三番町"
+  },
+  "3200815": {
+    "zipcode": "3200815",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "中河原町"
+  },
+  "3200816": {
+    "zipcode": "3200816",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "天神"
+  },
+  "3200817": {
+    "zipcode": "3200817",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "本丸町"
+  },
+  "3200818": {
+    "zipcode": "3200818",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "旭"
+  },
+  "3200821": {
+    "zipcode": "3200821",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "一条"
+  },
+  "3200822": {
+    "zipcode": "3200822",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "河原町"
+  },
+  "3200823": {
+    "zipcode": "3200823",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "御蔵町"
+  },
+  "3200824": {
+    "zipcode": "3200824",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "下河原"
+  },
+  "3200825": {
+    "zipcode": "3200825",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "下河原町"
+  },
+  "3200826": {
+    "zipcode": "3200826",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西原町"
+  },
+  "3200827": {
+    "zipcode": "3200827",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "花房"
+  },
+  "3200828": {
+    "zipcode": "3200828",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "花房本町"
+  },
+  "3200831": {
+    "zipcode": "3200831",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "新町"
+  },
+  "3200832": {
+    "zipcode": "3200832",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "日の出"
+  },
+  "3200833": {
+    "zipcode": "3200833",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "不動前"
+  },
+  "3200834": {
+    "zipcode": "3200834",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "陽南"
+  },
+  "3200835": {
+    "zipcode": "3200835",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "宮原"
+  },
+  "3200836": {
+    "zipcode": "3200836",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "大和（３丁目）"
+  },
+  "3200837": {
+    "zipcode": "3200837",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "弥生"
+  },
+  "3200838": {
+    "zipcode": "3200838",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "吉野"
+  },
+  "3200841": {
+    "zipcode": "3200841",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "六道町"
+  },
+  "3200842": {
+    "zipcode": "3200842",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "京町"
+  },
+  "3200843": {
+    "zipcode": "3200843",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "花園町"
+  },
+  "3200844": {
+    "zipcode": "3200844",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "菊水町"
+  },
+  "3200845": {
+    "zipcode": "3200845",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "明保野町"
+  },
+  "3200846": {
+    "zipcode": "3200846",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "滝の原"
+  },
+  "3200847": {
+    "zipcode": "3200847",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "滝谷町"
+  },
+  "3200848": {
+    "zipcode": "3200848",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "幸町"
+  },
+  "3200851": {
+    "zipcode": "3200851",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "鶴田町"
+  },
+  "3200852": {
+    "zipcode": "3200852",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "下砥上町"
+  },
+  "3200853": {
+    "zipcode": "3200853",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "下欠町"
+  },
+  "3200854": {
+    "zipcode": "3200854",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "鷺の谷町"
+  },
+  "3200855": {
+    "zipcode": "3200855",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "上欠町"
+  },
+  "3200856": {
+    "zipcode": "3200856",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "砥上町"
+  },
+  "3200857": {
+    "zipcode": "3200857",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "鶴田"
+  },
+  "3200861": {
+    "zipcode": "3200861",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西"
+  },
+  "3200862": {
+    "zipcode": "3200862",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西原"
+  },
+  "3200863": {
+    "zipcode": "3200863",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "操町"
+  },
+  "3200864": {
+    "zipcode": "3200864",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "住吉町"
+  },
+  "3200865": {
+    "zipcode": "3200865",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "睦町"
+  },
+  "3200866": {
+    "zipcode": "3200866",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "西大寛"
+  },
+  "3200867": {
+    "zipcode": "3200867",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "town": "大寛"
+  }
+}

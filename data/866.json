@@ -1,0 +1,938 @@
+{
+  "8660000": {
+    "zipcode": "8660000",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "以下に掲載がない場合"
+  },
+  "8660001": {
+    "zipcode": "8660001",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築十二番町"
+  },
+  "8660002": {
+    "zipcode": "8660002",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築十一番町"
+  },
+  "8660003": {
+    "zipcode": "8660003",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築十番町"
+  },
+  "8660004": {
+    "zipcode": "8660004",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築九番町"
+  },
+  "8660005": {
+    "zipcode": "8660005",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築八番町"
+  },
+  "8660006": {
+    "zipcode": "8660006",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築七番町"
+  },
+  "8660007": {
+    "zipcode": "8660007",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築六番町"
+  },
+  "8660008": {
+    "zipcode": "8660008",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築五番町"
+  },
+  "8660011": {
+    "zipcode": "8660011",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "井揚町"
+  },
+  "8660012": {
+    "zipcode": "8660012",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "高小原町"
+  },
+  "8660013": {
+    "zipcode": "8660013",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "沖町"
+  },
+  "8660014": {
+    "zipcode": "8660014",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "高島町"
+  },
+  "8660015": {
+    "zipcode": "8660015",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "築添町"
+  },
+  "8660016": {
+    "zipcode": "8660016",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "新地町"
+  },
+  "8660017": {
+    "zipcode": "8660017",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "三楽町"
+  },
+  "8660021": {
+    "zipcode": "8660021",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築四番町"
+  },
+  "8660022": {
+    "zipcode": "8660022",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築三番町"
+  },
+  "8660023": {
+    "zipcode": "8660023",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築二番町"
+  },
+  "8660024": {
+    "zipcode": "8660024",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "郡築一番町"
+  },
+  "8660031": {
+    "zipcode": "8660031",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "新浜町"
+  },
+  "8660032": {
+    "zipcode": "8660032",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "新開町"
+  },
+  "8660033": {
+    "zipcode": "8660033",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "港町"
+  },
+  "8660034": {
+    "zipcode": "8660034",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "新港町"
+  },
+  "8660035": {
+    "zipcode": "8660035",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "大島町"
+  },
+  "8660041": {
+    "zipcode": "8660041",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "八幡町"
+  },
+  "8660042": {
+    "zipcode": "8660042",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "蛇籠町"
+  },
+  "8660043": {
+    "zipcode": "8660043",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古城町"
+  },
+  "8660044": {
+    "zipcode": "8660044",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "中北町"
+  },
+  "8660045": {
+    "zipcode": "8660045",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "建馬町"
+  },
+  "8660051": {
+    "zipcode": "8660051",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "麦島東町"
+  },
+  "8660052": {
+    "zipcode": "8660052",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "麦島西町"
+  },
+  "8660053": {
+    "zipcode": "8660053",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "千反町"
+  },
+  "8660054": {
+    "zipcode": "8660054",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "栴檀町"
+  },
+  "8660055": {
+    "zipcode": "8660055",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "迎町"
+  },
+  "8660061": {
+    "zipcode": "8660061",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "渡町"
+  },
+  "8660062": {
+    "zipcode": "8660062",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "豊原中町"
+  },
+  "8660063": {
+    "zipcode": "8660063",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "豊原上町"
+  },
+  "8660064": {
+    "zipcode": "8660064",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "奈良木町"
+  },
+  "8660065": {
+    "zipcode": "8660065",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "豊原下町"
+  },
+  "8660071": {
+    "zipcode": "8660071",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "高下東町"
+  },
+  "8660072": {
+    "zipcode": "8660072",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "高下西町"
+  },
+  "8660073": {
+    "zipcode": "8660073",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "本野町"
+  },
+  "8660074": {
+    "zipcode": "8660074",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "平山新町"
+  },
+  "8660081": {
+    "zipcode": "8660081",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "植柳上町"
+  },
+  "8660082": {
+    "zipcode": "8660082",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "大福寺町"
+  },
+  "8660083": {
+    "zipcode": "8660083",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "植柳下町"
+  },
+  "8660084": {
+    "zipcode": "8660084",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "植柳新町"
+  },
+  "8660085": {
+    "zipcode": "8660085",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "植柳元町"
+  },
+  "8660101": {
+    "zipcode": "8660101",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "town": "姫戸町姫浦"
+  },
+  "8660102": {
+    "zipcode": "8660102",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "town": "姫戸町二間戸"
+  },
+  "8660201": {
+    "zipcode": "8660201",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "town": "龍ケ岳町大道"
+  },
+  "8660202": {
+    "zipcode": "8660202",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "town": "龍ケ岳町高戸"
+  },
+  "8660203": {
+    "zipcode": "8660203",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "上天草市",
+    "town": "龍ケ岳町樋島"
+  },
+  "8660303": {
+    "zipcode": "8660303",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "御所浦町横浦"
+  },
+  "8660313": {
+    "zipcode": "8660313",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "御所浦町御所浦"
+  },
+  "8660334": {
+    "zipcode": "8660334",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "御所浦町牧島"
+  },
+  "8660801": {
+    "zipcode": "8660801",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "東町"
+  },
+  "8660802": {
+    "zipcode": "8660802",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "妙見町"
+  },
+  "8660803": {
+    "zipcode": "8660803",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古麓町"
+  },
+  "8660804": {
+    "zipcode": "8660804",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "西宮町"
+  },
+  "8660805": {
+    "zipcode": "8660805",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "宮地町"
+  },
+  "8660811": {
+    "zipcode": "8660811",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "西片町"
+  },
+  "8660812": {
+    "zipcode": "8660812",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "中片町"
+  },
+  "8660813": {
+    "zipcode": "8660813",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "上片町"
+  },
+  "8660814": {
+    "zipcode": "8660814",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "東片町"
+  },
+  "8660815": {
+    "zipcode": "8660815",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "長田町"
+  },
+  "8660821": {
+    "zipcode": "8660821",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "福正町"
+  },
+  "8660822": {
+    "zipcode": "8660822",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "福正元町"
+  },
+  "8660823": {
+    "zipcode": "8660823",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "十条町"
+  },
+  "8660824": {
+    "zipcode": "8660824",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "上日置町"
+  },
+  "8660825": {
+    "zipcode": "8660825",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "井上町"
+  },
+  "8660826": {
+    "zipcode": "8660826",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "竹原町"
+  },
+  "8660827": {
+    "zipcode": "8660827",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "島田町"
+  },
+  "8660831": {
+    "zipcode": "8660831",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "萩原町"
+  },
+  "8660832": {
+    "zipcode": "8660832",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "末広町"
+  },
+  "8660833": {
+    "zipcode": "8660833",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "夕葉町"
+  },
+  "8660834": {
+    "zipcode": "8660834",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "錦町"
+  },
+  "8660841": {
+    "zipcode": "8660841",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "緑町"
+  },
+  "8660842": {
+    "zipcode": "8660842",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "若草町"
+  },
+  "8660843": {
+    "zipcode": "8660843",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "花園町"
+  },
+  "8660844": {
+    "zipcode": "8660844",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "旭中央通"
+  },
+  "8660845": {
+    "zipcode": "8660845",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "黄金町"
+  },
+  "8660846": {
+    "zipcode": "8660846",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "弥生町"
+  },
+  "8660851": {
+    "zipcode": "8660851",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "毘舎丸町"
+  },
+  "8660852": {
+    "zipcode": "8660852",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "大手町"
+  },
+  "8660853": {
+    "zipcode": "8660853",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "清水町"
+  },
+  "8660854": {
+    "zipcode": "8660854",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "新町"
+  },
+  "8660855": {
+    "zipcode": "8660855",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "袋町"
+  },
+  "8660856": {
+    "zipcode": "8660856",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "通町"
+  },
+  "8660857": {
+    "zipcode": "8660857",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "出町"
+  },
+  "8660861": {
+    "zipcode": "8660861",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "本町"
+  },
+  "8660862": {
+    "zipcode": "8660862",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "松江城町"
+  },
+  "8660863": {
+    "zipcode": "8660863",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "西松江城町"
+  },
+  "8660864": {
+    "zipcode": "8660864",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "塩屋町"
+  },
+  "8660865": {
+    "zipcode": "8660865",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "北の丸町"
+  },
+  "8660866": {
+    "zipcode": "8660866",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "鷹辻町"
+  },
+  "8660871": {
+    "zipcode": "8660871",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "田中東町"
+  },
+  "8660872": {
+    "zipcode": "8660872",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "田中町"
+  },
+  "8660873": {
+    "zipcode": "8660873",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "横手町"
+  },
+  "8660874": {
+    "zipcode": "8660874",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "横手本町"
+  },
+  "8660875": {
+    "zipcode": "8660875",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "横手新町"
+  },
+  "8660876": {
+    "zipcode": "8660876",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "田中西町"
+  },
+  "8660877": {
+    "zipcode": "8660877",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "田中北町"
+  },
+  "8660881": {
+    "zipcode": "8660881",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "興国町"
+  },
+  "8660882": {
+    "zipcode": "8660882",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "松江本町"
+  },
+  "8660883": {
+    "zipcode": "8660883",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "松江町"
+  },
+  "8660884": {
+    "zipcode": "8660884",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "松崎町"
+  },
+  "8660885": {
+    "zipcode": "8660885",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "永碇町"
+  },
+  "8660891": {
+    "zipcode": "8660891",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古閑浜町"
+  },
+  "8660892": {
+    "zipcode": "8660892",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古閑下町"
+  },
+  "8660893": {
+    "zipcode": "8660893",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "海士江町"
+  },
+  "8660894": {
+    "zipcode": "8660894",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "上野町"
+  },
+  "8660895": {
+    "zipcode": "8660895",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "大村町"
+  },
+  "8660896": {
+    "zipcode": "8660896",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "日置町"
+  },
+  "8660897": {
+    "zipcode": "8660897",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古閑上町"
+  },
+  "8660898": {
+    "zipcode": "8660898",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "八代市",
+    "town": "古閑中町"
+  }
+}

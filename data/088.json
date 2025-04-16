@@ -1,0 +1,2874 @@
+{
+  "0880101": {
+    "zipcode": "0880101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町馬主来"
+  },
+  "0880102": {
+    "zipcode": "0880102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町中音別（光和）"
+  },
+  "0880103": {
+    "zipcode": "0880103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町中音別（北栄）"
+  },
+  "0880104": {
+    "zipcode": "0880104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町音別原野基線（二俣）"
+  },
+  "0880105": {
+    "zipcode": "0880105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町ムリ"
+  },
+  "0880106": {
+    "zipcode": "0880106",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町ヌプキベツ"
+  },
+  "0880107": {
+    "zipcode": "0880107",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町チヤンベツ"
+  },
+  "0880108": {
+    "zipcode": "0880108",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町音別原野基線（二俣川向）"
+  },
+  "0880109": {
+    "zipcode": "0880109",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町音別原野東"
+  },
+  "0880111": {
+    "zipcode": "0880111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町パシクル湖畔"
+  },
+  "0880112": {
+    "zipcode": "0880112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町中音別（チノミ台）"
+  },
+  "0880113": {
+    "zipcode": "0880113",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町風連"
+  },
+  "0880114": {
+    "zipcode": "0880114",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町海光"
+  },
+  "0880115": {
+    "zipcode": "0880115",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町本町"
+  },
+  "0880116": {
+    "zipcode": "0880116",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町中園"
+  },
+  "0880117": {
+    "zipcode": "0880117",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町朝日"
+  },
+  "0880118": {
+    "zipcode": "0880118",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町中音別（その他）"
+  },
+  "0880121": {
+    "zipcode": "0880121",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町若草"
+  },
+  "0880122": {
+    "zipcode": "0880122",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町あけぼの"
+  },
+  "0880123": {
+    "zipcode": "0880123",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町川東"
+  },
+  "0880124": {
+    "zipcode": "0880124",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町緑町"
+  },
+  "0880125": {
+    "zipcode": "0880125",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町共栄"
+  },
+  "0880126": {
+    "zipcode": "0880126",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町音別原野西（川西）"
+  },
+  "0880131": {
+    "zipcode": "0880131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町ノトロ"
+  },
+  "0880132": {
+    "zipcode": "0880132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町尺別（岐線）"
+  },
+  "0880133": {
+    "zipcode": "0880133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町尺別"
+  },
+  "0880134": {
+    "zipcode": "0880134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町キナシ別"
+  },
+  "0880135": {
+    "zipcode": "0880135",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路市",
+    "town": "音別町直別"
+  },
+  "0880181": {
+    "zipcode": "0880181",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "十勝郡浦幌町",
+    "town": "直別"
+  },
+  "0880300": {
+    "zipcode": "0880300",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "以下に掲載がない場合"
+  },
+  "0880301": {
+    "zipcode": "0880301",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東一条南"
+  },
+  "0880302": {
+    "zipcode": "0880302",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東二条南"
+  },
+  "0880303": {
+    "zipcode": "0880303",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東三条南"
+  },
+  "0880304": {
+    "zipcode": "0880304",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "岬"
+  },
+  "0880305": {
+    "zipcode": "0880305",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "刺牛"
+  },
+  "0880311": {
+    "zipcode": "0880311",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西一条南"
+  },
+  "0880312": {
+    "zipcode": "0880312",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西二条南"
+  },
+  "0880321": {
+    "zipcode": "0880321",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西一条北"
+  },
+  "0880322": {
+    "zipcode": "0880322",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西二条北"
+  },
+  "0880323": {
+    "zipcode": "0880323",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西四条北"
+  },
+  "0880324": {
+    "zipcode": "0880324",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西五条北"
+  },
+  "0880325": {
+    "zipcode": "0880325",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西三条北"
+  },
+  "0880326": {
+    "zipcode": "0880326",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西六条北"
+  },
+  "0880331": {
+    "zipcode": "0880331",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東一条北"
+  },
+  "0880332": {
+    "zipcode": "0880332",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東二条北"
+  },
+  "0880333": {
+    "zipcode": "0880333",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東三条北"
+  },
+  "0880341": {
+    "zipcode": "0880341",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "東茶路"
+  },
+  "0880342": {
+    "zipcode": "0880342",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "松川"
+  },
+  "0880343": {
+    "zipcode": "0880343",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "南上茶路"
+  },
+  "0880344": {
+    "zipcode": "0880344",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "右股"
+  },
+  "0880351": {
+    "zipcode": "0880351",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "和天別"
+  },
+  "0880352": {
+    "zipcode": "0880352",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "緑"
+  },
+  "0880353": {
+    "zipcode": "0880353",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "本郷"
+  },
+  "0880560": {
+    "zipcode": "0880560",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路宮下"
+  },
+  "0880561": {
+    "zipcode": "0880561",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "大楽毛"
+  },
+  "0880562": {
+    "zipcode": "0880562",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "恋問"
+  },
+  "0880563": {
+    "zipcode": "0880563",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路甲区"
+  },
+  "0880564": {
+    "zipcode": "0880564",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路（１区）"
+  },
+  "0880565": {
+    "zipcode": "0880565",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路（２区）"
+  },
+  "0880566": {
+    "zipcode": "0880566",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路（宮下）"
+  },
+  "0880567": {
+    "zipcode": "0880567",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路"
+  },
+  "0880568": {
+    "zipcode": "0880568",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路乙区"
+  },
+  "0880569": {
+    "zipcode": "0880569",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "工業団地"
+  },
+  "0880571": {
+    "zipcode": "0880571",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西庶路西三条北"
+  },
+  "0880572": {
+    "zipcode": "0880572",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西庶路西五条南"
+  },
+  "0880573": {
+    "zipcode": "0880573",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西庶路東三条北"
+  },
+  "0880574": {
+    "zipcode": "0880574",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西庶路東三条南"
+  },
+  "0880575": {
+    "zipcode": "0880575",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "西庶路学園通"
+  },
+  "0880581": {
+    "zipcode": "0880581",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "乳呑"
+  },
+  "0880582": {
+    "zipcode": "0880582",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "中庶路"
+  },
+  "0880583": {
+    "zipcode": "0880583",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "上庶路"
+  },
+  "0880584": {
+    "zipcode": "0880584",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "泊別"
+  },
+  "0880585": {
+    "zipcode": "0880585",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "暁"
+  },
+  "0880586": {
+    "zipcode": "0880586",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路東"
+  },
+  "0880587": {
+    "zipcode": "0880587",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "白糠郡白糠町",
+    "town": "庶路西"
+  },
+  "0880600": {
+    "zipcode": "0880600",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "以下に掲載がない場合"
+  },
+  "0880601": {
+    "zipcode": "0880601",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "上別保原野"
+  },
+  "0880602": {
+    "zipcode": "0880602",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "別保東"
+  },
+  "0880603": {
+    "zipcode": "0880603",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "別保南"
+  },
+  "0880604": {
+    "zipcode": "0880604",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "別保"
+  },
+  "0880605": {
+    "zipcode": "0880605",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "別保原野"
+  },
+  "0880606": {
+    "zipcode": "0880606",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "中央"
+  },
+  "0880607": {
+    "zipcode": "0880607",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "床丹"
+  },
+  "0880608": {
+    "zipcode": "0880608",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "釧望台"
+  },
+  "0880609": {
+    "zipcode": "0880609",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "共和"
+  },
+  "0880611": {
+    "zipcode": "0880611",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "豊美"
+  },
+  "0880612": {
+    "zipcode": "0880612",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "雁来"
+  },
+  "0880613": {
+    "zipcode": "0880613",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "若葉"
+  },
+  "0880614": {
+    "zipcode": "0880614",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "国誉"
+  },
+  "0880615": {
+    "zipcode": "0880615",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "睦"
+  },
+  "0880616": {
+    "zipcode": "0880616",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "曙"
+  },
+  "0880617": {
+    "zipcode": "0880617",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "北都"
+  },
+  "0880618": {
+    "zipcode": "0880618",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "富原"
+  },
+  "0880621": {
+    "zipcode": "0880621",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "桂木"
+  },
+  "0880622": {
+    "zipcode": "0880622",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "木場"
+  },
+  "0880623": {
+    "zipcode": "0880623",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "光和"
+  },
+  "0880624": {
+    "zipcode": "0880624",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "新開"
+  },
+  "0880625": {
+    "zipcode": "0880625",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "北見団地"
+  },
+  "0880626": {
+    "zipcode": "0880626",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "桂"
+  },
+  "0880627": {
+    "zipcode": "0880627",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "東陽西"
+  },
+  "0880628": {
+    "zipcode": "0880628",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "東陽大通西"
+  },
+  "0880771": {
+    "zipcode": "0880771",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "上尾幌"
+  },
+  "0880831": {
+    "zipcode": "0880831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "仙鳳趾村（仙鳳趾）"
+  },
+  "0880832": {
+    "zipcode": "0880832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "仙鳳趾村（知方学）"
+  },
+  "0880833": {
+    "zipcode": "0880833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "仙鳳趾村（老者舞）"
+  },
+  "0880834": {
+    "zipcode": "0880834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "仙鳳趾村（汐見）"
+  },
+  "0880835": {
+    "zipcode": "0880835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "仙鳳趾村（オタクパウシ）"
+  },
+  "0880871": {
+    "zipcode": "0880871",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "尾幌"
+  },
+  "0880872": {
+    "zipcode": "0880872",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "来別"
+  },
+  "0880873": {
+    "zipcode": "0880873",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "乙幌"
+  },
+  "0880874": {
+    "zipcode": "0880874",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "門静（４丁目５５〜１１４番地）"
+  },
+  "0880875": {
+    "zipcode": "0880875",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "苫多"
+  },
+  "0880876": {
+    "zipcode": "0880876",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "沖万別"
+  },
+  "0880877": {
+    "zipcode": "0880877",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "敏内"
+  },
+  "0880878": {
+    "zipcode": "0880878",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "ルークシュポール"
+  },
+  "0881100": {
+    "zipcode": "0881100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "以下に掲載がない場合"
+  },
+  "0881101": {
+    "zipcode": "0881101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "若松"
+  },
+  "0881102": {
+    "zipcode": "0881102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "登喜岱"
+  },
+  "0881103": {
+    "zipcode": "0881103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "小島"
+  },
+  "0881104": {
+    "zipcode": "0881104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "大黒島"
+  },
+  "0881105": {
+    "zipcode": "0881105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "末広"
+  },
+  "0881106": {
+    "zipcode": "0881106",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "東梅"
+  },
+  "0881107": {
+    "zipcode": "0881107",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "床潭"
+  },
+  "0881108": {
+    "zipcode": "0881108",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "筑紫恋"
+  },
+  "0881111": {
+    "zipcode": "0881111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "奔渡"
+  },
+  "0881112": {
+    "zipcode": "0881112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "有明"
+  },
+  "0881113": {
+    "zipcode": "0881113",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "愛冠"
+  },
+  "0881114": {
+    "zipcode": "0881114",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "湾月"
+  },
+  "0881115": {
+    "zipcode": "0881115",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "梅香"
+  },
+  "0881116": {
+    "zipcode": "0881116",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "松葉"
+  },
+  "0881117": {
+    "zipcode": "0881117",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "御供"
+  },
+  "0881118": {
+    "zipcode": "0881118",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "若竹町"
+  },
+  "0881119": {
+    "zipcode": "0881119",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "住の江"
+  },
+  "0881120": {
+    "zipcode": "0881120",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "山の手"
+  },
+  "0881124": {
+    "zipcode": "0881124",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "宮園"
+  },
+  "0881125": {
+    "zipcode": "0881125",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "白浜"
+  },
+  "0881126": {
+    "zipcode": "0881126",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "門静（その他）"
+  },
+  "0881128": {
+    "zipcode": "0881128",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "港町"
+  },
+  "0881129": {
+    "zipcode": "0881129",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "光栄"
+  },
+  "0881130": {
+    "zipcode": "0881130",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田南"
+  },
+  "0881131": {
+    "zipcode": "0881131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田"
+  },
+  "0881132": {
+    "zipcode": "0881132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田東"
+  },
+  "0881133": {
+    "zipcode": "0881133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田宏陽"
+  },
+  "0881134": {
+    "zipcode": "0881134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田西"
+  },
+  "0881135": {
+    "zipcode": "0881135",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田北"
+  },
+  "0881136": {
+    "zipcode": "0881136",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "大別"
+  },
+  "0881137": {
+    "zipcode": "0881137",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "片無去"
+  },
+  "0881138": {
+    "zipcode": "0881138",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "セタニウシ"
+  },
+  "0881139": {
+    "zipcode": "0881139",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "サッテベツ"
+  },
+  "0881140": {
+    "zipcode": "0881140",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "サンヌシ"
+  },
+  "0881141": {
+    "zipcode": "0881141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田１の通り"
+  },
+  "0881142": {
+    "zipcode": "0881142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田２の通り"
+  },
+  "0881143": {
+    "zipcode": "0881143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田３の通り"
+  },
+  "0881144": {
+    "zipcode": "0881144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田４の通り"
+  },
+  "0881145": {
+    "zipcode": "0881145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田５の通り"
+  },
+  "0881146": {
+    "zipcode": "0881146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田６の通り"
+  },
+  "0881147": {
+    "zipcode": "0881147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田７の通り"
+  },
+  "0881148": {
+    "zipcode": "0881148",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田８の通り"
+  },
+  "0881149": {
+    "zipcode": "0881149",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "太田９の通り"
+  },
+  "0881151": {
+    "zipcode": "0881151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "真栄"
+  },
+  "0881301": {
+    "zipcode": "0881301",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "一番沢"
+  },
+  "0881302": {
+    "zipcode": "0881302",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "二番沢"
+  },
+  "0881303": {
+    "zipcode": "0881303",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "三番沢"
+  },
+  "0881304": {
+    "zipcode": "0881304",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "四番沢"
+  },
+  "0881306": {
+    "zipcode": "0881306",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "六番沢"
+  },
+  "0881360": {
+    "zipcode": "0881360",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "散布村（北の沢）"
+  },
+  "0881361": {
+    "zipcode": "0881361",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内緑"
+  },
+  "0881362": {
+    "zipcode": "0881362",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内本町"
+  },
+  "0881363": {
+    "zipcode": "0881363",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内栄"
+  },
+  "0881364": {
+    "zipcode": "0881364",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内若葉"
+  },
+  "0881365": {
+    "zipcode": "0881365",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内橋北東"
+  },
+  "0881366": {
+    "zipcode": "0881366",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内橋北西"
+  },
+  "0881367": {
+    "zipcode": "0881367",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内旭"
+  },
+  "0881368": {
+    "zipcode": "0881368",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内東２線"
+  },
+  "0881369": {
+    "zipcode": "0881369",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内西"
+  },
+  "0881370": {
+    "zipcode": "0881370",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "西円朱別西"
+  },
+  "0881371": {
+    "zipcode": "0881371",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "円朱別西"
+  },
+  "0881389": {
+    "zipcode": "0881389",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡厚岸町",
+    "town": "トライベツ"
+  },
+  "0881401": {
+    "zipcode": "0881401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "榊町"
+  },
+  "0881402": {
+    "zipcode": "0881402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "横浜"
+  },
+  "0881403": {
+    "zipcode": "0881403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "幌戸"
+  },
+  "0881404": {
+    "zipcode": "0881404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "ムギカラシナイ"
+  },
+  "0881405": {
+    "zipcode": "0881405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "奔幌戸"
+  },
+  "0881406": {
+    "zipcode": "0881406",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "羨古丹"
+  },
+  "0881407": {
+    "zipcode": "0881407",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "榊町西"
+  },
+  "0881408": {
+    "zipcode": "0881408",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "大津屋沢"
+  },
+  "0881409": {
+    "zipcode": "0881409",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "走古潭"
+  },
+  "0881412": {
+    "zipcode": "0881412",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "後静村（熊牛原野）"
+  },
+  "0881485": {
+    "zipcode": "0881485",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "浜中"
+  },
+  "0881486": {
+    "zipcode": "0881486",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "熊牛"
+  },
+  "0881487": {
+    "zipcode": "0881487",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "茶内東６線"
+  },
+  "0881500": {
+    "zipcode": "0881500",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "以下に掲載がない場合"
+  },
+  "0881511": {
+    "zipcode": "0881511",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布東一条"
+  },
+  "0881512": {
+    "zipcode": "0881512",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布東二条"
+  },
+  "0881513": {
+    "zipcode": "0881513",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布東三条"
+  },
+  "0881514": {
+    "zipcode": "0881514",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布東四条"
+  },
+  "0881522": {
+    "zipcode": "0881522",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "湯沸"
+  },
+  "0881524": {
+    "zipcode": "0881524",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "暮帰別東"
+  },
+  "0881525": {
+    "zipcode": "0881525",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "暮帰別西"
+  },
+  "0881526": {
+    "zipcode": "0881526",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "新川"
+  },
+  "0881527": {
+    "zipcode": "0881527",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "新川東"
+  },
+  "0881528": {
+    "zipcode": "0881528",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "新川西"
+  },
+  "0881531": {
+    "zipcode": "0881531",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "仲の浜"
+  },
+  "0881532": {
+    "zipcode": "0881532",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "琵琶瀬"
+  },
+  "0881534": {
+    "zipcode": "0881534",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "渡散布"
+  },
+  "0881535": {
+    "zipcode": "0881535",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "養老散布"
+  },
+  "0881536": {
+    "zipcode": "0881536",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "火散布"
+  },
+  "0881537": {
+    "zipcode": "0881537",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "丸山散布"
+  },
+  "0881538": {
+    "zipcode": "0881538",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "藻散布"
+  },
+  "0881551": {
+    "zipcode": "0881551",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布西一条"
+  },
+  "0881552": {
+    "zipcode": "0881552",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布西二条"
+  },
+  "0881553": {
+    "zipcode": "0881553",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布西三条"
+  },
+  "0881554": {
+    "zipcode": "0881554",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布西四条"
+  },
+  "0881561": {
+    "zipcode": "0881561",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "霧多布湿原"
+  },
+  "0881571": {
+    "zipcode": "0881571",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "道有林"
+  },
+  "0881641": {
+    "zipcode": "0881641",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "姉別基線"
+  },
+  "0881643": {
+    "zipcode": "0881643",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "貰人"
+  },
+  "0881644": {
+    "zipcode": "0881644",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "恵茶人"
+  },
+  "0881645": {
+    "zipcode": "0881645",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "仙鳳趾"
+  },
+  "0881646": {
+    "zipcode": "0881646",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "姉別（丁目）"
+  },
+  "0881647": {
+    "zipcode": "0881647",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "姉別南"
+  },
+  "0881648": {
+    "zipcode": "0881648",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "姉別北"
+  },
+  "0881649": {
+    "zipcode": "0881649",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "姉別緑栄"
+  },
+  "0881781": {
+    "zipcode": "0881781",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "落石西"
+  },
+  "0881782": {
+    "zipcode": "0881782",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "落石東"
+  },
+  "0881783": {
+    "zipcode": "0881783",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "浜松"
+  },
+  "0881784": {
+    "zipcode": "0881784",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "昆布盛"
+  },
+  "0881785": {
+    "zipcode": "0881785",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "長節"
+  },
+  "0882140": {
+    "zipcode": "0882140",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "細岡"
+  },
+  "0882141": {
+    "zipcode": "0882141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "達古武"
+  },
+  "0882142": {
+    "zipcode": "0882142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "遠野"
+  },
+  "0882143": {
+    "zipcode": "0882143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "河畔"
+  },
+  "0882144": {
+    "zipcode": "0882144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "鳥里"
+  },
+  "0882145": {
+    "zipcode": "0882145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "遠矢"
+  },
+  "0882146": {
+    "zipcode": "0882146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "鳥通西"
+  },
+  "0882147": {
+    "zipcode": "0882147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "鳥通東"
+  },
+  "0882148": {
+    "zipcode": "0882148",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "鳥通"
+  },
+  "0882151": {
+    "zipcode": "0882151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "よし野"
+  },
+  "0882152": {
+    "zipcode": "0882152",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "南陽台"
+  },
+  "0882153": {
+    "zipcode": "0882153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "緑"
+  },
+  "0882154": {
+    "zipcode": "0882154",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "柏東"
+  },
+  "0882155": {
+    "zipcode": "0882155",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "柏西"
+  },
+  "0882156": {
+    "zipcode": "0882156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "遠矢南"
+  },
+  "0882157": {
+    "zipcode": "0882157",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "釧路郡釧路町",
+    "town": "わらび"
+  },
+  "0882261": {
+    "zipcode": "0882261",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "塘路（その他）"
+  },
+  "0882262": {
+    "zipcode": "0882262",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "ウライヤ"
+  },
+  "0882263": {
+    "zipcode": "0882263",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "沼ノ上"
+  },
+  "0882264": {
+    "zipcode": "0882264",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "塘路原野"
+  },
+  "0882265": {
+    "zipcode": "0882265",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "塘路（３２番地）"
+  },
+  "0882266": {
+    "zipcode": "0882266",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "コツタロ原野"
+  },
+  "0882271": {
+    "zipcode": "0882271",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "阿歴内"
+  },
+  "0882272": {
+    "zipcode": "0882272",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "阿歴内原野"
+  },
+  "0882273": {
+    "zipcode": "0882273",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "西和"
+  },
+  "0882274": {
+    "zipcode": "0882274",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "東阿歴内"
+  },
+  "0882275": {
+    "zipcode": "0882275",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "北片無去"
+  },
+  "0882300": {
+    "zipcode": "0882300",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "以下に掲載がない場合"
+  },
+  "0882301": {
+    "zipcode": "0882301",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "旭"
+  },
+  "0882302": {
+    "zipcode": "0882302",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "富士"
+  },
+  "0882303": {
+    "zipcode": "0882303",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "桜"
+  },
+  "0882304": {
+    "zipcode": "0882304",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "平和"
+  },
+  "0882305": {
+    "zipcode": "0882305",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "麻生"
+  },
+  "0882311": {
+    "zipcode": "0882311",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "開運"
+  },
+  "0882312": {
+    "zipcode": "0882312",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "川上"
+  },
+  "0882313": {
+    "zipcode": "0882313",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "常盤"
+  },
+  "0882314": {
+    "zipcode": "0882314",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "標茶"
+  },
+  "0882321": {
+    "zipcode": "0882321",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "上チャンベツ"
+  },
+  "0882322": {
+    "zipcode": "0882322",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "中チャンベツ"
+  },
+  "0882323": {
+    "zipcode": "0882323",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "下チャンベツ"
+  },
+  "0882324": {
+    "zipcode": "0882324",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "雷別"
+  },
+  "0882331": {
+    "zipcode": "0882331",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "下オソツベツ"
+  },
+  "0882332": {
+    "zipcode": "0882332",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "中オソツベツ"
+  },
+  "0882333": {
+    "zipcode": "0882333",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "上オソツベツ"
+  },
+  "0882334": {
+    "zipcode": "0882334",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "厚生"
+  },
+  "0882335": {
+    "zipcode": "0882335",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "五十石"
+  },
+  "0882336": {
+    "zipcode": "0882336",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "ルルラン"
+  },
+  "0882337": {
+    "zipcode": "0882337",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "栄（その他）"
+  },
+  "0882338": {
+    "zipcode": "0882338",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "南標茶"
+  },
+  "0882339": {
+    "zipcode": "0882339",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "多和（その他）"
+  },
+  "0882380": {
+    "zipcode": "0882380",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "クチョロ原野"
+  },
+  "0882381": {
+    "zipcode": "0882381",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "中久著呂市街"
+  },
+  "0882382": {
+    "zipcode": "0882382",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "中久著呂"
+  },
+  "0882388": {
+    "zipcode": "0882388",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "コッタロ"
+  },
+  "0882389": {
+    "zipcode": "0882389",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "ヌマオロ原野"
+  },
+  "0882461": {
+    "zipcode": "0882461",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "虹別市街"
+  },
+  "0882462": {
+    "zipcode": "0882462",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "虹別"
+  },
+  "0882463": {
+    "zipcode": "0882463",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "虹別（上虹）"
+  },
+  "0882464": {
+    "zipcode": "0882464",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "虹別（中虹）"
+  },
+  "0882465": {
+    "zipcode": "0882465",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "虹別（萩野）"
+  },
+  "0882561": {
+    "zipcode": "0882561",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前柏町"
+  },
+  "0882562": {
+    "zipcode": "0882562",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前栄町"
+  },
+  "0882563": {
+    "zipcode": "0882563",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前錦町"
+  },
+  "0882564": {
+    "zipcode": "0882564",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前西町"
+  },
+  "0882565": {
+    "zipcode": "0882565",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前寿町"
+  },
+  "0882566": {
+    "zipcode": "0882566",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別駅前曙町"
+  },
+  "0882571": {
+    "zipcode": "0882571",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別幸町"
+  },
+  "0882572": {
+    "zipcode": "0882572",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別清川町"
+  },
+  "0882573": {
+    "zipcode": "0882573",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別本久町"
+  },
+  "0882574": {
+    "zipcode": "0882574",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別昭栄町"
+  },
+  "0882575": {
+    "zipcode": "0882575",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別宮園町"
+  },
+  "0882576": {
+    "zipcode": "0882576",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "西春別"
+  },
+  "0882577": {
+    "zipcode": "0882577",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "矢臼別（４０の１番地、４１の２番地）"
+  },
+  "0882578": {
+    "zipcode": "0882578",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "泉川"
+  },
+  "0882601": {
+    "zipcode": "0882601",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "大成"
+  },
+  "0882602": {
+    "zipcode": "0882602",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "本別"
+  },
+  "0882681": {
+    "zipcode": "0882681",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "当幌"
+  },
+  "0882682": {
+    "zipcode": "0882682",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "計根別"
+  },
+  "0882683": {
+    "zipcode": "0882683",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "上標津"
+  },
+  "0882684": {
+    "zipcode": "0882684",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "養老牛"
+  },
+  "0882685": {
+    "zipcode": "0882685",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西竹"
+  },
+  "0882686": {
+    "zipcode": "0882686",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "俣落（１６２９−１、１６５３−３、１６８４−５、１８８６−２、１８９３、１８９６−２、１８９６−３、１９０６−８、１９３２−２、１９３６、１９３６−２、１９５１−２、１９５６−２、１９６７−２、１９８０−２、１９９７−３、２０００−２、２０００−８、２００３、２０１５−４、２０２３−２、２０３８−２、２２５３−２、２２５３−５、２２５３−２１、２２５３−２４、２２５３−３５、２２５３−６３）"
+  },
+  "0882721": {
+    "zipcode": "0882721",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上春別緑町"
+  },
+  "0882722": {
+    "zipcode": "0882722",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上春別旭町"
+  },
+  "0882723": {
+    "zipcode": "0882723",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上春別南町"
+  },
+  "0882724": {
+    "zipcode": "0882724",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上春別栄町"
+  },
+  "0882725": {
+    "zipcode": "0882725",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上春別"
+  },
+  "0883141": {
+    "zipcode": "0883141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "多和（１２０番地）"
+  },
+  "0883142": {
+    "zipcode": "0883142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "上磯分内"
+  },
+  "0883143": {
+    "zipcode": "0883143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内美幌"
+  },
+  "0883144": {
+    "zipcode": "0883144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "中多和"
+  },
+  "0883145": {
+    "zipcode": "0883145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "熊牛原野"
+  },
+  "0883146": {
+    "zipcode": "0883146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内下"
+  },
+  "0883147": {
+    "zipcode": "0883147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内市街"
+  },
+  "0883148": {
+    "zipcode": "0883148",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内福島"
+  },
+  "0883149": {
+    "zipcode": "0883149",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内乙西"
+  },
+  "0883151": {
+    "zipcode": "0883151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内上"
+  },
+  "0883152": {
+    "zipcode": "0883152",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内協盛"
+  },
+  "0883153": {
+    "zipcode": "0883153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内小林"
+  },
+  "0883154": {
+    "zipcode": "0883154",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "栄（１４５、１６９番地）"
+  },
+  "0883155": {
+    "zipcode": "0883155",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内平泉"
+  },
+  "0883156": {
+    "zipcode": "0883156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内平和"
+  },
+  "0883157": {
+    "zipcode": "0883157",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡標茶町",
+    "town": "磯分内憩"
+  },
+  "0883200": {
+    "zipcode": "0883200",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "以下に掲載がない場合"
+  },
+  "0883201": {
+    "zipcode": "0883201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "摩周"
+  },
+  "0883202": {
+    "zipcode": "0883202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "鈴蘭"
+  },
+  "0883203": {
+    "zipcode": "0883203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "湯の島"
+  },
+  "0883204": {
+    "zipcode": "0883204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "朝日"
+  },
+  "0883211": {
+    "zipcode": "0883211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "中央"
+  },
+  "0883212": {
+    "zipcode": "0883212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "泉"
+  },
+  "0883213": {
+    "zipcode": "0883213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "桜丘"
+  },
+  "0883214": {
+    "zipcode": "0883214",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "高栄"
+  },
+  "0883215": {
+    "zipcode": "0883215",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "美里"
+  },
+  "0883221": {
+    "zipcode": "0883221",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "鐺別原野"
+  },
+  "0883222": {
+    "zipcode": "0883222",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "弟子屈原野"
+  },
+  "0883223": {
+    "zipcode": "0883223",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "仁多"
+  },
+  "0883224": {
+    "zipcode": "0883224",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "平和"
+  },
+  "0883225": {
+    "zipcode": "0883225",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "最栄利別"
+  },
+  "0883226": {
+    "zipcode": "0883226",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "奥オソベツ"
+  },
+  "0883227": {
+    "zipcode": "0883227",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "重内"
+  },
+  "0883228": {
+    "zipcode": "0883228",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "奥春別"
+  },
+  "0883271": {
+    "zipcode": "0883271",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "南弟子屈"
+  },
+  "0883331": {
+    "zipcode": "0883331",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "美留和原野"
+  },
+  "0883332": {
+    "zipcode": "0883332",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "札友内原野"
+  },
+  "0883341": {
+    "zipcode": "0883341",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "屈斜路原野"
+  },
+  "0883351": {
+    "zipcode": "0883351",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "砂湯"
+  },
+  "0883461": {
+    "zipcode": "0883461",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "跡佐登原野"
+  },
+  "0883462": {
+    "zipcode": "0883462",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "川湯駅前"
+  },
+  "0883463": {
+    "zipcode": "0883463",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "アトサヌプリ原野"
+  },
+  "0883464": {
+    "zipcode": "0883464",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "サワンチサップ"
+  },
+  "0883465": {
+    "zipcode": "0883465",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "川上郡弟子屈町",
+    "town": "川湯温泉"
+  }
+}

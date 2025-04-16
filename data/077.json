@@ -1,0 +1,602 @@
+{
+  "0770000": {
+    "zipcode": "0770000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "以下に掲載がない場合"
+  },
+  "0770001": {
+    "zipcode": "0770001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "三泊町"
+  },
+  "0770002": {
+    "zipcode": "0770002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "塩見町"
+  },
+  "0770003": {
+    "zipcode": "0770003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "春日町"
+  },
+  "0770004": {
+    "zipcode": "0770004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "元町"
+  },
+  "0770005": {
+    "zipcode": "0770005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "船場町"
+  },
+  "0770006": {
+    "zipcode": "0770006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "末広町"
+  },
+  "0770007": {
+    "zipcode": "0770007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "栄町"
+  },
+  "0770011": {
+    "zipcode": "0770011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "東雲町"
+  },
+  "0770012": {
+    "zipcode": "0770012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "大和田"
+  },
+  "0770013": {
+    "zipcode": "0770013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "留萌原野（１〜１２線）"
+  },
+  "0770014": {
+    "zipcode": "0770014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "南町"
+  },
+  "0770015": {
+    "zipcode": "0770015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "緑ケ丘町"
+  },
+  "0770016": {
+    "zipcode": "0770016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "元川町"
+  },
+  "0770021": {
+    "zipcode": "0770021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "高砂町"
+  },
+  "0770022": {
+    "zipcode": "0770022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "堀川町"
+  },
+  "0770023": {
+    "zipcode": "0770023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "五十嵐町"
+  },
+  "0770024": {
+    "zipcode": "0770024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "千鳥町"
+  },
+  "0770025": {
+    "zipcode": "0770025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "野本町"
+  },
+  "0770026": {
+    "zipcode": "0770026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "泉町"
+  },
+  "0770027": {
+    "zipcode": "0770027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "住之江町"
+  },
+  "0770028": {
+    "zipcode": "0770028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "花園町"
+  },
+  "0770031": {
+    "zipcode": "0770031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "幸町"
+  },
+  "0770032": {
+    "zipcode": "0770032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "宮園町"
+  },
+  "0770033": {
+    "zipcode": "0770033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "見晴町"
+  },
+  "0770034": {
+    "zipcode": "0770034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "平和台"
+  },
+  "0770035": {
+    "zipcode": "0770035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "礼受町"
+  },
+  "0770036": {
+    "zipcode": "0770036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "浜中町"
+  },
+  "0770037": {
+    "zipcode": "0770037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "沖見町"
+  },
+  "0770038": {
+    "zipcode": "0770038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "寿町"
+  },
+  "0770041": {
+    "zipcode": "0770041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "明元町"
+  },
+  "0770042": {
+    "zipcode": "0770042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "開運町"
+  },
+  "0770043": {
+    "zipcode": "0770043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "旭町"
+  },
+  "0770044": {
+    "zipcode": "0770044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "錦町"
+  },
+  "0770045": {
+    "zipcode": "0770045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "本町"
+  },
+  "0770046": {
+    "zipcode": "0770046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "港町"
+  },
+  "0770047": {
+    "zipcode": "0770047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "瀬越町"
+  },
+  "0770048": {
+    "zipcode": "0770048",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌市",
+    "town": "大町"
+  },
+  "0770131": {
+    "zipcode": "0770131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "阿分"
+  },
+  "0770132": {
+    "zipcode": "0770132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "舎熊（その他）"
+  },
+  "0770133": {
+    "zipcode": "0770133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "信砂"
+  },
+  "0770134": {
+    "zipcode": "0770134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "御料"
+  },
+  "0770200": {
+    "zipcode": "0770200",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "以下に掲載がない場合"
+  },
+  "0770201": {
+    "zipcode": "0770201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "永寿町"
+  },
+  "0770202": {
+    "zipcode": "0770202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "野塚町"
+  },
+  "0770203": {
+    "zipcode": "0770203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "稲葉海岸町"
+  },
+  "0770204": {
+    "zipcode": "0770204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "稲葉町"
+  },
+  "0770205": {
+    "zipcode": "0770205",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "弁天町"
+  },
+  "0770206": {
+    "zipcode": "0770206",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "中歌"
+  },
+  "0770207": {
+    "zipcode": "0770207",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "箸別"
+  },
+  "0770208": {
+    "zipcode": "0770208",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "湯の沢"
+  },
+  "0770209": {
+    "zipcode": "0770209",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "舎熊（９１７番地）"
+  },
+  "0770211": {
+    "zipcode": "0770211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "暑寒海岸町"
+  },
+  "0770212": {
+    "zipcode": "0770212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "七源町"
+  },
+  "0770213": {
+    "zipcode": "0770213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "畠中北町"
+  },
+  "0770214": {
+    "zipcode": "0770214",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "畠中町"
+  },
+  "0770215": {
+    "zipcode": "0770215",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "暑寒町"
+  },
+  "0770216": {
+    "zipcode": "0770216",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "暑寒沢"
+  },
+  "0770217": {
+    "zipcode": "0770217",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "別苅"
+  },
+  "0770218": {
+    "zipcode": "0770218",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "栄町"
+  },
+  "0770221": {
+    "zipcode": "0770221",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "港町"
+  },
+  "0770222": {
+    "zipcode": "0770222",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "見晴町"
+  },
+  "0770223": {
+    "zipcode": "0770223",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "南永寿町"
+  },
+  "0770224": {
+    "zipcode": "0770224",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "南畠中町"
+  },
+  "0770225": {
+    "zipcode": "0770225",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "南暑寒町"
+  },
+  "0770341": {
+    "zipcode": "0770341",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "雄冬"
+  },
+  "0770344": {
+    "zipcode": "0770344",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "岩老"
+  },
+  "0770345": {
+    "zipcode": "0770345",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "増毛郡増毛町",
+    "town": "岩尾"
+  },
+  "0770351": {
+    "zipcode": "0770351",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "石狩市",
+    "town": "浜益区雄冬"
+  },
+  "0770461": {
+    "zipcode": "0770461",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "川上"
+  },
+  "0770462": {
+    "zipcode": "0770462",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "滝下"
+  },
+  "0770463": {
+    "zipcode": "0770463",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "達布"
+  },
+  "0770464": {
+    "zipcode": "0770464",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "住吉"
+  },
+  "0770465": {
+    "zipcode": "0770465",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "寧楽"
+  },
+  "0770466": {
+    "zipcode": "0770466",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "留萌郡小平町",
+    "town": "平和（２区）"
+  }
+}

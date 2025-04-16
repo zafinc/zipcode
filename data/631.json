@@ -1,0 +1,698 @@
+{
+  "6310001": {
+    "zipcode": "6310001",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "北登美ヶ丘"
+  },
+  "6310002": {
+    "zipcode": "6310002",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "東登美ヶ丘"
+  },
+  "6310003": {
+    "zipcode": "6310003",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "中登美ヶ丘"
+  },
+  "6310004": {
+    "zipcode": "6310004",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "登美ヶ丘"
+  },
+  "6310005": {
+    "zipcode": "6310005",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "大渕町"
+  },
+  "6310006": {
+    "zipcode": "6310006",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西登美ヶ丘"
+  },
+  "6310007": {
+    "zipcode": "6310007",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "松陽台"
+  },
+  "6310008": {
+    "zipcode": "6310008",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "二名町"
+  },
+  "6310011": {
+    "zipcode": "6310011",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "押熊町"
+  },
+  "6310012": {
+    "zipcode": "6310012",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "中山町"
+  },
+  "6310013": {
+    "zipcode": "6310013",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "中山町西"
+  },
+  "6310014": {
+    "zipcode": "6310014",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "朝日町"
+  },
+  "6310015": {
+    "zipcode": "6310015",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園朝日元町"
+  },
+  "6310016": {
+    "zipcode": "6310016",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園朝日町"
+  },
+  "6310021": {
+    "zipcode": "6310021",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "鶴舞東町"
+  },
+  "6310022": {
+    "zipcode": "6310022",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "鶴舞西町"
+  },
+  "6310023": {
+    "zipcode": "6310023",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "南登美ヶ丘"
+  },
+  "6310024": {
+    "zipcode": "6310024",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "百楽園"
+  },
+  "6310025": {
+    "zipcode": "6310025",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園新田町"
+  },
+  "6310026": {
+    "zipcode": "6310026",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園緑ヶ丘"
+  },
+  "6310027": {
+    "zipcode": "6310027",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園赤松町"
+  },
+  "6310031": {
+    "zipcode": "6310031",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "敷島町"
+  },
+  "6310032": {
+    "zipcode": "6310032",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "あやめ池北"
+  },
+  "6310033": {
+    "zipcode": "6310033",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "あやめ池南"
+  },
+  "6310034": {
+    "zipcode": "6310034",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園南"
+  },
+  "6310035": {
+    "zipcode": "6310035",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園中"
+  },
+  "6310036": {
+    "zipcode": "6310036",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園北"
+  },
+  "6310041": {
+    "zipcode": "6310041",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "学園大和町"
+  },
+  "6310042": {
+    "zipcode": "6310042",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "大倭町"
+  },
+  "6310043": {
+    "zipcode": "6310043",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "菅野台"
+  },
+  "6310044": {
+    "zipcode": "6310044",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "藤ノ木台"
+  },
+  "6310045": {
+    "zipcode": "6310045",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "千代ヶ丘"
+  },
+  "6310046": {
+    "zipcode": "6310046",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西千代ヶ丘"
+  },
+  "6310051": {
+    "zipcode": "6310051",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "富雄泉ヶ丘"
+  },
+  "6310052": {
+    "zipcode": "6310052",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "中町（その他）"
+  },
+  "6310053": {
+    "zipcode": "6310053",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "青垣台"
+  },
+  "6310054": {
+    "zipcode": "6310054",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "石木町"
+  },
+  "6310055": {
+    "zipcode": "6310055",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "大和田町"
+  },
+  "6310056": {
+    "zipcode": "6310056",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "丸山"
+  },
+  "6310061": {
+    "zipcode": "6310061",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "三碓町"
+  },
+  "6310062": {
+    "zipcode": "6310062",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "帝塚山"
+  },
+  "6310063": {
+    "zipcode": "6310063",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "帝塚山中町"
+  },
+  "6310064": {
+    "zipcode": "6310064",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "帝塚山南"
+  },
+  "6310065": {
+    "zipcode": "6310065",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "鳥見町"
+  },
+  "6310066": {
+    "zipcode": "6310066",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "帝塚山西"
+  },
+  "6310071": {
+    "zipcode": "6310071",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "二名平野"
+  },
+  "6310072": {
+    "zipcode": "6310072",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "二名"
+  },
+  "6310073": {
+    "zipcode": "6310073",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "二名東町"
+  },
+  "6310074": {
+    "zipcode": "6310074",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "三松"
+  },
+  "6310075": {
+    "zipcode": "6310075",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "三松ヶ丘"
+  },
+  "6310076": {
+    "zipcode": "6310076",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "富雄北"
+  },
+  "6310077": {
+    "zipcode": "6310077",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "富雄川西"
+  },
+  "6310078": {
+    "zipcode": "6310078",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "富雄元町"
+  },
+  "6310801": {
+    "zipcode": "6310801",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "左京"
+  },
+  "6310802": {
+    "zipcode": "6310802",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "歌姫町"
+  },
+  "6310803": {
+    "zipcode": "6310803",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "山陵町"
+  },
+  "6310804": {
+    "zipcode": "6310804",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "神功"
+  },
+  "6310805": {
+    "zipcode": "6310805",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "右京"
+  },
+  "6310806": {
+    "zipcode": "6310806",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "朱雀"
+  },
+  "6310811": {
+    "zipcode": "6310811",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "秋篠町"
+  },
+  "6310812": {
+    "zipcode": "6310812",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "秋篠早月町"
+  },
+  "6310813": {
+    "zipcode": "6310813",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "秋篠新町"
+  },
+  "6310814": {
+    "zipcode": "6310814",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "秋篠三和町"
+  },
+  "6310815": {
+    "zipcode": "6310815",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺新町"
+  },
+  "6310816": {
+    "zipcode": "6310816",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺本町"
+  },
+  "6310817": {
+    "zipcode": "6310817",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺北町"
+  },
+  "6310818": {
+    "zipcode": "6310818",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺赤田町"
+  },
+  "6310821": {
+    "zipcode": "6310821",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺東町"
+  },
+  "6310822": {
+    "zipcode": "6310822",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺栄町"
+  },
+  "6310823": {
+    "zipcode": "6310823",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺国見町"
+  },
+  "6310824": {
+    "zipcode": "6310824",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺南町"
+  },
+  "6310825": {
+    "zipcode": "6310825",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺芝町"
+  },
+  "6310826": {
+    "zipcode": "6310826",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺町"
+  },
+  "6310827": {
+    "zipcode": "6310827",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺小坊町"
+  },
+  "6310831": {
+    "zipcode": "6310831",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺宝ヶ丘"
+  },
+  "6310832": {
+    "zipcode": "6310832",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺新田町"
+  },
+  "6310833": {
+    "zipcode": "6310833",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺野神町"
+  },
+  "6310834": {
+    "zipcode": "6310834",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺新池町"
+  },
+  "6310835": {
+    "zipcode": "6310835",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺高塚町"
+  },
+  "6310836": {
+    "zipcode": "6310836",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "西大寺竜王町"
+  },
+  "6310837": {
+    "zipcode": "6310837",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "若葉台"
+  },
+  "6310841": {
+    "zipcode": "6310841",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "青野町"
+  },
+  "6310842": {
+    "zipcode": "6310842",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "菅原東"
+  },
+  "6310843": {
+    "zipcode": "6310843",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "疋田町"
+  },
+  "6310844": {
+    "zipcode": "6310844",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "宝来町"
+  },
+  "6310845": {
+    "zipcode": "6310845",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "宝来"
+  },
+  "6310846": {
+    "zipcode": "6310846",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "平松"
+  }
+}

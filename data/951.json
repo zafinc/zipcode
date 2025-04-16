@@ -1,0 +1,978 @@
+{
+  "9518001": {
+    "zipcode": "9518001",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "海辺町"
+  },
+  "9518002": {
+    "zipcode": "9518002",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "船見町"
+  },
+  "9518003": {
+    "zipcode": "9518003",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "雲雀町"
+  },
+  "9518004": {
+    "zipcode": "9518004",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "山田町"
+  },
+  "9518005": {
+    "zipcode": "9518005",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "室町"
+  },
+  "9518006": {
+    "zipcode": "9518006",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "附船町"
+  },
+  "9518007": {
+    "zipcode": "9518007",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "忠蔵町"
+  },
+  "9518008": {
+    "zipcode": "9518008",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "窪田町"
+  },
+  "9518011": {
+    "zipcode": "9518011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "入船町"
+  },
+  "9518012": {
+    "zipcode": "9518012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東入船町"
+  },
+  "9518013": {
+    "zipcode": "9518013",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "柳島町"
+  },
+  "9518014": {
+    "zipcode": "9518014",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "緑町"
+  },
+  "9518015": {
+    "zipcode": "9518015",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "松岡町"
+  },
+  "9518016": {
+    "zipcode": "9518016",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "田町"
+  },
+  "9518017": {
+    "zipcode": "9518017",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "艀川岸町"
+  },
+  "9518018": {
+    "zipcode": "9518018",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "稲荷町"
+  },
+  "9518021": {
+    "zipcode": "9518021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "曙町"
+  },
+  "9518022": {
+    "zipcode": "9518022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "横六番町"
+  },
+  "9518023": {
+    "zipcode": "9518023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "夕栄町"
+  },
+  "9518024": {
+    "zipcode": "9518024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "早川町"
+  },
+  "9518025": {
+    "zipcode": "9518025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "赤坂町"
+  },
+  "9518026": {
+    "zipcode": "9518026",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西湊町通"
+  },
+  "9518027": {
+    "zipcode": "9518027",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "湊町通"
+  },
+  "9518028": {
+    "zipcode": "9518028",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東湊町通"
+  },
+  "9518031": {
+    "zipcode": "9518031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "北毘沙門町"
+  },
+  "9518032": {
+    "zipcode": "9518032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "見方町"
+  },
+  "9518033": {
+    "zipcode": "9518033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "豊照町"
+  },
+  "9518034": {
+    "zipcode": "9518034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "魁町"
+  },
+  "9518035": {
+    "zipcode": "9518035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "船場町"
+  },
+  "9518036": {
+    "zipcode": "9518036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "芳町"
+  },
+  "9518037": {
+    "zipcode": "9518037",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "相生町"
+  },
+  "9518038": {
+    "zipcode": "9518038",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "南毘沙門町"
+  },
+  "9518041": {
+    "zipcode": "9518041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "本間町"
+  },
+  "9518042": {
+    "zipcode": "9518042",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "住吉町"
+  },
+  "9518043": {
+    "zipcode": "9518043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西厩島町"
+  },
+  "9518044": {
+    "zipcode": "9518044",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東厩島町"
+  },
+  "9518045": {
+    "zipcode": "9518045",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "並木町"
+  },
+  "9518046": {
+    "zipcode": "9518046",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "秣川岸通"
+  },
+  "9518047": {
+    "zipcode": "9518047",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "南多門町"
+  },
+  "9518048": {
+    "zipcode": "9518048",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "北多門町"
+  },
+  "9518051": {
+    "zipcode": "9518051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "新島町通"
+  },
+  "9518052": {
+    "zipcode": "9518052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "下大川前通"
+  },
+  "9518053": {
+    "zipcode": "9518053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "川端町"
+  },
+  "9518054": {
+    "zipcode": "9518054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "礎町通上一ノ町"
+  },
+  "9518055": {
+    "zipcode": "9518055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "礎町通"
+  },
+  "9518056": {
+    "zipcode": "9518056",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "花町"
+  },
+  "9518057": {
+    "zipcode": "9518057",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "月町"
+  },
+  "9518058": {
+    "zipcode": "9518058",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "雪町"
+  },
+  "9518061": {
+    "zipcode": "9518061",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西堀通"
+  },
+  "9518062": {
+    "zipcode": "9518062",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西堀前通"
+  },
+  "9518063": {
+    "zipcode": "9518063",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "古町通"
+  },
+  "9518064": {
+    "zipcode": "9518064",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "横一番町"
+  },
+  "9518065": {
+    "zipcode": "9518065",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東堀通"
+  },
+  "9518066": {
+    "zipcode": "9518066",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東堀前通"
+  },
+  "9518067": {
+    "zipcode": "9518067",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "本町通"
+  },
+  "9518068": {
+    "zipcode": "9518068",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "上大川前通"
+  },
+  "9518071": {
+    "zipcode": "9518071",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "栄町"
+  },
+  "9518072": {
+    "zipcode": "9518072",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "浮洲町"
+  },
+  "9518073": {
+    "zipcode": "9518073",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寿町"
+  },
+  "9518074": {
+    "zipcode": "9518074",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "祝町"
+  },
+  "9518075": {
+    "zipcode": "9518075",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "元祝町"
+  },
+  "9518076": {
+    "zipcode": "9518076",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "翁町"
+  },
+  "9518077": {
+    "zipcode": "9518077",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "烏帽子町"
+  },
+  "9518078": {
+    "zipcode": "9518078",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "四ツ屋町"
+  },
+  "9518081": {
+    "zipcode": "9518081",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寄附町"
+  },
+  "9518082": {
+    "zipcode": "9518082",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西受地町"
+  },
+  "9518083": {
+    "zipcode": "9518083",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "横七番町通"
+  },
+  "9518084": {
+    "zipcode": "9518084",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "元下島町"
+  },
+  "9518085": {
+    "zipcode": "9518085",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寺山町"
+  },
+  "9518086": {
+    "zipcode": "9518086",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寄合町"
+  },
+  "9518087": {
+    "zipcode": "9518087",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東受地町"
+  },
+  "9518088": {
+    "zipcode": "9518088",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "菅根町"
+  },
+  "9518101": {
+    "zipcode": "9518101",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西船見町"
+  },
+  "9518102": {
+    "zipcode": "9518102",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "二葉町"
+  },
+  "9518103": {
+    "zipcode": "9518103",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "田中町"
+  },
+  "9518104": {
+    "zipcode": "9518104",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西大畑町"
+  },
+  "9518105": {
+    "zipcode": "9518105",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "北大畑町"
+  },
+  "9518106": {
+    "zipcode": "9518106",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東大畑通"
+  },
+  "9518107": {
+    "zipcode": "9518107",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "南大畑町"
+  },
+  "9518108": {
+    "zipcode": "9518108",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "中大畑町"
+  },
+  "9518111": {
+    "zipcode": "9518111",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "北浜通"
+  },
+  "9518112": {
+    "zipcode": "9518112",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "南浜通"
+  },
+  "9518113": {
+    "zipcode": "9518113",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寄居町"
+  },
+  "9518114": {
+    "zipcode": "9518114",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "営所通"
+  },
+  "9518115": {
+    "zipcode": "9518115",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "寺裏通"
+  },
+  "9518116": {
+    "zipcode": "9518116",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "東中通"
+  },
+  "9518117": {
+    "zipcode": "9518117",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "南横堀町"
+  },
+  "9518118": {
+    "zipcode": "9518118",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "西中町"
+  },
+  "9518121": {
+    "zipcode": "9518121",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "水道町"
+  },
+  "9518122": {
+    "zipcode": "9518122",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "旭町通"
+  },
+  "9518123": {
+    "zipcode": "9518123",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "下旭町"
+  },
+  "9518124": {
+    "zipcode": "9518124",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "医学町通"
+  },
+  "9518125": {
+    "zipcode": "9518125",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "学校裏町"
+  },
+  "9518126": {
+    "zipcode": "9518126",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "学校町通"
+  },
+  "9518127": {
+    "zipcode": "9518127",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋下川原町"
+  },
+  "9518131": {
+    "zipcode": "9518131",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "白山浦"
+  },
+  "9518132": {
+    "zipcode": "9518132",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "一番堀通町"
+  },
+  "9518133": {
+    "zipcode": "9518133",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "川岸町"
+  },
+  "9518134": {
+    "zipcode": "9518134",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西区",
+    "town": "関屋"
+  },
+  "9518135": {
+    "zipcode": "9518135",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋新町通"
+  },
+  "9518136": {
+    "zipcode": "9518136",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋田町"
+  },
+  "9518137": {
+    "zipcode": "9518137",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "白山浦新町通"
+  },
+  "9518141": {
+    "zipcode": "9518141",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関新"
+  },
+  "9518142": {
+    "zipcode": "9518142",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋大川前"
+  },
+  "9518143": {
+    "zipcode": "9518143",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋恵町"
+  },
+  "9518144": {
+    "zipcode": "9518144",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関南町"
+  },
+  "9518145": {
+    "zipcode": "9518145",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "有明台"
+  },
+  "9518146": {
+    "zipcode": "9518146",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "有明大橋町"
+  },
+  "9518147": {
+    "zipcode": "9518147",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "弥生町"
+  },
+  "9518151": {
+    "zipcode": "9518151",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "浜浦町"
+  },
+  "9518152": {
+    "zipcode": "9518152",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "信濃町"
+  },
+  "9518153": {
+    "zipcode": "9518153",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "文京町"
+  },
+  "9518154": {
+    "zipcode": "9518154",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "堀割町"
+  },
+  "9518155": {
+    "zipcode": "9518155",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西区",
+    "town": "関屋堀割町"
+  },
+  "9518156": {
+    "zipcode": "9518156",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "汐見台"
+  },
+  "9518161": {
+    "zipcode": "9518161",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋松波町"
+  },
+  "9518162": {
+    "zipcode": "9518162",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋本村町"
+  },
+  "9518163": {
+    "zipcode": "9518163",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋御船蔵町"
+  },
+  "9518164": {
+    "zipcode": "9518164",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋昭和町"
+  },
+  "9518165": {
+    "zipcode": "9518165",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋金鉢山町"
+  },
+  "9518166": {
+    "zipcode": "9518166",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋浜松町"
+  },
+  "9518167": {
+    "zipcode": "9518167",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市中央区",
+    "town": "関屋金衛町"
+  }
+}

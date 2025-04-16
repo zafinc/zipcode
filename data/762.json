@@ -1,0 +1,506 @@
+{
+  "7620000": {
+    "zipcode": "7620000",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "以下に掲載がない場合"
+  },
+  "7620001": {
+    "zipcode": "7620001",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "京町"
+  },
+  "7620002": {
+    "zipcode": "7620002",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "入船町"
+  },
+  "7620003": {
+    "zipcode": "7620003",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "久米町"
+  },
+  "7620004": {
+    "zipcode": "7620004",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "昭和町"
+  },
+  "7620005": {
+    "zipcode": "7620005",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "横津町"
+  },
+  "7620006": {
+    "zipcode": "7620006",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "旭町"
+  },
+  "7620007": {
+    "zipcode": "7620007",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "室町"
+  },
+  "7620011": {
+    "zipcode": "7620011",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "江尻町"
+  },
+  "7620012": {
+    "zipcode": "7620012",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "林田町"
+  },
+  "7620013": {
+    "zipcode": "7620013",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "王越町乃生"
+  },
+  "7620014": {
+    "zipcode": "7620014",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "王越町木沢"
+  },
+  "7620015": {
+    "zipcode": "7620015",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "大屋冨町"
+  },
+  "7620016": {
+    "zipcode": "7620016",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "青海町"
+  },
+  "7620017": {
+    "zipcode": "7620017",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "高屋町"
+  },
+  "7620018": {
+    "zipcode": "7620018",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "神谷町"
+  },
+  "7620021": {
+    "zipcode": "7620021",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "西庄町"
+  },
+  "7620022": {
+    "zipcode": "7620022",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "加茂町甲（氏部）"
+  },
+  "7620023": {
+    "zipcode": "7620023",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "加茂町（その他）"
+  },
+  "7620024": {
+    "zipcode": "7620024",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "府中町"
+  },
+  "7620025": {
+    "zipcode": "7620025",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "川津町"
+  },
+  "7620026": {
+    "zipcode": "7620026",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "小山町"
+  },
+  "7620027": {
+    "zipcode": "7620027",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "大池町"
+  },
+  "7620031": {
+    "zipcode": "7620031",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "文京町"
+  },
+  "7620032": {
+    "zipcode": "7620032",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "駒止町"
+  },
+  "7620033": {
+    "zipcode": "7620033",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "谷町"
+  },
+  "7620034": {
+    "zipcode": "7620034",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "福江町"
+  },
+  "7620035": {
+    "zipcode": "7620035",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "池園町"
+  },
+  "7620036": {
+    "zipcode": "7620036",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "花町"
+  },
+  "7620037": {
+    "zipcode": "7620037",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "青葉町"
+  },
+  "7620038": {
+    "zipcode": "7620038",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "笠指町"
+  },
+  "7620041": {
+    "zipcode": "7620041",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "八幡町"
+  },
+  "7620042": {
+    "zipcode": "7620042",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "白金町"
+  },
+  "7620043": {
+    "zipcode": "7620043",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "寿町"
+  },
+  "7620044": {
+    "zipcode": "7620044",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "本町"
+  },
+  "7620045": {
+    "zipcode": "7620045",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "元町"
+  },
+  "7620046": {
+    "zipcode": "7620046",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "富士見町"
+  },
+  "7620047": {
+    "zipcode": "7620047",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "新浜町"
+  },
+  "7620051": {
+    "zipcode": "7620051",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "御供所町"
+  },
+  "7620052": {
+    "zipcode": "7620052",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "沖の浜"
+  },
+  "7620053": {
+    "zipcode": "7620053",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "西大浜北"
+  },
+  "7620054": {
+    "zipcode": "7620054",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "西大浜南"
+  },
+  "7620055": {
+    "zipcode": "7620055",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "築港町"
+  },
+  "7620056": {
+    "zipcode": "7620056",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "中央町"
+  },
+  "7620057": {
+    "zipcode": "7620057",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "宮下町"
+  },
+  "7620058": {
+    "zipcode": "7620058",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "常盤町"
+  },
+  "7620061": {
+    "zipcode": "7620061",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "坂出町"
+  },
+  "7620062": {
+    "zipcode": "7620062",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "川崎町"
+  },
+  "7620063": {
+    "zipcode": "7620063",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "番の州公園"
+  },
+  "7620064": {
+    "zipcode": "7620064",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "番の州町"
+  },
+  "7620065": {
+    "zipcode": "7620065",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "番の州緑町"
+  },
+  "7620066": {
+    "zipcode": "7620066",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "沙弥島"
+  },
+  "7620067": {
+    "zipcode": "7620067",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "瀬居町"
+  },
+  "7620071": {
+    "zipcode": "7620071",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "与島町"
+  },
+  "7620072": {
+    "zipcode": "7620072",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "岩黒"
+  },
+  "7620073": {
+    "zipcode": "7620073",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "town": "櫃石"
+  },
+  "7620081": {
+    "zipcode": "7620081",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町東坂元"
+  },
+  "7620082": {
+    "zipcode": "7620082",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町川原"
+  },
+  "7620083": {
+    "zipcode": "7620083",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町下法軍寺"
+  },
+  "7620084": {
+    "zipcode": "7620084",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町上法軍寺"
+  },
+  "7620085": {
+    "zipcode": "7620085",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町東小川"
+  },
+  "7620086": {
+    "zipcode": "7620086",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町真時"
+  },
+  "7620087": {
+    "zipcode": "7620087",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯山町西坂元"
+  }
+}

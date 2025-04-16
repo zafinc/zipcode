@@ -1,0 +1,610 @@
+{
+  "3250000": {
+    "zipcode": "3250000",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "以下に掲載がない場合"
+  },
+  "3250001": {
+    "zipcode": "3250001",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "高久甲（その他）"
+  },
+  "3250002": {
+    "zipcode": "3250002",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "高久丙（穂積、山梨子）"
+  },
+  "3250003": {
+    "zipcode": "3250003",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "寺子乙（７２０番地）"
+  },
+  "3250011": {
+    "zipcode": "3250011",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "寺子"
+  },
+  "3250012": {
+    "zipcode": "3250012",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "越堀"
+  },
+  "3250013": {
+    "zipcode": "3250013",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "鍋掛"
+  },
+  "3250014": {
+    "zipcode": "3250014",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "野間"
+  },
+  "3250015": {
+    "zipcode": "3250015",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "原町"
+  },
+  "3250016": {
+    "zipcode": "3250016",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "東栄"
+  },
+  "3250017": {
+    "zipcode": "3250017",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "黒磯"
+  },
+  "3250021": {
+    "zipcode": "3250021",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "安藤町"
+  },
+  "3250022": {
+    "zipcode": "3250022",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "東豊浦"
+  },
+  "3250023": {
+    "zipcode": "3250023",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊浦"
+  },
+  "3250024": {
+    "zipcode": "3250024",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "渡辺"
+  },
+  "3250025": {
+    "zipcode": "3250025",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "下厚崎"
+  },
+  "3250026": {
+    "zipcode": "3250026",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "上厚崎"
+  },
+  "3250027": {
+    "zipcode": "3250027",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "共墾社"
+  },
+  "3250031": {
+    "zipcode": "3250031",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "並木町"
+  },
+  "3250032": {
+    "zipcode": "3250032",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "若草町"
+  },
+  "3250033": {
+    "zipcode": "3250033",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "埼玉"
+  },
+  "3250034": {
+    "zipcode": "3250034",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "東原"
+  },
+  "3250035": {
+    "zipcode": "3250035",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "小結"
+  },
+  "3250036": {
+    "zipcode": "3250036",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "鳥野目"
+  },
+  "3250037": {
+    "zipcode": "3250037",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "美原町"
+  },
+  "3250038": {
+    "zipcode": "3250038",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊浦北町"
+  },
+  "3250039": {
+    "zipcode": "3250039",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "北栄町"
+  },
+  "3250041": {
+    "zipcode": "3250041",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "東大和町"
+  },
+  "3250042": {
+    "zipcode": "3250042",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "桜町"
+  },
+  "3250043": {
+    "zipcode": "3250043",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "橋本町"
+  },
+  "3250044": {
+    "zipcode": "3250044",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "弥生町"
+  },
+  "3250045": {
+    "zipcode": "3250045",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "高砂町"
+  },
+  "3250046": {
+    "zipcode": "3250046",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "大黒町"
+  },
+  "3250047": {
+    "zipcode": "3250047",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "若葉町"
+  },
+  "3250048": {
+    "zipcode": "3250048",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "材木町"
+  },
+  "3250051": {
+    "zipcode": "3250051",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊町"
+  },
+  "3250052": {
+    "zipcode": "3250052",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "中央町"
+  },
+  "3250053": {
+    "zipcode": "3250053",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "本郷町"
+  },
+  "3250054": {
+    "zipcode": "3250054",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "新朝日"
+  },
+  "3250055": {
+    "zipcode": "3250055",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "宮町"
+  },
+  "3250056": {
+    "zipcode": "3250056",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "本町"
+  },
+  "3250057": {
+    "zipcode": "3250057",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "黒磯幸町"
+  },
+  "3250058": {
+    "zipcode": "3250058",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "錦町"
+  },
+  "3250061": {
+    "zipcode": "3250061",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "末広町"
+  },
+  "3250062": {
+    "zipcode": "3250062",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "住吉町"
+  },
+  "3250063": {
+    "zipcode": "3250063",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊浦中町"
+  },
+  "3250064": {
+    "zipcode": "3250064",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊浦町"
+  },
+  "3250065": {
+    "zipcode": "3250065",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊浦南町"
+  },
+  "3250066": {
+    "zipcode": "3250066",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "新緑町"
+  },
+  "3250067": {
+    "zipcode": "3250067",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "清住町"
+  },
+  "3250071": {
+    "zipcode": "3250071",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "新町"
+  },
+  "3250072": {
+    "zipcode": "3250072",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "豊住町"
+  },
+  "3250073": {
+    "zipcode": "3250073",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "阿波町"
+  },
+  "3250074": {
+    "zipcode": "3250074",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "松浦町"
+  },
+  "3250075": {
+    "zipcode": "3250075",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "春日町"
+  },
+  "3250076": {
+    "zipcode": "3250076",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "西新町"
+  },
+  "3250101": {
+    "zipcode": "3250101",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "西岩崎"
+  },
+  "3250102": {
+    "zipcode": "3250102",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "亀山"
+  },
+  "3250103": {
+    "zipcode": "3250103",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "青木"
+  },
+  "3250104": {
+    "zipcode": "3250104",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "鹿野崎新田"
+  },
+  "3250105": {
+    "zipcode": "3250105",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "箕輪"
+  },
+  "3250106": {
+    "zipcode": "3250106",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "洞島"
+  },
+  "3250107": {
+    "zipcode": "3250107",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "高林"
+  },
+  "3250108": {
+    "zipcode": "3250108",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "箭坪"
+  },
+  "3250111": {
+    "zipcode": "3250111",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "板室"
+  },
+  "3250112": {
+    "zipcode": "3250112",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "油井"
+  },
+  "3250113": {
+    "zipcode": "3250113",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "細竹"
+  },
+  "3250114": {
+    "zipcode": "3250114",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "戸田"
+  },
+  "3250115": {
+    "zipcode": "3250115",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "百村"
+  },
+  "3250116": {
+    "zipcode": "3250116",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "木綿畑"
+  },
+  "3250117": {
+    "zipcode": "3250117",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "湯宮"
+  },
+  "3250118": {
+    "zipcode": "3250118",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "town": "鴫内"
+  },
+  "3250301": {
+    "zipcode": "3250301",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "湯本"
+  },
+  "3250302": {
+    "zipcode": "3250302",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "高久丙（その他）"
+  },
+  "3250303": {
+    "zipcode": "3250303",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "高久乙"
+  },
+  "3250304": {
+    "zipcode": "3250304",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "town": "高久甲（２８８８、４５９５、５２３５〜６０１９、６０２１〜６１１２、６１１４〜６１４１、６３２８、６４３７、６４３８）"
+  }
+}

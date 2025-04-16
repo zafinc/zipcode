@@ -1,0 +1,466 @@
+{
+  "3360000": {
+    "zipcode": "3360000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "以下に掲載がない場合"
+  },
+  "3360015": {
+    "zipcode": "3360015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "太田窪"
+  },
+  "3360016": {
+    "zipcode": "3360016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "大谷場"
+  },
+  "3360017": {
+    "zipcode": "3360017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "南浦和"
+  },
+  "3360018": {
+    "zipcode": "3360018",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "南本町"
+  },
+  "3360021": {
+    "zipcode": "3360021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "別所"
+  },
+  "3360022": {
+    "zipcode": "3360022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "白幡"
+  },
+  "3360023": {
+    "zipcode": "3360023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "神明"
+  },
+  "3360024": {
+    "zipcode": "3360024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "根岸"
+  },
+  "3360025": {
+    "zipcode": "3360025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "文蔵"
+  },
+  "3360026": {
+    "zipcode": "3360026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "辻"
+  },
+  "3360027": {
+    "zipcode": "3360027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "沼影"
+  },
+  "3360031": {
+    "zipcode": "3360031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "鹿手袋"
+  },
+  "3360032": {
+    "zipcode": "3360032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "四谷"
+  },
+  "3360033": {
+    "zipcode": "3360033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "曲本"
+  },
+  "3360034": {
+    "zipcode": "3360034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "内谷"
+  },
+  "3360035": {
+    "zipcode": "3360035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "松本"
+  },
+  "3360036": {
+    "zipcode": "3360036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "堤外"
+  },
+  "3360038": {
+    "zipcode": "3360038",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "関"
+  },
+  "3360041": {
+    "zipcode": "3360041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "広ヶ谷戸"
+  },
+  "3360042": {
+    "zipcode": "3360042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "大谷口"
+  },
+  "3360043": {
+    "zipcode": "3360043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市南区",
+    "town": "円正寺"
+  },
+  "3360900": {
+    "zipcode": "3360900",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "以下に掲載がない場合"
+  },
+  "3360903": {
+    "zipcode": "3360903",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "山崎"
+  },
+  "3360905": {
+    "zipcode": "3360905",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大道"
+  },
+  "3360906": {
+    "zipcode": "3360906",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "三浦"
+  },
+  "3360907": {
+    "zipcode": "3360907",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "道祖土"
+  },
+  "3360911": {
+    "zipcode": "3360911",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "三室"
+  },
+  "3360912": {
+    "zipcode": "3360912",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "馬場"
+  },
+  "3360913": {
+    "zipcode": "3360913",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "新宿"
+  },
+  "3360914": {
+    "zipcode": "3360914",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "宮後"
+  },
+  "3360915": {
+    "zipcode": "3360915",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "見沼"
+  },
+  "3360916": {
+    "zipcode": "3360916",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "宮本"
+  },
+  "3360917": {
+    "zipcode": "3360917",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "芝原"
+  },
+  "3360918": {
+    "zipcode": "3360918",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "松木"
+  },
+  "3360922": {
+    "zipcode": "3360922",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大牧"
+  },
+  "3360923": {
+    "zipcode": "3360923",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大間木"
+  },
+  "3360924": {
+    "zipcode": "3360924",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "蓮見新田"
+  },
+  "3360925": {
+    "zipcode": "3360925",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "下山口新田"
+  },
+  "3360926": {
+    "zipcode": "3360926",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "東浦和"
+  },
+  "3360931": {
+    "zipcode": "3360931",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "原山"
+  },
+  "3360932": {
+    "zipcode": "3360932",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "中尾"
+  },
+  "3360934": {
+    "zipcode": "3360934",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大谷口"
+  },
+  "3360936": {
+    "zipcode": "3360936",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "太田窪"
+  },
+  "3360961": {
+    "zipcode": "3360961",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "玄蕃新田"
+  },
+  "3360962": {
+    "zipcode": "3360962",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "下野田"
+  },
+  "3360963": {
+    "zipcode": "3360963",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大門"
+  },
+  "3360964": {
+    "zipcode": "3360964",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "東大門"
+  },
+  "3360965": {
+    "zipcode": "3360965",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "間宮"
+  },
+  "3360966": {
+    "zipcode": "3360966",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "北原"
+  },
+  "3360967": {
+    "zipcode": "3360967",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "美園"
+  },
+  "3360971": {
+    "zipcode": "3360971",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "高畑"
+  },
+  "3360972": {
+    "zipcode": "3360972",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "中野田"
+  },
+  "3360973": {
+    "zipcode": "3360973",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "南部領辻"
+  },
+  "3360974": {
+    "zipcode": "3360974",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "大崎"
+  },
+  "3360975": {
+    "zipcode": "3360975",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "代山"
+  },
+  "3360976": {
+    "zipcode": "3360976",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "寺山"
+  },
+  "3360977": {
+    "zipcode": "3360977",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "さいたま市緑区",
+    "town": "上野田"
+  }
+}

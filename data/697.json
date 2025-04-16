@@ -1,0 +1,810 @@
+{
+  "6970000": {
+    "zipcode": "6970000",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "以下に掲載がない場合"
+  },
+  "6970001": {
+    "zipcode": "6970001",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "外ノ浦町"
+  },
+  "6970002": {
+    "zipcode": "6970002",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "生湯町"
+  },
+  "6970003": {
+    "zipcode": "6970003",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "国分町"
+  },
+  "6970004": {
+    "zipcode": "6970004",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "久代町"
+  },
+  "6970005": {
+    "zipcode": "6970005",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "上府町"
+  },
+  "6970006": {
+    "zipcode": "6970006",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "下府町"
+  },
+  "6970007": {
+    "zipcode": "6970007",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "高佐町"
+  },
+  "6970011": {
+    "zipcode": "6970011",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "後野町"
+  },
+  "6970012": {
+    "zipcode": "6970012",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "河内町"
+  },
+  "6970013": {
+    "zipcode": "6970013",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "三階町"
+  },
+  "6970014": {
+    "zipcode": "6970014",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "長見町"
+  },
+  "6970015": {
+    "zipcode": "6970015",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "竹迫町"
+  },
+  "6970016": {
+    "zipcode": "6970016",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "野原町"
+  },
+  "6970017": {
+    "zipcode": "6970017",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "原井町"
+  },
+  "6970021": {
+    "zipcode": "6970021",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "松原町"
+  },
+  "6970022": {
+    "zipcode": "6970022",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "浅井町"
+  },
+  "6970023": {
+    "zipcode": "6970023",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "長沢町"
+  },
+  "6970024": {
+    "zipcode": "6970024",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "黒川町"
+  },
+  "6970025": {
+    "zipcode": "6970025",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "琵琶町"
+  },
+  "6970026": {
+    "zipcode": "6970026",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "田町"
+  },
+  "6970027": {
+    "zipcode": "6970027",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "殿町"
+  },
+  "6970031": {
+    "zipcode": "6970031",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "紺屋町"
+  },
+  "6970032": {
+    "zipcode": "6970032",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "牛市町"
+  },
+  "6970033": {
+    "zipcode": "6970033",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "朝日町"
+  },
+  "6970034": {
+    "zipcode": "6970034",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "相生町"
+  },
+  "6970035": {
+    "zipcode": "6970035",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "杉戸町"
+  },
+  "6970036": {
+    "zipcode": "6970036",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "天満町"
+  },
+  "6970037": {
+    "zipcode": "6970037",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "新町"
+  },
+  "6970041": {
+    "zipcode": "6970041",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "片庭町"
+  },
+  "6970042": {
+    "zipcode": "6970042",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "錦町"
+  },
+  "6970043": {
+    "zipcode": "6970043",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "栄町"
+  },
+  "6970044": {
+    "zipcode": "6970044",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "蛭子町"
+  },
+  "6970045": {
+    "zipcode": "6970045",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "京町"
+  },
+  "6970046": {
+    "zipcode": "6970046",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "真光町"
+  },
+  "6970047": {
+    "zipcode": "6970047",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "清水町"
+  },
+  "6970051": {
+    "zipcode": "6970051",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "瀬戸ケ島町"
+  },
+  "6970052": {
+    "zipcode": "6970052",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "港町"
+  },
+  "6970053": {
+    "zipcode": "6970053",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "大辻町"
+  },
+  "6970054": {
+    "zipcode": "6970054",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "高田町"
+  },
+  "6970055": {
+    "zipcode": "6970055",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "元浜町"
+  },
+  "6970056": {
+    "zipcode": "6970056",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "原町"
+  },
+  "6970057": {
+    "zipcode": "6970057",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "瀬戸見町"
+  },
+  "6970061": {
+    "zipcode": "6970061",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "笠柄町"
+  },
+  "6970062": {
+    "zipcode": "6970062",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "熱田町"
+  },
+  "6970063": {
+    "zipcode": "6970063",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "長浜町"
+  },
+  "6970064": {
+    "zipcode": "6970064",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "内田町（百万騎）"
+  },
+  "6970065": {
+    "zipcode": "6970065",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "内村町（十文字原）"
+  },
+  "6970121": {
+    "zipcode": "6970121",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町下来原"
+  },
+  "6970122": {
+    "zipcode": "6970122",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町上来原"
+  },
+  "6970123": {
+    "zipcode": "6970123",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町七条"
+  },
+  "6970211": {
+    "zipcode": "6970211",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町波佐"
+  },
+  "6970212": {
+    "zipcode": "6970212",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町長田"
+  },
+  "6970213": {
+    "zipcode": "6970213",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町小国"
+  },
+  "6970301": {
+    "zipcode": "6970301",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町追原"
+  },
+  "6970302": {
+    "zipcode": "6970302",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町今福"
+  },
+  "6970303": {
+    "zipcode": "6970303",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町久佐"
+  },
+  "6970304": {
+    "zipcode": "6970304",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町宇津井"
+  },
+  "6970305": {
+    "zipcode": "6970305",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "金城町入野"
+  },
+  "6970311": {
+    "zipcode": "6970311",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "佐野町"
+  },
+  "6970312": {
+    "zipcode": "6970312",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "宇津井町"
+  },
+  "6970421": {
+    "zipcode": "6970421",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町山ノ内"
+  },
+  "6970422": {
+    "zipcode": "6970422",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町本郷"
+  },
+  "6970423": {
+    "zipcode": "6970423",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町重富"
+  },
+  "6970424": {
+    "zipcode": "6970424",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町和田"
+  },
+  "6970425": {
+    "zipcode": "6970425",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町今市"
+  },
+  "6970426": {
+    "zipcode": "6970426",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町丸原"
+  },
+  "6970427": {
+    "zipcode": "6970427",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町木田"
+  },
+  "6970431": {
+    "zipcode": "6970431",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町坂本（その他）"
+  },
+  "6970511": {
+    "zipcode": "6970511",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町都川"
+  },
+  "6970512": {
+    "zipcode": "6970512",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町来尾"
+  },
+  "6970513": {
+    "zipcode": "6970513",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町坂本（八ツ木）"
+  },
+  "6970514": {
+    "zipcode": "6970514",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "旭町市木"
+  },
+  "6970631": {
+    "zipcode": "6970631",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "市木"
+  },
+  "6971121": {
+    "zipcode": "6971121",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町野坂"
+  },
+  "6971122": {
+    "zipcode": "6971122",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町木都賀"
+  },
+  "6971123": {
+    "zipcode": "6971123",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町田野原"
+  },
+  "6971201": {
+    "zipcode": "6971201",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町栃木"
+  },
+  "6971202": {
+    "zipcode": "6971202",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町小坂"
+  },
+  "6971203": {
+    "zipcode": "6971203",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町高内"
+  },
+  "6971204": {
+    "zipcode": "6971204",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町門田"
+  },
+  "6971211": {
+    "zipcode": "6971211",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町長安本郷"
+  },
+  "6971212": {
+    "zipcode": "6971212",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町三里"
+  },
+  "6971213": {
+    "zipcode": "6971213",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町程原"
+  },
+  "6971214": {
+    "zipcode": "6971214",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町大坪"
+  },
+  "6971215": {
+    "zipcode": "6971215",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "弥栄町稲代"
+  },
+  "6971321": {
+    "zipcode": "6971321",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "周布町"
+  },
+  "6971322": {
+    "zipcode": "6971322",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "日脚町"
+  },
+  "6971323": {
+    "zipcode": "6971323",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "内田町（その他）"
+  },
+  "6971324": {
+    "zipcode": "6971324",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "穂出町"
+  },
+  "6971325": {
+    "zipcode": "6971325",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "吉地町"
+  },
+  "6971326": {
+    "zipcode": "6971326",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "治和町"
+  },
+  "6971327": {
+    "zipcode": "6971327",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "津摩町"
+  },
+  "6971331": {
+    "zipcode": "6971331",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "内村町（その他）"
+  },
+  "6971332": {
+    "zipcode": "6971332",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "田橋町"
+  },
+  "6971333": {
+    "zipcode": "6971333",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "鍋石町"
+  },
+  "6971334": {
+    "zipcode": "6971334",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "櫟田原町"
+  },
+  "6971335": {
+    "zipcode": "6971335",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "井野町"
+  },
+  "6971336": {
+    "zipcode": "6971336",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "横山町"
+  },
+  "6971337": {
+    "zipcode": "6971337",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "西村町"
+  },
+  "6971338": {
+    "zipcode": "6971338",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "浜田市",
+    "town": "折居町"
+  }
+}

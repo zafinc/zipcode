@@ -1,0 +1,346 @@
+{
+  "0910001": {
+    "zipcode": "0910001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町元町"
+  },
+  "0910002": {
+    "zipcode": "0910002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町東町"
+  },
+  "0910003": {
+    "zipcode": "0910003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町仲町"
+  },
+  "0910004": {
+    "zipcode": "0910004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町上町"
+  },
+  "0910007": {
+    "zipcode": "0910007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町富岡"
+  },
+  "0910008": {
+    "zipcode": "0910008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町宮下町"
+  },
+  "0910011": {
+    "zipcode": "0910011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町泉"
+  },
+  "0910016": {
+    "zipcode": "0910016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町丸山"
+  },
+  "0910017": {
+    "zipcode": "0910017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町瑞穂"
+  },
+  "0910018": {
+    "zipcode": "0910018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町花園"
+  },
+  "0910021": {
+    "zipcode": "0910021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町金華"
+  },
+  "0910022": {
+    "zipcode": "0910022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭東"
+  },
+  "0910023": {
+    "zipcode": "0910023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭中央"
+  },
+  "0910024": {
+    "zipcode": "0910024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭南"
+  },
+  "0910025": {
+    "zipcode": "0910025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭北"
+  },
+  "0910026": {
+    "zipcode": "0910026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭公園"
+  },
+  "0910027": {
+    "zipcode": "0910027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭西"
+  },
+  "0910028": {
+    "zipcode": "0910028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭３区"
+  },
+  "0910029": {
+    "zipcode": "0910029",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町旭１区"
+  },
+  "0910031": {
+    "zipcode": "0910031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町大富"
+  },
+  "0910032": {
+    "zipcode": "0910032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町豊金"
+  },
+  "0910033": {
+    "zipcode": "0910033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町栄町"
+  },
+  "0910151": {
+    "zipcode": "0910151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町昭栄"
+  },
+  "0910153": {
+    "zipcode": "0910153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町松山"
+  },
+  "0910154": {
+    "zipcode": "0910154",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町平里"
+  },
+  "0910155": {
+    "zipcode": "0910155",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町大和"
+  },
+  "0910156": {
+    "zipcode": "0910156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町川北"
+  },
+  "0910157": {
+    "zipcode": "0910157",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町花丘"
+  },
+  "0910161": {
+    "zipcode": "0910161",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町厚和"
+  },
+  "0910162": {
+    "zipcode": "0910162",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町富士見"
+  },
+  "0910163": {
+    "zipcode": "0910163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町滝の湯"
+  },
+  "0910170": {
+    "zipcode": "0910170",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "留辺蘂町温根湯温泉"
+  },
+  "0910471": {
+    "zipcode": "0910471",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "大成"
+  },
+  "0910472": {
+    "zipcode": "0910472",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "栄"
+  },
+  "0910473": {
+    "zipcode": "0910473",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "共立"
+  },
+  "0910551": {
+    "zipcode": "0910551",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "若佐"
+  },
+  "0910552": {
+    "zipcode": "0910552",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "富丘"
+  },
+  "0910553": {
+    "zipcode": "0910553",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "朝日"
+  },
+  "0910554": {
+    "zipcode": "0910554",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "武士"
+  },
+  "0910555": {
+    "zipcode": "0910555",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "中園"
+  },
+  "0910556": {
+    "zipcode": "0910556",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "啓生"
+  },
+  "0910557": {
+    "zipcode": "0910557",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "川西"
+  },
+  "0910558": {
+    "zipcode": "0910558",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "常呂郡佐呂間町",
+    "town": "栃木"
+  }
+}

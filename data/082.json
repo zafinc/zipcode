@@ -1,0 +1,610 @@
+{
+  "0820000": {
+    "zipcode": "0820000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "以下に掲載がない場合"
+  },
+  "0820001": {
+    "zipcode": "0820001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "平和"
+  },
+  "0820002": {
+    "zipcode": "0820002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "北明（光勇）"
+  },
+  "0820003": {
+    "zipcode": "0820003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西士狩（国見）"
+  },
+  "0820004": {
+    "zipcode": "0820004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東芽室北（下美生）"
+  },
+  "0820005": {
+    "zipcode": "0820005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東芽室基線（日甜）"
+  },
+  "0820006": {
+    "zipcode": "0820006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東芽室南（大成）"
+  },
+  "0820007": {
+    "zipcode": "0820007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "北芽室（芽室太、美藁）"
+  },
+  "0820008": {
+    "zipcode": "0820008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "毛根"
+  },
+  "0820009": {
+    "zipcode": "0820009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "祥栄西"
+  },
+  "0820010": {
+    "zipcode": "0820010",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "祥栄北"
+  },
+  "0820011": {
+    "zipcode": "0820011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東一条"
+  },
+  "0820012": {
+    "zipcode": "0820012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東二条"
+  },
+  "0820013": {
+    "zipcode": "0820013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東三条"
+  },
+  "0820014": {
+    "zipcode": "0820014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東四条"
+  },
+  "0820015": {
+    "zipcode": "0820015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東五条"
+  },
+  "0820016": {
+    "zipcode": "0820016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東六条"
+  },
+  "0820017": {
+    "zipcode": "0820017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東七条"
+  },
+  "0820018": {
+    "zipcode": "0820018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東八条"
+  },
+  "0820019": {
+    "zipcode": "0820019",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東九条"
+  },
+  "0820020": {
+    "zipcode": "0820020",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東十条"
+  },
+  "0820021": {
+    "zipcode": "0820021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東十一条"
+  },
+  "0820022": {
+    "zipcode": "0820022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東十二条"
+  },
+  "0820030": {
+    "zipcode": "0820030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "本通"
+  },
+  "0820031": {
+    "zipcode": "0820031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西一条"
+  },
+  "0820032": {
+    "zipcode": "0820032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西二条"
+  },
+  "0820033": {
+    "zipcode": "0820033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西三条"
+  },
+  "0820034": {
+    "zipcode": "0820034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西四条"
+  },
+  "0820035": {
+    "zipcode": "0820035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西五条"
+  },
+  "0820036": {
+    "zipcode": "0820036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西六条"
+  },
+  "0820037": {
+    "zipcode": "0820037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西七条"
+  },
+  "0820038": {
+    "zipcode": "0820038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西八条"
+  },
+  "0820039": {
+    "zipcode": "0820039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西九条"
+  },
+  "0820040": {
+    "zipcode": "0820040",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西十条"
+  },
+  "0820041": {
+    "zipcode": "0820041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西十一条"
+  },
+  "0820042": {
+    "zipcode": "0820042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "芽室北（西芽室、中島）"
+  },
+  "0820043": {
+    "zipcode": "0820043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "芽室基線（元町）"
+  },
+  "0820044": {
+    "zipcode": "0820044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "芽室南（南弥生、高岩）"
+  },
+  "0820051": {
+    "zipcode": "0820051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東一条南"
+  },
+  "0820052": {
+    "zipcode": "0820052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東二条南"
+  },
+  "0820053": {
+    "zipcode": "0820053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東三条南"
+  },
+  "0820054": {
+    "zipcode": "0820054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東四条南"
+  },
+  "0820056": {
+    "zipcode": "0820056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東六条南"
+  },
+  "0820057": {
+    "zipcode": "0820057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東七条南"
+  },
+  "0820060": {
+    "zipcode": "0820060",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "本通南"
+  },
+  "0820061": {
+    "zipcode": "0820061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西一条南"
+  },
+  "0820062": {
+    "zipcode": "0820062",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西二条南"
+  },
+  "0820063": {
+    "zipcode": "0820063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西三条南"
+  },
+  "0820064": {
+    "zipcode": "0820064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "西四条南"
+  },
+  "0820071": {
+    "zipcode": "0820071",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "新生"
+  },
+  "0820072": {
+    "zipcode": "0820072",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "北伏古南"
+  },
+  "0820073": {
+    "zipcode": "0820073",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "中伏古"
+  },
+  "0820074": {
+    "zipcode": "0820074",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "栄（柏友、光栄、豊来、常盤、丸山）"
+  },
+  "0820075": {
+    "zipcode": "0820075",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "坂の上（博進）"
+  },
+  "0820076": {
+    "zipcode": "0820076",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "美生"
+  },
+  "0820077": {
+    "zipcode": "0820077",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上芽室南"
+  },
+  "0820078": {
+    "zipcode": "0820078",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "渋山（その他）"
+  },
+  "0820079": {
+    "zipcode": "0820079",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "新朝日"
+  },
+  "0820081": {
+    "zipcode": "0820081",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "新生南"
+  },
+  "0820082": {
+    "zipcode": "0820082",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "北伏古東"
+  },
+  "0820083": {
+    "zipcode": "0820083",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "中伏古東"
+  },
+  "0820084": {
+    "zipcode": "0820084",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上芽室北"
+  },
+  "0820085": {
+    "zipcode": "0820085",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上芽室基線"
+  },
+  "0820086": {
+    "zipcode": "0820086",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "中美生"
+  },
+  "0820087": {
+    "zipcode": "0820087",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上芽室東"
+  },
+  "0820381": {
+    "zipcode": "0820381",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上伏古"
+  },
+  "0820382": {
+    "zipcode": "0820382",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "雄馬別"
+  },
+  "0820383": {
+    "zipcode": "0820383",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "伏美"
+  },
+  "0820384": {
+    "zipcode": "0820384",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "上美生"
+  },
+  "0820385": {
+    "zipcode": "0820385",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "渋山（上渋山）"
+  },
+  "0820801": {
+    "zipcode": "0820801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ一条北"
+  },
+  "0820802": {
+    "zipcode": "0820802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ二条北"
+  },
+  "0820803": {
+    "zipcode": "0820803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ三条北"
+  },
+  "0820811": {
+    "zipcode": "0820811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ一条南"
+  },
+  "0820812": {
+    "zipcode": "0820812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ二条南"
+  },
+  "0820813": {
+    "zipcode": "0820813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河西郡芽室町",
+    "town": "東めむろ三条南"
+  }
+}

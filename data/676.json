@@ -1,0 +1,722 @@
+{
+  "6760000": {
+    "zipcode": "6760000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "以下に掲載がない場合"
+  },
+  "6760001": {
+    "zipcode": "6760001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "中島"
+  },
+  "6760002": {
+    "zipcode": "6760002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "末広町"
+  },
+  "6760003": {
+    "zipcode": "6760003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "今市"
+  },
+  "6760004": {
+    "zipcode": "6760004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町千鳥"
+  },
+  "6760005": {
+    "zipcode": "6760005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町御旅"
+  },
+  "6760006": {
+    "zipcode": "6760006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町南栄町"
+  },
+  "6760007": {
+    "zipcode": "6760007",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町中町"
+  },
+  "6760008": {
+    "zipcode": "6760008",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町新浜"
+  },
+  "6760011": {
+    "zipcode": "6760011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町小松原"
+  },
+  "6760012": {
+    "zipcode": "6760012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町中新町"
+  },
+  "6760013": {
+    "zipcode": "6760013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町蓮池"
+  },
+  "6760014": {
+    "zipcode": "6760014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町日之出町"
+  },
+  "6760015": {
+    "zipcode": "6760015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町紙町"
+  },
+  "6760016": {
+    "zipcode": "6760016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町扇町"
+  },
+  "6760017": {
+    "zipcode": "6760017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町東本町"
+  },
+  "6760018": {
+    "zipcode": "6760018",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "荒井町若宮町"
+  },
+  "6760019": {
+    "zipcode": "6760019",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "緑丘"
+  },
+  "6760021": {
+    "zipcode": "6760021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町朝日町"
+  },
+  "6760022": {
+    "zipcode": "6760022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町浜田町"
+  },
+  "6760023": {
+    "zipcode": "6760023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町松波町"
+  },
+  "6760024": {
+    "zipcode": "6760024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町木曽町"
+  },
+  "6760025": {
+    "zipcode": "6760025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "西畑"
+  },
+  "6760026": {
+    "zipcode": "6760026",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町沖浜町"
+  },
+  "6760027": {
+    "zipcode": "6760027",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町宮前町"
+  },
+  "6760028": {
+    "zipcode": "6760028",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町相生町"
+  },
+  "6760031": {
+    "zipcode": "6760031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町向島町"
+  },
+  "6760032": {
+    "zipcode": "6760032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町東浜町"
+  },
+  "6760033": {
+    "zipcode": "6760033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町材木町"
+  },
+  "6760034": {
+    "zipcode": "6760034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町船頭町"
+  },
+  "6760035": {
+    "zipcode": "6760035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町清水町"
+  },
+  "6760036": {
+    "zipcode": "6760036",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町高瀬町"
+  },
+  "6760037": {
+    "zipcode": "6760037",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町藍屋町"
+  },
+  "6760038": {
+    "zipcode": "6760038",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町栄町"
+  },
+  "6760041": {
+    "zipcode": "6760041",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町今津町"
+  },
+  "6760042": {
+    "zipcode": "6760042",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町南浜町"
+  },
+  "6760043": {
+    "zipcode": "6760043",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町東宮町"
+  },
+  "6760044": {
+    "zipcode": "6760044",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町南材木町"
+  },
+  "6760045": {
+    "zipcode": "6760045",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町戎町"
+  },
+  "6760046": {
+    "zipcode": "6760046",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町西宮町"
+  },
+  "6760047": {
+    "zipcode": "6760047",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町南本町"
+  },
+  "6760048": {
+    "zipcode": "6760048",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町猟師町"
+  },
+  "6760049": {
+    "zipcode": "6760049",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町田町"
+  },
+  "6760051": {
+    "zipcode": "6760051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町横町"
+  },
+  "6760052": {
+    "zipcode": "6760052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町南渡海町"
+  },
+  "6760053": {
+    "zipcode": "6760053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町魚町"
+  },
+  "6760054": {
+    "zipcode": "6760054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町狩網町"
+  },
+  "6760055": {
+    "zipcode": "6760055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町釣船町"
+  },
+  "6760056": {
+    "zipcode": "6760056",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町大工町"
+  },
+  "6760061": {
+    "zipcode": "6760061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町農人町"
+  },
+  "6760062": {
+    "zipcode": "6760062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町北渡海町"
+  },
+  "6760063": {
+    "zipcode": "6760063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町次郎助町"
+  },
+  "6760064": {
+    "zipcode": "6760064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町北本町"
+  },
+  "6760065": {
+    "zipcode": "6760065",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町細工町"
+  },
+  "6760066": {
+    "zipcode": "6760066",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町鍵町"
+  },
+  "6760067": {
+    "zipcode": "6760067",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町東農人町"
+  },
+  "6760068": {
+    "zipcode": "6760068",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高砂町鍛冶屋町"
+  },
+  "6760071": {
+    "zipcode": "6760071",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保東"
+  },
+  "6760072": {
+    "zipcode": "6760072",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保港町"
+  },
+  "6760073": {
+    "zipcode": "6760073",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "高須"
+  },
+  "6760074": {
+    "zipcode": "6760074",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "梅井"
+  },
+  "6760075": {
+    "zipcode": "6760075",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保崎南"
+  },
+  "6760076": {
+    "zipcode": "6760076",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保崎"
+  },
+  "6760077": {
+    "zipcode": "6760077",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "松陽"
+  },
+  "6760078": {
+    "zipcode": "6760078",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保"
+  },
+  "6760081": {
+    "zipcode": "6760081",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "伊保町中筋"
+  },
+  "6760082": {
+    "zipcode": "6760082",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "曽根町"
+  },
+  "6760801": {
+    "zipcode": "6760801",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田町米田新"
+  },
+  "6760802": {
+    "zipcode": "6760802",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田町古新"
+  },
+  "6760803": {
+    "zipcode": "6760803",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "百合丘"
+  },
+  "6760804": {
+    "zipcode": "6760804",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "美保里"
+  },
+  "6760805": {
+    "zipcode": "6760805",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田町米田"
+  },
+  "6760806": {
+    "zipcode": "6760806",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田町塩市"
+  },
+  "6760807": {
+    "zipcode": "6760807",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田町島"
+  },
+  "6760808": {
+    "zipcode": "6760808",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "神爪"
+  },
+  "6760809": {
+    "zipcode": "6760809",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "米田団地"
+  },
+  "6760811": {
+    "zipcode": "6760811",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "竜山"
+  },
+  "6760812": {
+    "zipcode": "6760812",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "中筋"
+  },
+  "6760813": {
+    "zipcode": "6760813",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "時光寺町"
+  },
+  "6760814": {
+    "zipcode": "6760814",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "春日野町"
+  },
+  "6760815": {
+    "zipcode": "6760815",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀（丁目）"
+  },
+  "6760816": {
+    "zipcode": "6760816",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "金ケ田町"
+  },
+  "6760821": {
+    "zipcode": "6760821",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町長尾"
+  },
+  "6760822": {
+    "zipcode": "6760822",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町魚橋"
+  },
+  "6760823": {
+    "zipcode": "6760823",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町生石"
+  },
+  "6760824": {
+    "zipcode": "6760824",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町南池"
+  },
+  "6760825": {
+    "zipcode": "6760825",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町北池"
+  },
+  "6760826": {
+    "zipcode": "6760826",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町北山"
+  },
+  "6760827": {
+    "zipcode": "6760827",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町阿弥陀（番地）"
+  },
+  "6760828": {
+    "zipcode": "6760828",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "town": "阿弥陀町地徳"
+  }
+}

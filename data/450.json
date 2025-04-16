@@ -1,0 +1,1842 @@
+{
+  "4500001": {
+    "zipcode": "4500001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "那古野"
+  },
+  "4500002": {
+    "zipcode": "4500002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅（その他）"
+  },
+  "4500003": {
+    "zipcode": "4500003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅南"
+  },
+  "4500004": {
+    "zipcode": "4500004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "松重町"
+  },
+  "4500005": {
+    "zipcode": "4500005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "西日置"
+  },
+  "4500006": {
+    "zipcode": "4500006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "下広井町"
+  },
+  "4500007": {
+    "zipcode": "4500007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "笹島町"
+  },
+  "4506001": {
+    "zipcode": "4506001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１階）"
+  },
+  "4506002": {
+    "zipcode": "4506002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２階）"
+  },
+  "4506003": {
+    "zipcode": "4506003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３階）"
+  },
+  "4506004": {
+    "zipcode": "4506004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４階）"
+  },
+  "4506005": {
+    "zipcode": "4506005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（５階）"
+  },
+  "4506006": {
+    "zipcode": "4506006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（６階）"
+  },
+  "4506007": {
+    "zipcode": "4506007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（７階）"
+  },
+  "4506008": {
+    "zipcode": "4506008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（８階）"
+  },
+  "4506009": {
+    "zipcode": "4506009",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（９階）"
+  },
+  "4506010": {
+    "zipcode": "4506010",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１０階）"
+  },
+  "4506011": {
+    "zipcode": "4506011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１１階）"
+  },
+  "4506012": {
+    "zipcode": "4506012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１２階）"
+  },
+  "4506013": {
+    "zipcode": "4506013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１３階）"
+  },
+  "4506014": {
+    "zipcode": "4506014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１４階）"
+  },
+  "4506015": {
+    "zipcode": "4506015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１５階）"
+  },
+  "4506016": {
+    "zipcode": "4506016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１６階）"
+  },
+  "4506017": {
+    "zipcode": "4506017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１７階）"
+  },
+  "4506018": {
+    "zipcode": "4506018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１８階）"
+  },
+  "4506019": {
+    "zipcode": "4506019",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（１９階）"
+  },
+  "4506020": {
+    "zipcode": "4506020",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２０階）"
+  },
+  "4506021": {
+    "zipcode": "4506021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２１階）"
+  },
+  "4506022": {
+    "zipcode": "4506022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２２階）"
+  },
+  "4506023": {
+    "zipcode": "4506023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２３階）"
+  },
+  "4506024": {
+    "zipcode": "4506024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２４階）"
+  },
+  "4506025": {
+    "zipcode": "4506025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２５階）"
+  },
+  "4506026": {
+    "zipcode": "4506026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２６階）"
+  },
+  "4506027": {
+    "zipcode": "4506027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２７階）"
+  },
+  "4506028": {
+    "zipcode": "4506028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２８階）"
+  },
+  "4506029": {
+    "zipcode": "4506029",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（２９階）"
+  },
+  "4506030": {
+    "zipcode": "4506030",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３０階）"
+  },
+  "4506031": {
+    "zipcode": "4506031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３１階）"
+  },
+  "4506032": {
+    "zipcode": "4506032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３２階）"
+  },
+  "4506033": {
+    "zipcode": "4506033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３３階）"
+  },
+  "4506034": {
+    "zipcode": "4506034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３４階）"
+  },
+  "4506035": {
+    "zipcode": "4506035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３５階）"
+  },
+  "4506036": {
+    "zipcode": "4506036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３６階）"
+  },
+  "4506037": {
+    "zipcode": "4506037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３７階）"
+  },
+  "4506038": {
+    "zipcode": "4506038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３８階）"
+  },
+  "4506039": {
+    "zipcode": "4506039",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（３９階）"
+  },
+  "4506040": {
+    "zipcode": "4506040",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４０階）"
+  },
+  "4506041": {
+    "zipcode": "4506041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４１階）"
+  },
+  "4506042": {
+    "zipcode": "4506042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４２階）"
+  },
+  "4506043": {
+    "zipcode": "4506043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４３階）"
+  },
+  "4506044": {
+    "zipcode": "4506044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４４階）"
+  },
+  "4506045": {
+    "zipcode": "4506045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４５階）"
+  },
+  "4506046": {
+    "zipcode": "4506046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４６階）"
+  },
+  "4506047": {
+    "zipcode": "4506047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４７階）"
+  },
+  "4506048": {
+    "zipcode": "4506048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４８階）"
+  },
+  "4506049": {
+    "zipcode": "4506049",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（４９階）"
+  },
+  "4506050": {
+    "zipcode": "4506050",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（５０階）"
+  },
+  "4506051": {
+    "zipcode": "4506051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（５１階）"
+  },
+  "4506090": {
+    "zipcode": "4506090",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲセントラルタワーズ（地階・階層不明）"
+  },
+  "4506201": {
+    "zipcode": "4506201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１階）"
+  },
+  "4506202": {
+    "zipcode": "4506202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２階）"
+  },
+  "4506203": {
+    "zipcode": "4506203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３階）"
+  },
+  "4506204": {
+    "zipcode": "4506204",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４階）"
+  },
+  "4506205": {
+    "zipcode": "4506205",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（５階）"
+  },
+  "4506206": {
+    "zipcode": "4506206",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（６階）"
+  },
+  "4506207": {
+    "zipcode": "4506207",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（７階）"
+  },
+  "4506208": {
+    "zipcode": "4506208",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（８階）"
+  },
+  "4506209": {
+    "zipcode": "4506209",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（９階）"
+  },
+  "4506210": {
+    "zipcode": "4506210",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１０階）"
+  },
+  "4506211": {
+    "zipcode": "4506211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１１階）"
+  },
+  "4506212": {
+    "zipcode": "4506212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１２階）"
+  },
+  "4506213": {
+    "zipcode": "4506213",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１３階）"
+  },
+  "4506214": {
+    "zipcode": "4506214",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１４階）"
+  },
+  "4506215": {
+    "zipcode": "4506215",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１５階）"
+  },
+  "4506216": {
+    "zipcode": "4506216",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１６階）"
+  },
+  "4506217": {
+    "zipcode": "4506217",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１７階）"
+  },
+  "4506218": {
+    "zipcode": "4506218",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１８階）"
+  },
+  "4506219": {
+    "zipcode": "4506219",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（１９階）"
+  },
+  "4506220": {
+    "zipcode": "4506220",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２０階）"
+  },
+  "4506221": {
+    "zipcode": "4506221",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２１階）"
+  },
+  "4506222": {
+    "zipcode": "4506222",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２２階）"
+  },
+  "4506223": {
+    "zipcode": "4506223",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２３階）"
+  },
+  "4506224": {
+    "zipcode": "4506224",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２４階）"
+  },
+  "4506225": {
+    "zipcode": "4506225",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２５階）"
+  },
+  "4506226": {
+    "zipcode": "4506226",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２６階）"
+  },
+  "4506227": {
+    "zipcode": "4506227",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２７階）"
+  },
+  "4506228": {
+    "zipcode": "4506228",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２８階）"
+  },
+  "4506229": {
+    "zipcode": "4506229",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（２９階）"
+  },
+  "4506230": {
+    "zipcode": "4506230",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３０階）"
+  },
+  "4506231": {
+    "zipcode": "4506231",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３１階）"
+  },
+  "4506232": {
+    "zipcode": "4506232",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３２階）"
+  },
+  "4506233": {
+    "zipcode": "4506233",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３３階）"
+  },
+  "4506234": {
+    "zipcode": "4506234",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３４階）"
+  },
+  "4506235": {
+    "zipcode": "4506235",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３５階）"
+  },
+  "4506236": {
+    "zipcode": "4506236",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３６階）"
+  },
+  "4506237": {
+    "zipcode": "4506237",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３７階）"
+  },
+  "4506238": {
+    "zipcode": "4506238",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３８階）"
+  },
+  "4506239": {
+    "zipcode": "4506239",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（３９階）"
+  },
+  "4506240": {
+    "zipcode": "4506240",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４０階）"
+  },
+  "4506241": {
+    "zipcode": "4506241",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４１階）"
+  },
+  "4506242": {
+    "zipcode": "4506242",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４２階）"
+  },
+  "4506243": {
+    "zipcode": "4506243",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４３階）"
+  },
+  "4506244": {
+    "zipcode": "4506244",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４４階）"
+  },
+  "4506245": {
+    "zipcode": "4506245",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４５階）"
+  },
+  "4506246": {
+    "zipcode": "4506246",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４６階）"
+  },
+  "4506247": {
+    "zipcode": "4506247",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（４７階）"
+  },
+  "4506290": {
+    "zipcode": "4506290",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ミッドランドスクエア（高層棟）（地階・階層不明）"
+  },
+  "4506301": {
+    "zipcode": "4506301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１階）"
+  },
+  "4506302": {
+    "zipcode": "4506302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２階）"
+  },
+  "4506303": {
+    "zipcode": "4506303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３階）"
+  },
+  "4506304": {
+    "zipcode": "4506304",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（４階）"
+  },
+  "4506305": {
+    "zipcode": "4506305",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（５階）"
+  },
+  "4506306": {
+    "zipcode": "4506306",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（６階）"
+  },
+  "4506307": {
+    "zipcode": "4506307",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（７階）"
+  },
+  "4506308": {
+    "zipcode": "4506308",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（８階）"
+  },
+  "4506309": {
+    "zipcode": "4506309",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（９階）"
+  },
+  "4506310": {
+    "zipcode": "4506310",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１０階）"
+  },
+  "4506311": {
+    "zipcode": "4506311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１１階）"
+  },
+  "4506312": {
+    "zipcode": "4506312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１２階）"
+  },
+  "4506313": {
+    "zipcode": "4506313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１３階）"
+  },
+  "4506314": {
+    "zipcode": "4506314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１４階）"
+  },
+  "4506315": {
+    "zipcode": "4506315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１５階）"
+  },
+  "4506316": {
+    "zipcode": "4506316",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１６階）"
+  },
+  "4506317": {
+    "zipcode": "4506317",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１７階）"
+  },
+  "4506318": {
+    "zipcode": "4506318",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１８階）"
+  },
+  "4506319": {
+    "zipcode": "4506319",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（１９階）"
+  },
+  "4506320": {
+    "zipcode": "4506320",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２０階）"
+  },
+  "4506321": {
+    "zipcode": "4506321",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２１階）"
+  },
+  "4506322": {
+    "zipcode": "4506322",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２２階）"
+  },
+  "4506323": {
+    "zipcode": "4506323",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２３階）"
+  },
+  "4506324": {
+    "zipcode": "4506324",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２４階）"
+  },
+  "4506325": {
+    "zipcode": "4506325",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２５階）"
+  },
+  "4506326": {
+    "zipcode": "4506326",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２６階）"
+  },
+  "4506327": {
+    "zipcode": "4506327",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２７階）"
+  },
+  "4506328": {
+    "zipcode": "4506328",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２８階）"
+  },
+  "4506329": {
+    "zipcode": "4506329",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（２９階）"
+  },
+  "4506330": {
+    "zipcode": "4506330",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３０階）"
+  },
+  "4506331": {
+    "zipcode": "4506331",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３１階）"
+  },
+  "4506332": {
+    "zipcode": "4506332",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３２階）"
+  },
+  "4506333": {
+    "zipcode": "4506333",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３３階）"
+  },
+  "4506334": {
+    "zipcode": "4506334",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３４階）"
+  },
+  "4506335": {
+    "zipcode": "4506335",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３５階）"
+  },
+  "4506336": {
+    "zipcode": "4506336",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３６階）"
+  },
+  "4506337": {
+    "zipcode": "4506337",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３７階）"
+  },
+  "4506338": {
+    "zipcode": "4506338",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３８階）"
+  },
+  "4506339": {
+    "zipcode": "4506339",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（３９階）"
+  },
+  "4506340": {
+    "zipcode": "4506340",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（４０階）"
+  },
+  "4506390": {
+    "zipcode": "4506390",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＰタワー名古屋（地階・階層不明）"
+  },
+  "4506401": {
+    "zipcode": "4506401",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１階）"
+  },
+  "4506402": {
+    "zipcode": "4506402",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２階）"
+  },
+  "4506403": {
+    "zipcode": "4506403",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３階）"
+  },
+  "4506404": {
+    "zipcode": "4506404",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（４階）"
+  },
+  "4506405": {
+    "zipcode": "4506405",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（５階）"
+  },
+  "4506406": {
+    "zipcode": "4506406",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（６階）"
+  },
+  "4506407": {
+    "zipcode": "4506407",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（７階）"
+  },
+  "4506408": {
+    "zipcode": "4506408",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（８階）"
+  },
+  "4506409": {
+    "zipcode": "4506409",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（９階）"
+  },
+  "4506410": {
+    "zipcode": "4506410",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１０階）"
+  },
+  "4506411": {
+    "zipcode": "4506411",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１１階）"
+  },
+  "4506412": {
+    "zipcode": "4506412",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１２階）"
+  },
+  "4506413": {
+    "zipcode": "4506413",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１３階）"
+  },
+  "4506414": {
+    "zipcode": "4506414",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１４階）"
+  },
+  "4506415": {
+    "zipcode": "4506415",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１５階）"
+  },
+  "4506416": {
+    "zipcode": "4506416",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１６階）"
+  },
+  "4506417": {
+    "zipcode": "4506417",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１７階）"
+  },
+  "4506418": {
+    "zipcode": "4506418",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１８階）"
+  },
+  "4506419": {
+    "zipcode": "4506419",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（１９階）"
+  },
+  "4506420": {
+    "zipcode": "4506420",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２０階）"
+  },
+  "4506421": {
+    "zipcode": "4506421",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２１階）"
+  },
+  "4506422": {
+    "zipcode": "4506422",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２２階）"
+  },
+  "4506423": {
+    "zipcode": "4506423",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２３階）"
+  },
+  "4506424": {
+    "zipcode": "4506424",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２４階）"
+  },
+  "4506425": {
+    "zipcode": "4506425",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２５階）"
+  },
+  "4506426": {
+    "zipcode": "4506426",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２６階）"
+  },
+  "4506427": {
+    "zipcode": "4506427",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２７階）"
+  },
+  "4506428": {
+    "zipcode": "4506428",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２８階）"
+  },
+  "4506429": {
+    "zipcode": "4506429",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（２９階）"
+  },
+  "4506430": {
+    "zipcode": "4506430",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３０階）"
+  },
+  "4506431": {
+    "zipcode": "4506431",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３１階）"
+  },
+  "4506432": {
+    "zipcode": "4506432",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３２階）"
+  },
+  "4506433": {
+    "zipcode": "4506433",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３３階）"
+  },
+  "4506434": {
+    "zipcode": "4506434",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（３４階）"
+  },
+  "4506490": {
+    "zipcode": "4506490",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅大名古屋ビルヂング（地階・階層不明）"
+  },
+  "4506601": {
+    "zipcode": "4506601",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１階）"
+  },
+  "4506602": {
+    "zipcode": "4506602",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２階）"
+  },
+  "4506603": {
+    "zipcode": "4506603",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３階）"
+  },
+  "4506604": {
+    "zipcode": "4506604",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４階）"
+  },
+  "4506605": {
+    "zipcode": "4506605",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（５階）"
+  },
+  "4506606": {
+    "zipcode": "4506606",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（６階）"
+  },
+  "4506607": {
+    "zipcode": "4506607",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（７階）"
+  },
+  "4506608": {
+    "zipcode": "4506608",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（８階）"
+  },
+  "4506609": {
+    "zipcode": "4506609",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（９階）"
+  },
+  "4506610": {
+    "zipcode": "4506610",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１０階）"
+  },
+  "4506611": {
+    "zipcode": "4506611",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１１階）"
+  },
+  "4506612": {
+    "zipcode": "4506612",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１２階）"
+  },
+  "4506613": {
+    "zipcode": "4506613",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１３階）"
+  },
+  "4506614": {
+    "zipcode": "4506614",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１４階）"
+  },
+  "4506615": {
+    "zipcode": "4506615",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１５階）"
+  },
+  "4506616": {
+    "zipcode": "4506616",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１６階）"
+  },
+  "4506617": {
+    "zipcode": "4506617",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１７階）"
+  },
+  "4506618": {
+    "zipcode": "4506618",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１８階）"
+  },
+  "4506619": {
+    "zipcode": "4506619",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（１９階）"
+  },
+  "4506620": {
+    "zipcode": "4506620",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２０階）"
+  },
+  "4506621": {
+    "zipcode": "4506621",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２１階）"
+  },
+  "4506622": {
+    "zipcode": "4506622",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２２階）"
+  },
+  "4506623": {
+    "zipcode": "4506623",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２３階）"
+  },
+  "4506624": {
+    "zipcode": "4506624",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２４階）"
+  },
+  "4506625": {
+    "zipcode": "4506625",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２５階）"
+  },
+  "4506626": {
+    "zipcode": "4506626",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２６階）"
+  },
+  "4506627": {
+    "zipcode": "4506627",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２７階）"
+  },
+  "4506628": {
+    "zipcode": "4506628",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２８階）"
+  },
+  "4506629": {
+    "zipcode": "4506629",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（２９階）"
+  },
+  "4506630": {
+    "zipcode": "4506630",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３０階）"
+  },
+  "4506631": {
+    "zipcode": "4506631",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３１階）"
+  },
+  "4506632": {
+    "zipcode": "4506632",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３２階）"
+  },
+  "4506633": {
+    "zipcode": "4506633",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３３階）"
+  },
+  "4506634": {
+    "zipcode": "4506634",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３４階）"
+  },
+  "4506635": {
+    "zipcode": "4506635",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３５階）"
+  },
+  "4506636": {
+    "zipcode": "4506636",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３６階）"
+  },
+  "4506637": {
+    "zipcode": "4506637",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３７階）"
+  },
+  "4506638": {
+    "zipcode": "4506638",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３８階）"
+  },
+  "4506639": {
+    "zipcode": "4506639",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（３９階）"
+  },
+  "4506640": {
+    "zipcode": "4506640",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４０階）"
+  },
+  "4506641": {
+    "zipcode": "4506641",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４１階）"
+  },
+  "4506642": {
+    "zipcode": "4506642",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４２階）"
+  },
+  "4506643": {
+    "zipcode": "4506643",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４３階）"
+  },
+  "4506644": {
+    "zipcode": "4506644",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４４階）"
+  },
+  "4506645": {
+    "zipcode": "4506645",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４５階）"
+  },
+  "4506646": {
+    "zipcode": "4506646",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（４６階）"
+  },
+  "4506690": {
+    "zipcode": "4506690",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "town": "名駅ＪＲゲートタワー（地階・階層不明）"
+  }
+}

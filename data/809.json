@@ -1,0 +1,266 @@
+{
+  "8090000": {
+    "zipcode": "8090000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "以下に掲載がない場合"
+  },
+  "8090001": {
+    "zipcode": "8090001",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "垣生"
+  },
+  "8090002": {
+    "zipcode": "8090002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "中底井野"
+  },
+  "8090003": {
+    "zipcode": "8090003",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "上底井野"
+  },
+  "8090004": {
+    "zipcode": "8090004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "下大隈"
+  },
+  "8090011": {
+    "zipcode": "8090011",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "岩瀬"
+  },
+  "8090012": {
+    "zipcode": "8090012",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "下蓮花寺"
+  },
+  "8090013": {
+    "zipcode": "8090013",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "上蓮花寺"
+  },
+  "8090014": {
+    "zipcode": "8090014",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "蓮花寺"
+  },
+  "8090015": {
+    "zipcode": "8090015",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "太賀"
+  },
+  "8090016": {
+    "zipcode": "8090016",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "星ケ丘"
+  },
+  "8090017": {
+    "zipcode": "8090017",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "桜台"
+  },
+  "8090018": {
+    "zipcode": "8090018",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "通谷"
+  },
+  "8090019": {
+    "zipcode": "8090019",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "東中間"
+  },
+  "8090021": {
+    "zipcode": "8090021",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "朝霧"
+  },
+  "8090022": {
+    "zipcode": "8090022",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "鍋山町"
+  },
+  "8090023": {
+    "zipcode": "8090023",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "扇ケ浦"
+  },
+  "8090024": {
+    "zipcode": "8090024",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "池田"
+  },
+  "8090025": {
+    "zipcode": "8090025",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "深坂"
+  },
+  "8090026": {
+    "zipcode": "8090026",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "大辻町"
+  },
+  "8090027": {
+    "zipcode": "8090027",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "七重町"
+  },
+  "8090028": {
+    "zipcode": "8090028",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "弥生"
+  },
+  "8090030": {
+    "zipcode": "8090030",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "中央"
+  },
+  "8090031": {
+    "zipcode": "8090031",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "小田ケ浦"
+  },
+  "8090032": {
+    "zipcode": "8090032",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "中尾"
+  },
+  "8090033": {
+    "zipcode": "8090033",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "土手ノ内"
+  },
+  "8090034": {
+    "zipcode": "8090034",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "中間"
+  },
+  "8090035": {
+    "zipcode": "8090035",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "松ケ岡"
+  },
+  "8090036": {
+    "zipcode": "8090036",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "長津"
+  },
+  "8090037": {
+    "zipcode": "8090037",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "中鶴"
+  },
+  "8090038": {
+    "zipcode": "8090038",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "浄花町"
+  },
+  "8090039": {
+    "zipcode": "8090039",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "大根土"
+  },
+  "8090041": {
+    "zipcode": "8090041",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "中間市",
+    "town": "岩瀬西町"
+  }
+}

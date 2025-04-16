@@ -1,0 +1,634 @@
+{
+  "3010000": {
+    "zipcode": "3010000",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "以下に掲載がない場合"
+  },
+  "3010001": {
+    "zipcode": "3010001",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "久保台"
+  },
+  "3010002": {
+    "zipcode": "3010002",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "中根台"
+  },
+  "3010003": {
+    "zipcode": "3010003",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "平台"
+  },
+  "3010004": {
+    "zipcode": "3010004",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "馴馬町"
+  },
+  "3010005": {
+    "zipcode": "3010005",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "川原代町"
+  },
+  "3010006": {
+    "zipcode": "3010006",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "門倉新田町"
+  },
+  "3010007": {
+    "zipcode": "3010007",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "馴柴町"
+  },
+  "3010011": {
+    "zipcode": "3010011",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "横町"
+  },
+  "3010012": {
+    "zipcode": "3010012",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "上町"
+  },
+  "3010013": {
+    "zipcode": "3010013",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "水門"
+  },
+  "3010014": {
+    "zipcode": "3010014",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "須藤堀町"
+  },
+  "3010015": {
+    "zipcode": "3010015",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "長沖町"
+  },
+  "3010016": {
+    "zipcode": "3010016",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "長沖新田町"
+  },
+  "3010017": {
+    "zipcode": "3010017",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "姫宮町"
+  },
+  "3010018": {
+    "zipcode": "3010018",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "米町"
+  },
+  "3010021": {
+    "zipcode": "3010021",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "北方町"
+  },
+  "3010022": {
+    "zipcode": "3010022",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "南が丘"
+  },
+  "3010023": {
+    "zipcode": "3010023",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "羽黒町"
+  },
+  "3010024": {
+    "zipcode": "3010024",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "豊田町"
+  },
+  "3010025": {
+    "zipcode": "3010025",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "大留町"
+  },
+  "3010026": {
+    "zipcode": "3010026",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "高須町"
+  },
+  "3010031": {
+    "zipcode": "3010031",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "庄兵衛新田町"
+  },
+  "3010032": {
+    "zipcode": "3010032",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "佐貫"
+  },
+  "3010033": {
+    "zipcode": "3010033",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "佐貫町"
+  },
+  "3010034": {
+    "zipcode": "3010034",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "小通幸谷町"
+  },
+  "3010035": {
+    "zipcode": "3010035",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "稗柄町"
+  },
+  "3010041": {
+    "zipcode": "3010041",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "若柴町"
+  },
+  "3010042": {
+    "zipcode": "3010042",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "長山"
+  },
+  "3010043": {
+    "zipcode": "3010043",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "松葉"
+  },
+  "3010044": {
+    "zipcode": "3010044",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "小柴"
+  },
+  "3010045": {
+    "zipcode": "3010045",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "稲荷新田町"
+  },
+  "3010046": {
+    "zipcode": "3010046",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "入地町"
+  },
+  "3010047": {
+    "zipcode": "3010047",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "南中島町"
+  },
+  "3010048": {
+    "zipcode": "3010048",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "川崎町"
+  },
+  "3010801": {
+    "zipcode": "3010801",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "板橋町"
+  },
+  "3010802": {
+    "zipcode": "3010802",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "高作町"
+  },
+  "3010803": {
+    "zipcode": "3010803",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "塗戸町"
+  },
+  "3010804": {
+    "zipcode": "3010804",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "長峰町"
+  },
+  "3010805": {
+    "zipcode": "3010805",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "薄倉町"
+  },
+  "3010806": {
+    "zipcode": "3010806",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "半田町"
+  },
+  "3010811": {
+    "zipcode": "3010811",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "宮渕町"
+  },
+  "3010812": {
+    "zipcode": "3010812",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "佐沼町"
+  },
+  "3010813": {
+    "zipcode": "3010813",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "新町"
+  },
+  "3010814": {
+    "zipcode": "3010814",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "高砂"
+  },
+  "3010815": {
+    "zipcode": "3010815",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "直鮒"
+  },
+  "3010816": {
+    "zipcode": "3010816",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "大徳町"
+  },
+  "3010817": {
+    "zipcode": "3010817",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "上大徳新町"
+  },
+  "3010821": {
+    "zipcode": "3010821",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "東町"
+  },
+  "3010822": {
+    "zipcode": "3010822",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "光順田"
+  },
+  "3010823": {
+    "zipcode": "3010823",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "砂町"
+  },
+  "3010824": {
+    "zipcode": "3010824",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "下町"
+  },
+  "3010825": {
+    "zipcode": "3010825",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "川余郷"
+  },
+  "3010826": {
+    "zipcode": "3010826",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "栄町"
+  },
+  "3010831": {
+    "zipcode": "3010831",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "野原町"
+  },
+  "3010832": {
+    "zipcode": "3010832",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "緑町"
+  },
+  "3010833": {
+    "zipcode": "3010833",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "城下"
+  },
+  "3010834": {
+    "zipcode": "3010834",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "古城"
+  },
+  "3010835": {
+    "zipcode": "3010835",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "田町"
+  },
+  "3010836": {
+    "zipcode": "3010836",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "寺後"
+  },
+  "3010837": {
+    "zipcode": "3010837",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "根町"
+  },
+  "3010838": {
+    "zipcode": "3010838",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "愛戸町"
+  },
+  "3010839": {
+    "zipcode": "3010839",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "出し山町"
+  },
+  "3010841": {
+    "zipcode": "3010841",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "白羽"
+  },
+  "3010842": {
+    "zipcode": "3010842",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "八代町"
+  },
+  "3010843": {
+    "zipcode": "3010843",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "羽原町"
+  },
+  "3010844": {
+    "zipcode": "3010844",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "平畑"
+  },
+  "3010845": {
+    "zipcode": "3010845",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "奈戸岡"
+  },
+  "3010846": {
+    "zipcode": "3010846",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "別所町"
+  },
+  "3010847": {
+    "zipcode": "3010847",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "城ノ内"
+  },
+  "3010851": {
+    "zipcode": "3010851",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "大塚町"
+  },
+  "3010852": {
+    "zipcode": "3010852",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "向陽台"
+  },
+  "3010853": {
+    "zipcode": "3010853",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "松ケ丘"
+  },
+  "3010854": {
+    "zipcode": "3010854",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "中里"
+  },
+  "3010855": {
+    "zipcode": "3010855",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "藤ケ丘"
+  },
+  "3010856": {
+    "zipcode": "3010856",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "貝原塚町"
+  },
+  "3010857": {
+    "zipcode": "3010857",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "town": "泉町"
+  },
+  "3010901": {
+    "zipcode": "3010901",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "稲敷市",
+    "town": "下根本"
+  },
+  "3010902": {
+    "zipcode": "3010902",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "稲敷市",
+    "town": "上根本"
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "7600000": {
+    "zipcode": "7600000",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "以下に掲載がない場合"
+  },
+  "7600001": {
+    "zipcode": "7600001",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "新北町"
+  },
+  "7600002": {
+    "zipcode": "7600002",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "茜町"
+  },
+  "7600003": {
+    "zipcode": "7600003",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "西町"
+  },
+  "7600004": {
+    "zipcode": "7600004",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "西宝町"
+  },
+  "7600005": {
+    "zipcode": "7600005",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "宮脇町"
+  },
+  "7600006": {
+    "zipcode": "7600006",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "亀岡町"
+  },
+  "7600007": {
+    "zipcode": "7600007",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "中央町"
+  },
+  "7600008": {
+    "zipcode": "7600008",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "中野町"
+  },
+  "7600009": {
+    "zipcode": "7600009",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "峰山町"
+  },
+  "7600011": {
+    "zipcode": "7600011",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "浜ノ町"
+  },
+  "7600012": {
+    "zipcode": "7600012",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "瀬戸内町"
+  },
+  "7600013": {
+    "zipcode": "7600013",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "扇町"
+  },
+  "7600014": {
+    "zipcode": "7600014",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "昭和町"
+  },
+  "7600015": {
+    "zipcode": "7600015",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "紫雲町"
+  },
+  "7600016": {
+    "zipcode": "7600016",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "幸町"
+  },
+  "7600017": {
+    "zipcode": "7600017",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "番町"
+  },
+  "7600018": {
+    "zipcode": "7600018",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "天神前"
+  },
+  "7600019": {
+    "zipcode": "7600019",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "サンポート"
+  },
+  "7600020": {
+    "zipcode": "7600020",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "錦町"
+  },
+  "7600021": {
+    "zipcode": "7600021",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "西の丸町"
+  },
+  "7600022": {
+    "zipcode": "7600022",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "西内町"
+  },
+  "7600023": {
+    "zipcode": "7600023",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "寿町"
+  },
+  "7600024": {
+    "zipcode": "7600024",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "兵庫町"
+  },
+  "7600025": {
+    "zipcode": "7600025",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "古新町"
+  },
+  "7600026": {
+    "zipcode": "7600026",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "磨屋町"
+  },
+  "7600027": {
+    "zipcode": "7600027",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "紺屋町"
+  },
+  "7600028": {
+    "zipcode": "7600028",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "鍛冶屋町"
+  },
+  "7600029": {
+    "zipcode": "7600029",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "丸亀町"
+  },
+  "7600030": {
+    "zipcode": "7600030",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "玉藻町"
+  },
+  "7600031": {
+    "zipcode": "7600031",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "北浜町"
+  },
+  "7600032": {
+    "zipcode": "7600032",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "本町"
+  },
+  "7600033": {
+    "zipcode": "7600033",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "丸の内"
+  },
+  "7600034": {
+    "zipcode": "7600034",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "内町"
+  },
+  "7600035": {
+    "zipcode": "7600035",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "鶴屋町"
+  },
+  "7600036": {
+    "zipcode": "7600036",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "城東町"
+  },
+  "7600037": {
+    "zipcode": "7600037",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "東浜町"
+  },
+  "7600038": {
+    "zipcode": "7600038",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "井口町"
+  },
+  "7600040": {
+    "zipcode": "7600040",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "片原町"
+  },
+  "7600041": {
+    "zipcode": "7600041",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "百間町"
+  },
+  "7600042": {
+    "zipcode": "7600042",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "大工町"
+  },
+  "7600043": {
+    "zipcode": "7600043",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "今新町"
+  },
+  "7600044": {
+    "zipcode": "7600044",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "御坊町"
+  },
+  "7600045": {
+    "zipcode": "7600045",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "古馬場町"
+  },
+  "7600046": {
+    "zipcode": "7600046",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "通町"
+  },
+  "7600047": {
+    "zipcode": "7600047",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "塩屋町"
+  },
+  "7600048": {
+    "zipcode": "7600048",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "福田町"
+  },
+  "7600049": {
+    "zipcode": "7600049",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "八坂町"
+  },
+  "7600050": {
+    "zipcode": "7600050",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "亀井町"
+  },
+  "7600051": {
+    "zipcode": "7600051",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "南新町"
+  },
+  "7600052": {
+    "zipcode": "7600052",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "瓦町"
+  },
+  "7600053": {
+    "zipcode": "7600053",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "田町"
+  },
+  "7600054": {
+    "zipcode": "7600054",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "常磐町"
+  },
+  "7600055": {
+    "zipcode": "7600055",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "観光通"
+  },
+  "7600056": {
+    "zipcode": "7600056",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "中新町"
+  },
+  "7600057": {
+    "zipcode": "7600057",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "旅籠町"
+  },
+  "7600058": {
+    "zipcode": "7600058",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "東田町"
+  },
+  "7600060": {
+    "zipcode": "7600060",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "末広町"
+  },
+  "7600061": {
+    "zipcode": "7600061",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "築地町"
+  },
+  "7600062": {
+    "zipcode": "7600062",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "塩上町"
+  },
+  "7600063": {
+    "zipcode": "7600063",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "多賀町"
+  },
+  "7600064": {
+    "zipcode": "7600064",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "朝日新町"
+  },
+  "7600065": {
+    "zipcode": "7600065",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "朝日町"
+  },
+  "7600066": {
+    "zipcode": "7600066",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "福岡町"
+  },
+  "7600067": {
+    "zipcode": "7600067",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "松福町"
+  },
+  "7600068": {
+    "zipcode": "7600068",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "松島町"
+  },
+  "7600071": {
+    "zipcode": "7600071",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "藤塚町"
+  },
+  "7600072": {
+    "zipcode": "7600072",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "花園町"
+  },
+  "7600073": {
+    "zipcode": "7600073",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "栗林町"
+  },
+  "7600074": {
+    "zipcode": "7600074",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "桜町"
+  },
+  "7600075": {
+    "zipcode": "7600075",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "楠上町"
+  },
+  "7600076": {
+    "zipcode": "7600076",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "観光町"
+  },
+  "7600077": {
+    "zipcode": "7600077",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "上福岡町"
+  },
+  "7600078": {
+    "zipcode": "7600078",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "今里町"
+  },
+  "7600079": {
+    "zipcode": "7600079",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "松縄町"
+  },
+  "7600080": {
+    "zipcode": "7600080",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "木太町"
+  },
+  "7600091": {
+    "zipcode": "7600091",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "男木町"
+  },
+  "7600092": {
+    "zipcode": "7600092",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "女木町"
+  },
+  "7600093": {
+    "zipcode": "7600093",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "高松市",
+    "town": "鶴市町（台山）"
+  }
+}

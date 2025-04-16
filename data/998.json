@@ -1,0 +1,946 @@
+{
+  "9980000": {
+    "zipcode": "9980000",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "以下に掲載がない場合"
+  },
+  "9980001": {
+    "zipcode": "9980001",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "穂積（その他）"
+  },
+  "9980002": {
+    "zipcode": "9980002",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "藤塚"
+  },
+  "9980003": {
+    "zipcode": "9980003",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "酒井新田"
+  },
+  "9980004": {
+    "zipcode": "9980004",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "豊里"
+  },
+  "9980005": {
+    "zipcode": "9980005",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "宮海"
+  },
+  "9980006": {
+    "zipcode": "9980006",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "ゆたか"
+  },
+  "9980011": {
+    "zipcode": "9980011",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "上安町"
+  },
+  "9980012": {
+    "zipcode": "9980012",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "下安町"
+  },
+  "9980013": {
+    "zipcode": "9980013",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東泉町"
+  },
+  "9980014": {
+    "zipcode": "9980014",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "千日町"
+  },
+  "9980015": {
+    "zipcode": "9980015",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北千日堂前"
+  },
+  "9980016": {
+    "zipcode": "9980016",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北千日町"
+  },
+  "9980017": {
+    "zipcode": "9980017",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "西野町"
+  },
+  "9980018": {
+    "zipcode": "9980018",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "泉町"
+  },
+  "9980021": {
+    "zipcode": "9980021",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "旭新町"
+  },
+  "9980022": {
+    "zipcode": "9980022",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "駅東"
+  },
+  "9980023": {
+    "zipcode": "9980023",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "幸町"
+  },
+  "9980024": {
+    "zipcode": "9980024",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "御成町"
+  },
+  "9980025": {
+    "zipcode": "9980025",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "南千日町"
+  },
+  "9980026": {
+    "zipcode": "9980026",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "栄町"
+  },
+  "9980027": {
+    "zipcode": "9980027",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北今町"
+  },
+  "9980028": {
+    "zipcode": "9980028",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北里町"
+  },
+  "9980029": {
+    "zipcode": "9980029",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "住吉町"
+  },
+  "9980031": {
+    "zipcode": "9980031",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "浜田"
+  },
+  "9980032": {
+    "zipcode": "9980032",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "相生町"
+  },
+  "9980033": {
+    "zipcode": "9980033",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "中央東町"
+  },
+  "9980034": {
+    "zipcode": "9980034",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "中央西町"
+  },
+  "9980035": {
+    "zipcode": "9980035",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "寿町"
+  },
+  "9980036": {
+    "zipcode": "9980036",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "船場町"
+  },
+  "9980037": {
+    "zipcode": "9980037",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "日吉町"
+  },
+  "9980041": {
+    "zipcode": "9980041",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "新井田町"
+  },
+  "9980042": {
+    "zipcode": "9980042",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "上本町"
+  },
+  "9980043": {
+    "zipcode": "9980043",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "本町（１〜３丁目）"
+  },
+  "9980044": {
+    "zipcode": "9980044",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "中町"
+  },
+  "9980045": {
+    "zipcode": "9980045",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "二番町"
+  },
+  "9980046": {
+    "zipcode": "9980046",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "一番町"
+  },
+  "9980051": {
+    "zipcode": "9980051",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "高見台"
+  },
+  "9980052": {
+    "zipcode": "9980052",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "緑ケ丘"
+  },
+  "9980053": {
+    "zipcode": "9980053",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "若宮町"
+  },
+  "9980054": {
+    "zipcode": "9980054",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "宮野浦"
+  },
+  "9980055": {
+    "zipcode": "9980055",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "飯森山"
+  },
+  "9980061": {
+    "zipcode": "9980061",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "光ケ丘"
+  },
+  "9980062": {
+    "zipcode": "9980062",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北新町"
+  },
+  "9980063": {
+    "zipcode": "9980063",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "南新町"
+  },
+  "9980064": {
+    "zipcode": "9980064",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大浜"
+  },
+  "9980071": {
+    "zipcode": "9980071",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "古湊町"
+  },
+  "9980072": {
+    "zipcode": "9980072",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北浜町"
+  },
+  "9980073": {
+    "zipcode": "9980073",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "松美町"
+  },
+  "9980074": {
+    "zipcode": "9980074",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "浜松町"
+  },
+  "9980075": {
+    "zipcode": "9980075",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "高砂"
+  },
+  "9980101": {
+    "zipcode": "9980101",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "坂野辺新田"
+  },
+  "9980102": {
+    "zipcode": "9980102",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "京田"
+  },
+  "9980103": {
+    "zipcode": "9980103",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "錦町"
+  },
+  "9980104": {
+    "zipcode": "9980104",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "広栄町"
+  },
+  "9980105": {
+    "zipcode": "9980105",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "広野新田"
+  },
+  "9980111": {
+    "zipcode": "9980111",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "黒森"
+  },
+  "9980112": {
+    "zipcode": "9980112",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "浜中"
+  },
+  "9980113": {
+    "zipcode": "9980113",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "広岡新田"
+  },
+  "9980114": {
+    "zipcode": "9980114",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "十里塚"
+  },
+  "9980125": {
+    "zipcode": "9980125",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "広野"
+  },
+  "9980281": {
+    "zipcode": "9980281",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "飛島"
+  },
+  "9980801": {
+    "zipcode": "9980801",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北沢"
+  },
+  "9980802": {
+    "zipcode": "9980802",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "生石"
+  },
+  "9980803": {
+    "zipcode": "9980803",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大槻新田"
+  },
+  "9980804": {
+    "zipcode": "9980804",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "横代"
+  },
+  "9980805": {
+    "zipcode": "9980805",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "関"
+  },
+  "9980806": {
+    "zipcode": "9980806",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "境興野"
+  },
+  "9980811": {
+    "zipcode": "9980811",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "手蔵田"
+  },
+  "9980812": {
+    "zipcode": "9980812",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "本川"
+  },
+  "9980813": {
+    "zipcode": "9980813",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "茨野新田"
+  },
+  "9980814": {
+    "zipcode": "9980814",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "小牧新田"
+  },
+  "9980815": {
+    "zipcode": "9980815",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "小牧"
+  },
+  "9980816": {
+    "zipcode": "9980816",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大野新田"
+  },
+  "9980817": {
+    "zipcode": "9980817",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "熊手島"
+  },
+  "9980818": {
+    "zipcode": "9980818",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "勝保関"
+  },
+  "9980819": {
+    "zipcode": "9980819",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "熊野田"
+  },
+  "9980821": {
+    "zipcode": "9980821",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "遊摺部"
+  },
+  "9980822": {
+    "zipcode": "9980822",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大宮"
+  },
+  "9980823": {
+    "zipcode": "9980823",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "卸町"
+  },
+  "9980824": {
+    "zipcode": "9980824",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大宮町"
+  },
+  "9980826": {
+    "zipcode": "9980826",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "初瀬"
+  },
+  "9980827": {
+    "zipcode": "9980827",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "草刈谷地"
+  },
+  "9980828": {
+    "zipcode": "9980828",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "あきほ町"
+  },
+  "9980829": {
+    "zipcode": "9980829",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "仁助谷地"
+  },
+  "9980831": {
+    "zipcode": "9980831",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東両羽町"
+  },
+  "9980832": {
+    "zipcode": "9980832",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "両羽町"
+  },
+  "9980833": {
+    "zipcode": "9980833",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "若原町"
+  },
+  "9980834": {
+    "zipcode": "9980834",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "若竹町"
+  },
+  "9980835": {
+    "zipcode": "9980835",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "堤町"
+  },
+  "9980836": {
+    "zipcode": "9980836",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "入船町"
+  },
+  "9980837": {
+    "zipcode": "9980837",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "下瀬"
+  },
+  "9980838": {
+    "zipcode": "9980838",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "山居町"
+  },
+  "9980841": {
+    "zipcode": "9980841",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "松原南"
+  },
+  "9980842": {
+    "zipcode": "9980842",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "亀ケ崎"
+  },
+  "9980843": {
+    "zipcode": "9980843",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "千石町"
+  },
+  "9980851": {
+    "zipcode": "9980851",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東大町"
+  },
+  "9980852": {
+    "zipcode": "9980852",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "こがね町"
+  },
+  "9980853": {
+    "zipcode": "9980853",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "みずほ"
+  },
+  "9980854": {
+    "zipcode": "9980854",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "末広町"
+  },
+  "9980855": {
+    "zipcode": "9980855",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東中の口町"
+  },
+  "9980856": {
+    "zipcode": "9980856",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東栄町"
+  },
+  "9980857": {
+    "zipcode": "9980857",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "若浜町"
+  },
+  "9980858": {
+    "zipcode": "9980858",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "緑町"
+  },
+  "9980859": {
+    "zipcode": "9980859",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大町"
+  },
+  "9980861": {
+    "zipcode": "9980861",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "富士見町"
+  },
+  "9980862": {
+    "zipcode": "9980862",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "曙町"
+  },
+  "9980863": {
+    "zipcode": "9980863",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "日の出町"
+  },
+  "9980864": {
+    "zipcode": "9980864",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "新橋"
+  },
+  "9980865": {
+    "zipcode": "9980865",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "北新橋"
+  },
+  "9980871": {
+    "zipcode": "9980871",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "荻島"
+  },
+  "9980872": {
+    "zipcode": "9980872",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "中野新田"
+  },
+  "9980873": {
+    "zipcode": "9980873",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "土崎"
+  },
+  "9980874": {
+    "zipcode": "9980874",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "四ツ興野"
+  },
+  "9980875": {
+    "zipcode": "9980875",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "東町"
+  },
+  "9980876": {
+    "zipcode": "9980876",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "古荒新田"
+  },
+  "9980877": {
+    "zipcode": "9980877",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "大多新田"
+  },
+  "9980878": {
+    "zipcode": "9980878",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "town": "こあら"
+  }
+}

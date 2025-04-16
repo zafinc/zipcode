@@ -1,0 +1,842 @@
+{
+  "6460000": {
+    "zipcode": "6460000",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "以下に掲載がない場合"
+  },
+  "6460001": {
+    "zipcode": "6460001",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上秋津"
+  },
+  "6460002": {
+    "zipcode": "6460002",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上万呂"
+  },
+  "6460003": {
+    "zipcode": "6460003",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中万呂"
+  },
+  "6460004": {
+    "zipcode": "6460004",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下万呂"
+  },
+  "6460005": {
+    "zipcode": "6460005",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "秋津町"
+  },
+  "6460011": {
+    "zipcode": "6460011",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "新庄町"
+  },
+  "6460012": {
+    "zipcode": "6460012",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "神島台"
+  },
+  "6460013": {
+    "zipcode": "6460013",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "南新万"
+  },
+  "6460014": {
+    "zipcode": "6460014",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "新万"
+  },
+  "6460015": {
+    "zipcode": "6460015",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "たきない町"
+  },
+  "6460021": {
+    "zipcode": "6460021",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "あけぼの"
+  },
+  "6460022": {
+    "zipcode": "6460022",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "東山"
+  },
+  "6460023": {
+    "zipcode": "6460023",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "文里"
+  },
+  "6460024": {
+    "zipcode": "6460024",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "学園"
+  },
+  "6460025": {
+    "zipcode": "6460025",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "神子浜"
+  },
+  "6460026": {
+    "zipcode": "6460026",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "宝来町"
+  },
+  "6460027": {
+    "zipcode": "6460027",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "朝日ヶ丘"
+  },
+  "6460028": {
+    "zipcode": "6460028",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "高雄"
+  },
+  "6460029": {
+    "zipcode": "6460029",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "東陽"
+  },
+  "6460031": {
+    "zipcode": "6460031",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "湊"
+  },
+  "6460032": {
+    "zipcode": "6460032",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下屋敷町"
+  },
+  "6460033": {
+    "zipcode": "6460033",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "新屋敷町"
+  },
+  "6460034": {
+    "zipcode": "6460034",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "扇ケ浜"
+  },
+  "6460035": {
+    "zipcode": "6460035",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中屋敷町"
+  },
+  "6460036": {
+    "zipcode": "6460036",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上屋敷"
+  },
+  "6460037": {
+    "zipcode": "6460037",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "磯間"
+  },
+  "6460038": {
+    "zipcode": "6460038",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "末広町"
+  },
+  "6460041": {
+    "zipcode": "6460041",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "北新町"
+  },
+  "6460042": {
+    "zipcode": "6460042",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "南新町"
+  },
+  "6460043": {
+    "zipcode": "6460043",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "今福町"
+  },
+  "6460044": {
+    "zipcode": "6460044",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "福路町"
+  },
+  "6460045": {
+    "zipcode": "6460045",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "片町"
+  },
+  "6460046": {
+    "zipcode": "6460046",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "本町"
+  },
+  "6460047": {
+    "zipcode": "6460047",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "紺屋町"
+  },
+  "6460048": {
+    "zipcode": "6460048",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "栄町"
+  },
+  "6460050": {
+    "zipcode": "6460050",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "天神崎"
+  },
+  "6460051": {
+    "zipcode": "6460051",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "稲成町"
+  },
+  "6460052": {
+    "zipcode": "6460052",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "むつみ"
+  },
+  "6460053": {
+    "zipcode": "6460053",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "元町"
+  },
+  "6460054": {
+    "zipcode": "6460054",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "江川"
+  },
+  "6460056": {
+    "zipcode": "6460056",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "芳養町"
+  },
+  "6460057": {
+    "zipcode": "6460057",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中芳養"
+  },
+  "6460058": {
+    "zipcode": "6460058",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "目良"
+  },
+  "6460059": {
+    "zipcode": "6460059",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "古尾"
+  },
+  "6460061": {
+    "zipcode": "6460061",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上の山"
+  },
+  "6460062": {
+    "zipcode": "6460062",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "明洋"
+  },
+  "6460063": {
+    "zipcode": "6460063",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "芳養松原"
+  },
+  "6460101": {
+    "zipcode": "6460101",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上芳養"
+  },
+  "6460102": {
+    "zipcode": "6460102",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "秋津川"
+  },
+  "6460211": {
+    "zipcode": "6460211",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "伏菟野"
+  },
+  "6460212": {
+    "zipcode": "6460212",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上野"
+  },
+  "6460213": {
+    "zipcode": "6460213",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "長野"
+  },
+  "6460214": {
+    "zipcode": "6460214",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "上三栖"
+  },
+  "6460215": {
+    "zipcode": "6460215",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中三栖"
+  },
+  "6460216": {
+    "zipcode": "6460216",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下三栖"
+  },
+  "6460217": {
+    "zipcode": "6460217",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "城山台"
+  },
+  "6460301": {
+    "zipcode": "6460301",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "市鹿野"
+  },
+  "6460302": {
+    "zipcode": "6460302",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "上露"
+  },
+  "6460303": {
+    "zipcode": "6460303",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "大瀬"
+  },
+  "6460304": {
+    "zipcode": "6460304",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "竹垣内"
+  },
+  "6460305": {
+    "zipcode": "6460305",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "北谷"
+  },
+  "6460311": {
+    "zipcode": "6460311",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "小房"
+  },
+  "6460312": {
+    "zipcode": "6460312",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "大"
+  },
+  "6460313": {
+    "zipcode": "6460313",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "玉伝"
+  },
+  "6460314": {
+    "zipcode": "6460314",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "西牟婁郡白浜町",
+    "town": "里谷"
+  },
+  "6461101": {
+    "zipcode": "6461101",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "鮎川"
+  },
+  "6461211": {
+    "zipcode": "6461211",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "和田"
+  },
+  "6461212": {
+    "zipcode": "6461212",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下川上"
+  },
+  "6461213": {
+    "zipcode": "6461213",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下川下"
+  },
+  "6461214": {
+    "zipcode": "6461214",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "平瀬"
+  },
+  "6461321": {
+    "zipcode": "6461321",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "熊野"
+  },
+  "6461322": {
+    "zipcode": "6461322",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "面川"
+  },
+  "6461323": {
+    "zipcode": "6461323",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "向山"
+  },
+  "6461324": {
+    "zipcode": "6461324",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "竹ノ平"
+  },
+  "6461325": {
+    "zipcode": "6461325",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "小谷"
+  },
+  "6461326": {
+    "zipcode": "6461326",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "深谷"
+  },
+  "6461331": {
+    "zipcode": "6461331",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "木守"
+  },
+  "6461332": {
+    "zipcode": "6461332",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "五味"
+  },
+  "6461333": {
+    "zipcode": "6461333",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "東伏菟野"
+  },
+  "6461334": {
+    "zipcode": "6461334",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "九川"
+  },
+  "6461335": {
+    "zipcode": "6461335",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "串"
+  },
+  "6461336": {
+    "zipcode": "6461336",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "谷野口"
+  },
+  "6461337": {
+    "zipcode": "6461337",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "下露"
+  },
+  "6461338": {
+    "zipcode": "6461338",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "合川"
+  },
+  "6461339": {
+    "zipcode": "6461339",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "長瀬"
+  },
+  "6461401": {
+    "zipcode": "6461401",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町野中"
+  },
+  "6461402": {
+    "zipcode": "6461402",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町近露"
+  },
+  "6461411": {
+    "zipcode": "6461411",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町大内川"
+  },
+  "6461412": {
+    "zipcode": "6461412",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町石船"
+  },
+  "6461413": {
+    "zipcode": "6461413",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町北郡"
+  },
+  "6461414": {
+    "zipcode": "6461414",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町西谷"
+  },
+  "6461415": {
+    "zipcode": "6461415",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町真砂"
+  },
+  "6461416": {
+    "zipcode": "6461416",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町高原"
+  },
+  "6461417": {
+    "zipcode": "6461417",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町川合"
+  },
+  "6461421": {
+    "zipcode": "6461421",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町栗栖川"
+  },
+  "6461431": {
+    "zipcode": "6461431",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町小松原"
+  },
+  "6461432": {
+    "zipcode": "6461432",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町福定"
+  },
+  "6461433": {
+    "zipcode": "6461433",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町大川"
+  },
+  "6461434": {
+    "zipcode": "6461434",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町温川"
+  },
+  "6461435": {
+    "zipcode": "6461435",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町小皆"
+  },
+  "6461436": {
+    "zipcode": "6461436",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町熊野川"
+  },
+  "6461437": {
+    "zipcode": "6461437",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町沢"
+  },
+  "6461438": {
+    "zipcode": "6461438",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町水上"
+  },
+  "6461439": {
+    "zipcode": "6461439",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "田辺市",
+    "town": "中辺路町内井川"
+  }
+}

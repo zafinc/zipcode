@@ -1,0 +1,514 @@
+{
+  "5610801": {
+    "zipcode": "5610801",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "曽根西町"
+  },
+  "5610802": {
+    "zipcode": "5610802",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "曽根東町"
+  },
+  "5610803": {
+    "zipcode": "5610803",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "城山町"
+  },
+  "5610804": {
+    "zipcode": "5610804",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "曽根南町"
+  },
+  "5610805": {
+    "zipcode": "5610805",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "原田南"
+  },
+  "5610806": {
+    "zipcode": "5610806",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "原田西町"
+  },
+  "5610807": {
+    "zipcode": "5610807",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "原田中"
+  },
+  "5610808": {
+    "zipcode": "5610808",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "原田元町"
+  },
+  "5610811": {
+    "zipcode": "5610811",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "若竹町"
+  },
+  "5610812": {
+    "zipcode": "5610812",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "北条町"
+  },
+  "5610813": {
+    "zipcode": "5610813",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "小曽根"
+  },
+  "5610814": {
+    "zipcode": "5610814",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "豊南町東"
+  },
+  "5610815": {
+    "zipcode": "5610815",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "豊南町南"
+  },
+  "5610816": {
+    "zipcode": "5610816",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "豊南町西"
+  },
+  "5610817": {
+    "zipcode": "5610817",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "浜"
+  },
+  "5610821": {
+    "zipcode": "5610821",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "日出町"
+  },
+  "5610822": {
+    "zipcode": "5610822",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "三国"
+  },
+  "5610823": {
+    "zipcode": "5610823",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "神州町"
+  },
+  "5610824": {
+    "zipcode": "5610824",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "大島町"
+  },
+  "5610825": {
+    "zipcode": "5610825",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "二葉町"
+  },
+  "5610826": {
+    "zipcode": "5610826",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "島江町"
+  },
+  "5610827": {
+    "zipcode": "5610827",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "大黒町"
+  },
+  "5610828": {
+    "zipcode": "5610828",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "三和町"
+  },
+  "5610829": {
+    "zipcode": "5610829",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "千成町"
+  },
+  "5610831": {
+    "zipcode": "5610831",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄内東町"
+  },
+  "5610832": {
+    "zipcode": "5610832",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄内西町"
+  },
+  "5610833": {
+    "zipcode": "5610833",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄内幸町"
+  },
+  "5610834": {
+    "zipcode": "5610834",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄内栄町"
+  },
+  "5610835": {
+    "zipcode": "5610835",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄本町"
+  },
+  "5610836": {
+    "zipcode": "5610836",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "庄内宝町"
+  },
+  "5610841": {
+    "zipcode": "5610841",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "名神口"
+  },
+  "5610842": {
+    "zipcode": "5610842",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "今在家町"
+  },
+  "5610843": {
+    "zipcode": "5610843",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "上津島"
+  },
+  "5610844": {
+    "zipcode": "5610844",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "利倉西"
+  },
+  "5610845": {
+    "zipcode": "5610845",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "利倉"
+  },
+  "5610846": {
+    "zipcode": "5610846",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "利倉東"
+  },
+  "5610851": {
+    "zipcode": "5610851",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部元町"
+  },
+  "5610852": {
+    "zipcode": "5610852",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部本町"
+  },
+  "5610853": {
+    "zipcode": "5610853",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部南町"
+  },
+  "5610854": {
+    "zipcode": "5610854",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "稲津町"
+  },
+  "5610855": {
+    "zipcode": "5610855",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "野田町"
+  },
+  "5610856": {
+    "zipcode": "5610856",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "穂積"
+  },
+  "5610857": {
+    "zipcode": "5610857",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部寿町"
+  },
+  "5610858": {
+    "zipcode": "5610858",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部西町"
+  },
+  "5610859": {
+    "zipcode": "5610859",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部豊町"
+  },
+  "5610861": {
+    "zipcode": "5610861",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "東泉丘"
+  },
+  "5610862": {
+    "zipcode": "5610862",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "西泉丘"
+  },
+  "5610863": {
+    "zipcode": "5610863",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "広田町"
+  },
+  "5610864": {
+    "zipcode": "5610864",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "夕日丘"
+  },
+  "5610865": {
+    "zipcode": "5610865",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "旭丘"
+  },
+  "5610871": {
+    "zipcode": "5610871",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "東寺内町"
+  },
+  "5610872": {
+    "zipcode": "5610872",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "寺内"
+  },
+  "5610873": {
+    "zipcode": "5610873",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "服部緑地"
+  },
+  "5610874": {
+    "zipcode": "5610874",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "長興寺南"
+  },
+  "5610875": {
+    "zipcode": "5610875",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "長興寺北"
+  },
+  "5610881": {
+    "zipcode": "5610881",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "中桜塚"
+  },
+  "5610882": {
+    "zipcode": "5610882",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "南桜塚"
+  },
+  "5610883": {
+    "zipcode": "5610883",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "岡町南"
+  },
+  "5610884": {
+    "zipcode": "5610884",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "岡町北"
+  },
+  "5610885": {
+    "zipcode": "5610885",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "岡町"
+  },
+  "5610891": {
+    "zipcode": "5610891",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "走井"
+  },
+  "5610892": {
+    "zipcode": "5610892",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "山ノ上町"
+  },
+  "5610893": {
+    "zipcode": "5610893",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "宝山町"
+  },
+  "5610894": {
+    "zipcode": "5610894",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "豊中市",
+    "town": "勝部"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "6170000": {
+    "zipcode": "6170000",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "以下に掲載がない場合"
+  },
+  "6170001": {
+    "zipcode": "6170001",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "物集女町"
+  },
+  "6170002": {
+    "zipcode": "6170002",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "寺戸町"
+  },
+  "6170003": {
+    "zipcode": "6170003",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "森本町"
+  },
+  "6170004": {
+    "zipcode": "6170004",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "鶏冠井町"
+  },
+  "6170005": {
+    "zipcode": "6170005",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "向日町"
+  },
+  "6170006": {
+    "zipcode": "6170006",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "向日市",
+    "town": "上植野町"
+  },
+  "6170811": {
+    "zipcode": "6170811",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "粟生"
+  },
+  "6170812": {
+    "zipcode": "6170812",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "長法寺"
+  },
+  "6170813": {
+    "zipcode": "6170813",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "井ノ内"
+  },
+  "6170814": {
+    "zipcode": "6170814",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "今里"
+  },
+  "6170815": {
+    "zipcode": "6170815",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "うぐいす台"
+  },
+  "6170816": {
+    "zipcode": "6170816",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "西の京"
+  },
+  "6170817": {
+    "zipcode": "6170817",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "滝ノ町"
+  },
+  "6170818": {
+    "zipcode": "6170818",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "柴の里"
+  },
+  "6170821": {
+    "zipcode": "6170821",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "野添"
+  },
+  "6170822": {
+    "zipcode": "6170822",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "八条が丘"
+  },
+  "6170823": {
+    "zipcode": "6170823",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "長岡"
+  },
+  "6170824": {
+    "zipcode": "6170824",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "天神"
+  },
+  "6170825": {
+    "zipcode": "6170825",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "一文橋"
+  },
+  "6170826": {
+    "zipcode": "6170826",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "開田"
+  },
+  "6170827": {
+    "zipcode": "6170827",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "竹の台"
+  },
+  "6170828": {
+    "zipcode": "6170828",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "馬場"
+  },
+  "6170831": {
+    "zipcode": "6170831",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "一里塚"
+  },
+  "6170832": {
+    "zipcode": "6170832",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "東神足"
+  },
+  "6170833": {
+    "zipcode": "6170833",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "神足"
+  },
+  "6170834": {
+    "zipcode": "6170834",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "東和苑"
+  },
+  "6170835": {
+    "zipcode": "6170835",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "城の里"
+  },
+  "6170836": {
+    "zipcode": "6170836",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "勝竜寺"
+  },
+  "6170837": {
+    "zipcode": "6170837",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "久貝"
+  },
+  "6170838": {
+    "zipcode": "6170838",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "緑が丘"
+  },
+  "6170841": {
+    "zipcode": "6170841",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "梅が丘"
+  },
+  "6170842": {
+    "zipcode": "6170842",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "花山"
+  },
+  "6170843": {
+    "zipcode": "6170843",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "友岡"
+  },
+  "6170844": {
+    "zipcode": "6170844",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "調子"
+  },
+  "6170845": {
+    "zipcode": "6170845",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "下海印寺"
+  },
+  "6170846": {
+    "zipcode": "6170846",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "泉が丘"
+  },
+  "6170847": {
+    "zipcode": "6170847",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "高台"
+  },
+  "6170851": {
+    "zipcode": "6170851",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "光風台"
+  },
+  "6170852": {
+    "zipcode": "6170852",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "河陽が丘"
+  },
+  "6170853": {
+    "zipcode": "6170853",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "奥海印寺"
+  },
+  "6170854": {
+    "zipcode": "6170854",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "こがねが丘"
+  },
+  "6170855": {
+    "zipcode": "6170855",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "浄土谷"
+  },
+  "6170856": {
+    "zipcode": "6170856",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "金ケ原"
+  },
+  "6170857": {
+    "zipcode": "6170857",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "長岡京市",
+    "town": "高台西"
+  }
+}

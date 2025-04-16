@@ -1,0 +1,4434 @@
+{
+  "6890101": {
+    "zipcode": "6890101",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町岩戸"
+  },
+  "6890102": {
+    "zipcode": "6890102",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町細川"
+  },
+  "6890103": {
+    "zipcode": "6890103",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町高江"
+  },
+  "6890104": {
+    "zipcode": "6890104",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町箭溪"
+  },
+  "6890105": {
+    "zipcode": "6890105",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町湯山"
+  },
+  "6890106": {
+    "zipcode": "6890106",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町海士"
+  },
+  "6890111": {
+    "zipcode": "6890111",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町栗谷"
+  },
+  "6890112": {
+    "zipcode": "6890112",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町蔵見"
+  },
+  "6890113": {
+    "zipcode": "6890113",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町久志羅（その他）"
+  },
+  "6890114": {
+    "zipcode": "6890114",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町左近（その他）"
+  },
+  "6890115": {
+    "zipcode": "6890115",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町八重原"
+  },
+  "6890116": {
+    "zipcode": "6890116",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町中"
+  },
+  "6890117": {
+    "zipcode": "6890117",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "福部町南田"
+  },
+  "6890201": {
+    "zipcode": "6890201",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "伏野"
+  },
+  "6890202": {
+    "zipcode": "6890202",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "美萩野"
+  },
+  "6890203": {
+    "zipcode": "6890203",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "三津"
+  },
+  "6890204": {
+    "zipcode": "6890204",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "御熊"
+  },
+  "6890205": {
+    "zipcode": "6890205",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "内海中"
+  },
+  "6890206": {
+    "zipcode": "6890206",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "白兎"
+  },
+  "6890207": {
+    "zipcode": "6890207",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "小沢見"
+  },
+  "6890211": {
+    "zipcode": "6890211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町奥沢見"
+  },
+  "6890212": {
+    "zipcode": "6890212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町常松"
+  },
+  "6890213": {
+    "zipcode": "6890213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町下光元"
+  },
+  "6890214": {
+    "zipcode": "6890214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町上光"
+  },
+  "6890215": {
+    "zipcode": "6890215",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町冨吉"
+  },
+  "6890216": {
+    "zipcode": "6890216",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町宝木"
+  },
+  "6890217": {
+    "zipcode": "6890217",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町酒津"
+  },
+  "6890221": {
+    "zipcode": "6890221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町下坂本"
+  },
+  "6890222": {
+    "zipcode": "6890222",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町日光"
+  },
+  "6890223": {
+    "zipcode": "6890223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町二本木"
+  },
+  "6890224": {
+    "zipcode": "6890224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町重高"
+  },
+  "6890225": {
+    "zipcode": "6890225",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町土居"
+  },
+  "6890226": {
+    "zipcode": "6890226",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町宿"
+  },
+  "6890331": {
+    "zipcode": "6890331",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町浜村"
+  },
+  "6890332": {
+    "zipcode": "6890332",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町勝見"
+  },
+  "6890333": {
+    "zipcode": "6890333",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町新町"
+  },
+  "6890334": {
+    "zipcode": "6890334",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町北浜"
+  },
+  "6890341": {
+    "zipcode": "6890341",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町下石"
+  },
+  "6890342": {
+    "zipcode": "6890342",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町殿"
+  },
+  "6890343": {
+    "zipcode": "6890343",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町飯里"
+  },
+  "6890344": {
+    "zipcode": "6890344",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町上原"
+  },
+  "6890345": {
+    "zipcode": "6890345",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町山宮"
+  },
+  "6890351": {
+    "zipcode": "6890351",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町八幡"
+  },
+  "6890352": {
+    "zipcode": "6890352",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町高江"
+  },
+  "6890353": {
+    "zipcode": "6890353",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町郡家"
+  },
+  "6890354": {
+    "zipcode": "6890354",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町睦逢"
+  },
+  "6890355": {
+    "zipcode": "6890355",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町会下"
+  },
+  "6890356": {
+    "zipcode": "6890356",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町下原"
+  },
+  "6890357": {
+    "zipcode": "6890357",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "気高町八束水"
+  },
+  "6890401": {
+    "zipcode": "6890401",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町広木"
+  },
+  "6890402": {
+    "zipcode": "6890402",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町閉野"
+  },
+  "6890403": {
+    "zipcode": "6890403",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町末用"
+  },
+  "6890404": {
+    "zipcode": "6890404",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町水谷"
+  },
+  "6890405": {
+    "zipcode": "6890405",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町鹿野"
+  },
+  "6890411": {
+    "zipcode": "6890411",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町鷲峯"
+  },
+  "6890412": {
+    "zipcode": "6890412",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町河内"
+  },
+  "6890413": {
+    "zipcode": "6890413",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町小別所"
+  },
+  "6890421": {
+    "zipcode": "6890421",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町乙亥正"
+  },
+  "6890422": {
+    "zipcode": "6890422",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町岡木"
+  },
+  "6890423": {
+    "zipcode": "6890423",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町中園"
+  },
+  "6890424": {
+    "zipcode": "6890424",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町宮方"
+  },
+  "6890425": {
+    "zipcode": "6890425",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町今市"
+  },
+  "6890426": {
+    "zipcode": "6890426",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "鹿野町寺内"
+  },
+  "6890501": {
+    "zipcode": "6890501",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町青谷"
+  },
+  "6890511": {
+    "zipcode": "6890511",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町善田"
+  },
+  "6890512": {
+    "zipcode": "6890512",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町養郷"
+  },
+  "6890513": {
+    "zipcode": "6890513",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町蔵内"
+  },
+  "6890514": {
+    "zipcode": "6890514",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町山根"
+  },
+  "6890515": {
+    "zipcode": "6890515",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町河原"
+  },
+  "6890516": {
+    "zipcode": "6890516",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町小畑"
+  },
+  "6890517": {
+    "zipcode": "6890517",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町早牛"
+  },
+  "6890518": {
+    "zipcode": "6890518",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町大坪"
+  },
+  "6890519": {
+    "zipcode": "6890519",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町奥崎"
+  },
+  "6890521": {
+    "zipcode": "6890521",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町露谷"
+  },
+  "6890522": {
+    "zipcode": "6890522",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町亀尻"
+  },
+  "6890523": {
+    "zipcode": "6890523",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町山田"
+  },
+  "6890524": {
+    "zipcode": "6890524",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町八葉寺"
+  },
+  "6890525": {
+    "zipcode": "6890525",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町田原谷"
+  },
+  "6890526": {
+    "zipcode": "6890526",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町紙屋"
+  },
+  "6890527": {
+    "zipcode": "6890527",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町楠根"
+  },
+  "6890528": {
+    "zipcode": "6890528",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町澄水"
+  },
+  "6890529": {
+    "zipcode": "6890529",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町桑原"
+  },
+  "6890531": {
+    "zipcode": "6890531",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町鳴滝"
+  },
+  "6890532": {
+    "zipcode": "6890532",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町北河原"
+  },
+  "6890533": {
+    "zipcode": "6890533",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町絹見"
+  },
+  "6890534": {
+    "zipcode": "6890534",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町吉川"
+  },
+  "6890535": {
+    "zipcode": "6890535",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町井手"
+  },
+  "6890536": {
+    "zipcode": "6890536",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町長和瀬"
+  },
+  "6890537": {
+    "zipcode": "6890537",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "青谷町栄町"
+  },
+  "6890601": {
+    "zipcode": "6890601",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "泊"
+  },
+  "6890602": {
+    "zipcode": "6890602",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "石脇"
+  },
+  "6890603": {
+    "zipcode": "6890603",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "小浜"
+  },
+  "6890604": {
+    "zipcode": "6890604",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "筒地"
+  },
+  "6890605": {
+    "zipcode": "6890605",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "園"
+  },
+  "6890606": {
+    "zipcode": "6890606",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "原"
+  },
+  "6890607": {
+    "zipcode": "6890607",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "宇谷"
+  },
+  "6890701": {
+    "zipcode": "6890701",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "北福"
+  },
+  "6890702": {
+    "zipcode": "6890702",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "漆原"
+  },
+  "6890703": {
+    "zipcode": "6890703",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "方地"
+  },
+  "6890704": {
+    "zipcode": "6890704",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "白石"
+  },
+  "6890705": {
+    "zipcode": "6890705",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "野方"
+  },
+  "6890706": {
+    "zipcode": "6890706",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "藤津"
+  },
+  "6890707": {
+    "zipcode": "6890707",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "宮内"
+  },
+  "6890711": {
+    "zipcode": "6890711",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "松崎"
+  },
+  "6890712": {
+    "zipcode": "6890712",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "中興寺"
+  },
+  "6890713": {
+    "zipcode": "6890713",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "旭"
+  },
+  "6890714": {
+    "zipcode": "6890714",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "龍島"
+  },
+  "6890715": {
+    "zipcode": "6890715",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "引地"
+  },
+  "6890721": {
+    "zipcode": "6890721",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "麻畑"
+  },
+  "6890722": {
+    "zipcode": "6890722",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "川上"
+  },
+  "6890723": {
+    "zipcode": "6890723",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "高辻"
+  },
+  "6890724": {
+    "zipcode": "6890724",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "方面"
+  },
+  "6890725": {
+    "zipcode": "6890725",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "別所"
+  },
+  "6890726": {
+    "zipcode": "6890726",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "国信"
+  },
+  "6890727": {
+    "zipcode": "6890727",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "田畑"
+  },
+  "6890728": {
+    "zipcode": "6890728",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "久見"
+  },
+  "6890729": {
+    "zipcode": "6890729",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "小鹿谷"
+  },
+  "6890731": {
+    "zipcode": "6890731",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "野花"
+  },
+  "6890732": {
+    "zipcode": "6890732",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "長和田"
+  },
+  "6890733": {
+    "zipcode": "6890733",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "羽衣石"
+  },
+  "6890734": {
+    "zipcode": "6890734",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "埴見"
+  },
+  "6890735": {
+    "zipcode": "6890735",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "佐美"
+  },
+  "6890736": {
+    "zipcode": "6890736",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "門田"
+  },
+  "6890737": {
+    "zipcode": "6890737",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡湯梨浜町",
+    "town": "長江"
+  },
+  "6891101": {
+    "zipcode": "6891101",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "杉崎"
+  },
+  "6891102": {
+    "zipcode": "6891102",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "津ノ井"
+  },
+  "6891103": {
+    "zipcode": "6891103",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "生山"
+  },
+  "6891104": {
+    "zipcode": "6891104",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "桂木"
+  },
+  "6891105": {
+    "zipcode": "6891105",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "東大路"
+  },
+  "6891106": {
+    "zipcode": "6891106",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "中大路"
+  },
+  "6891107": {
+    "zipcode": "6891107",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "西大路"
+  },
+  "6891111": {
+    "zipcode": "6891111",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "若葉台北"
+  },
+  "6891112": {
+    "zipcode": "6891112",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "若葉台南"
+  },
+  "6891113": {
+    "zipcode": "6891113",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "祢宜谷"
+  },
+  "6891114": {
+    "zipcode": "6891114",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "香取"
+  },
+  "6891115": {
+    "zipcode": "6891115",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "紙子谷"
+  },
+  "6891116": {
+    "zipcode": "6891116",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "広岡"
+  },
+  "6891117": {
+    "zipcode": "6891117",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "海蔵寺"
+  },
+  "6891121": {
+    "zipcode": "6891121",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "南栄町"
+  },
+  "6891122": {
+    "zipcode": "6891122",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "船木"
+  },
+  "6891123": {
+    "zipcode": "6891123",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "久末"
+  },
+  "6891124": {
+    "zipcode": "6891124",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "越路"
+  },
+  "6891125": {
+    "zipcode": "6891125",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "古郡家"
+  },
+  "6891126": {
+    "zipcode": "6891126",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "美和"
+  },
+  "6891201": {
+    "zipcode": "6891201",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町用瀬"
+  },
+  "6891211": {
+    "zipcode": "6891211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町別府"
+  },
+  "6891212": {
+    "zipcode": "6891212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町美成"
+  },
+  "6891213": {
+    "zipcode": "6891213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町鷹狩"
+  },
+  "6891214": {
+    "zipcode": "6891214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町旭ケ丘"
+  },
+  "6891215": {
+    "zipcode": "6891215",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町赤波"
+  },
+  "6891221": {
+    "zipcode": "6891221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町古用瀬"
+  },
+  "6891222": {
+    "zipcode": "6891222",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町家奥"
+  },
+  "6891223": {
+    "zipcode": "6891223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町金屋"
+  },
+  "6891224": {
+    "zipcode": "6891224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町樟原"
+  },
+  "6891225": {
+    "zipcode": "6891225",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町宮原"
+  },
+  "6891226": {
+    "zipcode": "6891226",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町川中"
+  },
+  "6891227": {
+    "zipcode": "6891227",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町安蔵"
+  },
+  "6891228": {
+    "zipcode": "6891228",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町屋住"
+  },
+  "6891229": {
+    "zipcode": "6891229",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "用瀬町江波"
+  },
+  "6891301": {
+    "zipcode": "6891301",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町葛谷"
+  },
+  "6891302": {
+    "zipcode": "6891302",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町小原"
+  },
+  "6891303": {
+    "zipcode": "6891303",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町刈地"
+  },
+  "6891304": {
+    "zipcode": "6891304",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町大井"
+  },
+  "6891305": {
+    "zipcode": "6891305",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町森坪"
+  },
+  "6891306": {
+    "zipcode": "6891306",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町古市"
+  },
+  "6891307": {
+    "zipcode": "6891307",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町津無"
+  },
+  "6891311": {
+    "zipcode": "6891311",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町津野"
+  },
+  "6891312": {
+    "zipcode": "6891312",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町高山"
+  },
+  "6891313": {
+    "zipcode": "6891313",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町加瀬木"
+  },
+  "6891314": {
+    "zipcode": "6891314",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町加茂"
+  },
+  "6891315": {
+    "zipcode": "6891315",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町畑"
+  },
+  "6891316": {
+    "zipcode": "6891316",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町福園"
+  },
+  "6891321": {
+    "zipcode": "6891321",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町河本"
+  },
+  "6891322": {
+    "zipcode": "6891322",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町つく谷"
+  },
+  "6891323": {
+    "zipcode": "6891323",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町余戸"
+  },
+  "6891324": {
+    "zipcode": "6891324",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町尾際"
+  },
+  "6891325": {
+    "zipcode": "6891325",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町中"
+  },
+  "6891326": {
+    "zipcode": "6891326",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "town": "佐治町栃原"
+  },
+  "6891400": {
+    "zipcode": "6891400",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "以下に掲載がない場合"
+  },
+  "6891401": {
+    "zipcode": "6891401",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "市瀬"
+  },
+  "6891402": {
+    "zipcode": "6891402",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "智頭"
+  },
+  "6891403": {
+    "zipcode": "6891403",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "南方"
+  },
+  "6891404": {
+    "zipcode": "6891404",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "岩神"
+  },
+  "6891411": {
+    "zipcode": "6891411",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "八河谷"
+  },
+  "6891412": {
+    "zipcode": "6891412",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "芦津"
+  },
+  "6891413": {
+    "zipcode": "6891413",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "大呂"
+  },
+  "6891414": {
+    "zipcode": "6891414",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "西野"
+  },
+  "6891415": {
+    "zipcode": "6891415",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "郷原"
+  },
+  "6891416": {
+    "zipcode": "6891416",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "毛谷"
+  },
+  "6891417": {
+    "zipcode": "6891417",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "篠坂"
+  },
+  "6891421": {
+    "zipcode": "6891421",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "大内"
+  },
+  "6891422": {
+    "zipcode": "6891422",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "尾見"
+  },
+  "6891423": {
+    "zipcode": "6891423",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "中原"
+  },
+  "6891424": {
+    "zipcode": "6891424",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "駒帰"
+  },
+  "6891425": {
+    "zipcode": "6891425",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "福原"
+  },
+  "6891426": {
+    "zipcode": "6891426",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "西谷"
+  },
+  "6891431": {
+    "zipcode": "6891431",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "山根"
+  },
+  "6891432": {
+    "zipcode": "6891432",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "穂見"
+  },
+  "6891433": {
+    "zipcode": "6891433",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "埴師"
+  },
+  "6891434": {
+    "zipcode": "6891434",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "三吉"
+  },
+  "6891435": {
+    "zipcode": "6891435",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "横田"
+  },
+  "6891436": {
+    "zipcode": "6891436",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "木原"
+  },
+  "6891437": {
+    "zipcode": "6891437",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "三田"
+  },
+  "6891441": {
+    "zipcode": "6891441",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "慶所"
+  },
+  "6891442": {
+    "zipcode": "6891442",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "大屋"
+  },
+  "6891443": {
+    "zipcode": "6891443",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "真鹿野"
+  },
+  "6891444": {
+    "zipcode": "6891444",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "野原"
+  },
+  "6891445": {
+    "zipcode": "6891445",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "早瀬"
+  },
+  "6891451": {
+    "zipcode": "6891451",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "大背"
+  },
+  "6891452": {
+    "zipcode": "6891452",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "奥本"
+  },
+  "6891453": {
+    "zipcode": "6891453",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "東宇塚"
+  },
+  "6891454": {
+    "zipcode": "6891454",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "河津原"
+  },
+  "6891455": {
+    "zipcode": "6891455",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "西宇塚"
+  },
+  "6891461": {
+    "zipcode": "6891461",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "坂原"
+  },
+  "6891462": {
+    "zipcode": "6891462",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "中田"
+  },
+  "6891463": {
+    "zipcode": "6891463",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "新見"
+  },
+  "6891464": {
+    "zipcode": "6891464",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "口宇波"
+  },
+  "6891465": {
+    "zipcode": "6891465",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "宇波"
+  },
+  "6891466": {
+    "zipcode": "6891466",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "波多"
+  },
+  "6891467": {
+    "zipcode": "6891467",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "口波多"
+  },
+  "6891468": {
+    "zipcode": "6891468",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "八頭郡智頭町",
+    "town": "惣地"
+  },
+  "6892101": {
+    "zipcode": "6892101",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "江北"
+  },
+  "6892102": {
+    "zipcode": "6892102",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "国坂"
+  },
+  "6892103": {
+    "zipcode": "6892103",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "田井"
+  },
+  "6892104": {
+    "zipcode": "6892104",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "弓原"
+  },
+  "6892105": {
+    "zipcode": "6892105",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "下神"
+  },
+  "6892106": {
+    "zipcode": "6892106",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "松神"
+  },
+  "6892111": {
+    "zipcode": "6892111",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "土下"
+  },
+  "6892112": {
+    "zipcode": "6892112",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "北条島"
+  },
+  "6892113": {
+    "zipcode": "6892113",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "米里"
+  },
+  "6892114": {
+    "zipcode": "6892114",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "北尾"
+  },
+  "6892115": {
+    "zipcode": "6892115",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "曲"
+  },
+  "6892200": {
+    "zipcode": "6892200",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "以下に掲載がない場合"
+  },
+  "6892201": {
+    "zipcode": "6892201",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "西園"
+  },
+  "6892202": {
+    "zipcode": "6892202",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "東園"
+  },
+  "6892203": {
+    "zipcode": "6892203",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "原"
+  },
+  "6892204": {
+    "zipcode": "6892204",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "穂波"
+  },
+  "6892205": {
+    "zipcode": "6892205",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "瀬戸"
+  },
+  "6892206": {
+    "zipcode": "6892206",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "大島"
+  },
+  "6892207": {
+    "zipcode": "6892207",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "西穂波"
+  },
+  "6892208": {
+    "zipcode": "6892208",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "六尾"
+  },
+  "6892211": {
+    "zipcode": "6892211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "亀谷"
+  },
+  "6892212": {
+    "zipcode": "6892212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "下種"
+  },
+  "6892213": {
+    "zipcode": "6892213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "上種"
+  },
+  "6892214": {
+    "zipcode": "6892214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "東高尾"
+  },
+  "6892215": {
+    "zipcode": "6892215",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "西高尾"
+  },
+  "6892216": {
+    "zipcode": "6892216",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "岩坪"
+  },
+  "6892221": {
+    "zipcode": "6892221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "由良宿"
+  },
+  "6892223": {
+    "zipcode": "6892223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "大谷"
+  },
+  "6892224": {
+    "zipcode": "6892224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡北栄町",
+    "town": "妻波"
+  },
+  "6892300": {
+    "zipcode": "6892300",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "以下に掲載がない場合"
+  },
+  "6892301": {
+    "zipcode": "6892301",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "八橋"
+  },
+  "6892302": {
+    "zipcode": "6892302",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "丸尾"
+  },
+  "6892303": {
+    "zipcode": "6892303",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "徳万"
+  },
+  "6892304": {
+    "zipcode": "6892304",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "逢束"
+  },
+  "6892305": {
+    "zipcode": "6892305",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "槻下"
+  },
+  "6892306": {
+    "zipcode": "6892306",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "笠見"
+  },
+  "6892311": {
+    "zipcode": "6892311",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "中尾"
+  },
+  "6892312": {
+    "zipcode": "6892312",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "金屋"
+  },
+  "6892313": {
+    "zipcode": "6892313",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "杉下"
+  },
+  "6892314": {
+    "zipcode": "6892314",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "下大江"
+  },
+  "6892315": {
+    "zipcode": "6892315",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "上伊勢"
+  },
+  "6892316": {
+    "zipcode": "6892316",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "下伊勢"
+  },
+  "6892321": {
+    "zipcode": "6892321",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "森藤"
+  },
+  "6892322": {
+    "zipcode": "6892322",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "八反田"
+  },
+  "6892323": {
+    "zipcode": "6892323",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "宮場"
+  },
+  "6892324": {
+    "zipcode": "6892324",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "矢下"
+  },
+  "6892325": {
+    "zipcode": "6892325",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "法万"
+  },
+  "6892326": {
+    "zipcode": "6892326",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "光好"
+  },
+  "6892331": {
+    "zipcode": "6892331",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "杉地"
+  },
+  "6892332": {
+    "zipcode": "6892332",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "古長"
+  },
+  "6892333": {
+    "zipcode": "6892333",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "別宮"
+  },
+  "6892334": {
+    "zipcode": "6892334",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "三本杉"
+  },
+  "6892335": {
+    "zipcode": "6892335",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "中津原"
+  },
+  "6892336": {
+    "zipcode": "6892336",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "野井倉"
+  },
+  "6892341": {
+    "zipcode": "6892341",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "倉坂"
+  },
+  "6892342": {
+    "zipcode": "6892342",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "公文"
+  },
+  "6892343": {
+    "zipcode": "6892343",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "山田"
+  },
+  "6892344": {
+    "zipcode": "6892344",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "大杉"
+  },
+  "6892345": {
+    "zipcode": "6892345",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "福永"
+  },
+  "6892346": {
+    "zipcode": "6892346",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "野田"
+  },
+  "6892351": {
+    "zipcode": "6892351",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "保"
+  },
+  "6892352": {
+    "zipcode": "6892352",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "浦安"
+  },
+  "6892353": {
+    "zipcode": "6892353",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "三保"
+  },
+  "6892354": {
+    "zipcode": "6892354",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "美好"
+  },
+  "6892355": {
+    "zipcode": "6892355",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "釛"
+  },
+  "6892356": {
+    "zipcode": "6892356",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "田越"
+  },
+  "6892501": {
+    "zipcode": "6892501",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "赤碕"
+  },
+  "6892502": {
+    "zipcode": "6892502",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "別所"
+  },
+  "6892503": {
+    "zipcode": "6892503",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "松谷"
+  },
+  "6892511": {
+    "zipcode": "6892511",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "出上"
+  },
+  "6892512": {
+    "zipcode": "6892512",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "勝田"
+  },
+  "6892513": {
+    "zipcode": "6892513",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "西宮"
+  },
+  "6892521": {
+    "zipcode": "6892521",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "竹内"
+  },
+  "6892522": {
+    "zipcode": "6892522",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "宮木"
+  },
+  "6892523": {
+    "zipcode": "6892523",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "高岡"
+  },
+  "6892524": {
+    "zipcode": "6892524",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "大父"
+  },
+  "6892525": {
+    "zipcode": "6892525",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "山川"
+  },
+  "6892531": {
+    "zipcode": "6892531",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "佐崎"
+  },
+  "6892532": {
+    "zipcode": "6892532",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "太一垣"
+  },
+  "6892533": {
+    "zipcode": "6892533",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "中村"
+  },
+  "6892534": {
+    "zipcode": "6892534",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "光"
+  },
+  "6892535": {
+    "zipcode": "6892535",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "尾張"
+  },
+  "6892541": {
+    "zipcode": "6892541",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "八幡"
+  },
+  "6892542": {
+    "zipcode": "6892542",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "湯坂"
+  },
+  "6892543": {
+    "zipcode": "6892543",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "梅田"
+  },
+  "6892544": {
+    "zipcode": "6892544",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "東伯郡琴浦町",
+    "town": "箆津"
+  },
+  "6893101": {
+    "zipcode": "6893101",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "潮音寺"
+  },
+  "6893102": {
+    "zipcode": "6893102",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "石井垣"
+  },
+  "6893103": {
+    "zipcode": "6893103",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "樋口"
+  },
+  "6893104": {
+    "zipcode": "6893104",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "八重"
+  },
+  "6893105": {
+    "zipcode": "6893105",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "束積"
+  },
+  "6893106": {
+    "zipcode": "6893106",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "羽田井"
+  },
+  "6893111": {
+    "zipcode": "6893111",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "赤坂"
+  },
+  "6893112": {
+    "zipcode": "6893112",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "下甲"
+  },
+  "6893113": {
+    "zipcode": "6893113",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "御崎"
+  },
+  "6893114": {
+    "zipcode": "6893114",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "田中"
+  },
+  "6893115": {
+    "zipcode": "6893115",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "栄田"
+  },
+  "6893121": {
+    "zipcode": "6893121",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "岡"
+  },
+  "6893122": {
+    "zipcode": "6893122",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "塩津"
+  },
+  "6893123": {
+    "zipcode": "6893123",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "住吉"
+  },
+  "6893124": {
+    "zipcode": "6893124",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "上市"
+  },
+  "6893125": {
+    "zipcode": "6893125",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "下市"
+  },
+  "6893132": {
+    "zipcode": "6893132",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "松河原"
+  },
+  "6893133": {
+    "zipcode": "6893133",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "退休寺"
+  },
+  "6893134": {
+    "zipcode": "6893134",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "高橋"
+  },
+  "6893135": {
+    "zipcode": "6893135",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "殿河内"
+  },
+  "6893136": {
+    "zipcode": "6893136",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "長野"
+  },
+  "6893200": {
+    "zipcode": "6893200",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "以下に掲載がない場合"
+  },
+  "6893201": {
+    "zipcode": "6893201",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "豊成"
+  },
+  "6893202": {
+    "zipcode": "6893202",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "倉谷"
+  },
+  "6893203": {
+    "zipcode": "6893203",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "小竹"
+  },
+  "6893204": {
+    "zipcode": "6893204",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "東坪"
+  },
+  "6893205": {
+    "zipcode": "6893205",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "西坪"
+  },
+  "6893211": {
+    "zipcode": "6893211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "御来屋"
+  },
+  "6893212": {
+    "zipcode": "6893212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "名和"
+  },
+  "6893213": {
+    "zipcode": "6893213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "門前"
+  },
+  "6893214": {
+    "zipcode": "6893214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "加茂"
+  },
+  "6893221": {
+    "zipcode": "6893221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "富長"
+  },
+  "6893222": {
+    "zipcode": "6893222",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "古御堂"
+  },
+  "6893223": {
+    "zipcode": "6893223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "茶畑"
+  },
+  "6893224": {
+    "zipcode": "6893224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "高田"
+  },
+  "6893225": {
+    "zipcode": "6893225",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "押平"
+  },
+  "6893226": {
+    "zipcode": "6893226",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "大塚"
+  },
+  "6893301": {
+    "zipcode": "6893301",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "福尾"
+  },
+  "6893302": {
+    "zipcode": "6893302",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "上野"
+  },
+  "6893303": {
+    "zipcode": "6893303",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "所子"
+  },
+  "6893304": {
+    "zipcode": "6893304",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "平木"
+  },
+  "6893305": {
+    "zipcode": "6893305",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "神原"
+  },
+  "6893306": {
+    "zipcode": "6893306",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "中高"
+  },
+  "6893307": {
+    "zipcode": "6893307",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "野田"
+  },
+  "6893308": {
+    "zipcode": "6893308",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "清原"
+  },
+  "6893309": {
+    "zipcode": "6893309",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "国信"
+  },
+  "6893311": {
+    "zipcode": "6893311",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "宮内"
+  },
+  "6893312": {
+    "zipcode": "6893312",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "坊領"
+  },
+  "6893313": {
+    "zipcode": "6893313",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "佐摩"
+  },
+  "6893314": {
+    "zipcode": "6893314",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "今在家"
+  },
+  "6893315": {
+    "zipcode": "6893315",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "前"
+  },
+  "6893316": {
+    "zipcode": "6893316",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "豊房"
+  },
+  "6893317": {
+    "zipcode": "6893317",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "鈑戸"
+  },
+  "6893318": {
+    "zipcode": "6893318",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "大山"
+  },
+  "6893319": {
+    "zipcode": "6893319",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "赤松"
+  },
+  "6893321": {
+    "zipcode": "6893321",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "平"
+  },
+  "6893322": {
+    "zipcode": "6893322",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "長田"
+  },
+  "6893323": {
+    "zipcode": "6893323",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "荘田"
+  },
+  "6893324": {
+    "zipcode": "6893324",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "妻木"
+  },
+  "6893325": {
+    "zipcode": "6893325",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "富岡"
+  },
+  "6893326": {
+    "zipcode": "6893326",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "安原"
+  },
+  "6893327": {
+    "zipcode": "6893327",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "保田"
+  },
+  "6893331": {
+    "zipcode": "6893331",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "末吉"
+  },
+  "6893332": {
+    "zipcode": "6893332",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "末長"
+  },
+  "6893333": {
+    "zipcode": "6893333",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "唐王"
+  },
+  "6893334": {
+    "zipcode": "6893334",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "稲光"
+  },
+  "6893335": {
+    "zipcode": "6893335",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "上万"
+  },
+  "6893336": {
+    "zipcode": "6893336",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡大山町",
+    "town": "平田"
+  },
+  "6893401": {
+    "zipcode": "6893401",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町今津"
+  },
+  "6893402": {
+    "zipcode": "6893402",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町淀江"
+  },
+  "6893403": {
+    "zipcode": "6893403",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町西原"
+  },
+  "6893411": {
+    "zipcode": "6893411",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町福岡"
+  },
+  "6893412": {
+    "zipcode": "6893412",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町稲吉"
+  },
+  "6893413": {
+    "zipcode": "6893413",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町本宮"
+  },
+  "6893414": {
+    "zipcode": "6893414",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町西尾原"
+  },
+  "6893415": {
+    "zipcode": "6893415",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町富繁"
+  },
+  "6893416": {
+    "zipcode": "6893416",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町福井"
+  },
+  "6893417": {
+    "zipcode": "6893417",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町中西尾"
+  },
+  "6893418": {
+    "zipcode": "6893418",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町高井谷"
+  },
+  "6893421": {
+    "zipcode": "6893421",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町福頼"
+  },
+  "6893422": {
+    "zipcode": "6893422",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町平岡"
+  },
+  "6893423": {
+    "zipcode": "6893423",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町小波"
+  },
+  "6893424": {
+    "zipcode": "6893424",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町中間"
+  },
+  "6893425": {
+    "zipcode": "6893425",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "淀江町佐陀"
+  },
+  "6893500": {
+    "zipcode": "6893500",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡日吉津村",
+    "town": "以下に掲載がない場合"
+  },
+  "6893511": {
+    "zipcode": "6893511",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "下郷"
+  },
+  "6893512": {
+    "zipcode": "6893512",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "泉"
+  },
+  "6893513": {
+    "zipcode": "6893513",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "岡成"
+  },
+  "6893514": {
+    "zipcode": "6893514",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "尾高"
+  },
+  "6893515": {
+    "zipcode": "6893515",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "赤井手"
+  },
+  "6893516": {
+    "zipcode": "6893516",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "みのり町"
+  },
+  "6893521": {
+    "zipcode": "6893521",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "河岡"
+  },
+  "6893522": {
+    "zipcode": "6893522",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "日下"
+  },
+  "6893523": {
+    "zipcode": "6893523",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "福万"
+  },
+  "6893524": {
+    "zipcode": "6893524",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "石州府"
+  },
+  "6893531": {
+    "zipcode": "6893531",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "下新印"
+  },
+  "6893532": {
+    "zipcode": "6893532",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "上新印"
+  },
+  "6893533": {
+    "zipcode": "6893533",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "一部"
+  },
+  "6893534": {
+    "zipcode": "6893534",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "水浜"
+  },
+  "6893535": {
+    "zipcode": "6893535",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "東八幡"
+  },
+  "6893536": {
+    "zipcode": "6893536",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "高島"
+  },
+  "6893537": {
+    "zipcode": "6893537",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "古豊千"
+  },
+  "6893541": {
+    "zipcode": "6893541",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "二本木"
+  },
+  "6893542": {
+    "zipcode": "6893542",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "今在家"
+  },
+  "6893543": {
+    "zipcode": "6893543",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "蚊屋"
+  },
+  "6893544": {
+    "zipcode": "6893544",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "浦津"
+  },
+  "6893545": {
+    "zipcode": "6893545",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "吉岡"
+  },
+  "6893546": {
+    "zipcode": "6893546",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "熊党"
+  },
+  "6893547": {
+    "zipcode": "6893547",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "town": "流通町"
+  },
+  "6893551": {
+    "zipcode": "6893551",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡日吉津村",
+    "town": "今吉"
+  },
+  "6893552": {
+    "zipcode": "6893552",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡日吉津村",
+    "town": "富吉"
+  },
+  "6893553": {
+    "zipcode": "6893553",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡日吉津村",
+    "town": "日吉津"
+  },
+  "6894100": {
+    "zipcode": "6894100",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "以下に掲載がない場合"
+  },
+  "6894101": {
+    "zipcode": "6894101",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "小林"
+  },
+  "6894102": {
+    "zipcode": "6894102",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大原"
+  },
+  "6894103": {
+    "zipcode": "6894103",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "真野"
+  },
+  "6894104": {
+    "zipcode": "6894104",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "番原"
+  },
+  "6894105": {
+    "zipcode": "6894105",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "久古"
+  },
+  "6894106": {
+    "zipcode": "6894106",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "口別所"
+  },
+  "6894107": {
+    "zipcode": "6894107",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "須村"
+  },
+  "6894108": {
+    "zipcode": "6894108",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "丸山"
+  },
+  "6894111": {
+    "zipcode": "6894111",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "清原"
+  },
+  "6894112": {
+    "zipcode": "6894112",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "上細見"
+  },
+  "6894113": {
+    "zipcode": "6894113",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "小野"
+  },
+  "6894114": {
+    "zipcode": "6894114",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "立岩"
+  },
+  "6894115": {
+    "zipcode": "6894115",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "小町"
+  },
+  "6894121": {
+    "zipcode": "6894121",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大殿"
+  },
+  "6894122": {
+    "zipcode": "6894122",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "坂長"
+  },
+  "6894123": {
+    "zipcode": "6894123",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "岩屋谷"
+  },
+  "6894131": {
+    "zipcode": "6894131",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "吉定"
+  },
+  "6894132": {
+    "zipcode": "6894132",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "岸本"
+  },
+  "6894133": {
+    "zipcode": "6894133",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "吉長"
+  },
+  "6894134": {
+    "zipcode": "6894134",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "遠藤"
+  },
+  "6894135": {
+    "zipcode": "6894135",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "押口"
+  },
+  "6894136": {
+    "zipcode": "6894136",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福岡原"
+  },
+  "6894201": {
+    "zipcode": "6894201",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "溝口"
+  },
+  "6894202": {
+    "zipcode": "6894202",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "長山"
+  },
+  "6894203": {
+    "zipcode": "6894203",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "貴住"
+  },
+  "6894204": {
+    "zipcode": "6894204",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "谷川"
+  },
+  "6894205": {
+    "zipcode": "6894205",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大倉"
+  },
+  "6894206": {
+    "zipcode": "6894206",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "宮原"
+  },
+  "6894207": {
+    "zipcode": "6894207",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "宇代"
+  },
+  "6894211": {
+    "zipcode": "6894211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大江"
+  },
+  "6894212": {
+    "zipcode": "6894212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "上野"
+  },
+  "6894213": {
+    "zipcode": "6894213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "金屋谷"
+  },
+  "6894214": {
+    "zipcode": "6894214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "岩立"
+  },
+  "6894215": {
+    "zipcode": "6894215",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大内"
+  },
+  "6894216": {
+    "zipcode": "6894216",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福兼"
+  },
+  "6894217": {
+    "zipcode": "6894217",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "添谷"
+  },
+  "6894221": {
+    "zipcode": "6894221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "富江"
+  },
+  "6894222": {
+    "zipcode": "6894222",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大滝"
+  },
+  "6894223": {
+    "zipcode": "6894223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "栃原"
+  },
+  "6894224": {
+    "zipcode": "6894224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "根雨原"
+  },
+  "6894225": {
+    "zipcode": "6894225",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "白水"
+  },
+  "6894226": {
+    "zipcode": "6894226",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "大坂"
+  },
+  "6894231": {
+    "zipcode": "6894231",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "船越"
+  },
+  "6894232": {
+    "zipcode": "6894232",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福島"
+  },
+  "6894233": {
+    "zipcode": "6894233",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "二部"
+  },
+  "6894234": {
+    "zipcode": "6894234",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "畑池"
+  },
+  "6894235": {
+    "zipcode": "6894235",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福岡"
+  },
+  "6894236": {
+    "zipcode": "6894236",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "焼杉"
+  },
+  "6894237": {
+    "zipcode": "6894237",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福居"
+  },
+  "6894241": {
+    "zipcode": "6894241",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "中祖"
+  },
+  "6894242": {
+    "zipcode": "6894242",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "古市"
+  },
+  "6894243": {
+    "zipcode": "6894243",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "荘"
+  },
+  "6894244": {
+    "zipcode": "6894244",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "父原"
+  },
+  "6894245": {
+    "zipcode": "6894245",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "福吉"
+  },
+  "6894246": {
+    "zipcode": "6894246",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "town": "三部"
+  },
+  "6894400": {
+    "zipcode": "6894400",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "以下に掲載がない場合"
+  },
+  "6894401": {
+    "zipcode": "6894401",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "江尾"
+  },
+  "6894402": {
+    "zipcode": "6894402",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "小江尾"
+  },
+  "6894403": {
+    "zipcode": "6894403",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "久連"
+  },
+  "6894411": {
+    "zipcode": "6894411",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "武庫"
+  },
+  "6894412": {
+    "zipcode": "6894412",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "下安井"
+  },
+  "6894413": {
+    "zipcode": "6894413",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "洲河崎"
+  },
+  "6894414": {
+    "zipcode": "6894414",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "俣野"
+  },
+  "6894421": {
+    "zipcode": "6894421",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "宮市"
+  },
+  "6894422": {
+    "zipcode": "6894422",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "杉谷"
+  },
+  "6894423": {
+    "zipcode": "6894423",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "美用"
+  },
+  "6894424": {
+    "zipcode": "6894424",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "御机"
+  },
+  "6894425": {
+    "zipcode": "6894425",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "下蚊屋"
+  },
+  "6894426": {
+    "zipcode": "6894426",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "助沢"
+  },
+  "6894431": {
+    "zipcode": "6894431",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "佐川"
+  },
+  "6894432": {
+    "zipcode": "6894432",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "柿原"
+  },
+  "6894433": {
+    "zipcode": "6894433",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "吉原"
+  },
+  "6894434": {
+    "zipcode": "6894434",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "大河原"
+  },
+  "6894435": {
+    "zipcode": "6894435",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡江府町",
+    "town": "貝田"
+  },
+  "6894500": {
+    "zipcode": "6894500",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "以下に掲載がない場合"
+  },
+  "6894501": {
+    "zipcode": "6894501",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "貝原"
+  },
+  "6894502": {
+    "zipcode": "6894502",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "三谷"
+  },
+  "6894503": {
+    "zipcode": "6894503",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "根雨"
+  },
+  "6894504": {
+    "zipcode": "6894504",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "野田"
+  },
+  "6894505": {
+    "zipcode": "6894505",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "舟場"
+  },
+  "6894511": {
+    "zipcode": "6894511",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "高尾"
+  },
+  "6894512": {
+    "zipcode": "6894512",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "金持"
+  },
+  "6894513": {
+    "zipcode": "6894513",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "板井原"
+  },
+  "6894514": {
+    "zipcode": "6894514",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "三土"
+  },
+  "6894515": {
+    "zipcode": "6894515",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "秋縄"
+  },
+  "6894516": {
+    "zipcode": "6894516",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "門谷"
+  },
+  "6894517": {
+    "zipcode": "6894517",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "濁谷"
+  },
+  "6894521": {
+    "zipcode": "6894521",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "津地"
+  },
+  "6894522": {
+    "zipcode": "6894522",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "本郷"
+  },
+  "6894523": {
+    "zipcode": "6894523",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "榎市"
+  },
+  "6894524": {
+    "zipcode": "6894524",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "別所"
+  },
+  "6894525": {
+    "zipcode": "6894525",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "小原"
+  },
+  "6894526": {
+    "zipcode": "6894526",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "下榎"
+  },
+  "6894527": {
+    "zipcode": "6894527",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "安原"
+  },
+  "6895131": {
+    "zipcode": "6895131",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "黒坂"
+  },
+  "6895132": {
+    "zipcode": "6895132",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "久住"
+  },
+  "6895133": {
+    "zipcode": "6895133",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "下黒坂"
+  },
+  "6895134": {
+    "zipcode": "6895134",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "下菅"
+  },
+  "6895135": {
+    "zipcode": "6895135",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "中菅"
+  },
+  "6895136": {
+    "zipcode": "6895136",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "小河内"
+  },
+  "6895137": {
+    "zipcode": "6895137",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日野町",
+    "town": "福長"
+  },
+  "6895200": {
+    "zipcode": "6895200",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "以下に掲載がない場合"
+  },
+  "6895211": {
+    "zipcode": "6895211",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "生山"
+  },
+  "6895212": {
+    "zipcode": "6895212",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "霞"
+  },
+  "6895213": {
+    "zipcode": "6895213",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "丸山"
+  },
+  "6895214": {
+    "zipcode": "6895214",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "三栄"
+  },
+  "6895215": {
+    "zipcode": "6895215",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "矢戸"
+  },
+  "6895216": {
+    "zipcode": "6895216",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "宮内"
+  },
+  "6895221": {
+    "zipcode": "6895221",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "河上"
+  },
+  "6895222": {
+    "zipcode": "6895222",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "萩原"
+  },
+  "6895223": {
+    "zipcode": "6895223",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "上萩山"
+  },
+  "6895224": {
+    "zipcode": "6895224",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "多里"
+  },
+  "6895225": {
+    "zipcode": "6895225",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "新屋"
+  },
+  "6895226": {
+    "zipcode": "6895226",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "湯河"
+  },
+  "6895531": {
+    "zipcode": "6895531",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "印賀"
+  },
+  "6895532": {
+    "zipcode": "6895532",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "菅沢"
+  },
+  "6895533": {
+    "zipcode": "6895533",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "宝谷"
+  },
+  "6895534": {
+    "zipcode": "6895534",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "折渡"
+  },
+  "6895541": {
+    "zipcode": "6895541",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "佐木谷"
+  },
+  "6895542": {
+    "zipcode": "6895542",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "福万来"
+  },
+  "6895543": {
+    "zipcode": "6895543",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "笠木"
+  },
+  "6895544": {
+    "zipcode": "6895544",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "茶屋"
+  },
+  "6895545": {
+    "zipcode": "6895545",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "福寿実"
+  },
+  "6895551": {
+    "zipcode": "6895551",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "阿毘縁"
+  },
+  "6895552": {
+    "zipcode": "6895552",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "下阿毘縁"
+  },
+  "6895661": {
+    "zipcode": "6895661",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "花口"
+  },
+  "6895662": {
+    "zipcode": "6895662",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "神戸上"
+  },
+  "6895663": {
+    "zipcode": "6895663",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "上石見"
+  },
+  "6895664": {
+    "zipcode": "6895664",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "中石見"
+  },
+  "6895665": {
+    "zipcode": "6895665",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "下石見"
+  },
+  "6895666": {
+    "zipcode": "6895666",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "三吉"
+  },
+  "6895671": {
+    "zipcode": "6895671",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "福塚"
+  },
+  "6895672": {
+    "zipcode": "6895672",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "神福"
+  },
+  "6895673": {
+    "zipcode": "6895673",
+    "prefectureCode": "31",
+    "prefectureNumber": 31,
+    "prefecture": "鳥取県",
+    "city": "日野郡日南町",
+    "town": "豊栄"
+  }
+}

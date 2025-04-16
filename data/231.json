@@ -1,0 +1,858 @@
+{
+  "2310000": {
+    "zipcode": "2310000",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "以下に掲載がない場合"
+  },
+  "2310001": {
+    "zipcode": "2310001",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "新港"
+  },
+  "2310002": {
+    "zipcode": "2310002",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "海岸通"
+  },
+  "2310003": {
+    "zipcode": "2310003",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "北仲通"
+  },
+  "2310004": {
+    "zipcode": "2310004",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "元浜町"
+  },
+  "2310005": {
+    "zipcode": "2310005",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本町"
+  },
+  "2310006": {
+    "zipcode": "2310006",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "南仲通"
+  },
+  "2310007": {
+    "zipcode": "2310007",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "弁天通"
+  },
+  "2310011": {
+    "zipcode": "2310011",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "太田町"
+  },
+  "2310012": {
+    "zipcode": "2310012",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "相生町"
+  },
+  "2310013": {
+    "zipcode": "2310013",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "住吉町"
+  },
+  "2310014": {
+    "zipcode": "2310014",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "常盤町"
+  },
+  "2310015": {
+    "zipcode": "2310015",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "尾上町"
+  },
+  "2310016": {
+    "zipcode": "2310016",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "真砂町"
+  },
+  "2310017": {
+    "zipcode": "2310017",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "港町"
+  },
+  "2310021": {
+    "zipcode": "2310021",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "日本大通"
+  },
+  "2310022": {
+    "zipcode": "2310022",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "横浜公園"
+  },
+  "2310023": {
+    "zipcode": "2310023",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "山下町"
+  },
+  "2310024": {
+    "zipcode": "2310024",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "吉浜町"
+  },
+  "2310025": {
+    "zipcode": "2310025",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "松影町"
+  },
+  "2310026": {
+    "zipcode": "2310026",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "寿町"
+  },
+  "2310027": {
+    "zipcode": "2310027",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "扇町"
+  },
+  "2310028": {
+    "zipcode": "2310028",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "翁町"
+  },
+  "2310031": {
+    "zipcode": "2310031",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "万代町"
+  },
+  "2310032": {
+    "zipcode": "2310032",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "不老町"
+  },
+  "2310033": {
+    "zipcode": "2310033",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "長者町"
+  },
+  "2310034": {
+    "zipcode": "2310034",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "三吉町"
+  },
+  "2310035": {
+    "zipcode": "2310035",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "千歳町"
+  },
+  "2310036": {
+    "zipcode": "2310036",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "山田町"
+  },
+  "2310037": {
+    "zipcode": "2310037",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "富士見町"
+  },
+  "2310038": {
+    "zipcode": "2310038",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "山吹町"
+  },
+  "2310041": {
+    "zipcode": "2310041",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "吉田町"
+  },
+  "2310042": {
+    "zipcode": "2310042",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "福富町西通"
+  },
+  "2310043": {
+    "zipcode": "2310043",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "福富町仲通"
+  },
+  "2310044": {
+    "zipcode": "2310044",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "福富町東通"
+  },
+  "2310045": {
+    "zipcode": "2310045",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "伊勢佐木町"
+  },
+  "2310046": {
+    "zipcode": "2310046",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "末広町"
+  },
+  "2310047": {
+    "zipcode": "2310047",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "羽衣町"
+  },
+  "2310048": {
+    "zipcode": "2310048",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "蓬莱町"
+  },
+  "2310051": {
+    "zipcode": "2310051",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "赤門町"
+  },
+  "2310052": {
+    "zipcode": "2310052",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "英町"
+  },
+  "2310053": {
+    "zipcode": "2310053",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "初音町"
+  },
+  "2310054": {
+    "zipcode": "2310054",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "黄金町"
+  },
+  "2310055": {
+    "zipcode": "2310055",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "末吉町"
+  },
+  "2310056": {
+    "zipcode": "2310056",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "若葉町"
+  },
+  "2310057": {
+    "zipcode": "2310057",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "曙町"
+  },
+  "2310058": {
+    "zipcode": "2310058",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "弥生町"
+  },
+  "2310061": {
+    "zipcode": "2310061",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "内田町"
+  },
+  "2310062": {
+    "zipcode": "2310062",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "桜木町"
+  },
+  "2310063": {
+    "zipcode": "2310063",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "花咲町"
+  },
+  "2310064": {
+    "zipcode": "2310064",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "野毛町"
+  },
+  "2310065": {
+    "zipcode": "2310065",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "宮川町"
+  },
+  "2310066": {
+    "zipcode": "2310066",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "日ノ出町"
+  },
+  "2310801": {
+    "zipcode": "2310801",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "新山下"
+  },
+  "2310802": {
+    "zipcode": "2310802",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "小港町"
+  },
+  "2310803": {
+    "zipcode": "2310803",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧十二天"
+  },
+  "2310804": {
+    "zipcode": "2310804",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧宮原"
+  },
+  "2310805": {
+    "zipcode": "2310805",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "和田山"
+  },
+  "2310806": {
+    "zipcode": "2310806",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧町"
+  },
+  "2310811": {
+    "zipcode": "2310811",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧ふ頭"
+  },
+  "2310812": {
+    "zipcode": "2310812",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "錦町"
+  },
+  "2310813": {
+    "zipcode": "2310813",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "かもめ町"
+  },
+  "2310814": {
+    "zipcode": "2310814",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "豊浦町"
+  },
+  "2310815": {
+    "zipcode": "2310815",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "千鳥町"
+  },
+  "2310816": {
+    "zipcode": "2310816",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "南本牧"
+  },
+  "2310821": {
+    "zipcode": "2310821",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧原"
+  },
+  "2310822": {
+    "zipcode": "2310822",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧元町"
+  },
+  "2310823": {
+    "zipcode": "2310823",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧大里町"
+  },
+  "2310824": {
+    "zipcode": "2310824",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧三之谷"
+  },
+  "2310825": {
+    "zipcode": "2310825",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧間門"
+  },
+  "2310826": {
+    "zipcode": "2310826",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧荒井"
+  },
+  "2310827": {
+    "zipcode": "2310827",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧和田"
+  },
+  "2310831": {
+    "zipcode": "2310831",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "矢口台"
+  },
+  "2310832": {
+    "zipcode": "2310832",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧緑ケ丘"
+  },
+  "2310833": {
+    "zipcode": "2310833",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本牧満坂"
+  },
+  "2310834": {
+    "zipcode": "2310834",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "池袋"
+  },
+  "2310835": {
+    "zipcode": "2310835",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "根岸加曽台"
+  },
+  "2310836": {
+    "zipcode": "2310836",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "根岸町"
+  },
+  "2310837": {
+    "zipcode": "2310837",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "滝之上"
+  },
+  "2310838": {
+    "zipcode": "2310838",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "豆口台"
+  },
+  "2310839": {
+    "zipcode": "2310839",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "仲尾台"
+  },
+  "2310841": {
+    "zipcode": "2310841",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "妙香寺台"
+  },
+  "2310842": {
+    "zipcode": "2310842",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "上野町"
+  },
+  "2310843": {
+    "zipcode": "2310843",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "本郷町"
+  },
+  "2310844": {
+    "zipcode": "2310844",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "西之谷町"
+  },
+  "2310845": {
+    "zipcode": "2310845",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "立野"
+  },
+  "2310846": {
+    "zipcode": "2310846",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "大和町"
+  },
+  "2310847": {
+    "zipcode": "2310847",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "竹之丸"
+  },
+  "2310848": {
+    "zipcode": "2310848",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "鷺山"
+  },
+  "2310849": {
+    "zipcode": "2310849",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "麦田町"
+  },
+  "2310851": {
+    "zipcode": "2310851",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "山元町"
+  },
+  "2310852": {
+    "zipcode": "2310852",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "西竹之丸"
+  },
+  "2310853": {
+    "zipcode": "2310853",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "根岸台"
+  },
+  "2310854": {
+    "zipcode": "2310854",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "根岸旭台"
+  },
+  "2310855": {
+    "zipcode": "2310855",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "寺久保"
+  },
+  "2310856": {
+    "zipcode": "2310856",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "簑沢"
+  },
+  "2310857": {
+    "zipcode": "2310857",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "塚越"
+  },
+  "2310858": {
+    "zipcode": "2310858",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "大芝台"
+  },
+  "2310859": {
+    "zipcode": "2310859",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "大平町"
+  },
+  "2310861": {
+    "zipcode": "2310861",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "元町"
+  },
+  "2310862": {
+    "zipcode": "2310862",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "山手町"
+  },
+  "2310863": {
+    "zipcode": "2310863",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "諏訪町"
+  },
+  "2310864": {
+    "zipcode": "2310864",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "千代崎町"
+  },
+  "2310865": {
+    "zipcode": "2310865",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "北方町"
+  },
+  "2310866": {
+    "zipcode": "2310866",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "柏葉"
+  },
+  "2310867": {
+    "zipcode": "2310867",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "打越"
+  },
+  "2310868": {
+    "zipcode": "2310868",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "town": "石川町"
+  }
+}

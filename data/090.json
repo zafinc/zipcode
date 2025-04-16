@@ -1,0 +1,754 @@
+{
+  "0900000": {
+    "zipcode": "0900000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "以下に掲載がない場合"
+  },
+  "0900001": {
+    "zipcode": "0900001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "小泉"
+  },
+  "0900002": {
+    "zipcode": "0900002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "昭和"
+  },
+  "0900003": {
+    "zipcode": "0900003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "仁頃町"
+  },
+  "0900004": {
+    "zipcode": "0900004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北陽"
+  },
+  "0900005": {
+    "zipcode": "0900005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "大和"
+  },
+  "0900006": {
+    "zipcode": "0900006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "上仁頃"
+  },
+  "0900007": {
+    "zipcode": "0900007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "美里"
+  },
+  "0900008": {
+    "zipcode": "0900008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "大正"
+  },
+  "0900011": {
+    "zipcode": "0900011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "曙町"
+  },
+  "0900012": {
+    "zipcode": "0900012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "並木町"
+  },
+  "0900013": {
+    "zipcode": "0900013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "柏陽町"
+  },
+  "0900014": {
+    "zipcode": "0900014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "文京町"
+  },
+  "0900015": {
+    "zipcode": "0900015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "公園町"
+  },
+  "0900016": {
+    "zipcode": "0900016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "大町"
+  },
+  "0900017": {
+    "zipcode": "0900017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "高砂町"
+  },
+  "0900018": {
+    "zipcode": "0900018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "青葉町"
+  },
+  "0900019": {
+    "zipcode": "0900019",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "三楽町"
+  },
+  "0900020": {
+    "zipcode": "0900020",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "大通東"
+  },
+  "0900021": {
+    "zipcode": "0900021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北一条東"
+  },
+  "0900022": {
+    "zipcode": "0900022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北二条東"
+  },
+  "0900023": {
+    "zipcode": "0900023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北三条東"
+  },
+  "0900024": {
+    "zipcode": "0900024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北四条東"
+  },
+  "0900025": {
+    "zipcode": "0900025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北五条東"
+  },
+  "0900026": {
+    "zipcode": "0900026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北六条東"
+  },
+  "0900027": {
+    "zipcode": "0900027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北七条東"
+  },
+  "0900028": {
+    "zipcode": "0900028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北八条東"
+  },
+  "0900029": {
+    "zipcode": "0900029",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北九条東"
+  },
+  "0900030": {
+    "zipcode": "0900030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北十条東"
+  },
+  "0900031": {
+    "zipcode": "0900031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北十一条東"
+  },
+  "0900032": {
+    "zipcode": "0900032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "三住町"
+  },
+  "0900033": {
+    "zipcode": "0900033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "番場町"
+  },
+  "0900034": {
+    "zipcode": "0900034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "中央町"
+  },
+  "0900035": {
+    "zipcode": "0900035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北斗町"
+  },
+  "0900036": {
+    "zipcode": "0900036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "幸町"
+  },
+  "0900037": {
+    "zipcode": "0900037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "山下町"
+  },
+  "0900040": {
+    "zipcode": "0900040",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "大通西"
+  },
+  "0900041": {
+    "zipcode": "0900041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北一条西"
+  },
+  "0900042": {
+    "zipcode": "0900042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北二条西"
+  },
+  "0900043": {
+    "zipcode": "0900043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北三条西"
+  },
+  "0900044": {
+    "zipcode": "0900044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北四条西"
+  },
+  "0900045": {
+    "zipcode": "0900045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北五条西"
+  },
+  "0900046": {
+    "zipcode": "0900046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北六条西"
+  },
+  "0900047": {
+    "zipcode": "0900047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北七条西"
+  },
+  "0900048": {
+    "zipcode": "0900048",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北八条西"
+  },
+  "0900051": {
+    "zipcode": "0900051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "高栄東町"
+  },
+  "0900052": {
+    "zipcode": "0900052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北進町"
+  },
+  "0900053": {
+    "zipcode": "0900053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "桂町"
+  },
+  "0900054": {
+    "zipcode": "0900054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "双葉町"
+  },
+  "0900055": {
+    "zipcode": "0900055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "緑町"
+  },
+  "0900056": {
+    "zipcode": "0900056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "卸町"
+  },
+  "0900057": {
+    "zipcode": "0900057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "若葉"
+  },
+  "0900058": {
+    "zipcode": "0900058",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "高栄西町"
+  },
+  "0900061": {
+    "zipcode": "0900061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "東陵町"
+  },
+  "0900063": {
+    "zipcode": "0900063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "清見町"
+  },
+  "0900064": {
+    "zipcode": "0900064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "美芳町"
+  },
+  "0900065": {
+    "zipcode": "0900065",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "寿町"
+  },
+  "0900066": {
+    "zipcode": "0900066",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "花月町"
+  },
+  "0900067": {
+    "zipcode": "0900067",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "緑ケ丘"
+  },
+  "0900068": {
+    "zipcode": "0900068",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "美山町南"
+  },
+  "0900069": {
+    "zipcode": "0900069",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "美山町東"
+  },
+  "0900070": {
+    "zipcode": "0900070",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "美山町西"
+  },
+  "0900801": {
+    "zipcode": "0900801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "春光町"
+  },
+  "0900802": {
+    "zipcode": "0900802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "田端町"
+  },
+  "0900803": {
+    "zipcode": "0900803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "朝日町"
+  },
+  "0900804": {
+    "zipcode": "0900804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "桜町"
+  },
+  "0900805": {
+    "zipcode": "0900805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "清月町"
+  },
+  "0900806": {
+    "zipcode": "0900806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "南町"
+  },
+  "0900807": {
+    "zipcode": "0900807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "川東"
+  },
+  "0900808": {
+    "zipcode": "0900808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "若松"
+  },
+  "0900810": {
+    "zipcode": "0900810",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "ひかり野"
+  },
+  "0900811": {
+    "zipcode": "0900811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "泉町"
+  },
+  "0900812": {
+    "zipcode": "0900812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "南仲町"
+  },
+  "0900813": {
+    "zipcode": "0900813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "中ノ島町"
+  },
+  "0900814": {
+    "zipcode": "0900814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "光葉町"
+  },
+  "0900815": {
+    "zipcode": "0900815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "新生町"
+  },
+  "0900816": {
+    "zipcode": "0900816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "花園町"
+  },
+  "0900817": {
+    "zipcode": "0900817",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "常盤町"
+  },
+  "0900818": {
+    "zipcode": "0900818",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "本町"
+  },
+  "0900821": {
+    "zipcode": "0900821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "川沿町"
+  },
+  "0900822": {
+    "zipcode": "0900822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北央町"
+  },
+  "0900823": {
+    "zipcode": "0900823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "広明町"
+  },
+  "0900824": {
+    "zipcode": "0900824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "北光"
+  },
+  "0900825": {
+    "zipcode": "0900825",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "無加川町"
+  },
+  "0900826": {
+    "zipcode": "0900826",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "末広町"
+  },
+  "0900827": {
+    "zipcode": "0900827",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "錦町"
+  },
+  "0900831": {
+    "zipcode": "0900831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "西富町"
+  },
+  "0900832": {
+    "zipcode": "0900832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "栄町"
+  },
+  "0900833": {
+    "zipcode": "0900833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "とん田東町"
+  },
+  "0900834": {
+    "zipcode": "0900834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "とん田西町"
+  },
+  "0900835": {
+    "zipcode": "0900835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "光西町"
+  },
+  "0900836": {
+    "zipcode": "0900836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "東三輪"
+  },
+  "0900837": {
+    "zipcode": "0900837",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "中央三輪"
+  },
+  "0900838": {
+    "zipcode": "0900838",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北見市",
+    "town": "西三輪"
+  }
+}

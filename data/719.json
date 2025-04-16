@@ -1,0 +1,1482 @@
+{
+  "7190101": {
+    "zipcode": "7190101",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町上竹（その他）"
+  },
+  "7190102": {
+    "zipcode": "7190102",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町下竹"
+  },
+  "7190103": {
+    "zipcode": "7190103",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町八重"
+  },
+  "7190104": {
+    "zipcode": "7190104",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町占見新田"
+  },
+  "7190105": {
+    "zipcode": "7190105",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町占見"
+  },
+  "7190106": {
+    "zipcode": "7190106",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町地頭下"
+  },
+  "7190111": {
+    "zipcode": "7190111",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町大谷"
+  },
+  "7190112": {
+    "zipcode": "7190112",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町須恵"
+  },
+  "7190113": {
+    "zipcode": "7190113",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町佐方"
+  },
+  "7190200": {
+    "zipcode": "7190200",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "以下に掲載がない場合"
+  },
+  "7190221": {
+    "zipcode": "7190221",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "金光町上竹（遙照山）"
+  },
+  "7190231": {
+    "zipcode": "7190231",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町小坂西"
+  },
+  "7190232": {
+    "zipcode": "7190232",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町本庄"
+  },
+  "7190233": {
+    "zipcode": "7190233",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町地頭上"
+  },
+  "7190234": {
+    "zipcode": "7190234",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町益坂"
+  },
+  "7190241": {
+    "zipcode": "7190241",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町小坂東"
+  },
+  "7190242": {
+    "zipcode": "7190242",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町みどりケ丘"
+  },
+  "7190243": {
+    "zipcode": "7190243",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町鴨方"
+  },
+  "7190244": {
+    "zipcode": "7190244",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町深田"
+  },
+  "7190251": {
+    "zipcode": "7190251",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町六条院西"
+  },
+  "7190252": {
+    "zipcode": "7190252",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町六条院中"
+  },
+  "7190253": {
+    "zipcode": "7190253",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町鳩ケ丘"
+  },
+  "7190254": {
+    "zipcode": "7190254",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口市",
+    "town": "鴨方町六条院東"
+  },
+  "7190300": {
+    "zipcode": "7190300",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口郡里庄町",
+    "town": "以下に掲載がない場合"
+  },
+  "7190301": {
+    "zipcode": "7190301",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口郡里庄町",
+    "town": "里見"
+  },
+  "7190302": {
+    "zipcode": "7190302",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口郡里庄町",
+    "town": "新庄"
+  },
+  "7190303": {
+    "zipcode": "7190303",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口郡里庄町",
+    "town": "浜中"
+  },
+  "7190304": {
+    "zipcode": "7190304",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "浅口郡里庄町",
+    "town": "新庄グリーンクレスト"
+  },
+  "7191100": {
+    "zipcode": "7191100",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "以下に掲載がない場合"
+  },
+  "7191101": {
+    "zipcode": "7191101",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "奥坂"
+  },
+  "7191102": {
+    "zipcode": "7191102",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "東阿曽"
+  },
+  "7191103": {
+    "zipcode": "7191103",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "西阿曽"
+  },
+  "7191104": {
+    "zipcode": "7191104",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "久米"
+  },
+  "7191105": {
+    "zipcode": "7191105",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "黒尾"
+  },
+  "7191106": {
+    "zipcode": "7191106",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "泉"
+  },
+  "7191111": {
+    "zipcode": "7191111",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "長良"
+  },
+  "7191112": {
+    "zipcode": "7191112",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "窪木"
+  },
+  "7191113": {
+    "zipcode": "7191113",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "南溝手"
+  },
+  "7191114": {
+    "zipcode": "7191114",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "金井戸"
+  },
+  "7191115": {
+    "zipcode": "7191115",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "福井"
+  },
+  "7191116": {
+    "zipcode": "7191116",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "刑部"
+  },
+  "7191117": {
+    "zipcode": "7191117",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "北溝手"
+  },
+  "7191121": {
+    "zipcode": "7191121",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "赤浜"
+  },
+  "7191122": {
+    "zipcode": "7191122",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "下林"
+  },
+  "7191123": {
+    "zipcode": "7191123",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "上林"
+  },
+  "7191124": {
+    "zipcode": "7191124",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "三須"
+  },
+  "7191125": {
+    "zipcode": "7191125",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "井手"
+  },
+  "7191126": {
+    "zipcode": "7191126",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "総社"
+  },
+  "7191131": {
+    "zipcode": "7191131",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "中央"
+  },
+  "7191132": {
+    "zipcode": "7191132",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "三輪"
+  },
+  "7191133": {
+    "zipcode": "7191133",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "中原"
+  },
+  "7191134": {
+    "zipcode": "7191134",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "真壁"
+  },
+  "7191135": {
+    "zipcode": "7191135",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "溝口"
+  },
+  "7191136": {
+    "zipcode": "7191136",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "駅前"
+  },
+  "7191137": {
+    "zipcode": "7191137",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "駅南"
+  },
+  "7191141": {
+    "zipcode": "7191141",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "福谷"
+  },
+  "7191142": {
+    "zipcode": "7191142",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "秦"
+  },
+  "7191143": {
+    "zipcode": "7191143",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "上原"
+  },
+  "7191144": {
+    "zipcode": "7191144",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "富原"
+  },
+  "7191145": {
+    "zipcode": "7191145",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "下原"
+  },
+  "7191146": {
+    "zipcode": "7191146",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "八代"
+  },
+  "7191151": {
+    "zipcode": "7191151",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "槇谷"
+  },
+  "7191152": {
+    "zipcode": "7191152",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "見延"
+  },
+  "7191153": {
+    "zipcode": "7191153",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "宍粟"
+  },
+  "7191154": {
+    "zipcode": "7191154",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "井尻野"
+  },
+  "7191155": {
+    "zipcode": "7191155",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "小寺"
+  },
+  "7191156": {
+    "zipcode": "7191156",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "門田"
+  },
+  "7191161": {
+    "zipcode": "7191161",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "宿"
+  },
+  "7191162": {
+    "zipcode": "7191162",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "岡谷"
+  },
+  "7191163": {
+    "zipcode": "7191163",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "地頭片山"
+  },
+  "7191164": {
+    "zipcode": "7191164",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "西郡"
+  },
+  "7191165": {
+    "zipcode": "7191165",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "西坂台"
+  },
+  "7191171": {
+    "zipcode": "7191171",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音三因"
+  },
+  "7191172": {
+    "zipcode": "7191172",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音軽部"
+  },
+  "7191173": {
+    "zipcode": "7191173",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音黒田"
+  },
+  "7191174": {
+    "zipcode": "7191174",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音古地"
+  },
+  "7191175": {
+    "zipcode": "7191175",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音上中島"
+  },
+  "7191176": {
+    "zipcode": "7191176",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "清音柿木"
+  },
+  "7191311": {
+    "zipcode": "7191311",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "美袋"
+  },
+  "7191312": {
+    "zipcode": "7191312",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "種井"
+  },
+  "7191313": {
+    "zipcode": "7191313",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "槁"
+  },
+  "7191314": {
+    "zipcode": "7191314",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "延原"
+  },
+  "7191315": {
+    "zipcode": "7191315",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "宇山"
+  },
+  "7191316": {
+    "zipcode": "7191316",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "日羽"
+  },
+  "7191321": {
+    "zipcode": "7191321",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "下倉"
+  },
+  "7191322": {
+    "zipcode": "7191322",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "影"
+  },
+  "7191323": {
+    "zipcode": "7191323",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "中尾"
+  },
+  "7191324": {
+    "zipcode": "7191324",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "town": "原"
+  },
+  "7192121": {
+    "zipcode": "7192121",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "川面町"
+  },
+  "7192122": {
+    "zipcode": "7192122",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "高倉町田井"
+  },
+  "7192123": {
+    "zipcode": "7192123",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "高倉町飯部"
+  },
+  "7192231": {
+    "zipcode": "7192231",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "宇治町遠原"
+  },
+  "7192232": {
+    "zipcode": "7192232",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "宇治町宇治"
+  },
+  "7192233": {
+    "zipcode": "7192233",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "宇治町穴田"
+  },
+  "7192234": {
+    "zipcode": "7192234",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "宇治町本郷"
+  },
+  "7192341": {
+    "zipcode": "7192341",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "成羽町吹屋"
+  },
+  "7192342": {
+    "zipcode": "7192342",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "成羽町中野"
+  },
+  "7192343": {
+    "zipcode": "7192343",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "成羽町坂本"
+  },
+  "7192401": {
+    "zipcode": "7192401",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "中井町津々"
+  },
+  "7192402": {
+    "zipcode": "7192402",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "高梁市",
+    "town": "中井町西方"
+  },
+  "7192551": {
+    "zipcode": "7192551",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "井倉"
+  },
+  "7192552": {
+    "zipcode": "7192552",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "法曽"
+  },
+  "7192641": {
+    "zipcode": "7192641",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "草間（その他）"
+  },
+  "7192642": {
+    "zipcode": "7192642",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "足見"
+  },
+  "7192643": {
+    "zipcode": "7192643",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "土橋（その他）"
+  },
+  "7192721": {
+    "zipcode": "7192721",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "豊永赤馬"
+  },
+  "7192722": {
+    "zipcode": "7192722",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "豊永佐伏"
+  },
+  "7192723": {
+    "zipcode": "7192723",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "豊永宇山"
+  },
+  "7192731": {
+    "zipcode": "7192731",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "土橋（落方、寺内）"
+  },
+  "7192732": {
+    "zipcode": "7192732",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "草間（下湯川、横畑）"
+  },
+  "7192801": {
+    "zipcode": "7192801",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "神郷釜村"
+  },
+  "7192802": {
+    "zipcode": "7192802",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "神郷高瀬"
+  },
+  "7193100": {
+    "zipcode": "7193100",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "以下に掲載がない場合"
+  },
+  "7193101": {
+    "zipcode": "7193101",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "赤野"
+  },
+  "7193102": {
+    "zipcode": "7193102",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "大庭"
+  },
+  "7193103": {
+    "zipcode": "7193103",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "古見"
+  },
+  "7193104": {
+    "zipcode": "7193104",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "田原"
+  },
+  "7193105": {
+    "zipcode": "7193105",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "西原"
+  },
+  "7193106": {
+    "zipcode": "7193106",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "野川"
+  },
+  "7193107": {
+    "zipcode": "7193107",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "平松"
+  },
+  "7193111": {
+    "zipcode": "7193111",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "開田"
+  },
+  "7193112": {
+    "zipcode": "7193112",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "影"
+  },
+  "7193113": {
+    "zipcode": "7193113",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "杉山"
+  },
+  "7193114": {
+    "zipcode": "7193114",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "高屋"
+  },
+  "7193115": {
+    "zipcode": "7193115",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "中"
+  },
+  "7193116": {
+    "zipcode": "7193116",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "日名"
+  },
+  "7193117": {
+    "zipcode": "7193117",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "福田"
+  },
+  "7193121": {
+    "zipcode": "7193121",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "上河内"
+  },
+  "7193122": {
+    "zipcode": "7193122",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "下河内"
+  },
+  "7193123": {
+    "zipcode": "7193123",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "下見"
+  },
+  "7193124": {
+    "zipcode": "7193124",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "中河内"
+  },
+  "7193125": {
+    "zipcode": "7193125",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "法界寺"
+  },
+  "7193126": {
+    "zipcode": "7193126",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "向津矢"
+  },
+  "7193131": {
+    "zipcode": "7193131",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "上山"
+  },
+  "7193132": {
+    "zipcode": "7193132",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "田原山上"
+  },
+  "7193133": {
+    "zipcode": "7193133",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "旦土"
+  },
+  "7193134": {
+    "zipcode": "7193134",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "野原"
+  },
+  "7193135": {
+    "zipcode": "7193135",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "舞高"
+  },
+  "7193136": {
+    "zipcode": "7193136",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "吉"
+  },
+  "7193141": {
+    "zipcode": "7193141",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "上市瀬"
+  },
+  "7193142": {
+    "zipcode": "7193142",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "木山"
+  },
+  "7193143": {
+    "zipcode": "7193143",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "下市瀬"
+  },
+  "7193144": {
+    "zipcode": "7193144",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "落合垂水"
+  },
+  "7193145": {
+    "zipcode": "7193145",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "西河内"
+  },
+  "7193146": {
+    "zipcode": "7193146",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "日野上"
+  },
+  "7193151": {
+    "zipcode": "7193151",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "一色"
+  },
+  "7193152": {
+    "zipcode": "7193152",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "鹿田"
+  },
+  "7193153": {
+    "zipcode": "7193153",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "栗原"
+  },
+  "7193154": {
+    "zipcode": "7193154",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "佐引"
+  },
+  "7193155": {
+    "zipcode": "7193155",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "下方"
+  },
+  "7193156": {
+    "zipcode": "7193156",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "関"
+  },
+  "7193157": {
+    "zipcode": "7193157",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "別所"
+  },
+  "7193201": {
+    "zipcode": "7193201",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "久世"
+  },
+  "7193202": {
+    "zipcode": "7193202",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "中島"
+  },
+  "7193203": {
+    "zipcode": "7193203",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "富尾"
+  },
+  "7193204": {
+    "zipcode": "7193204",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "惣"
+  },
+  "7193205": {
+    "zipcode": "7193205",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "草加部"
+  },
+  "7193206": {
+    "zipcode": "7193206",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "神"
+  },
+  "7193211": {
+    "zipcode": "7193211",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "樫西"
+  },
+  "7193212": {
+    "zipcode": "7193212",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "三阪"
+  },
+  "7193213": {
+    "zipcode": "7193213",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "多田"
+  },
+  "7193214": {
+    "zipcode": "7193214",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "鍋屋"
+  },
+  "7193221": {
+    "zipcode": "7193221",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "余野上"
+  },
+  "7193222": {
+    "zipcode": "7193222",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "余野下"
+  },
+  "7193223": {
+    "zipcode": "7193223",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "樫東"
+  },
+  "7193224": {
+    "zipcode": "7193224",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "目木"
+  },
+  "7193225": {
+    "zipcode": "7193225",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "中原"
+  },
+  "7193226": {
+    "zipcode": "7193226",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "三崎"
+  },
+  "7193227": {
+    "zipcode": "7193227",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "台金屋"
+  },
+  "7193228": {
+    "zipcode": "7193228",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "town": "五反"
+  },
+  "7193501": {
+    "zipcode": "7193501",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐大井野"
+  },
+  "7193502": {
+    "zipcode": "7193502",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐上刑部"
+  },
+  "7193503": {
+    "zipcode": "7193503",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐小阪部"
+  },
+  "7193504": {
+    "zipcode": "7193504",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐永富"
+  },
+  "7193505": {
+    "zipcode": "7193505",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐布瀬"
+  },
+  "7193506": {
+    "zipcode": "7193506",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐田治部"
+  },
+  "7193507": {
+    "zipcode": "7193507",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "大佐小南"
+  },
+  "7193611": {
+    "zipcode": "7193611",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "神郷下神代"
+  },
+  "7193612": {
+    "zipcode": "7193612",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "神郷油野"
+  },
+  "7193701": {
+    "zipcode": "7193701",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町矢田"
+  },
+  "7193702": {
+    "zipcode": "7193702",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町上神代"
+  },
+  "7193811": {
+    "zipcode": "7193811",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町大竹"
+  },
+  "7193812": {
+    "zipcode": "7193812",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町畑木"
+  },
+  "7193813": {
+    "zipcode": "7193813",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町八鳥"
+  },
+  "7193814": {
+    "zipcode": "7193814",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "新見市",
+    "town": "哲西町大野部"
+  }
+}

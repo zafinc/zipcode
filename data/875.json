@@ -1,0 +1,546 @@
+{
+  "8750000": {
+    "zipcode": "8750000",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "以下に掲載がない場合"
+  },
+  "8750001": {
+    "zipcode": "8750001",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "佐志生"
+  },
+  "8750002": {
+    "zipcode": "8750002",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "下ノ江"
+  },
+  "8750003": {
+    "zipcode": "8750003",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "田井"
+  },
+  "8750004": {
+    "zipcode": "8750004",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "大野"
+  },
+  "8750011": {
+    "zipcode": "8750011",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "諏訪"
+  },
+  "8750012": {
+    "zipcode": "8750012",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "大浜"
+  },
+  "8750013": {
+    "zipcode": "8750013",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "中津浦"
+  },
+  "8750021": {
+    "zipcode": "8750021",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "田尻"
+  },
+  "8750022": {
+    "zipcode": "8750022",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "末広"
+  },
+  "8750023": {
+    "zipcode": "8750023",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "江無田"
+  },
+  "8750031": {
+    "zipcode": "8750031",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "深江"
+  },
+  "8750032": {
+    "zipcode": "8750032",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "風成"
+  },
+  "8750033": {
+    "zipcode": "8750033",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "大泊"
+  },
+  "8750034": {
+    "zipcode": "8750034",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "板知屋"
+  },
+  "8750041": {
+    "zipcode": "8750041",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "臼杵"
+  },
+  "8750042": {
+    "zipcode": "8750042",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "海添"
+  },
+  "8750043": {
+    "zipcode": "8750043",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "二王座"
+  },
+  "8750051": {
+    "zipcode": "8750051",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "戸室"
+  },
+  "8750052": {
+    "zipcode": "8750052",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "市浜"
+  },
+  "8750053": {
+    "zipcode": "8750053",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "福良"
+  },
+  "8750061": {
+    "zipcode": "8750061",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "前田"
+  },
+  "8750062": {
+    "zipcode": "8750062",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野田"
+  },
+  "8750063": {
+    "zipcode": "8750063",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "望月"
+  },
+  "8750064": {
+    "zipcode": "8750064",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "深田"
+  },
+  "8750065": {
+    "zipcode": "8750065",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "家野"
+  },
+  "8750070": {
+    "zipcode": "8750070",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "久木小野"
+  },
+  "8750071": {
+    "zipcode": "8750071",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "吉小野"
+  },
+  "8750072": {
+    "zipcode": "8750072",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "中臼杵"
+  },
+  "8750073": {
+    "zipcode": "8750073",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "掻懐"
+  },
+  "8750074": {
+    "zipcode": "8750074",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "左津留"
+  },
+  "8750075": {
+    "zipcode": "8750075",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "中尾"
+  },
+  "8750076": {
+    "zipcode": "8750076",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "東神野"
+  },
+  "8750077": {
+    "zipcode": "8750077",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "乙見"
+  },
+  "8750078": {
+    "zipcode": "8750078",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "高山"
+  },
+  "8750079": {
+    "zipcode": "8750079",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "武山"
+  },
+  "8750081": {
+    "zipcode": "8750081",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "藤河内"
+  },
+  "8750082": {
+    "zipcode": "8750082",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "稲田"
+  },
+  "8750083": {
+    "zipcode": "8750083",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "井村"
+  },
+  "8750084": {
+    "zipcode": "8750084",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "岳谷"
+  },
+  "8750201": {
+    "zipcode": "8750201",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町野津市"
+  },
+  "8750202": {
+    "zipcode": "8750202",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町山頭"
+  },
+  "8750203": {
+    "zipcode": "8750203",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町前河内"
+  },
+  "8750211": {
+    "zipcode": "8750211",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町都原"
+  },
+  "8750212": {
+    "zipcode": "8750212",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町老松"
+  },
+  "8750213": {
+    "zipcode": "8750213",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町八里合"
+  },
+  "8750214": {
+    "zipcode": "8750214",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町福良木"
+  },
+  "8750215": {
+    "zipcode": "8750215",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町王子"
+  },
+  "8750216": {
+    "zipcode": "8750216",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町亀甲"
+  },
+  "8750221": {
+    "zipcode": "8750221",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町秋山"
+  },
+  "8750222": {
+    "zipcode": "8750222",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町吉田"
+  },
+  "8750223": {
+    "zipcode": "8750223",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町東谷（その他）"
+  },
+  "8750224": {
+    "zipcode": "8750224",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町西畑"
+  },
+  "8750231": {
+    "zipcode": "8750231",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町千塚"
+  },
+  "8750232": {
+    "zipcode": "8750232",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町烏嶽"
+  },
+  "8750233": {
+    "zipcode": "8750233",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町宮原"
+  },
+  "8750234": {
+    "zipcode": "8750234",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町原"
+  },
+  "8750235": {
+    "zipcode": "8750235",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町藤小野"
+  },
+  "8750236": {
+    "zipcode": "8750236",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町柚野木"
+  },
+  "8750237": {
+    "zipcode": "8750237",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町西寒田"
+  },
+  "8750323": {
+    "zipcode": "8750323",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町東谷（三重谷）"
+  },
+  "8750341": {
+    "zipcode": "8750341",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町清水原"
+  },
+  "8750342": {
+    "zipcode": "8750342",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町落谷"
+  },
+  "8750343": {
+    "zipcode": "8750343",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町岩屋"
+  },
+  "8750344": {
+    "zipcode": "8750344",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町白岩"
+  },
+  "8750351": {
+    "zipcode": "8750351",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町泊"
+  },
+  "8750352": {
+    "zipcode": "8750352",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町垣河内"
+  },
+  "8750353": {
+    "zipcode": "8750353",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "臼杵市",
+    "town": "野津町西神野"
+  }
+}

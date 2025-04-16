@@ -1,0 +1,2586 @@
+{
+  "4830000": {
+    "zipcode": "4830000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "以下に掲載がない場合"
+  },
+  "4838001": {
+    "zipcode": "4838001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "中般若町東"
+  },
+  "4838002": {
+    "zipcode": "4838002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "中般若町西"
+  },
+  "4838003": {
+    "zipcode": "4838003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "中般若町（川端、北浦）"
+  },
+  "4838004": {
+    "zipcode": "4838004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町宮東"
+  },
+  "4838005": {
+    "zipcode": "4838005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町宮西"
+  },
+  "4838006": {
+    "zipcode": "4838006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町中"
+  },
+  "4838007": {
+    "zipcode": "4838007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町西"
+  },
+  "4838008": {
+    "zipcode": "4838008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "鹿子島町"
+  },
+  "4838011": {
+    "zipcode": "4838011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "般若町宮山"
+  },
+  "4838012": {
+    "zipcode": "4838012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "般若町東山"
+  },
+  "4838013": {
+    "zipcode": "4838013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "般若町南山"
+  },
+  "4838014": {
+    "zipcode": "4838014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町川東"
+  },
+  "4838015": {
+    "zipcode": "4838015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町中島"
+  },
+  "4838016": {
+    "zipcode": "4838016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町西島"
+  },
+  "4838017": {
+    "zipcode": "4838017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "般若町前山"
+  },
+  "4838018": {
+    "zipcode": "4838018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "般若町中山"
+  },
+  "4838021": {
+    "zipcode": "4838021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町小島"
+  },
+  "4838022": {
+    "zipcode": "4838022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町旭"
+  },
+  "4838023": {
+    "zipcode": "4838023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町二タ子"
+  },
+  "4838024": {
+    "zipcode": "4838024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町天神"
+  },
+  "4838025": {
+    "zipcode": "4838025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町宮"
+  },
+  "4838026": {
+    "zipcode": "4838026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町中畑"
+  },
+  "4838027": {
+    "zipcode": "4838027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町本郷"
+  },
+  "4838028": {
+    "zipcode": "4838028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町中"
+  },
+  "4838029": {
+    "zipcode": "4838029",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "和田町栄"
+  },
+  "4838031": {
+    "zipcode": "4838031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山尻町朝日"
+  },
+  "4838032": {
+    "zipcode": "4838032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山尻町大桑"
+  },
+  "4838033": {
+    "zipcode": "4838033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山尻町川端"
+  },
+  "4838034": {
+    "zipcode": "4838034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "江森町西"
+  },
+  "4838035": {
+    "zipcode": "4838035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町大門"
+  },
+  "4838036": {
+    "zipcode": "4838036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山尻町本丸西"
+  },
+  "4838037": {
+    "zipcode": "4838037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "勝佐町"
+  },
+  "4838038": {
+    "zipcode": "4838038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山尻町本丸"
+  },
+  "4838041": {
+    "zipcode": "4838041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "江森町上"
+  },
+  "4838042": {
+    "zipcode": "4838042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "江森町東"
+  },
+  "4838043": {
+    "zipcode": "4838043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "江森町南"
+  },
+  "4838044": {
+    "zipcode": "4838044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮後町"
+  },
+  "4838045": {
+    "zipcode": "4838045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町遠場"
+  },
+  "4838046": {
+    "zipcode": "4838046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町花戸"
+  },
+  "4838047": {
+    "zipcode": "4838047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町大師"
+  },
+  "4838048": {
+    "zipcode": "4838048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "江森町中"
+  },
+  "4838051": {
+    "zipcode": "4838051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町新田北"
+  },
+  "4838052": {
+    "zipcode": "4838052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町東"
+  },
+  "4838053": {
+    "zipcode": "4838053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町高島"
+  },
+  "4838054": {
+    "zipcode": "4838054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町南"
+  },
+  "4838055": {
+    "zipcode": "4838055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "山王町"
+  },
+  "4838056": {
+    "zipcode": "4838056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮後町清水"
+  },
+  "4838057": {
+    "zipcode": "4838057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町新田"
+  },
+  "4838058": {
+    "zipcode": "4838058",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前野町西"
+  },
+  "4838061": {
+    "zipcode": "4838061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町清水"
+  },
+  "4838062": {
+    "zipcode": "4838062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町神戸"
+  },
+  "4838063": {
+    "zipcode": "4838063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町八幡"
+  },
+  "4838064": {
+    "zipcode": "4838064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町十六田"
+  },
+  "4838065": {
+    "zipcode": "4838065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町旭"
+  },
+  "4838066": {
+    "zipcode": "4838066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町西町"
+  },
+  "4838067": {
+    "zipcode": "4838067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町中町"
+  },
+  "4838068": {
+    "zipcode": "4838068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町本町"
+  },
+  "4838069": {
+    "zipcode": "4838069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町宮町"
+  },
+  "4838071": {
+    "zipcode": "4838071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町中野"
+  },
+  "4838072": {
+    "zipcode": "4838072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町若草"
+  },
+  "4838074": {
+    "zipcode": "4838074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町平松"
+  },
+  "4838075": {
+    "zipcode": "4838075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町平河"
+  },
+  "4838076": {
+    "zipcode": "4838076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町上原"
+  },
+  "4838077": {
+    "zipcode": "4838077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "草井町（南、榊戸、千代見）"
+  },
+  "4838081": {
+    "zipcode": "4838081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町上本郷"
+  },
+  "4838082": {
+    "zipcode": "4838082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町本郷"
+  },
+  "4838083": {
+    "zipcode": "4838083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町中屋舗"
+  },
+  "4838084": {
+    "zipcode": "4838084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町御日塚"
+  },
+  "4838085": {
+    "zipcode": "4838085",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町西里"
+  },
+  "4838086": {
+    "zipcode": "4838086",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町大松原"
+  },
+  "4838087": {
+    "zipcode": "4838087",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町北上"
+  },
+  "4838088": {
+    "zipcode": "4838088",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "高屋町後山"
+  },
+  "4838101": {
+    "zipcode": "4838101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町観音寺"
+  },
+  "4838102": {
+    "zipcode": "4838102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町若宮"
+  },
+  "4838103": {
+    "zipcode": "4838103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町宮前"
+  },
+  "4838104": {
+    "zipcode": "4838104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町大当寺"
+  },
+  "4838105": {
+    "zipcode": "4838105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町社宮司"
+  },
+  "4838106": {
+    "zipcode": "4838106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "石枕町神明"
+  },
+  "4838107": {
+    "zipcode": "4838107",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "石枕町白山"
+  },
+  "4838108": {
+    "zipcode": "4838108",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町神明"
+  },
+  "4838109": {
+    "zipcode": "4838109",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "力長町神出"
+  },
+  "4838111": {
+    "zipcode": "4838111",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町地蔵"
+  },
+  "4838112": {
+    "zipcode": "4838112",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町池尻"
+  },
+  "4838113": {
+    "zipcode": "4838113",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "天王町五反林"
+  },
+  "4838114": {
+    "zipcode": "4838114",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "天王町駒野"
+  },
+  "4838115": {
+    "zipcode": "4838115",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町宮前"
+  },
+  "4838116": {
+    "zipcode": "4838116",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町八王子"
+  },
+  "4838117": {
+    "zipcode": "4838117",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町上郷"
+  },
+  "4838118": {
+    "zipcode": "4838118",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "安良町郷中"
+  },
+  "4838121": {
+    "zipcode": "4838121",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "曽本町二子"
+  },
+  "4838122": {
+    "zipcode": "4838122",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "曽本町二子前"
+  },
+  "4838123": {
+    "zipcode": "4838123",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "曽本町幼川添"
+  },
+  "4838124": {
+    "zipcode": "4838124",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折本町白山"
+  },
+  "4838125": {
+    "zipcode": "4838125",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折東町旭"
+  },
+  "4838126": {
+    "zipcode": "4838126",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折本町栄"
+  },
+  "4838127": {
+    "zipcode": "4838127",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折本町小松原"
+  },
+  "4838128": {
+    "zipcode": "4838128",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折本町柳橋"
+  },
+  "4838131": {
+    "zipcode": "4838131",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折町（八反畑）"
+  },
+  "4838132": {
+    "zipcode": "4838132",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "田代町南出"
+  },
+  "4838133": {
+    "zipcode": "4838133",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "田代町西ノ丸"
+  },
+  "4838134": {
+    "zipcode": "4838134",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折町（八竜西）"
+  },
+  "4838135": {
+    "zipcode": "4838135",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小郷町粟田木"
+  },
+  "4838136": {
+    "zipcode": "4838136",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折町（桜雲）"
+  },
+  "4838137": {
+    "zipcode": "4838137",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小折町（八竜）"
+  },
+  "4838138": {
+    "zipcode": "4838138",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "田代町郷中"
+  },
+  "4838141": {
+    "zipcode": "4838141",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町西布"
+  },
+  "4838142": {
+    "zipcode": "4838142",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋下山町東"
+  },
+  "4838143": {
+    "zipcode": "4838143",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小郷町伍大力"
+  },
+  "4838144": {
+    "zipcode": "4838144",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小郷町楽ノ山"
+  },
+  "4838145": {
+    "zipcode": "4838145",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小郷町西ノ山"
+  },
+  "4838146": {
+    "zipcode": "4838146",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋下山町西"
+  },
+  "4838147": {
+    "zipcode": "4838147",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋下山町北"
+  },
+  "4838148": {
+    "zipcode": "4838148",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋下山町南"
+  },
+  "4838149": {
+    "zipcode": "4838149",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小郷町手保ノ木"
+  },
+  "4838151": {
+    "zipcode": "4838151",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "寄木町白山"
+  },
+  "4838152": {
+    "zipcode": "4838152",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "寄木町稲木"
+  },
+  "4838153": {
+    "zipcode": "4838153",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北山町東"
+  },
+  "4838154": {
+    "zipcode": "4838154",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "南山町東"
+  },
+  "4838155": {
+    "zipcode": "4838155",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "南山町中"
+  },
+  "4838156": {
+    "zipcode": "4838156",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "南山町西"
+  },
+  "4838157": {
+    "zipcode": "4838157",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北山町西"
+  },
+  "4838158": {
+    "zipcode": "4838158",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町東"
+  },
+  "4838159": {
+    "zipcode": "4838159",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "寄木町秋葉"
+  },
+  "4838161": {
+    "zipcode": "4838161",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町上田"
+  },
+  "4838162": {
+    "zipcode": "4838162",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町河原"
+  },
+  "4838163": {
+    "zipcode": "4838163",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀東町新宮"
+  },
+  "4838164": {
+    "zipcode": "4838164",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀東町新塚"
+  },
+  "4838165": {
+    "zipcode": "4838165",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町福住"
+  },
+  "4838166": {
+    "zipcode": "4838166",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町南山"
+  },
+  "4838167": {
+    "zipcode": "4838167",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町南野"
+  },
+  "4838168": {
+    "zipcode": "4838168",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町屋敷"
+  },
+  "4838171": {
+    "zipcode": "4838171",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町若竹"
+  },
+  "4838172": {
+    "zipcode": "4838172",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町白山"
+  },
+  "4838173": {
+    "zipcode": "4838173",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "尾崎町桐野"
+  },
+  "4838174": {
+    "zipcode": "4838174",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北野町小松"
+  },
+  "4838175": {
+    "zipcode": "4838175",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北野町天神"
+  },
+  "4838176": {
+    "zipcode": "4838176",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北野町（旭、郷浦）"
+  },
+  "4838177": {
+    "zipcode": "4838177",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "北野町川石"
+  },
+  "4838181": {
+    "zipcode": "4838181",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "今市場町秋津"
+  },
+  "4838182": {
+    "zipcode": "4838182",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "今市場町宮前"
+  },
+  "4838183": {
+    "zipcode": "4838183",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "今市場町高根"
+  },
+  "4838184": {
+    "zipcode": "4838184",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "寄木町天道"
+  },
+  "4838185": {
+    "zipcode": "4838185",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "大海道町神明"
+  },
+  "4838186": {
+    "zipcode": "4838186",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "大海道町中里"
+  },
+  "4838187": {
+    "zipcode": "4838187",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "大海道町青木"
+  },
+  "4838188": {
+    "zipcode": "4838188",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "今市場町美和"
+  },
+  "4838201": {
+    "zipcode": "4838201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "野白町葭場"
+  },
+  "4838202": {
+    "zipcode": "4838202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "野白町野白"
+  },
+  "4838203": {
+    "zipcode": "4838203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "野白町西千丸"
+  },
+  "4838204": {
+    "zipcode": "4838204",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "野白町東千丸"
+  },
+  "4838205": {
+    "zipcode": "4838205",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町小金"
+  },
+  "4838206": {
+    "zipcode": "4838206",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町千丸"
+  },
+  "4838207": {
+    "zipcode": "4838207",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町熱田"
+  },
+  "4838208": {
+    "zipcode": "4838208",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町花霞"
+  },
+  "4838211": {
+    "zipcode": "4838211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町杉山"
+  },
+  "4838212": {
+    "zipcode": "4838212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町瑞穂"
+  },
+  "4838213": {
+    "zipcode": "4838213",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町朝日"
+  },
+  "4838214": {
+    "zipcode": "4838214",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町日の出"
+  },
+  "4838215": {
+    "zipcode": "4838215",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町大塔"
+  },
+  "4838216": {
+    "zipcode": "4838216",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町塔塚"
+  },
+  "4838217": {
+    "zipcode": "4838217",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町古渡"
+  },
+  "4838221": {
+    "zipcode": "4838221",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町大堀"
+  },
+  "4838222": {
+    "zipcode": "4838222",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町藤宮"
+  },
+  "4838223": {
+    "zipcode": "4838223",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町御宿"
+  },
+  "4838224": {
+    "zipcode": "4838224",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町白山"
+  },
+  "4838225": {
+    "zipcode": "4838225",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町栄"
+  },
+  "4838226": {
+    "zipcode": "4838226",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町大間"
+  },
+  "4838227": {
+    "zipcode": "4838227",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町良原"
+  },
+  "4838228": {
+    "zipcode": "4838228",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "赤童子町桜道"
+  },
+  "4838231": {
+    "zipcode": "4838231",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀本郷町東"
+  },
+  "4838232": {
+    "zipcode": "4838232",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀本郷町緑"
+  },
+  "4838233": {
+    "zipcode": "4838233",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀町大門"
+  },
+  "4838234": {
+    "zipcode": "4838234",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町北"
+  },
+  "4838235": {
+    "zipcode": "4838235",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町中"
+  },
+  "4838236": {
+    "zipcode": "4838236",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町南"
+  },
+  "4838237": {
+    "zipcode": "4838237",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "布袋町西"
+  },
+  "4838238": {
+    "zipcode": "4838238",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀本郷町南"
+  },
+  "4838239": {
+    "zipcode": "4838239",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀本郷町西"
+  },
+  "4838241": {
+    "zipcode": "4838241",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町青木"
+  },
+  "4838242": {
+    "zipcode": "4838242",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町根場"
+  },
+  "4838243": {
+    "zipcode": "4838243",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町石橋"
+  },
+  "4838244": {
+    "zipcode": "4838244",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町高砂"
+  },
+  "4838245": {
+    "zipcode": "4838245",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町大膳"
+  },
+  "4838246": {
+    "zipcode": "4838246",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町福森"
+  },
+  "4838247": {
+    "zipcode": "4838247",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町太子堂"
+  },
+  "4838248": {
+    "zipcode": "4838248",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町天王"
+  },
+  "4838249": {
+    "zipcode": "4838249",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "五明町当光地"
+  },
+  "4838251": {
+    "zipcode": "4838251",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "大間町新町"
+  },
+  "4838252": {
+    "zipcode": "4838252",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "大間町南大間"
+  },
+  "4838253": {
+    "zipcode": "4838253",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀町杉"
+  },
+  "4838254": {
+    "zipcode": "4838254",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀町新開"
+  },
+  "4838255": {
+    "zipcode": "4838255",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "木賀町定和"
+  },
+  "4838256": {
+    "zipcode": "4838256",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "中奈良町"
+  },
+  "4838257": {
+    "zipcode": "4838257",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "上奈良町（神明、豊里）"
+  },
+  "4838258": {
+    "zipcode": "4838258",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "上奈良町（瑞穂、観音寺、久保、郷）"
+  },
+  "4838259": {
+    "zipcode": "4838259",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "上奈良町（栄、旭、錦、天王、緑）"
+  },
+  "4838262": {
+    "zipcode": "4838262",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町吉原"
+  },
+  "4838263": {
+    "zipcode": "4838263",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町桐野"
+  },
+  "4838264": {
+    "zipcode": "4838264",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町城"
+  },
+  "4838265": {
+    "zipcode": "4838265",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町四日市場"
+  },
+  "4838266": {
+    "zipcode": "4838266",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町西之宮"
+  },
+  "4838267": {
+    "zipcode": "4838267",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町郷内"
+  },
+  "4838268": {
+    "zipcode": "4838268",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町水堀"
+  },
+  "4838269": {
+    "zipcode": "4838269",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "島宮町巡見"
+  },
+  "4838271": {
+    "zipcode": "4838271",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町桃源"
+  },
+  "4838272": {
+    "zipcode": "4838272",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町北屋敷"
+  },
+  "4838273": {
+    "zipcode": "4838273",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町本郷"
+  },
+  "4838274": {
+    "zipcode": "4838274",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町広見"
+  },
+  "4838275": {
+    "zipcode": "4838275",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町久保見"
+  },
+  "4838276": {
+    "zipcode": "4838276",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町宮前"
+  },
+  "4838277": {
+    "zipcode": "4838277",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町福寿"
+  },
+  "4838278": {
+    "zipcode": "4838278",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町牧森"
+  },
+  "4838279": {
+    "zipcode": "4838279",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町宮裏"
+  },
+  "4838301": {
+    "zipcode": "4838301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田神明町緑"
+  },
+  "4838302": {
+    "zipcode": "4838302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田神明町天王"
+  },
+  "4838303": {
+    "zipcode": "4838303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田神明町旭"
+  },
+  "4838304": {
+    "zipcode": "4838304",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田神明町栄"
+  },
+  "4838305": {
+    "zipcode": "4838305",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町生原"
+  },
+  "4838306": {
+    "zipcode": "4838306",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町中島"
+  },
+  "4838307": {
+    "zipcode": "4838307",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町新田"
+  },
+  "4838308": {
+    "zipcode": "4838308",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田神明町春日"
+  },
+  "4838311": {
+    "zipcode": "4838311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町九郷"
+  },
+  "4838312": {
+    "zipcode": "4838312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町金森"
+  },
+  "4838313": {
+    "zipcode": "4838313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町中郷"
+  },
+  "4838314": {
+    "zipcode": "4838314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町寺町"
+  },
+  "4838315": {
+    "zipcode": "4838315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町大門"
+  },
+  "4838316": {
+    "zipcode": "4838316",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町河戸"
+  },
+  "4838317": {
+    "zipcode": "4838317",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町藤里"
+  },
+  "4838318": {
+    "zipcode": "4838318",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町宮出"
+  },
+  "4838319": {
+    "zipcode": "4838319",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町寺東"
+  },
+  "4838321": {
+    "zipcode": "4838321",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町瀬頭"
+  },
+  "4838322": {
+    "zipcode": "4838322",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町鳥附"
+  },
+  "4838323": {
+    "zipcode": "4838323",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町門弟山"
+  },
+  "4838324": {
+    "zipcode": "4838324",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町南大門"
+  },
+  "4838325": {
+    "zipcode": "4838325",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町冨士塚"
+  },
+  "4838326": {
+    "zipcode": "4838326",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町仲原"
+  },
+  "4838327": {
+    "zipcode": "4838327",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町平野"
+  },
+  "4838328": {
+    "zipcode": "4838328",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "村久野町鈴道"
+  },
+  "4838331": {
+    "zipcode": "4838331",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "古知野町高瀬"
+  },
+  "4838332": {
+    "zipcode": "4838332",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町門野"
+  },
+  "4838333": {
+    "zipcode": "4838333",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町泉"
+  },
+  "4838334": {
+    "zipcode": "4838334",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町緑ケ丘"
+  },
+  "4838335": {
+    "zipcode": "4838335",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町寺前"
+  },
+  "4838336": {
+    "zipcode": "4838336",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町寺町"
+  },
+  "4838337": {
+    "zipcode": "4838337",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "藤ケ丘"
+  },
+  "4838338": {
+    "zipcode": "4838338",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町藤町"
+  },
+  "4838339": {
+    "zipcode": "4838339",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "飛高町（夫見添、栄）"
+  },
+  "4838341": {
+    "zipcode": "4838341",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町栄"
+  },
+  "4838342": {
+    "zipcode": "4838342",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町上野"
+  },
+  "4838343": {
+    "zipcode": "4838343",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町米野"
+  },
+  "4838344": {
+    "zipcode": "4838344",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町東高瀬"
+  },
+  "4838345": {
+    "zipcode": "4838345",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町高瀬"
+  },
+  "4838346": {
+    "zipcode": "4838346",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町平野"
+  },
+  "4838347": {
+    "zipcode": "4838347",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町神明野"
+  },
+  "4838348": {
+    "zipcode": "4838348",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町河原"
+  },
+  "4838349": {
+    "zipcode": "4838349",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "前飛保町西町"
+  },
+  "4838351": {
+    "zipcode": "4838351",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町切野"
+  },
+  "4838352": {
+    "zipcode": "4838352",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町高山"
+  },
+  "4838353": {
+    "zipcode": "4838353",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町元屋敷"
+  },
+  "4838354": {
+    "zipcode": "4838354",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町八幡"
+  },
+  "4838355": {
+    "zipcode": "4838355",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町西瀬古"
+  },
+  "4838356": {
+    "zipcode": "4838356",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町西松竹"
+  },
+  "4838357": {
+    "zipcode": "4838357",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町向島"
+  },
+  "4838358": {
+    "zipcode": "4838358",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町郷浦"
+  },
+  "4838359": {
+    "zipcode": "4838359",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "松竹町東瀬古"
+  },
+  "4838361": {
+    "zipcode": "4838361",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町平和"
+  },
+  "4838362": {
+    "zipcode": "4838362",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町小脇"
+  },
+  "4838363": {
+    "zipcode": "4838363",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町五十間"
+  },
+  "4838364": {
+    "zipcode": "4838364",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町川西"
+  },
+  "4838365": {
+    "zipcode": "4838365",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町一色"
+  },
+  "4838366": {
+    "zipcode": "4838366",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町管竹"
+  },
+  "4838367": {
+    "zipcode": "4838367",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町南野"
+  },
+  "4838368": {
+    "zipcode": "4838368",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町南野東"
+  },
+  "4838369": {
+    "zipcode": "4838369",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "河野町河野"
+  },
+  "4838371": {
+    "zipcode": "4838371",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町河沼"
+  },
+  "4838372": {
+    "zipcode": "4838372",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町宮東"
+  },
+  "4838373": {
+    "zipcode": "4838373",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町菖蒲池"
+  },
+  "4838374": {
+    "zipcode": "4838374",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町久保見"
+  },
+  "4838375": {
+    "zipcode": "4838375",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町泉"
+  },
+  "4838376": {
+    "zipcode": "4838376",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町藤ノ森"
+  },
+  "4838377": {
+    "zipcode": "4838377",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町本田島"
+  },
+  "4838378": {
+    "zipcode": "4838378",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町四ツ谷"
+  },
+  "4838379": {
+    "zipcode": "4838379",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "宮田町本郷"
+  },
+  "4838381": {
+    "zipcode": "4838381",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町出島"
+  },
+  "4838382": {
+    "zipcode": "4838382",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町薬師"
+  },
+  "4838383": {
+    "zipcode": "4838383",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町前川"
+  },
+  "4838384": {
+    "zipcode": "4838384",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町宮前"
+  },
+  "4838385": {
+    "zipcode": "4838385",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町中町"
+  },
+  "4838386": {
+    "zipcode": "4838386",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町西町"
+  },
+  "4838387": {
+    "zipcode": "4838387",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町新開"
+  },
+  "4838388": {
+    "zipcode": "4838388",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町本郷"
+  },
+  "4838389": {
+    "zipcode": "4838389",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "後飛保町両家"
+  },
+  "4838401": {
+    "zipcode": "4838401",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "慈光堂町北"
+  },
+  "4838402": {
+    "zipcode": "4838402",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "慈光堂町南"
+  },
+  "4838403": {
+    "zipcode": "4838403",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町千代見"
+  },
+  "4838404": {
+    "zipcode": "4838404",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町林"
+  },
+  "4838405": {
+    "zipcode": "4838405",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町鴨ケ池"
+  },
+  "4838406": {
+    "zipcode": "4838406",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小脇町小脇"
+  },
+  "4838407": {
+    "zipcode": "4838407",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町明土"
+  },
+  "4838408": {
+    "zipcode": "4838408",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町長者毛東"
+  },
+  "4838409": {
+    "zipcode": "4838409",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町長者毛西"
+  },
+  "4838411": {
+    "zipcode": "4838411",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町八幡"
+  },
+  "4838412": {
+    "zipcode": "4838412",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町寺ノ内"
+  },
+  "4838413": {
+    "zipcode": "4838413",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町本郷"
+  },
+  "4838414": {
+    "zipcode": "4838414",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "小杁町一色"
+  },
+  "4838415": {
+    "zipcode": "4838415",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町鐘鋳山"
+  },
+  "4838416": {
+    "zipcode": "4838416",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町長幡寺"
+  },
+  "4838417": {
+    "zipcode": "4838417",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町烏森"
+  },
+  "4838418": {
+    "zipcode": "4838418",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町米野"
+  },
+  "4838419": {
+    "zipcode": "4838419",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町七社宮"
+  },
+  "4838421": {
+    "zipcode": "4838421",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町郷前"
+  },
+  "4838422": {
+    "zipcode": "4838422",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町神上"
+  },
+  "4838423": {
+    "zipcode": "4838423",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町郷前西"
+  },
+  "4838424": {
+    "zipcode": "4838424",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町西出"
+  },
+  "4838425": {
+    "zipcode": "4838425",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町河戸"
+  },
+  "4838426": {
+    "zipcode": "4838426",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町河原"
+  },
+  "4838427": {
+    "zipcode": "4838427",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町新田"
+  },
+  "4838428": {
+    "zipcode": "4838428",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町新田東"
+  },
+  "4838429": {
+    "zipcode": "4838429",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町西神田"
+  },
+  "4838431": {
+    "zipcode": "4838431",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町神田"
+  },
+  "4838432": {
+    "zipcode": "4838432",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町東神田"
+  },
+  "4838433": {
+    "zipcode": "4838433",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "town": "東野町岩見"
+  }
+}

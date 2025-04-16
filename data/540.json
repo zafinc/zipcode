@@ -1,0 +1,1434 @@
+{
+  "5400001": {
+    "zipcode": "5400001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見（次のビルを除く）"
+  },
+  "5400002": {
+    "zipcode": "5400002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "大阪城"
+  },
+  "5400003": {
+    "zipcode": "5400003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "森ノ宮中央"
+  },
+  "5400004": {
+    "zipcode": "5400004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "玉造"
+  },
+  "5400005": {
+    "zipcode": "5400005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "上町"
+  },
+  "5400006": {
+    "zipcode": "5400006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "法円坂"
+  },
+  "5400007": {
+    "zipcode": "5400007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "馬場町"
+  },
+  "5400008": {
+    "zipcode": "5400008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "大手前"
+  },
+  "5400010": {
+    "zipcode": "5400010",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "材木町"
+  },
+  "5400011": {
+    "zipcode": "5400011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "農人橋"
+  },
+  "5400012": {
+    "zipcode": "5400012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "谷町（１〜５丁目）"
+  },
+  "5400013": {
+    "zipcode": "5400013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "内久宝寺町"
+  },
+  "5400014": {
+    "zipcode": "5400014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "龍造寺町"
+  },
+  "5400015": {
+    "zipcode": "5400015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "十二軒町"
+  },
+  "5400016": {
+    "zipcode": "5400016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "神崎町"
+  },
+  "5400017": {
+    "zipcode": "5400017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "松屋町住吉"
+  },
+  "5400018": {
+    "zipcode": "5400018",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "粉川町"
+  },
+  "5400019": {
+    "zipcode": "5400019",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "和泉町"
+  },
+  "5400021": {
+    "zipcode": "5400021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "大手通"
+  },
+  "5400022": {
+    "zipcode": "5400022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "糸屋町"
+  },
+  "5400023": {
+    "zipcode": "5400023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "北新町"
+  },
+  "5400024": {
+    "zipcode": "5400024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "南新町"
+  },
+  "5400025": {
+    "zipcode": "5400025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "徳井町"
+  },
+  "5400026": {
+    "zipcode": "5400026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "内本町"
+  },
+  "5400027": {
+    "zipcode": "5400027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "鎗屋町"
+  },
+  "5400028": {
+    "zipcode": "5400028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "常盤町"
+  },
+  "5400029": {
+    "zipcode": "5400029",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "本町橋"
+  },
+  "5400031": {
+    "zipcode": "5400031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "北浜東"
+  },
+  "5400032": {
+    "zipcode": "5400032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "天満橋京町"
+  },
+  "5400033": {
+    "zipcode": "5400033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "石町"
+  },
+  "5400034": {
+    "zipcode": "5400034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "島町"
+  },
+  "5400035": {
+    "zipcode": "5400035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "釣鐘町"
+  },
+  "5400036": {
+    "zipcode": "5400036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "船越町"
+  },
+  "5400037": {
+    "zipcode": "5400037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "内平野町"
+  },
+  "5400038": {
+    "zipcode": "5400038",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "内淡路町"
+  },
+  "5400039": {
+    "zipcode": "5400039",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "東高麗橋"
+  },
+  "5406001": {
+    "zipcode": "5406001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１階）"
+  },
+  "5406002": {
+    "zipcode": "5406002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２階）"
+  },
+  "5406003": {
+    "zipcode": "5406003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３階）"
+  },
+  "5406004": {
+    "zipcode": "5406004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（４階）"
+  },
+  "5406005": {
+    "zipcode": "5406005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（５階）"
+  },
+  "5406006": {
+    "zipcode": "5406006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（６階）"
+  },
+  "5406007": {
+    "zipcode": "5406007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（７階）"
+  },
+  "5406008": {
+    "zipcode": "5406008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（８階）"
+  },
+  "5406009": {
+    "zipcode": "5406009",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（９階）"
+  },
+  "5406010": {
+    "zipcode": "5406010",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１０階）"
+  },
+  "5406011": {
+    "zipcode": "5406011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１１階）"
+  },
+  "5406012": {
+    "zipcode": "5406012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１２階）"
+  },
+  "5406013": {
+    "zipcode": "5406013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１３階）"
+  },
+  "5406014": {
+    "zipcode": "5406014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１４階）"
+  },
+  "5406015": {
+    "zipcode": "5406015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１５階）"
+  },
+  "5406016": {
+    "zipcode": "5406016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１６階）"
+  },
+  "5406017": {
+    "zipcode": "5406017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１７階）"
+  },
+  "5406018": {
+    "zipcode": "5406018",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１８階）"
+  },
+  "5406019": {
+    "zipcode": "5406019",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（１９階）"
+  },
+  "5406020": {
+    "zipcode": "5406020",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２０階）"
+  },
+  "5406021": {
+    "zipcode": "5406021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２１階）"
+  },
+  "5406022": {
+    "zipcode": "5406022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２２階）"
+  },
+  "5406023": {
+    "zipcode": "5406023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２３階）"
+  },
+  "5406024": {
+    "zipcode": "5406024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２４階）"
+  },
+  "5406025": {
+    "zipcode": "5406025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２５階）"
+  },
+  "5406026": {
+    "zipcode": "5406026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２６階）"
+  },
+  "5406027": {
+    "zipcode": "5406027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２７階）"
+  },
+  "5406028": {
+    "zipcode": "5406028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２８階）"
+  },
+  "5406029": {
+    "zipcode": "5406029",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（２９階）"
+  },
+  "5406030": {
+    "zipcode": "5406030",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３０階）"
+  },
+  "5406031": {
+    "zipcode": "5406031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３１階）"
+  },
+  "5406032": {
+    "zipcode": "5406032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３２階）"
+  },
+  "5406033": {
+    "zipcode": "5406033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３３階）"
+  },
+  "5406034": {
+    "zipcode": "5406034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３４階）"
+  },
+  "5406035": {
+    "zipcode": "5406035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３５階）"
+  },
+  "5406036": {
+    "zipcode": "5406036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３６階）"
+  },
+  "5406037": {
+    "zipcode": "5406037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（３７階）"
+  },
+  "5406090": {
+    "zipcode": "5406090",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見クリスタルタワー（地階・階層不明）"
+  },
+  "5406101": {
+    "zipcode": "5406101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１階）"
+  },
+  "5406102": {
+    "zipcode": "5406102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２階）"
+  },
+  "5406103": {
+    "zipcode": "5406103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３階）"
+  },
+  "5406104": {
+    "zipcode": "5406104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（４階）"
+  },
+  "5406105": {
+    "zipcode": "5406105",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（５階）"
+  },
+  "5406106": {
+    "zipcode": "5406106",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（６階）"
+  },
+  "5406107": {
+    "zipcode": "5406107",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（７階）"
+  },
+  "5406108": {
+    "zipcode": "5406108",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（８階）"
+  },
+  "5406109": {
+    "zipcode": "5406109",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（９階）"
+  },
+  "5406110": {
+    "zipcode": "5406110",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１０階）"
+  },
+  "5406111": {
+    "zipcode": "5406111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１１階）"
+  },
+  "5406112": {
+    "zipcode": "5406112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１２階）"
+  },
+  "5406113": {
+    "zipcode": "5406113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１３階）"
+  },
+  "5406114": {
+    "zipcode": "5406114",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１４階）"
+  },
+  "5406115": {
+    "zipcode": "5406115",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１５階）"
+  },
+  "5406116": {
+    "zipcode": "5406116",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１６階）"
+  },
+  "5406117": {
+    "zipcode": "5406117",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１７階）"
+  },
+  "5406118": {
+    "zipcode": "5406118",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１８階）"
+  },
+  "5406119": {
+    "zipcode": "5406119",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（１９階）"
+  },
+  "5406120": {
+    "zipcode": "5406120",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２０階）"
+  },
+  "5406121": {
+    "zipcode": "5406121",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２１階）"
+  },
+  "5406122": {
+    "zipcode": "5406122",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２２階）"
+  },
+  "5406123": {
+    "zipcode": "5406123",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２３階）"
+  },
+  "5406124": {
+    "zipcode": "5406124",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２４階）"
+  },
+  "5406125": {
+    "zipcode": "5406125",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２５階）"
+  },
+  "5406126": {
+    "zipcode": "5406126",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２６階）"
+  },
+  "5406127": {
+    "zipcode": "5406127",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２７階）"
+  },
+  "5406128": {
+    "zipcode": "5406128",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２８階）"
+  },
+  "5406129": {
+    "zipcode": "5406129",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（２９階）"
+  },
+  "5406130": {
+    "zipcode": "5406130",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３０階）"
+  },
+  "5406131": {
+    "zipcode": "5406131",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３１階）"
+  },
+  "5406132": {
+    "zipcode": "5406132",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３２階）"
+  },
+  "5406133": {
+    "zipcode": "5406133",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３３階）"
+  },
+  "5406134": {
+    "zipcode": "5406134",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３４階）"
+  },
+  "5406135": {
+    "zipcode": "5406135",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３５階）"
+  },
+  "5406136": {
+    "zipcode": "5406136",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３６階）"
+  },
+  "5406137": {
+    "zipcode": "5406137",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３７階）"
+  },
+  "5406138": {
+    "zipcode": "5406138",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（３８階）"
+  },
+  "5406190": {
+    "zipcode": "5406190",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見ＭＩＤタワー（地階・階層不明）"
+  },
+  "5406201": {
+    "zipcode": "5406201",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１階）"
+  },
+  "5406202": {
+    "zipcode": "5406202",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２階）"
+  },
+  "5406203": {
+    "zipcode": "5406203",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３階）"
+  },
+  "5406204": {
+    "zipcode": "5406204",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（４階）"
+  },
+  "5406205": {
+    "zipcode": "5406205",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（５階）"
+  },
+  "5406206": {
+    "zipcode": "5406206",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（６階）"
+  },
+  "5406207": {
+    "zipcode": "5406207",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（７階）"
+  },
+  "5406208": {
+    "zipcode": "5406208",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（８階）"
+  },
+  "5406209": {
+    "zipcode": "5406209",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（９階）"
+  },
+  "5406210": {
+    "zipcode": "5406210",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１０階）"
+  },
+  "5406211": {
+    "zipcode": "5406211",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１１階）"
+  },
+  "5406212": {
+    "zipcode": "5406212",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１２階）"
+  },
+  "5406213": {
+    "zipcode": "5406213",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１３階）"
+  },
+  "5406214": {
+    "zipcode": "5406214",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１４階）"
+  },
+  "5406215": {
+    "zipcode": "5406215",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１５階）"
+  },
+  "5406216": {
+    "zipcode": "5406216",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１６階）"
+  },
+  "5406217": {
+    "zipcode": "5406217",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１７階）"
+  },
+  "5406218": {
+    "zipcode": "5406218",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１８階）"
+  },
+  "5406219": {
+    "zipcode": "5406219",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（１９階）"
+  },
+  "5406220": {
+    "zipcode": "5406220",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２０階）"
+  },
+  "5406221": {
+    "zipcode": "5406221",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２１階）"
+  },
+  "5406222": {
+    "zipcode": "5406222",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２２階）"
+  },
+  "5406223": {
+    "zipcode": "5406223",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２３階）"
+  },
+  "5406224": {
+    "zipcode": "5406224",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２４階）"
+  },
+  "5406225": {
+    "zipcode": "5406225",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２５階）"
+  },
+  "5406226": {
+    "zipcode": "5406226",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２６階）"
+  },
+  "5406227": {
+    "zipcode": "5406227",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２７階）"
+  },
+  "5406228": {
+    "zipcode": "5406228",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２８階）"
+  },
+  "5406229": {
+    "zipcode": "5406229",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（２９階）"
+  },
+  "5406230": {
+    "zipcode": "5406230",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３０階）"
+  },
+  "5406231": {
+    "zipcode": "5406231",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３１階）"
+  },
+  "5406232": {
+    "zipcode": "5406232",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３２階）"
+  },
+  "5406233": {
+    "zipcode": "5406233",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３３階）"
+  },
+  "5406234": {
+    "zipcode": "5406234",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３４階）"
+  },
+  "5406235": {
+    "zipcode": "5406235",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３５階）"
+  },
+  "5406236": {
+    "zipcode": "5406236",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３６階）"
+  },
+  "5406237": {
+    "zipcode": "5406237",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３７階）"
+  },
+  "5406238": {
+    "zipcode": "5406238",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（３８階）"
+  },
+  "5406290": {
+    "zipcode": "5406290",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見パナソニックタワー（地階・階層不明）"
+  },
+  "5406301": {
+    "zipcode": "5406301",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１階）"
+  },
+  "5406302": {
+    "zipcode": "5406302",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２階）"
+  },
+  "5406303": {
+    "zipcode": "5406303",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（３階）"
+  },
+  "5406304": {
+    "zipcode": "5406304",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（４階）"
+  },
+  "5406305": {
+    "zipcode": "5406305",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（５階）"
+  },
+  "5406306": {
+    "zipcode": "5406306",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（６階）"
+  },
+  "5406307": {
+    "zipcode": "5406307",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（７階）"
+  },
+  "5406308": {
+    "zipcode": "5406308",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（８階）"
+  },
+  "5406309": {
+    "zipcode": "5406309",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（９階）"
+  },
+  "5406310": {
+    "zipcode": "5406310",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１０階）"
+  },
+  "5406311": {
+    "zipcode": "5406311",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１１階）"
+  },
+  "5406312": {
+    "zipcode": "5406312",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１２階）"
+  },
+  "5406313": {
+    "zipcode": "5406313",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１３階）"
+  },
+  "5406314": {
+    "zipcode": "5406314",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１４階）"
+  },
+  "5406315": {
+    "zipcode": "5406315",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１５階）"
+  },
+  "5406316": {
+    "zipcode": "5406316",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１６階）"
+  },
+  "5406317": {
+    "zipcode": "5406317",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１７階）"
+  },
+  "5406318": {
+    "zipcode": "5406318",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１８階）"
+  },
+  "5406319": {
+    "zipcode": "5406319",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（１９階）"
+  },
+  "5406320": {
+    "zipcode": "5406320",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２０階）"
+  },
+  "5406321": {
+    "zipcode": "5406321",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２１階）"
+  },
+  "5406322": {
+    "zipcode": "5406322",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２２階）"
+  },
+  "5406323": {
+    "zipcode": "5406323",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２３階）"
+  },
+  "5406324": {
+    "zipcode": "5406324",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２４階）"
+  },
+  "5406325": {
+    "zipcode": "5406325",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２５階）"
+  },
+  "5406326": {
+    "zipcode": "5406326",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（２６階）"
+  },
+  "5406390": {
+    "zipcode": "5406390",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "town": "城見松下ＩＭＰビル（地階・階層不明）"
+  }
+}

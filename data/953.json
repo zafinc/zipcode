@@ -1,0 +1,570 @@
+{
+  "9530011": {
+    "zipcode": "9530011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "角田浜"
+  },
+  "9530012": {
+    "zipcode": "9530012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "越前浜"
+  },
+  "9530013": {
+    "zipcode": "9530013",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "巻大原"
+  },
+  "9530014": {
+    "zipcode": "9530014",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "新保"
+  },
+  "9530015": {
+    "zipcode": "9530015",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "松野尾"
+  },
+  "9530016": {
+    "zipcode": "9530016",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "松山"
+  },
+  "9530021": {
+    "zipcode": "9530021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "布目"
+  },
+  "9530022": {
+    "zipcode": "9530022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "仁箇"
+  },
+  "9530023": {
+    "zipcode": "9530023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "竹野町"
+  },
+  "9530024": {
+    "zipcode": "9530024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "平沢"
+  },
+  "9530025": {
+    "zipcode": "9530025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "松郷屋"
+  },
+  "9530026": {
+    "zipcode": "9530026",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "伏部"
+  },
+  "9530027": {
+    "zipcode": "9530027",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "稲島"
+  },
+  "9530031": {
+    "zipcode": "9530031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "羽田"
+  },
+  "9530032": {
+    "zipcode": "9530032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "東汰上"
+  },
+  "9530033": {
+    "zipcode": "9530033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "中郷屋"
+  },
+  "9530034": {
+    "zipcode": "9530034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "葉萱場"
+  },
+  "9530035": {
+    "zipcode": "9530035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "割前"
+  },
+  "9530036": {
+    "zipcode": "9530036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "前田"
+  },
+  "9530041": {
+    "zipcode": "9530041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "巻甲"
+  },
+  "9530042": {
+    "zipcode": "9530042",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "赤鏥"
+  },
+  "9530043": {
+    "zipcode": "9530043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "堀山新田"
+  },
+  "9530044": {
+    "zipcode": "9530044",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "巻乙"
+  },
+  "9530045": {
+    "zipcode": "9530045",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "桔梗ケ丘"
+  },
+  "9530051": {
+    "zipcode": "9530051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "河井"
+  },
+  "9530052": {
+    "zipcode": "9530052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "山島"
+  },
+  "9530053": {
+    "zipcode": "9530053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "巻東町"
+  },
+  "9530054": {
+    "zipcode": "9530054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "漆山"
+  },
+  "9530055": {
+    "zipcode": "9530055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "柿島"
+  },
+  "9530061": {
+    "zipcode": "9530061",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "馬堀"
+  },
+  "9530062": {
+    "zipcode": "9530062",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "並岡"
+  },
+  "9530063": {
+    "zipcode": "9530063",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "栄町"
+  },
+  "9530064": {
+    "zipcode": "9530064",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "桜林"
+  },
+  "9530065": {
+    "zipcode": "9530065",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "下和納"
+  },
+  "9530066": {
+    "zipcode": "9530066",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "安尻"
+  },
+  "9530067": {
+    "zipcode": "9530067",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "潟頭"
+  },
+  "9530071": {
+    "zipcode": "9530071",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "下木島"
+  },
+  "9530072": {
+    "zipcode": "9530072",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "鷲ノ木"
+  },
+  "9530073": {
+    "zipcode": "9530073",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "上木島"
+  },
+  "9530074": {
+    "zipcode": "9530074",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "舟戸"
+  },
+  "9530075": {
+    "zipcode": "9530075",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "峰岡"
+  },
+  "9530076": {
+    "zipcode": "9530076",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "福井"
+  },
+  "9530077": {
+    "zipcode": "9530077",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "角海浜"
+  },
+  "9530078": {
+    "zipcode": "9530078",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "五ケ浜"
+  },
+  "9530101": {
+    "zipcode": "9530101",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "樋曽"
+  },
+  "9530102": {
+    "zipcode": "9530102",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "栄"
+  },
+  "9530103": {
+    "zipcode": "9530103",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "橋本"
+  },
+  "9530104": {
+    "zipcode": "9530104",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "岩室温泉"
+  },
+  "9530105": {
+    "zipcode": "9530105",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "間瀬"
+  },
+  "9530111": {
+    "zipcode": "9530111",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "油島"
+  },
+  "9530112": {
+    "zipcode": "9530112",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "高畑"
+  },
+  "9530113": {
+    "zipcode": "9530113",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "西船越"
+  },
+  "9530114": {
+    "zipcode": "9530114",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "潟上"
+  },
+  "9530115": {
+    "zipcode": "9530115",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "横曽根"
+  },
+  "9530116": {
+    "zipcode": "9530116",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "新谷"
+  },
+  "9530117": {
+    "zipcode": "9530117",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "植野新田"
+  },
+  "9530121": {
+    "zipcode": "9530121",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "高橋"
+  },
+  "9530122": {
+    "zipcode": "9530122",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "富岡"
+  },
+  "9530123": {
+    "zipcode": "9530123",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "津雲田"
+  },
+  "9530124": {
+    "zipcode": "9530124",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "原"
+  },
+  "9530125": {
+    "zipcode": "9530125",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "和納"
+  },
+  "9530131": {
+    "zipcode": "9530131",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "西長島"
+  },
+  "9530132": {
+    "zipcode": "9530132",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "西中"
+  },
+  "9530133": {
+    "zipcode": "9530133",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "夏井"
+  },
+  "9530134": {
+    "zipcode": "9530134",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "北野"
+  },
+  "9530135": {
+    "zipcode": "9530135",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "南谷内"
+  },
+  "9530136": {
+    "zipcode": "9530136",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "白鳥"
+  },
+  "9530141": {
+    "zipcode": "9530141",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "石瀬"
+  },
+  "9530142": {
+    "zipcode": "9530142",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "久保田"
+  },
+  "9530143": {
+    "zipcode": "9530143",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "猿ケ瀬"
+  },
+  "9530144": {
+    "zipcode": "9530144",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市西蒲区",
+    "town": "金池"
+  }
+}

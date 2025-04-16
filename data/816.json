@@ -1,0 +1,634 @@
+{
+  "8160000": {
+    "zipcode": "8160000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "以下に掲載がない場合"
+  },
+  "8160801": {
+    "zipcode": "8160801",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "春日原東町"
+  },
+  "8160802": {
+    "zipcode": "8160802",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "春日原北町"
+  },
+  "8160803": {
+    "zipcode": "8160803",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "春日原南町"
+  },
+  "8160804": {
+    "zipcode": "8160804",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "原町"
+  },
+  "8160805": {
+    "zipcode": "8160805",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "千歳町"
+  },
+  "8160806": {
+    "zipcode": "8160806",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "光町"
+  },
+  "8160807": {
+    "zipcode": "8160807",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "宝町"
+  },
+  "8160811": {
+    "zipcode": "8160811",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "春日公園"
+  },
+  "8160812": {
+    "zipcode": "8160812",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "平田台"
+  },
+  "8160813": {
+    "zipcode": "8160813",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "惣利"
+  },
+  "8160814": {
+    "zipcode": "8160814",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "春日"
+  },
+  "8160821": {
+    "zipcode": "8160821",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "若葉台東"
+  },
+  "8160822": {
+    "zipcode": "8160822",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "ちくし台"
+  },
+  "8160823": {
+    "zipcode": "8160823",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "若葉台西"
+  },
+  "8160824": {
+    "zipcode": "8160824",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "小倉"
+  },
+  "8160825": {
+    "zipcode": "8160825",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "伯玄町"
+  },
+  "8160826": {
+    "zipcode": "8160826",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "小倉東"
+  },
+  "8160831": {
+    "zipcode": "8160831",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "大谷"
+  },
+  "8160832": {
+    "zipcode": "8160832",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "紅葉ケ丘西"
+  },
+  "8160833": {
+    "zipcode": "8160833",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "紅葉ケ丘東"
+  },
+  "8160841": {
+    "zipcode": "8160841",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "塚原台"
+  },
+  "8160842": {
+    "zipcode": "8160842",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "下白水"
+  },
+  "8160843": {
+    "zipcode": "8160843",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "松ケ丘"
+  },
+  "8160844": {
+    "zipcode": "8160844",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "上白水"
+  },
+  "8160845": {
+    "zipcode": "8160845",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "白水ケ丘"
+  },
+  "8160846": {
+    "zipcode": "8160846",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "下白水南"
+  },
+  "8160847": {
+    "zipcode": "8160847",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "大土居"
+  },
+  "8160848": {
+    "zipcode": "8160848",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "白水池"
+  },
+  "8160849": {
+    "zipcode": "8160849",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "星見ヶ丘"
+  },
+  "8160851": {
+    "zipcode": "8160851",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "昇町"
+  },
+  "8160852": {
+    "zipcode": "8160852",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "一の谷"
+  },
+  "8160853": {
+    "zipcode": "8160853",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "泉"
+  },
+  "8160854": {
+    "zipcode": "8160854",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "下白水北"
+  },
+  "8160855": {
+    "zipcode": "8160855",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "天神山"
+  },
+  "8160861": {
+    "zipcode": "8160861",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "岡本"
+  },
+  "8160862": {
+    "zipcode": "8160862",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "弥生"
+  },
+  "8160863": {
+    "zipcode": "8160863",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "須玖南"
+  },
+  "8160864": {
+    "zipcode": "8160864",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "須玖北"
+  },
+  "8160871": {
+    "zipcode": "8160871",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "須玖"
+  },
+  "8160872": {
+    "zipcode": "8160872",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "桜ケ丘"
+  },
+  "8160873": {
+    "zipcode": "8160873",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "日の出町"
+  },
+  "8160874": {
+    "zipcode": "8160874",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "春日市",
+    "town": "大和町"
+  },
+  "8160901": {
+    "zipcode": "8160901",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "乙金東"
+  },
+  "8160902": {
+    "zipcode": "8160902",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "乙金"
+  },
+  "8160903": {
+    "zipcode": "8160903",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "乙金台"
+  },
+  "8160904": {
+    "zipcode": "8160904",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "大池"
+  },
+  "8160905": {
+    "zipcode": "8160905",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "川久保"
+  },
+  "8160906": {
+    "zipcode": "8160906",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "中"
+  },
+  "8160911": {
+    "zipcode": "8160911",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "大城"
+  },
+  "8160912": {
+    "zipcode": "8160912",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "御笠川"
+  },
+  "8160921": {
+    "zipcode": "8160921",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "仲畑"
+  },
+  "8160922": {
+    "zipcode": "8160922",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "山田"
+  },
+  "8160923": {
+    "zipcode": "8160923",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "雑餉隈町"
+  },
+  "8160924": {
+    "zipcode": "8160924",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "栄町"
+  },
+  "8160931": {
+    "zipcode": "8160931",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "筒井"
+  },
+  "8160932": {
+    "zipcode": "8160932",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "瓦田"
+  },
+  "8160933": {
+    "zipcode": "8160933",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "瑞穂町"
+  },
+  "8160934": {
+    "zipcode": "8160934",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "曙町"
+  },
+  "8160935": {
+    "zipcode": "8160935",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "錦町"
+  },
+  "8160941": {
+    "zipcode": "8160941",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "東大利"
+  },
+  "8160942": {
+    "zipcode": "8160942",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "中央"
+  },
+  "8160943": {
+    "zipcode": "8160943",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "白木原"
+  },
+  "8160951": {
+    "zipcode": "8160951",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "下大利団地"
+  },
+  "8160952": {
+    "zipcode": "8160952",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "下大利"
+  },
+  "8160953": {
+    "zipcode": "8160953",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "旭ケ丘"
+  },
+  "8160954": {
+    "zipcode": "8160954",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "紫台"
+  },
+  "8160955": {
+    "zipcode": "8160955",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "上大利"
+  },
+  "8160956": {
+    "zipcode": "8160956",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "南大利"
+  },
+  "8160961": {
+    "zipcode": "8160961",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "緑ケ丘"
+  },
+  "8160962": {
+    "zipcode": "8160962",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "つつじケ丘"
+  },
+  "8160963": {
+    "zipcode": "8160963",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "宮野台"
+  },
+  "8160964": {
+    "zipcode": "8160964",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "南ケ丘"
+  },
+  "8160971": {
+    "zipcode": "8160971",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "牛頸"
+  },
+  "8160972": {
+    "zipcode": "8160972",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "平野台"
+  },
+  "8160973": {
+    "zipcode": "8160973",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "横峰"
+  },
+  "8160981": {
+    "zipcode": "8160981",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "若草"
+  },
+  "8160982": {
+    "zipcode": "8160982",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "畑ケ坂"
+  },
+  "8160983": {
+    "zipcode": "8160983",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "大野城市",
+    "town": "月の浦"
+  }
+}

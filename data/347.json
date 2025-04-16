@@ -1,0 +1,610 @@
+{
+  "3470000": {
+    "zipcode": "3470000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "以下に掲載がない場合"
+  },
+  "3470001": {
+    "zipcode": "3470001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "大越"
+  },
+  "3470002": {
+    "zipcode": "3470002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "外野"
+  },
+  "3470003": {
+    "zipcode": "3470003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "上樋遣川"
+  },
+  "3470004": {
+    "zipcode": "3470004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "古川"
+  },
+  "3470005": {
+    "zipcode": "3470005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下樋遣川"
+  },
+  "3470006": {
+    "zipcode": "3470006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "上三俣"
+  },
+  "3470007": {
+    "zipcode": "3470007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下三俣"
+  },
+  "3470008": {
+    "zipcode": "3470008",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "中樋遣川"
+  },
+  "3470009": {
+    "zipcode": "3470009",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "三俣"
+  },
+  "3470010": {
+    "zipcode": "3470010",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "大桑"
+  },
+  "3470011": {
+    "zipcode": "3470011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "北小浜"
+  },
+  "3470012": {
+    "zipcode": "3470012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "多門寺"
+  },
+  "3470013": {
+    "zipcode": "3470013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "北篠崎"
+  },
+  "3470014": {
+    "zipcode": "3470014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "川口"
+  },
+  "3470015": {
+    "zipcode": "3470015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "南大桑"
+  },
+  "3470016": {
+    "zipcode": "3470016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "花崎北"
+  },
+  "3470017": {
+    "zipcode": "3470017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "南篠崎"
+  },
+  "3470018": {
+    "zipcode": "3470018",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "浜町"
+  },
+  "3470019": {
+    "zipcode": "3470019",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "鳩山町"
+  },
+  "3470021": {
+    "zipcode": "3470021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "船越"
+  },
+  "3470022": {
+    "zipcode": "3470022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "水深"
+  },
+  "3470023": {
+    "zipcode": "3470023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "北辻"
+  },
+  "3470024": {
+    "zipcode": "3470024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "今鉾"
+  },
+  "3470025": {
+    "zipcode": "3470025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "割目"
+  },
+  "3470026": {
+    "zipcode": "3470026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "油井ケ島"
+  },
+  "3470027": {
+    "zipcode": "3470027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "大室"
+  },
+  "3470028": {
+    "zipcode": "3470028",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "南小浜"
+  },
+  "3470031": {
+    "zipcode": "3470031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "南町"
+  },
+  "3470032": {
+    "zipcode": "3470032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "花崎"
+  },
+  "3470033": {
+    "zipcode": "3470033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下高柳"
+  },
+  "3470034": {
+    "zipcode": "3470034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "常泉"
+  },
+  "3470041": {
+    "zipcode": "3470041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "串作"
+  },
+  "3470042": {
+    "zipcode": "3470042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "志多見"
+  },
+  "3470043": {
+    "zipcode": "3470043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "馬内"
+  },
+  "3470044": {
+    "zipcode": "3470044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "礼羽"
+  },
+  "3470045": {
+    "zipcode": "3470045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "富士見町"
+  },
+  "3470046": {
+    "zipcode": "3470046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "平永"
+  },
+  "3470047": {
+    "zipcode": "3470047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "阿良川"
+  },
+  "3470051": {
+    "zipcode": "3470051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "戸川"
+  },
+  "3470052": {
+    "zipcode": "3470052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "町屋新田"
+  },
+  "3470053": {
+    "zipcode": "3470053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下谷"
+  },
+  "3470054": {
+    "zipcode": "3470054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "不動岡"
+  },
+  "3470055": {
+    "zipcode": "3470055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "中央"
+  },
+  "3470056": {
+    "zipcode": "3470056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "土手"
+  },
+  "3470057": {
+    "zipcode": "3470057",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "愛宕"
+  },
+  "3470058": {
+    "zipcode": "3470058",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "岡古井"
+  },
+  "3470061": {
+    "zipcode": "3470061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "諏訪"
+  },
+  "3470062": {
+    "zipcode": "3470062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "睦町"
+  },
+  "3470063": {
+    "zipcode": "3470063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "久下"
+  },
+  "3470064": {
+    "zipcode": "3470064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "東栄"
+  },
+  "3470065": {
+    "zipcode": "3470065",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "元町"
+  },
+  "3470066": {
+    "zipcode": "3470066",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "本町"
+  },
+  "3470067": {
+    "zipcode": "3470067",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "向川岸町"
+  },
+  "3470068": {
+    "zipcode": "3470068",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "大門町"
+  },
+  "3470101": {
+    "zipcode": "3470101",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "上高柳"
+  },
+  "3470102": {
+    "zipcode": "3470102",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "日出安"
+  },
+  "3470103": {
+    "zipcode": "3470103",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "牛重"
+  },
+  "3470104": {
+    "zipcode": "3470104",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "根古屋"
+  },
+  "3470105": {
+    "zipcode": "3470105",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "騎西"
+  },
+  "3470106": {
+    "zipcode": "3470106",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "外川"
+  },
+  "3470107": {
+    "zipcode": "3470107",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "正能"
+  },
+  "3470108": {
+    "zipcode": "3470108",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "戸崎"
+  },
+  "3470111": {
+    "zipcode": "3470111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "鴻茎"
+  },
+  "3470112": {
+    "zipcode": "3470112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "芋茎"
+  },
+  "3470113": {
+    "zipcode": "3470113",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下種足"
+  },
+  "3470114": {
+    "zipcode": "3470114",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "中種足"
+  },
+  "3470115": {
+    "zipcode": "3470115",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "上種足"
+  },
+  "3470116": {
+    "zipcode": "3470116",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "戸室"
+  },
+  "3470117": {
+    "zipcode": "3470117",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "西ノ谷"
+  },
+  "3470121": {
+    "zipcode": "3470121",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "道地"
+  },
+  "3470122": {
+    "zipcode": "3470122",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "内田ケ谷"
+  },
+  "3470123": {
+    "zipcode": "3470123",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "下崎"
+  },
+  "3470124": {
+    "zipcode": "3470124",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "中ノ目"
+  },
+  "3470125": {
+    "zipcode": "3470125",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "上崎"
+  },
+  "3470126": {
+    "zipcode": "3470126",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "town": "外田ケ谷"
+  }
+}

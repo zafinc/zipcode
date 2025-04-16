@@ -1,0 +1,458 @@
+{
+  "0340000": {
+    "zipcode": "0340000",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "以下に掲載がない場合"
+  },
+  "0340001": {
+    "zipcode": "0340001",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "三本木"
+  },
+  "0340002": {
+    "zipcode": "0340002",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "元町西"
+  },
+  "0340003": {
+    "zipcode": "0340003",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "元町東"
+  },
+  "0340004": {
+    "zipcode": "0340004",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "ひがしの"
+  },
+  "0340005": {
+    "zipcode": "0340005",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "一本木沢"
+  },
+  "0340011": {
+    "zipcode": "0340011",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "稲生町"
+  },
+  "0340012": {
+    "zipcode": "0340012",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東一番町"
+  },
+  "0340013": {
+    "zipcode": "0340013",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十一番町"
+  },
+  "0340014": {
+    "zipcode": "0340014",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東二十一番町"
+  },
+  "0340015": {
+    "zipcode": "0340015",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東二十二番町"
+  },
+  "0340016": {
+    "zipcode": "0340016",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十二番町"
+  },
+  "0340017": {
+    "zipcode": "0340017",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東二番町"
+  },
+  "0340021": {
+    "zipcode": "0340021",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東二十三番町"
+  },
+  "0340022": {
+    "zipcode": "0340022",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東二十四番町"
+  },
+  "0340023": {
+    "zipcode": "0340023",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十三番町"
+  },
+  "0340024": {
+    "zipcode": "0340024",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十四番町"
+  },
+  "0340031": {
+    "zipcode": "0340031",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東三番町"
+  },
+  "0340032": {
+    "zipcode": "0340032",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東四番町"
+  },
+  "0340033": {
+    "zipcode": "0340033",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東五番町"
+  },
+  "0340034": {
+    "zipcode": "0340034",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十五番町"
+  },
+  "0340035": {
+    "zipcode": "0340035",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東十六番町"
+  },
+  "0340036": {
+    "zipcode": "0340036",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "東六番町"
+  },
+  "0340037": {
+    "zipcode": "0340037",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "穂並町"
+  },
+  "0340038": {
+    "zipcode": "0340038",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西六番町"
+  },
+  "0340041": {
+    "zipcode": "0340041",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "相坂"
+  },
+  "0340051": {
+    "zipcode": "0340051",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "伝法寺"
+  },
+  "0340052": {
+    "zipcode": "0340052",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "藤島"
+  },
+  "0340061": {
+    "zipcode": "0340061",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "切田"
+  },
+  "0340071": {
+    "zipcode": "0340071",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "赤沼"
+  },
+  "0340081": {
+    "zipcode": "0340081",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十三番町"
+  },
+  "0340082": {
+    "zipcode": "0340082",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西二番町"
+  },
+  "0340083": {
+    "zipcode": "0340083",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西三番町"
+  },
+  "0340084": {
+    "zipcode": "0340084",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西四番町"
+  },
+  "0340085": {
+    "zipcode": "0340085",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西五番町"
+  },
+  "0340086": {
+    "zipcode": "0340086",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十六番町"
+  },
+  "0340087": {
+    "zipcode": "0340087",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十五番町"
+  },
+  "0340088": {
+    "zipcode": "0340088",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十四番町"
+  },
+  "0340089": {
+    "zipcode": "0340089",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西二十三番町"
+  },
+  "0340091": {
+    "zipcode": "0340091",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十一番町"
+  },
+  "0340092": {
+    "zipcode": "0340092",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西一番町"
+  },
+  "0340093": {
+    "zipcode": "0340093",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西十二番町"
+  },
+  "0340094": {
+    "zipcode": "0340094",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西二十二番町"
+  },
+  "0340095": {
+    "zipcode": "0340095",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "西二十一番町"
+  },
+  "0340101": {
+    "zipcode": "0340101",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "馬洗場"
+  },
+  "0340102": {
+    "zipcode": "0340102",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "大沢田"
+  },
+  "0340103": {
+    "zipcode": "0340103",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "立崎"
+  },
+  "0340104": {
+    "zipcode": "0340104",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "豊ケ岡"
+  },
+  "0340105": {
+    "zipcode": "0340105",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "八斗沢"
+  },
+  "0340106": {
+    "zipcode": "0340106",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "深持"
+  },
+  "0340107": {
+    "zipcode": "0340107",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "洞内"
+  },
+  "0340211": {
+    "zipcode": "0340211",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "大不動"
+  },
+  "0340212": {
+    "zipcode": "0340212",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "米田"
+  },
+  "0340213": {
+    "zipcode": "0340213",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "滝沢"
+  },
+  "0340301": {
+    "zipcode": "0340301",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "奥瀬（その他）"
+  },
+  "0340302": {
+    "zipcode": "0340302",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "沢田"
+  },
+  "0340303": {
+    "zipcode": "0340303",
+    "prefectureCode": "02",
+    "prefectureNumber": 2,
+    "prefecture": "青森県",
+    "city": "十和田市",
+    "town": "法量"
+  }
+}

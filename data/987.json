@@ -1,0 +1,3258 @@
+{
+  "9870000": {
+    "zipcode": "9870000",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "以下に掲載がない場合"
+  },
+  "9870001": {
+    "zipcode": "9870001",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "藤ケ崎"
+  },
+  "9870002": {
+    "zipcode": "9870002",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "藤ケ崎町"
+  },
+  "9870003": {
+    "zipcode": "9870003",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "南小牛田"
+  },
+  "9870004": {
+    "zipcode": "9870004",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "牛飼"
+  },
+  "9870005": {
+    "zipcode": "9870005",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "北浦"
+  },
+  "9870006": {
+    "zipcode": "9870006",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "関根"
+  },
+  "9870011": {
+    "zipcode": "9870011",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "桜木町"
+  },
+  "9870012": {
+    "zipcode": "9870012",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "素山町"
+  },
+  "9870013": {
+    "zipcode": "9870013",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "素山"
+  },
+  "9870014": {
+    "zipcode": "9870014",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "志賀町"
+  },
+  "9870015": {
+    "zipcode": "9870015",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "青生"
+  },
+  "9870021": {
+    "zipcode": "9870021",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "平針"
+  },
+  "9870022": {
+    "zipcode": "9870022",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "荻埣"
+  },
+  "9870024": {
+    "zipcode": "9870024",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "成田"
+  },
+  "9870025": {
+    "zipcode": "9870025",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "中高城"
+  },
+  "9870026": {
+    "zipcode": "9870026",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "南高城"
+  },
+  "9870031": {
+    "zipcode": "9870031",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "高田"
+  },
+  "9870032": {
+    "zipcode": "9870032",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "学田"
+  },
+  "9870033": {
+    "zipcode": "9870033",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "小町井"
+  },
+  "9870034": {
+    "zipcode": "9870034",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "化粧坂"
+  },
+  "9870035": {
+    "zipcode": "9870035",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "志賀殿"
+  },
+  "9870036": {
+    "zipcode": "9870036",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "妻の神"
+  },
+  "9870037": {
+    "zipcode": "9870037",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "新藤ケ崎"
+  },
+  "9870038": {
+    "zipcode": "9870038",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "駅東"
+  },
+  "9870039": {
+    "zipcode": "9870039",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "新峯山"
+  },
+  "9870041": {
+    "zipcode": "9870041",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "峯山"
+  },
+  "9870042": {
+    "zipcode": "9870042",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "峯山浦"
+  },
+  "9870043": {
+    "zipcode": "9870043",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "新妻の神"
+  },
+  "9870044": {
+    "zipcode": "9870044",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "西舘"
+  },
+  "9870045": {
+    "zipcode": "9870045",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "内役田"
+  },
+  "9870046": {
+    "zipcode": "9870046",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "役田"
+  },
+  "9870051": {
+    "zipcode": "9870051",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "上意江"
+  },
+  "9870052": {
+    "zipcode": "9870052",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "砂子田"
+  },
+  "9870053": {
+    "zipcode": "9870053",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "叔廼前"
+  },
+  "9870054": {
+    "zipcode": "9870054",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "塔の越"
+  },
+  "9870055": {
+    "zipcode": "9870055",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "新一本柳"
+  },
+  "9870056": {
+    "zipcode": "9870056",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "一本柳"
+  },
+  "9870057": {
+    "zipcode": "9870057",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "狐山"
+  },
+  "9870058": {
+    "zipcode": "9870058",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "塩釜"
+  },
+  "9870059": {
+    "zipcode": "9870059",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "塩釜添"
+  },
+  "9870061": {
+    "zipcode": "9870061",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "下境"
+  },
+  "9870062": {
+    "zipcode": "9870062",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "待井"
+  },
+  "9870063": {
+    "zipcode": "9870063",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "小沼"
+  },
+  "9870064": {
+    "zipcode": "9870064",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "小沼添"
+  },
+  "9870065": {
+    "zipcode": "9870065",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "勘堂"
+  },
+  "9870066": {
+    "zipcode": "9870066",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "二ツ檀"
+  },
+  "9870067": {
+    "zipcode": "9870067",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "大所"
+  },
+  "9870068": {
+    "zipcode": "9870068",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "新大所"
+  },
+  "9870069": {
+    "zipcode": "9870069",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡美里町",
+    "town": "北原"
+  },
+  "9870100": {
+    "zipcode": "9870100",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "以下に掲載がない場合"
+  },
+  "9870101": {
+    "zipcode": "9870101",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "桜町裏"
+  },
+  "9870102": {
+    "zipcode": "9870102",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "表桜町"
+  },
+  "9870103": {
+    "zipcode": "9870103",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "裏桜町"
+  },
+  "9870104": {
+    "zipcode": "9870104",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "田沼町"
+  },
+  "9870105": {
+    "zipcode": "9870105",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "練丑町"
+  },
+  "9870106": {
+    "zipcode": "9870106",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "六軒町"
+  },
+  "9870107": {
+    "zipcode": "9870107",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "六軒町裏"
+  },
+  "9870111": {
+    "zipcode": "9870111",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "柳町"
+  },
+  "9870112": {
+    "zipcode": "9870112",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "桑木荒"
+  },
+  "9870113": {
+    "zipcode": "9870113",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "古道下二本杉"
+  },
+  "9870114": {
+    "zipcode": "9870114",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新町裏"
+  },
+  "9870115": {
+    "zipcode": "9870115",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新町"
+  },
+  "9870121": {
+    "zipcode": "9870121",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "涌谷"
+  },
+  "9870130": {
+    "zipcode": "9870130",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新九軒前"
+  },
+  "9870131": {
+    "zipcode": "9870131",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "北田"
+  },
+  "9870132": {
+    "zipcode": "9870132",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "小谷地"
+  },
+  "9870133": {
+    "zipcode": "9870133",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "鷹野橋下中瀬"
+  },
+  "9870134": {
+    "zipcode": "9870134",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "蘭場谷地"
+  },
+  "9870135": {
+    "zipcode": "9870135",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "三十軒"
+  },
+  "9870136": {
+    "zipcode": "9870136",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "一本柳"
+  },
+  "9870137": {
+    "zipcode": "9870137",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "中島甲"
+  },
+  "9870138": {
+    "zipcode": "9870138",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新境堀下"
+  },
+  "9870139": {
+    "zipcode": "9870139",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新台所橋"
+  },
+  "9870140": {
+    "zipcode": "9870140",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新沖新田"
+  },
+  "9870141": {
+    "zipcode": "9870141",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "田町裏"
+  },
+  "9870142": {
+    "zipcode": "9870142",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "浦町"
+  },
+  "9870143": {
+    "zipcode": "9870143",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "長柄町"
+  },
+  "9870144": {
+    "zipcode": "9870144",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "薔薇島"
+  },
+  "9870145": {
+    "zipcode": "9870145",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "名鰭"
+  },
+  "9870146": {
+    "zipcode": "9870146",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "中下道"
+  },
+  "9870147": {
+    "zipcode": "9870147",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "下道"
+  },
+  "9870148": {
+    "zipcode": "9870148",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "三軒屋敷"
+  },
+  "9870149": {
+    "zipcode": "9870149",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "新後藤江"
+  },
+  "9870151": {
+    "zipcode": "9870151",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "小塚"
+  },
+  "9870161": {
+    "zipcode": "9870161",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "川原町"
+  },
+  "9870162": {
+    "zipcode": "9870162",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "本町"
+  },
+  "9870163": {
+    "zipcode": "9870163",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "立町"
+  },
+  "9870164": {
+    "zipcode": "9870164",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "刈萱町"
+  },
+  "9870165": {
+    "zipcode": "9870165",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "追廻町"
+  },
+  "9870171": {
+    "zipcode": "9870171",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "上郡"
+  },
+  "9870172": {
+    "zipcode": "9870172",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "下郡"
+  },
+  "9870281": {
+    "zipcode": "9870281",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "小里"
+  },
+  "9870282": {
+    "zipcode": "9870282",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "太田"
+  },
+  "9870283": {
+    "zipcode": "9870283",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "吉住"
+  },
+  "9870284": {
+    "zipcode": "9870284",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "猪岡短台"
+  },
+  "9870285": {
+    "zipcode": "9870285",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "箟岳"
+  },
+  "9870286": {
+    "zipcode": "9870286",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "遠田郡涌谷町",
+    "town": "成沢"
+  },
+  "9870301": {
+    "zipcode": "9870301",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町善王寺"
+  },
+  "9870302": {
+    "zipcode": "9870302",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町櫓場下"
+  },
+  "9870303": {
+    "zipcode": "9870303",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町田畑前"
+  },
+  "9870304": {
+    "zipcode": "9870304",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町中道前"
+  },
+  "9870305": {
+    "zipcode": "9870305",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町八反"
+  },
+  "9870306": {
+    "zipcode": "9870306",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町土佐ケ渕"
+  },
+  "9870307": {
+    "zipcode": "9870307",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町猿ケ崎"
+  },
+  "9870308": {
+    "zipcode": "9870308",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町待井下"
+  },
+  "9870309": {
+    "zipcode": "9870309",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町舘前"
+  },
+  "9870311": {
+    "zipcode": "9870311",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町桜岡"
+  },
+  "9870321": {
+    "zipcode": "9870321",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町西野"
+  },
+  "9870331": {
+    "zipcode": "9870331",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "米山町中津山"
+  },
+  "9870341": {
+    "zipcode": "9870341",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町竹ノ沢"
+  },
+  "9870342": {
+    "zipcode": "9870342",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町山根前"
+  },
+  "9870343": {
+    "zipcode": "9870343",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町沢尻"
+  },
+  "9870344": {
+    "zipcode": "9870344",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町迫"
+  },
+  "9870345": {
+    "zipcode": "9870345",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町福沢"
+  },
+  "9870346": {
+    "zipcode": "9870346",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町白鳥前"
+  },
+  "9870351": {
+    "zipcode": "9870351",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町久寿田前"
+  },
+  "9870352": {
+    "zipcode": "9870352",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町寿崎"
+  },
+  "9870353": {
+    "zipcode": "9870353",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町平林"
+  },
+  "9870354": {
+    "zipcode": "9870354",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町沼田"
+  },
+  "9870355": {
+    "zipcode": "9870355",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町保手"
+  },
+  "9870356": {
+    "zipcode": "9870356",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町杢沢"
+  },
+  "9870357": {
+    "zipcode": "9870357",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町鳥越"
+  },
+  "9870358": {
+    "zipcode": "9870358",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町長根浦"
+  },
+  "9870359": {
+    "zipcode": "9870359",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町本地八反"
+  },
+  "9870361": {
+    "zipcode": "9870361",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町新田町"
+  },
+  "9870362": {
+    "zipcode": "9870362",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町東待井下"
+  },
+  "9870363": {
+    "zipcode": "9870363",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町横町"
+  },
+  "9870364": {
+    "zipcode": "9870364",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町本地土手下"
+  },
+  "9870365": {
+    "zipcode": "9870365",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町新町"
+  },
+  "9870366": {
+    "zipcode": "9870366",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町下屋浦"
+  },
+  "9870367": {
+    "zipcode": "9870367",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町川前"
+  },
+  "9870368": {
+    "zipcode": "9870368",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町南町浦"
+  },
+  "9870371": {
+    "zipcode": "9870371",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町十丁田"
+  },
+  "9870372": {
+    "zipcode": "9870372",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町前田"
+  },
+  "9870373": {
+    "zipcode": "9870373",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町南切津"
+  },
+  "9870374": {
+    "zipcode": "9870374",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町東二ツ屋"
+  },
+  "9870375": {
+    "zipcode": "9870375",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町二ツ屋"
+  },
+  "9870376": {
+    "zipcode": "9870376",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町細沼田"
+  },
+  "9870377": {
+    "zipcode": "9870377",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町外一番江"
+  },
+  "9870378": {
+    "zipcode": "9870378",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町新田鏡形"
+  },
+  "9870379": {
+    "zipcode": "9870379",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町剣先"
+  },
+  "9870381": {
+    "zipcode": "9870381",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町長前"
+  },
+  "9870382": {
+    "zipcode": "9870382",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町上谷地"
+  },
+  "9870383": {
+    "zipcode": "9870383",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町外六番江"
+  },
+  "9870384": {
+    "zipcode": "9870384",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町十五貫谷地"
+  },
+  "9870385": {
+    "zipcode": "9870385",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "豊里町下九"
+  },
+  "9870401": {
+    "zipcode": "9870401",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町山成前"
+  },
+  "9870402": {
+    "zipcode": "9870402",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町松島屋敷"
+  },
+  "9870403": {
+    "zipcode": "9870403",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町薬師島屋敷"
+  },
+  "9870404": {
+    "zipcode": "9870404",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町新丸ノ内"
+  },
+  "9870405": {
+    "zipcode": "9870405",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町新中山"
+  },
+  "9870411": {
+    "zipcode": "9870411",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町寺袋"
+  },
+  "9870412": {
+    "zipcode": "9870412",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町峯前"
+  },
+  "9870413": {
+    "zipcode": "9870413",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町原屋敷"
+  },
+  "9870414": {
+    "zipcode": "9870414",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町鰐丸"
+  },
+  "9870415": {
+    "zipcode": "9870415",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町真ケ沼"
+  },
+  "9870421": {
+    "zipcode": "9870421",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町南大畑前"
+  },
+  "9870422": {
+    "zipcode": "9870422",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町山崎"
+  },
+  "9870423": {
+    "zipcode": "9870423",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町本郷大嶽"
+  },
+  "9870424": {
+    "zipcode": "9870424",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町南細川"
+  },
+  "9870425": {
+    "zipcode": "9870425",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町米袋前"
+  },
+  "9870426": {
+    "zipcode": "9870426",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町若狭前"
+  },
+  "9870431": {
+    "zipcode": "9870431",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町横前"
+  },
+  "9870432": {
+    "zipcode": "9870432",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町畑岡下"
+  },
+  "9870433": {
+    "zipcode": "9870433",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町沼崎前"
+  },
+  "9870441": {
+    "zipcode": "9870441",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町新鳩峯"
+  },
+  "9870442": {
+    "zipcode": "9870442",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町中高石浦"
+  },
+  "9870443": {
+    "zipcode": "9870443",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町野谷地"
+  },
+  "9870444": {
+    "zipcode": "9870444",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町横代"
+  },
+  "9870445": {
+    "zipcode": "9870445",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町翌沢"
+  },
+  "9870446": {
+    "zipcode": "9870446",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町新高石浦"
+  },
+  "9870447": {
+    "zipcode": "9870447",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "南方町新長根下"
+  },
+  "9870500": {
+    "zipcode": "9870500",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "以下に掲載がない場合"
+  },
+  "9870511": {
+    "zipcode": "9870511",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "迫町佐沼"
+  },
+  "9870512": {
+    "zipcode": "9870512",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "迫町森"
+  },
+  "9870513": {
+    "zipcode": "9870513",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "迫町北方"
+  },
+  "9870601": {
+    "zipcode": "9870601",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町石森"
+  },
+  "9870602": {
+    "zipcode": "9870602",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町上沼"
+  },
+  "9870611": {
+    "zipcode": "9870611",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町浅水"
+  },
+  "9870621": {
+    "zipcode": "9870621",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町宝江黒沼"
+  },
+  "9870622": {
+    "zipcode": "9870622",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町宝江新井田"
+  },
+  "9870623": {
+    "zipcode": "9870623",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "中田町宝江森"
+  },
+  "9870701": {
+    "zipcode": "9870701",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "登米町小島"
+  },
+  "9870702": {
+    "zipcode": "9870702",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "登米町寺池"
+  },
+  "9870703": {
+    "zipcode": "9870703",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "登米町日根牛"
+  },
+  "9870704": {
+    "zipcode": "9870704",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "登米町日野渡"
+  },
+  "9870901": {
+    "zipcode": "9870901",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "東和町米川"
+  },
+  "9870902": {
+    "zipcode": "9870902",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "東和町米谷"
+  },
+  "9870903": {
+    "zipcode": "9870903",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "東和町錦織"
+  },
+  "9871101": {
+    "zipcode": "9871101",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "前谷地"
+  },
+  "9871102": {
+    "zipcode": "9871102",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "和渕"
+  },
+  "9871103": {
+    "zipcode": "9871103",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北村"
+  },
+  "9871221": {
+    "zipcode": "9871221",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "須江"
+  },
+  "9871222": {
+    "zipcode": "9871222",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "広渕"
+  },
+  "9871301": {
+    "zipcode": "9871301",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山須摩屋"
+  },
+  "9871302": {
+    "zipcode": "9871302",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山長尾"
+  },
+  "9871303": {
+    "zipcode": "9871303",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山金谷"
+  },
+  "9871304": {
+    "zipcode": "9871304",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山千石"
+  },
+  "9871305": {
+    "zipcode": "9871305",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山次橋"
+  },
+  "9871306": {
+    "zipcode": "9871306",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "town": "松山下伊場野"
+  },
+  "9872001": {
+    "zipcode": "9872001",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水蟹沢尻"
+  },
+  "9872002": {
+    "zipcode": "9872002",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水八重壁"
+  },
+  "9872003": {
+    "zipcode": "9872003",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水福塚"
+  },
+  "9872004": {
+    "zipcode": "9872004",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水浦南沢"
+  },
+  "9872005": {
+    "zipcode": "9872005",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水忽滑沢"
+  },
+  "9872011": {
+    "zipcode": "9872011",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水京の沢"
+  },
+  "9872012": {
+    "zipcode": "9872012",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水中の沢"
+  },
+  "9872013": {
+    "zipcode": "9872013",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水欠屋敷"
+  },
+  "9872014": {
+    "zipcode": "9872014",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水大沢"
+  },
+  "9872015": {
+    "zipcode": "9872015",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水西中里"
+  },
+  "9872016": {
+    "zipcode": "9872016",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水茂路具多"
+  },
+  "9872017": {
+    "zipcode": "9872017",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水石沢"
+  },
+  "9872018": {
+    "zipcode": "9872018",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水石沢浦"
+  },
+  "9872021": {
+    "zipcode": "9872021",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水神原"
+  },
+  "9872022": {
+    "zipcode": "9872022",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水原"
+  },
+  "9872023": {
+    "zipcode": "9872023",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水熊野堂"
+  },
+  "9872024": {
+    "zipcode": "9872024",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水小山田"
+  },
+  "9872025": {
+    "zipcode": "9872025",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水大西"
+  },
+  "9872026": {
+    "zipcode": "9872026",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水熊野"
+  },
+  "9872027": {
+    "zipcode": "9872027",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水若宮"
+  },
+  "9872028": {
+    "zipcode": "9872028",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水日向"
+  },
+  "9872031": {
+    "zipcode": "9872031",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水新田"
+  },
+  "9872032": {
+    "zipcode": "9872032",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水横手"
+  },
+  "9872033": {
+    "zipcode": "9872033",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水浅野"
+  },
+  "9872034": {
+    "zipcode": "9872034",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水明官"
+  },
+  "9872035": {
+    "zipcode": "9872035",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水浅野前"
+  },
+  "9872036": {
+    "zipcode": "9872036",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水南沢"
+  },
+  "9872041": {
+    "zipcode": "9872041",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水要の森"
+  },
+  "9872042": {
+    "zipcode": "9872042",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水宿の沢"
+  },
+  "9872043": {
+    "zipcode": "9872043",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水手取"
+  },
+  "9872044": {
+    "zipcode": "9872044",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水堤下"
+  },
+  "9872045": {
+    "zipcode": "9872045",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水西手取"
+  },
+  "9872051": {
+    "zipcode": "9872051",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水三森"
+  },
+  "9872052": {
+    "zipcode": "9872052",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水宮脇"
+  },
+  "9872053": {
+    "zipcode": "9872053",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水渕際"
+  },
+  "9872054": {
+    "zipcode": "9872054",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水沖"
+  },
+  "9872055": {
+    "zipcode": "9872055",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水五月田"
+  },
+  "9872111": {
+    "zipcode": "9872111",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水影の沢"
+  },
+  "9872112": {
+    "zipcode": "9872112",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水上折木"
+  },
+  "9872113": {
+    "zipcode": "9872113",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水折木"
+  },
+  "9872114": {
+    "zipcode": "9872114",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水下折木"
+  },
+  "9872115": {
+    "zipcode": "9872115",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水一本松"
+  },
+  "9872116": {
+    "zipcode": "9872116",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水来光沢"
+  },
+  "9872121": {
+    "zipcode": "9872121",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水上佐野"
+  },
+  "9872122": {
+    "zipcode": "9872122",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水中佐野"
+  },
+  "9872123": {
+    "zipcode": "9872123",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水新佐野"
+  },
+  "9872124": {
+    "zipcode": "9872124",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水下佐野"
+  },
+  "9872125": {
+    "zipcode": "9872125",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水十二の神"
+  },
+  "9872126": {
+    "zipcode": "9872126",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水大寺"
+  },
+  "9872127": {
+    "zipcode": "9872127",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水太子堂"
+  },
+  "9872128": {
+    "zipcode": "9872128",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水佐野丁"
+  },
+  "9872131": {
+    "zipcode": "9872131",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水水の手"
+  },
+  "9872132": {
+    "zipcode": "9872132",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水東館"
+  },
+  "9872133": {
+    "zipcode": "9872133",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水桜丁"
+  },
+  "9872141": {
+    "zipcode": "9872141",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水北甚六原"
+  },
+  "9872142": {
+    "zipcode": "9872142",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水外沢田"
+  },
+  "9872143": {
+    "zipcode": "9872143",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水覚満寺"
+  },
+  "9872144": {
+    "zipcode": "9872144",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水台町"
+  },
+  "9872145": {
+    "zipcode": "9872145",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水向野"
+  },
+  "9872146": {
+    "zipcode": "9872146",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水丙牧堀"
+  },
+  "9872147": {
+    "zipcode": "9872147",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水観音堂"
+  },
+  "9872151": {
+    "zipcode": "9872151",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水仰ケ返り"
+  },
+  "9872152": {
+    "zipcode": "9872152",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水天王沢"
+  },
+  "9872153": {
+    "zipcode": "9872153",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水北原"
+  },
+  "9872154": {
+    "zipcode": "9872154",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水南原"
+  },
+  "9872155": {
+    "zipcode": "9872155",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水萱刈"
+  },
+  "9872156": {
+    "zipcode": "9872156",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水千神"
+  },
+  "9872157": {
+    "zipcode": "9872157",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水中の茎"
+  },
+  "9872158": {
+    "zipcode": "9872158",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水本道"
+  },
+  "9872159": {
+    "zipcode": "9872159",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水松の木沢田"
+  },
+  "9872161": {
+    "zipcode": "9872161",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水神明"
+  },
+  "9872162": {
+    "zipcode": "9872162",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水丁神明"
+  },
+  "9872163": {
+    "zipcode": "9872163",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水勝負ケ町"
+  },
+  "9872164": {
+    "zipcode": "9872164",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水新神明"
+  },
+  "9872171": {
+    "zipcode": "9872171",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水長福寺"
+  },
+  "9872172": {
+    "zipcode": "9872172",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水松原"
+  },
+  "9872173": {
+    "zipcode": "9872173",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水桂葉"
+  },
+  "9872174": {
+    "zipcode": "9872174",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水上桂葉"
+  },
+  "9872175": {
+    "zipcode": "9872175",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水五輪"
+  },
+  "9872176": {
+    "zipcode": "9872176",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水西善光寺"
+  },
+  "9872177": {
+    "zipcode": "9872177",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水新桂葉"
+  },
+  "9872181": {
+    "zipcode": "9872181",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水東善光寺"
+  },
+  "9872182": {
+    "zipcode": "9872182",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水中里"
+  },
+  "9872183": {
+    "zipcode": "9872183",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水袖山"
+  },
+  "9872184": {
+    "zipcode": "9872184",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水善光寺"
+  },
+  "9872185": {
+    "zipcode": "9872185",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水新町"
+  },
+  "9872186": {
+    "zipcode": "9872186",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水中町"
+  },
+  "9872187": {
+    "zipcode": "9872187",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水本町"
+  },
+  "9872188": {
+    "zipcode": "9872188",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水小山下"
+  },
+  "9872189": {
+    "zipcode": "9872189",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "高清水下町"
+  },
+  "9872200": {
+    "zipcode": "9872200",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "以下に掲載がない場合"
+  },
+  "9872201": {
+    "zipcode": "9872201",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館富"
+  },
+  "9872202": {
+    "zipcode": "9872202",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館城生野"
+  },
+  "9872203": {
+    "zipcode": "9872203",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館下宮野"
+  },
+  "9872204": {
+    "zipcode": "9872204",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館黒瀬"
+  },
+  "9872205": {
+    "zipcode": "9872205",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館宮野中央"
+  },
+  "9872211": {
+    "zipcode": "9872211",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館源光"
+  },
+  "9872212": {
+    "zipcode": "9872212",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館木戸"
+  },
+  "9872213": {
+    "zipcode": "9872213",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館内南沢"
+  },
+  "9872214": {
+    "zipcode": "9872214",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館内沢"
+  },
+  "9872215": {
+    "zipcode": "9872215",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館高田"
+  },
+  "9872216": {
+    "zipcode": "9872216",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館伊豆"
+  },
+  "9872221": {
+    "zipcode": "9872221",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館下待井"
+  },
+  "9872222": {
+    "zipcode": "9872222",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館外南沢"
+  },
+  "9872223": {
+    "zipcode": "9872223",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館萩沢"
+  },
+  "9872224": {
+    "zipcode": "9872224",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館横須賀"
+  },
+  "9872225": {
+    "zipcode": "9872225",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館太田"
+  },
+  "9872226": {
+    "zipcode": "9872226",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館八沢"
+  },
+  "9872227": {
+    "zipcode": "9872227",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館光屋敷"
+  },
+  "9872228": {
+    "zipcode": "9872228",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館川添"
+  },
+  "9872229": {
+    "zipcode": "9872229",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館三峰"
+  },
+  "9872231": {
+    "zipcode": "9872231",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館赤坂"
+  },
+  "9872232": {
+    "zipcode": "9872232",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館沢入"
+  },
+  "9872233": {
+    "zipcode": "9872233",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館照越"
+  },
+  "9872234": {
+    "zipcode": "9872234",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館新八ツ沢"
+  },
+  "9872235": {
+    "zipcode": "9872235",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館築館"
+  },
+  "9872236": {
+    "zipcode": "9872236",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館蟹沢"
+  },
+  "9872241": {
+    "zipcode": "9872241",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館館下"
+  },
+  "9872242": {
+    "zipcode": "9872242",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館館沢"
+  },
+  "9872243": {
+    "zipcode": "9872243",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館萩沢南"
+  },
+  "9872244": {
+    "zipcode": "9872244",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館西小山"
+  },
+  "9872245": {
+    "zipcode": "9872245",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館荒田沢"
+  },
+  "9872246": {
+    "zipcode": "9872246",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館上高森"
+  },
+  "9872247": {
+    "zipcode": "9872247",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館下高森"
+  },
+  "9872251": {
+    "zipcode": "9872251",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館藤木"
+  },
+  "9872252": {
+    "zipcode": "9872252",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館薬師"
+  },
+  "9872253": {
+    "zipcode": "9872253",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館青野"
+  },
+  "9872261": {
+    "zipcode": "9872261",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館久伝"
+  },
+  "9872262": {
+    "zipcode": "9872262",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館唐竹林"
+  },
+  "9872263": {
+    "zipcode": "9872263",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館薬師ケ丘"
+  },
+  "9872264": {
+    "zipcode": "9872264",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館薬師台"
+  },
+  "9872265": {
+    "zipcode": "9872265",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館左野原"
+  },
+  "9872271": {
+    "zipcode": "9872271",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館芋埣"
+  },
+  "9872272": {
+    "zipcode": "9872272",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館留場"
+  },
+  "9872273": {
+    "zipcode": "9872273",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館左足"
+  },
+  "9872274": {
+    "zipcode": "9872274",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館成田"
+  },
+  "9872275": {
+    "zipcode": "9872275",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "築館上宮野"
+  },
+  "9872301": {
+    "zipcode": "9872301",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫大川口"
+  },
+  "9872302": {
+    "zipcode": "9872302",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫片子沢"
+  },
+  "9872303": {
+    "zipcode": "9872303",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫川口"
+  },
+  "9872304": {
+    "zipcode": "9872304",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫北沢"
+  },
+  "9872305": {
+    "zipcode": "9872305",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫狐崎"
+  },
+  "9872306": {
+    "zipcode": "9872306",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫嶋躰"
+  },
+  "9872307": {
+    "zipcode": "9872307",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫清水目"
+  },
+  "9872308": {
+    "zipcode": "9872308",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫真坂"
+  },
+  "9872309": {
+    "zipcode": "9872309",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫柳目"
+  },
+  "9872311": {
+    "zipcode": "9872311",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫御崎"
+  },
+  "9872312": {
+    "zipcode": "9872312",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫沖浦"
+  },
+  "9872313": {
+    "zipcode": "9872313",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫沖"
+  },
+  "9872314": {
+    "zipcode": "9872314",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫岡田"
+  },
+  "9872315": {
+    "zipcode": "9872315",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫間杭元"
+  },
+  "9872316": {
+    "zipcode": "9872316",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫小坂本"
+  },
+  "9872317": {
+    "zipcode": "9872317",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫久保田"
+  },
+  "9872318": {
+    "zipcode": "9872318",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫松の木"
+  },
+  "9872319": {
+    "zipcode": "9872319",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫宮前"
+  },
+  "9872321": {
+    "zipcode": "9872321",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫横町"
+  },
+  "9872322": {
+    "zipcode": "9872322",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫横町浦"
+  },
+  "9872323": {
+    "zipcode": "9872323",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫女子町"
+  },
+  "9872324": {
+    "zipcode": "9872324",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫三嶋"
+  },
+  "9872325": {
+    "zipcode": "9872325",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫坂下西"
+  },
+  "9872326": {
+    "zipcode": "9872326",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫山崎"
+  },
+  "9872327": {
+    "zipcode": "9872327",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫天神"
+  },
+  "9872328": {
+    "zipcode": "9872328",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫土川"
+  },
+  "9872329": {
+    "zipcode": "9872329",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫細越"
+  },
+  "9872331": {
+    "zipcode": "9872331",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫萩生"
+  },
+  "9872332": {
+    "zipcode": "9872332",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫高橋"
+  },
+  "9872333": {
+    "zipcode": "9872333",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫要害"
+  },
+  "9872334": {
+    "zipcode": "9872334",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫神山"
+  },
+  "9872335": {
+    "zipcode": "9872335",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫高田"
+  },
+  "9872336": {
+    "zipcode": "9872336",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫荒屋敷"
+  },
+  "9872337": {
+    "zipcode": "9872337",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫松原沢"
+  },
+  "9872338": {
+    "zipcode": "9872338",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫日向"
+  },
+  "9872339": {
+    "zipcode": "9872339",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫上中島"
+  },
+  "9872341": {
+    "zipcode": "9872341",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫中屋敷浦"
+  },
+  "9872342": {
+    "zipcode": "9872342",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫沢田"
+  },
+  "9872343": {
+    "zipcode": "9872343",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫一本杉"
+  },
+  "9872344": {
+    "zipcode": "9872344",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫宮下"
+  },
+  "9872345": {
+    "zipcode": "9872345",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫屋敷田"
+  },
+  "9872346": {
+    "zipcode": "9872346",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫大清水"
+  },
+  "9872347": {
+    "zipcode": "9872347",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫平館"
+  },
+  "9872348": {
+    "zipcode": "9872348",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫大平沢"
+  },
+  "9872349": {
+    "zipcode": "9872349",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫大際"
+  },
+  "9872351": {
+    "zipcode": "9872351",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫宇南田"
+  },
+  "9872352": {
+    "zipcode": "9872352",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫鹿込"
+  },
+  "9872353": {
+    "zipcode": "9872353",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫上久保"
+  },
+  "9872354": {
+    "zipcode": "9872354",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫西風"
+  },
+  "9872355": {
+    "zipcode": "9872355",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫鍛冶屋敷"
+  },
+  "9872356": {
+    "zipcode": "9872356",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫山沢"
+  },
+  "9872357": {
+    "zipcode": "9872357",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫沼田"
+  },
+  "9872358": {
+    "zipcode": "9872358",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫下小僧"
+  },
+  "9872359": {
+    "zipcode": "9872359",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫佐野原"
+  },
+  "9872361": {
+    "zipcode": "9872361",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫中小僧"
+  },
+  "9872362": {
+    "zipcode": "9872362",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫大栗"
+  },
+  "9872363": {
+    "zipcode": "9872363",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫佐野"
+  },
+  "9872364": {
+    "zipcode": "9872364",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫岩ケ沢"
+  },
+  "9872365": {
+    "zipcode": "9872365",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫新米"
+  },
+  "9872366": {
+    "zipcode": "9872366",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫論田"
+  },
+  "9872367": {
+    "zipcode": "9872367",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫上大土"
+  },
+  "9872368": {
+    "zipcode": "9872368",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫下大土"
+  },
+  "9872369": {
+    "zipcode": "9872369",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫荒町"
+  },
+  "9872371": {
+    "zipcode": "9872371",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫川台"
+  },
+  "9872372": {
+    "zipcode": "9872372",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫青木"
+  },
+  "9872373": {
+    "zipcode": "9872373",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫不動西"
+  },
+  "9872374": {
+    "zipcode": "9872374",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "一迫清水原"
+  },
+  "9872511": {
+    "zipcode": "9872511",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "花山本沢"
+  },
+  "9872512": {
+    "zipcode": "9872512",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "town": "花山草木沢"
+  }
+}

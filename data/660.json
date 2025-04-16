@@ -1,0 +1,730 @@
+{
+  "6600000": {
+    "zipcode": "6600000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "以下に掲載がない場合"
+  },
+  "6600051": {
+    "zipcode": "6600051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東七松町"
+  },
+  "6600052": {
+    "zipcode": "6600052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "七松町"
+  },
+  "6600053": {
+    "zipcode": "6600053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "南七松町"
+  },
+  "6600054": {
+    "zipcode": "6600054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西立花町"
+  },
+  "6600055": {
+    "zipcode": "6600055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "稲葉元町"
+  },
+  "6600061": {
+    "zipcode": "6600061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "蓬川荘園"
+  },
+  "6600062": {
+    "zipcode": "6600062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "浜田町"
+  },
+  "6600063": {
+    "zipcode": "6600063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大庄北"
+  },
+  "6600064": {
+    "zipcode": "6600064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "稲葉荘"
+  },
+  "6600071": {
+    "zipcode": "6600071",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "崇徳院"
+  },
+  "6600072": {
+    "zipcode": "6600072",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大庄川田町"
+  },
+  "6600073": {
+    "zipcode": "6600073",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "菜切山町"
+  },
+  "6600074": {
+    "zipcode": "6600074",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "琴浦町"
+  },
+  "6600075": {
+    "zipcode": "6600075",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大庄中通"
+  },
+  "6600076": {
+    "zipcode": "6600076",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大島"
+  },
+  "6600077": {
+    "zipcode": "6600077",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大庄西町"
+  },
+  "6600081": {
+    "zipcode": "6600081",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "蓬川町"
+  },
+  "6600082": {
+    "zipcode": "6600082",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "水明町"
+  },
+  "6600083": {
+    "zipcode": "6600083",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "道意町"
+  },
+  "6600084": {
+    "zipcode": "6600084",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "武庫川町"
+  },
+  "6600085": {
+    "zipcode": "6600085",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "元浜町"
+  },
+  "6600086": {
+    "zipcode": "6600086",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "丸島町"
+  },
+  "6600087": {
+    "zipcode": "6600087",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "平左衛門町"
+  },
+  "6600091": {
+    "zipcode": "6600091",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "中浜町"
+  },
+  "6600092": {
+    "zipcode": "6600092",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "鶴町"
+  },
+  "6600093": {
+    "zipcode": "6600093",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西海岸町"
+  },
+  "6600094": {
+    "zipcode": "6600094",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "末広町"
+  },
+  "6600095": {
+    "zipcode": "6600095",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大浜町"
+  },
+  "6600096": {
+    "zipcode": "6600096",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "扇町"
+  },
+  "6600801": {
+    "zipcode": "6600801",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "長洲東通"
+  },
+  "6600802": {
+    "zipcode": "6600802",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "長洲中通"
+  },
+  "6600803": {
+    "zipcode": "6600803",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "長洲本通"
+  },
+  "6600804": {
+    "zipcode": "6600804",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "北大物町"
+  },
+  "6600805": {
+    "zipcode": "6600805",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西長洲町"
+  },
+  "6600806": {
+    "zipcode": "6600806",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "金楽寺町"
+  },
+  "6600807": {
+    "zipcode": "6600807",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "長洲西通"
+  },
+  "6600808": {
+    "zipcode": "6600808",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "潮江（１丁目１番、５丁目１番）"
+  },
+  "6600811": {
+    "zipcode": "6600811",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "常光寺"
+  },
+  "6600812": {
+    "zipcode": "6600812",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "今福"
+  },
+  "6600813": {
+    "zipcode": "6600813",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "杭瀬寺島"
+  },
+  "6600814": {
+    "zipcode": "6600814",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "杭瀬本町"
+  },
+  "6600815": {
+    "zipcode": "6600815",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "杭瀬北新町"
+  },
+  "6600821": {
+    "zipcode": "6600821",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "梶ケ島"
+  },
+  "6600822": {
+    "zipcode": "6600822",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "杭瀬南新町"
+  },
+  "6600823": {
+    "zipcode": "6600823",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大物町"
+  },
+  "6600824": {
+    "zipcode": "6600824",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東本町"
+  },
+  "6600825": {
+    "zipcode": "6600825",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "南城内"
+  },
+  "6600826": {
+    "zipcode": "6600826",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "北城内"
+  },
+  "6600827": {
+    "zipcode": "6600827",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西大物町"
+  },
+  "6600828": {
+    "zipcode": "6600828",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東大物町"
+  },
+  "6600831": {
+    "zipcode": "6600831",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東松島町"
+  },
+  "6600832": {
+    "zipcode": "6600832",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東初島町"
+  },
+  "6600833": {
+    "zipcode": "6600833",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "南初島町"
+  },
+  "6600834": {
+    "zipcode": "6600834",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "北初島町"
+  },
+  "6600835": {
+    "zipcode": "6600835",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東向島東之町"
+  },
+  "6600837": {
+    "zipcode": "6600837",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西松島町"
+  },
+  "6600841": {
+    "zipcode": "6600841",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東高洲町"
+  },
+  "6600842": {
+    "zipcode": "6600842",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "大高洲町"
+  },
+  "6600843": {
+    "zipcode": "6600843",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東海岸町"
+  },
+  "6600844": {
+    "zipcode": "6600844",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東浜町"
+  },
+  "6600845": {
+    "zipcode": "6600845",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西高洲町"
+  },
+  "6600846": {
+    "zipcode": "6600846",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "船出"
+  },
+  "6600851": {
+    "zipcode": "6600851",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "中在家町"
+  },
+  "6600856": {
+    "zipcode": "6600856",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東向島西之町"
+  },
+  "6600857": {
+    "zipcode": "6600857",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西向島町"
+  },
+  "6600858": {
+    "zipcode": "6600858",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "築地"
+  },
+  "6600861": {
+    "zipcode": "6600861",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "御園町"
+  },
+  "6600862": {
+    "zipcode": "6600862",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "開明町"
+  },
+  "6600863": {
+    "zipcode": "6600863",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西本町北通"
+  },
+  "6600864": {
+    "zipcode": "6600864",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東桜木町"
+  },
+  "6600865": {
+    "zipcode": "6600865",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西桜木町"
+  },
+  "6600866": {
+    "zipcode": "6600866",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "汐町"
+  },
+  "6600867": {
+    "zipcode": "6600867",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "寺町"
+  },
+  "6600868": {
+    "zipcode": "6600868",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西御園町"
+  },
+  "6600871": {
+    "zipcode": "6600871",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "建家町"
+  },
+  "6600872": {
+    "zipcode": "6600872",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "玄番北之町"
+  },
+  "6600873": {
+    "zipcode": "6600873",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "玄番南之町"
+  },
+  "6600874": {
+    "zipcode": "6600874",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西本町"
+  },
+  "6600875": {
+    "zipcode": "6600875",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "南竹谷町"
+  },
+  "6600876": {
+    "zipcode": "6600876",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "竹谷町"
+  },
+  "6600877": {
+    "zipcode": "6600877",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "宮内町"
+  },
+  "6600878": {
+    "zipcode": "6600878",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "北竹谷町"
+  },
+  "6600881": {
+    "zipcode": "6600881",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "昭和通"
+  },
+  "6600882": {
+    "zipcode": "6600882",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "昭和南通"
+  },
+  "6600883": {
+    "zipcode": "6600883",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "神田北通"
+  },
+  "6600884": {
+    "zipcode": "6600884",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "神田中通"
+  },
+  "6600885": {
+    "zipcode": "6600885",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "神田南通"
+  },
+  "6600891": {
+    "zipcode": "6600891",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "扶桑町"
+  },
+  "6600892": {
+    "zipcode": "6600892",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "東難波町"
+  },
+  "6600893": {
+    "zipcode": "6600893",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "town": "西難波町"
+  }
+}

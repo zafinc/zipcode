@@ -1,0 +1,834 @@
+{
+  "4630000": {
+    "zipcode": "4630000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "以下に掲載がない場合"
+  },
+  "4630001": {
+    "zipcode": "4630001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "上志段味"
+  },
+  "4630002": {
+    "zipcode": "4630002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "中志段味"
+  },
+  "4630003": {
+    "zipcode": "4630003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "下志段味"
+  },
+  "4630004": {
+    "zipcode": "4630004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "吉根"
+  },
+  "4630005": {
+    "zipcode": "4630005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川"
+  },
+  "4630006": {
+    "zipcode": "4630006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川東山"
+  },
+  "4630007": {
+    "zipcode": "4630007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "松坂町"
+  },
+  "4630008": {
+    "zipcode": "4630008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡北"
+  },
+  "4630009": {
+    "zipcode": "4630009",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "緑ケ丘"
+  },
+  "4630010": {
+    "zipcode": "4630010",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "翠松園"
+  },
+  "4630011": {
+    "zipcode": "4630011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡"
+  },
+  "4630012": {
+    "zipcode": "4630012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "茶臼前"
+  },
+  "4630013": {
+    "zipcode": "4630013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡中"
+  },
+  "4630014": {
+    "zipcode": "4630014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "城南町"
+  },
+  "4630015": {
+    "zipcode": "4630015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "西島町"
+  },
+  "4630016": {
+    "zipcode": "4630016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大屋敷"
+  },
+  "4630017": {
+    "zipcode": "4630017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "喜多山"
+  },
+  "4630018": {
+    "zipcode": "4630018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "桜坂"
+  },
+  "4630019": {
+    "zipcode": "4630019",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "東禅寺"
+  },
+  "4630021": {
+    "zipcode": "4630021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大森"
+  },
+  "4630022": {
+    "zipcode": "4630022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "八剣"
+  },
+  "4630023": {
+    "zipcode": "4630023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "今尻町"
+  },
+  "4630024": {
+    "zipcode": "4630024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "脇田町"
+  },
+  "4630025": {
+    "zipcode": "4630025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "元郷"
+  },
+  "4630026": {
+    "zipcode": "4630026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "藪田町"
+  },
+  "4630027": {
+    "zipcode": "4630027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "弁天が丘"
+  },
+  "4630028": {
+    "zipcode": "4630028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大森八龍"
+  },
+  "4630029": {
+    "zipcode": "4630029",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "御膳洞"
+  },
+  "4630031": {
+    "zipcode": "4630031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "本地が丘"
+  },
+  "4630032": {
+    "zipcode": "4630032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "白山"
+  },
+  "4630033": {
+    "zipcode": "4630033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "森孝東"
+  },
+  "4630034": {
+    "zipcode": "4630034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "四軒家"
+  },
+  "4630035": {
+    "zipcode": "4630035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "森孝"
+  },
+  "4630036": {
+    "zipcode": "4630036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "向台"
+  },
+  "4630037": {
+    "zipcode": "4630037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "天子田"
+  },
+  "4630038": {
+    "zipcode": "4630038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "原境町"
+  },
+  "4630041": {
+    "zipcode": "4630041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大谷町"
+  },
+  "4630042": {
+    "zipcode": "4630042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "野萩町"
+  },
+  "4630043": {
+    "zipcode": "4630043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "喜多山南"
+  },
+  "4630044": {
+    "zipcode": "4630044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "太田井"
+  },
+  "4630045": {
+    "zipcode": "4630045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "菱池町"
+  },
+  "4630046": {
+    "zipcode": "4630046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "苗代"
+  },
+  "4630047": {
+    "zipcode": "4630047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡常燈"
+  },
+  "4630048": {
+    "zipcode": "4630048",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡南"
+  },
+  "4630051": {
+    "zipcode": "4630051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡太田"
+  },
+  "4630052": {
+    "zipcode": "4630052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡宮ノ腰"
+  },
+  "4630053": {
+    "zipcode": "4630053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小幡千代田"
+  },
+  "4630054": {
+    "zipcode": "4630054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "小六町"
+  },
+  "4630055": {
+    "zipcode": "4630055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "西新"
+  },
+  "4630056": {
+    "zipcode": "4630056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "新城"
+  },
+  "4630057": {
+    "zipcode": "4630057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "中新"
+  },
+  "4630061": {
+    "zipcode": "4630061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "東山町"
+  },
+  "4630062": {
+    "zipcode": "4630062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "長栄"
+  },
+  "4630063": {
+    "zipcode": "4630063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "八反"
+  },
+  "4630064": {
+    "zipcode": "4630064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "更屋敷"
+  },
+  "4630065": {
+    "zipcode": "4630065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "廿軒家"
+  },
+  "4630066": {
+    "zipcode": "4630066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "町南"
+  },
+  "4630067": {
+    "zipcode": "4630067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "守山（丁目）"
+  },
+  "4630068": {
+    "zipcode": "4630068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "瀬古（丁目）"
+  },
+  "4630069": {
+    "zipcode": "4630069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "新守西"
+  },
+  "4630070": {
+    "zipcode": "4630070",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "新守山"
+  },
+  "4630071": {
+    "zipcode": "4630071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "新守町"
+  },
+  "4630072": {
+    "zipcode": "4630072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "金屋"
+  },
+  "4630073": {
+    "zipcode": "4630073",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "守牧町"
+  },
+  "4630074": {
+    "zipcode": "4630074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "町北"
+  },
+  "4630075": {
+    "zipcode": "4630075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "市場"
+  },
+  "4630076": {
+    "zipcode": "4630076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "鳥羽見"
+  },
+  "4630077": {
+    "zipcode": "4630077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "守山（番地）"
+  },
+  "4630078": {
+    "zipcode": "4630078",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "瀬古（大字）"
+  },
+  "4630079": {
+    "zipcode": "4630079",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "幸心"
+  },
+  "4630080": {
+    "zipcode": "4630080",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川西"
+  },
+  "4630081": {
+    "zipcode": "4630081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川宮町"
+  },
+  "4630082": {
+    "zipcode": "4630082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "村前町"
+  },
+  "4630083": {
+    "zipcode": "4630083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "村合町"
+  },
+  "4630084": {
+    "zipcode": "4630084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "西城"
+  },
+  "4630085": {
+    "zipcode": "4630085",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大牧町"
+  },
+  "4630086": {
+    "zipcode": "4630086",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "永森町"
+  },
+  "4630087": {
+    "zipcode": "4630087",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大永寺町"
+  },
+  "4630088": {
+    "zipcode": "4630088",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "鳥神町"
+  },
+  "4630089": {
+    "zipcode": "4630089",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "西川原町"
+  },
+  "4630090": {
+    "zipcode": "4630090",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "瀬古東"
+  },
+  "4630091": {
+    "zipcode": "4630091",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川上町"
+  },
+  "4630092": {
+    "zipcode": "4630092",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "白沢町"
+  },
+  "4630093": {
+    "zipcode": "4630093",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "城土町"
+  },
+  "4630094": {
+    "zipcode": "4630094",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "牛牧"
+  },
+  "4630095": {
+    "zipcode": "4630095",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "高島町"
+  },
+  "4630096": {
+    "zipcode": "4630096",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "森宮町"
+  },
+  "4630097": {
+    "zipcode": "4630097",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川村町"
+  },
+  "4630098": {
+    "zipcode": "4630098",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "川北町"
+  },
+  "4630801": {
+    "zipcode": "4630801",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "竜泉寺"
+  },
+  "4630802": {
+    "zipcode": "4630802",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "大森北"
+  },
+  "4630803": {
+    "zipcode": "4630803",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "日の後"
+  },
+  "4630804": {
+    "zipcode": "4630804",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "泉が丘"
+  },
+  "4630805": {
+    "zipcode": "4630805",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "青山台"
+  },
+  "4630806": {
+    "zipcode": "4630806",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "百合が丘"
+  },
+  "4630807": {
+    "zipcode": "4630807",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "鼓が丘"
+  },
+  "4630808": {
+    "zipcode": "4630808",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "花咲台"
+  },
+  "4630809": {
+    "zipcode": "4630809",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "平池東"
+  },
+  "4630811": {
+    "zipcode": "4630811",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "深沢"
+  },
+  "4630812": {
+    "zipcode": "4630812",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "笹ヶ根"
+  },
+  "4630813": {
+    "zipcode": "4630813",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "吉根南"
+  },
+  "4630814": {
+    "zipcode": "4630814",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "桔梗平"
+  },
+  "4630815": {
+    "zipcode": "4630815",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市守山区",
+    "town": "青葉台"
+  }
+}

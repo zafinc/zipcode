@@ -1,0 +1,762 @@
+{
+  "3730000": {
+    "zipcode": "3730000",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "以下に掲載がない場合"
+  },
+  "3730001": {
+    "zipcode": "3730001",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "西長岡町"
+  },
+  "3730002": {
+    "zipcode": "3730002",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "菅塩町"
+  },
+  "3730003": {
+    "zipcode": "3730003",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "北金井町"
+  },
+  "3730004": {
+    "zipcode": "3730004",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "強戸町"
+  },
+  "3730006": {
+    "zipcode": "3730006",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "成塚町"
+  },
+  "3730007": {
+    "zipcode": "3730007",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "石橋町"
+  },
+  "3730008": {
+    "zipcode": "3730008",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "鶴生田町"
+  },
+  "3730011": {
+    "zipcode": "3730011",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "只上町"
+  },
+  "3730012": {
+    "zipcode": "3730012",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "清原町"
+  },
+  "3730013": {
+    "zipcode": "3730013",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "市場町"
+  },
+  "3730014": {
+    "zipcode": "3730014",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "植木野町"
+  },
+  "3730015": {
+    "zipcode": "3730015",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東新町"
+  },
+  "3730016": {
+    "zipcode": "3730016",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "矢田堀町"
+  },
+  "3730018": {
+    "zipcode": "3730018",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "丸山町"
+  },
+  "3730019": {
+    "zipcode": "3730019",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "吉沢町"
+  },
+  "3730021": {
+    "zipcode": "3730021",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東今泉町"
+  },
+  "3730022": {
+    "zipcode": "3730022",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東金井町"
+  },
+  "3730023": {
+    "zipcode": "3730023",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "富若町"
+  },
+  "3730024": {
+    "zipcode": "3730024",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "上小林町"
+  },
+  "3730025": {
+    "zipcode": "3730025",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "熊野町"
+  },
+  "3730026": {
+    "zipcode": "3730026",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東本町"
+  },
+  "3730027": {
+    "zipcode": "3730027",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "金山町"
+  },
+  "3730028": {
+    "zipcode": "3730028",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "スバル町"
+  },
+  "3730029": {
+    "zipcode": "3730029",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "韮川町"
+  },
+  "3730031": {
+    "zipcode": "3730031",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "脇屋町"
+  },
+  "3730032": {
+    "zipcode": "3730032",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "新野町"
+  },
+  "3730033": {
+    "zipcode": "3730033",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "西本町"
+  },
+  "3730034": {
+    "zipcode": "3730034",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "藤阿久町"
+  },
+  "3730035": {
+    "zipcode": "3730035",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "藤久良町"
+  },
+  "3730036": {
+    "zipcode": "3730036",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "由良町"
+  },
+  "3730037": {
+    "zipcode": "3730037",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "新道町"
+  },
+  "3730038": {
+    "zipcode": "3730038",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "城西町"
+  },
+  "3730041": {
+    "zipcode": "3730041",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "別所町"
+  },
+  "3730042": {
+    "zipcode": "3730042",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "宝町"
+  },
+  "3730043": {
+    "zipcode": "3730043",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "西野谷町"
+  },
+  "3730044": {
+    "zipcode": "3730044",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "上田島町"
+  },
+  "3730045": {
+    "zipcode": "3730045",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "沖野町"
+  },
+  "3730051": {
+    "zipcode": "3730051",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "天良町"
+  },
+  "3730052": {
+    "zipcode": "3730052",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "寺井町"
+  },
+  "3730053": {
+    "zipcode": "3730053",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "鳥山町"
+  },
+  "3730054": {
+    "zipcode": "3730054",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "長手町"
+  },
+  "3730055": {
+    "zipcode": "3730055",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "大島町"
+  },
+  "3730056": {
+    "zipcode": "3730056",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "八幡町"
+  },
+  "3730057": {
+    "zipcode": "3730057",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "本町"
+  },
+  "3730061": {
+    "zipcode": "3730061",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "鳥山上町"
+  },
+  "3730062": {
+    "zipcode": "3730062",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "鳥山中町"
+  },
+  "3730063": {
+    "zipcode": "3730063",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "鳥山下町"
+  },
+  "3730071": {
+    "zipcode": "3730071",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "原宿町"
+  },
+  "3730072": {
+    "zipcode": "3730072",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高瀬町"
+  },
+  "3730073": {
+    "zipcode": "3730073",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "緑町"
+  },
+  "3730074": {
+    "zipcode": "3730074",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "上強戸町"
+  },
+  "3730075": {
+    "zipcode": "3730075",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "大鷲町"
+  },
+  "3730801": {
+    "zipcode": "3730801",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "台之郷町"
+  },
+  "3730802": {
+    "zipcode": "3730802",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "矢場新町"
+  },
+  "3730803": {
+    "zipcode": "3730803",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "矢場町"
+  },
+  "3730804": {
+    "zipcode": "3730804",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "沖之郷町"
+  },
+  "3730805": {
+    "zipcode": "3730805",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "八重笠町"
+  },
+  "3730806": {
+    "zipcode": "3730806",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "龍舞町"
+  },
+  "3730807": {
+    "zipcode": "3730807",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "下小林町"
+  },
+  "3730808": {
+    "zipcode": "3730808",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "石原町"
+  },
+  "3730809": {
+    "zipcode": "3730809",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "茂木町"
+  },
+  "3730811": {
+    "zipcode": "3730811",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "安良岡町"
+  },
+  "3730812": {
+    "zipcode": "3730812",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東長岡町"
+  },
+  "3730813": {
+    "zipcode": "3730813",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "内ケ島町"
+  },
+  "3730814": {
+    "zipcode": "3730814",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "朝日町"
+  },
+  "3730815": {
+    "zipcode": "3730815",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東別所町"
+  },
+  "3730816": {
+    "zipcode": "3730816",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "東矢島町"
+  },
+  "3730817": {
+    "zipcode": "3730817",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "飯塚町"
+  },
+  "3730818": {
+    "zipcode": "3730818",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "小舞木町"
+  },
+  "3730819": {
+    "zipcode": "3730819",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "新島町"
+  },
+  "3730821": {
+    "zipcode": "3730821",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "下浜田町"
+  },
+  "3730822": {
+    "zipcode": "3730822",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "庄屋町"
+  },
+  "3730823": {
+    "zipcode": "3730823",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "西矢島町"
+  },
+  "3730824": {
+    "zipcode": "3730824",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高林寿町"
+  },
+  "3730825": {
+    "zipcode": "3730825",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高林東町"
+  },
+  "3730826": {
+    "zipcode": "3730826",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "古戸町"
+  },
+  "3730827": {
+    "zipcode": "3730827",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高林南町"
+  },
+  "3730828": {
+    "zipcode": "3730828",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高林西町"
+  },
+  "3730829": {
+    "zipcode": "3730829",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "高林北町"
+  },
+  "3730831": {
+    "zipcode": "3730831",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "福沢町"
+  },
+  "3730832": {
+    "zipcode": "3730832",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "富沢町"
+  },
+  "3730833": {
+    "zipcode": "3730833",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "牛沢町"
+  },
+  "3730841": {
+    "zipcode": "3730841",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "岩瀬川町"
+  },
+  "3730842": {
+    "zipcode": "3730842",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "細谷町"
+  },
+  "3730843": {
+    "zipcode": "3730843",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "米沢町"
+  },
+  "3730844": {
+    "zipcode": "3730844",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "下田島町"
+  },
+  "3730845": {
+    "zipcode": "3730845",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "泉町"
+  },
+  "3730846": {
+    "zipcode": "3730846",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "中根町"
+  },
+  "3730847": {
+    "zipcode": "3730847",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "西新町"
+  },
+  "3730851": {
+    "zipcode": "3730851",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "飯田町"
+  },
+  "3730852": {
+    "zipcode": "3730852",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "新井町"
+  },
+  "3730853": {
+    "zipcode": "3730853",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "浜町"
+  },
+  "3730861": {
+    "zipcode": "3730861",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "南矢島町"
+  },
+  "3730862": {
+    "zipcode": "3730862",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "town": "末広町"
+  }
+}

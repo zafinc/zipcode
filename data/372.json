@@ -1,0 +1,610 @@
+{
+  "3720000": {
+    "zipcode": "3720000",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "以下に掲載がない場合"
+  },
+  "3720001": {
+    "zipcode": "3720001",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "波志江町"
+  },
+  "3720002": {
+    "zipcode": "3720002",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "堤西町"
+  },
+  "3720003": {
+    "zipcode": "3720003",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "華蔵寺町"
+  },
+  "3720004": {
+    "zipcode": "3720004",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "堤下町"
+  },
+  "3720005": {
+    "zipcode": "3720005",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "乾町"
+  },
+  "3720006": {
+    "zipcode": "3720006",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "太田町"
+  },
+  "3720007": {
+    "zipcode": "3720007",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "安堀町"
+  },
+  "3720011": {
+    "zipcode": "3720011",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "三和町"
+  },
+  "3720012": {
+    "zipcode": "3720012",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "豊城町"
+  },
+  "3720013": {
+    "zipcode": "3720013",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "上植木本町"
+  },
+  "3720014": {
+    "zipcode": "3720014",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "昭和町"
+  },
+  "3720015": {
+    "zipcode": "3720015",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "鹿島町"
+  },
+  "3720016": {
+    "zipcode": "3720016",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "本関町"
+  },
+  "3720021": {
+    "zipcode": "3720021",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "上諏訪町"
+  },
+  "3720022": {
+    "zipcode": "3720022",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "日乃出町"
+  },
+  "3720023": {
+    "zipcode": "3720023",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "粕川町"
+  },
+  "3720024": {
+    "zipcode": "3720024",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "下植木町"
+  },
+  "3720025": {
+    "zipcode": "3720025",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "東本町"
+  },
+  "3720026": {
+    "zipcode": "3720026",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "宮前町"
+  },
+  "3720031": {
+    "zipcode": "3720031",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "今泉町"
+  },
+  "3720032": {
+    "zipcode": "3720032",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "北千木町"
+  },
+  "3720033": {
+    "zipcode": "3720033",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "南千木町"
+  },
+  "3720034": {
+    "zipcode": "3720034",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "茂呂町"
+  },
+  "3720036": {
+    "zipcode": "3720036",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "茂呂南町"
+  },
+  "3720037": {
+    "zipcode": "3720037",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "美茂呂町"
+  },
+  "3720038": {
+    "zipcode": "3720038",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "新栄町"
+  },
+  "3720039": {
+    "zipcode": "3720039",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "ひろせ町"
+  },
+  "3720041": {
+    "zipcode": "3720041",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "平和町"
+  },
+  "3720042": {
+    "zipcode": "3720042",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "中央町"
+  },
+  "3720043": {
+    "zipcode": "3720043",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "緑町"
+  },
+  "3720044": {
+    "zipcode": "3720044",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "八坂町"
+  },
+  "3720045": {
+    "zipcode": "3720045",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "上泉町"
+  },
+  "3720046": {
+    "zipcode": "3720046",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "三光町"
+  },
+  "3720047": {
+    "zipcode": "3720047",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "本町"
+  },
+  "3720048": {
+    "zipcode": "3720048",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "大手町"
+  },
+  "3720051": {
+    "zipcode": "3720051",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "八幡町"
+  },
+  "3720052": {
+    "zipcode": "3720052",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "寿町"
+  },
+  "3720053": {
+    "zipcode": "3720053",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "宗高町"
+  },
+  "3720054": {
+    "zipcode": "3720054",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "柳原町"
+  },
+  "3720055": {
+    "zipcode": "3720055",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "曲輪町"
+  },
+  "3720056": {
+    "zipcode": "3720056",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "喜多町"
+  },
+  "3720057": {
+    "zipcode": "3720057",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "末広町"
+  },
+  "3720058": {
+    "zipcode": "3720058",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "西田町"
+  },
+  "3720801": {
+    "zipcode": "3720801",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "宮子町"
+  },
+  "3720802": {
+    "zipcode": "3720802",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "田中島町"
+  },
+  "3720803": {
+    "zipcode": "3720803",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "宮古町"
+  },
+  "3720804": {
+    "zipcode": "3720804",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "稲荷町"
+  },
+  "3720811": {
+    "zipcode": "3720811",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "若葉町"
+  },
+  "3720812": {
+    "zipcode": "3720812",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "連取町"
+  },
+  "3720813": {
+    "zipcode": "3720813",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "韮塚町"
+  },
+  "3720814": {
+    "zipcode": "3720814",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "田中町"
+  },
+  "3720815": {
+    "zipcode": "3720815",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "東上之宮町"
+  },
+  "3720816": {
+    "zipcode": "3720816",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "西上之宮町"
+  },
+  "3720817": {
+    "zipcode": "3720817",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "連取本町"
+  },
+  "3720818": {
+    "zipcode": "3720818",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "連取元町"
+  },
+  "3720821": {
+    "zipcode": "3720821",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "阿弥大寺町"
+  },
+  "3720822": {
+    "zipcode": "3720822",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "中町"
+  },
+  "3720823": {
+    "zipcode": "3720823",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "今井町"
+  },
+  "3720824": {
+    "zipcode": "3720824",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "柴町"
+  },
+  "3720825": {
+    "zipcode": "3720825",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "戸谷塚町"
+  },
+  "3720826": {
+    "zipcode": "3720826",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "福島町"
+  },
+  "3720827": {
+    "zipcode": "3720827",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "八斗島町"
+  },
+  "3720831": {
+    "zipcode": "3720831",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "山王町"
+  },
+  "3720832": {
+    "zipcode": "3720832",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "除ケ町"
+  },
+  "3720833": {
+    "zipcode": "3720833",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "富塚町"
+  },
+  "3720834": {
+    "zipcode": "3720834",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "堀口町"
+  },
+  "3720841": {
+    "zipcode": "3720841",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "大正寺町"
+  },
+  "3720842": {
+    "zipcode": "3720842",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "馬見塚町"
+  },
+  "3720843": {
+    "zipcode": "3720843",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "下道寺町"
+  },
+  "3720844": {
+    "zipcode": "3720844",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "羽黒町"
+  },
+  "3720851": {
+    "zipcode": "3720851",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "上蓮町"
+  },
+  "3720852": {
+    "zipcode": "3720852",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "下蓮町"
+  },
+  "3720853": {
+    "zipcode": "3720853",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "国領町"
+  },
+  "3720854": {
+    "zipcode": "3720854",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "飯島町"
+  },
+  "3720855": {
+    "zipcode": "3720855",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "伊勢崎市",
+    "town": "長沼町"
+  }
+}

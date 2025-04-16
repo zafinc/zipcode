@@ -1,0 +1,994 @@
+{
+  "4450000": {
+    "zipcode": "4450000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "以下に掲載がない場合"
+  },
+  "4450001": {
+    "zipcode": "4450001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "高落町"
+  },
+  "4450002": {
+    "zipcode": "4450002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "新村町"
+  },
+  "4450003": {
+    "zipcode": "4450003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "東浅井町"
+  },
+  "4450004": {
+    "zipcode": "4450004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "西浅井町"
+  },
+  "4450005": {
+    "zipcode": "4450005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "米野町"
+  },
+  "4450006": {
+    "zipcode": "4450006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "小島町"
+  },
+  "4450011": {
+    "zipcode": "4450011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "上羽角町"
+  },
+  "4450012": {
+    "zipcode": "4450012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "下羽角町"
+  },
+  "4450013": {
+    "zipcode": "4450013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "貝吹町"
+  },
+  "4450014": {
+    "zipcode": "4450014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "つくしが丘"
+  },
+  "4450015": {
+    "zipcode": "4450015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "竹山町"
+  },
+  "4450016": {
+    "zipcode": "4450016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "下永良町"
+  },
+  "4450017": {
+    "zipcode": "4450017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "上永良町"
+  },
+  "4450021": {
+    "zipcode": "4450021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "駒場町"
+  },
+  "4450022": {
+    "zipcode": "4450022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "岡島町"
+  },
+  "4450023": {
+    "zipcode": "4450023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "高河原町"
+  },
+  "4450024": {
+    "zipcode": "4450024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "大和田町"
+  },
+  "4450025": {
+    "zipcode": "4450025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "和気町"
+  },
+  "4450026": {
+    "zipcode": "4450026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "江原町"
+  },
+  "4450027": {
+    "zipcode": "4450027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "尾花町"
+  },
+  "4450031": {
+    "zipcode": "4450031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "家武町"
+  },
+  "4450032": {
+    "zipcode": "4450032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "平原町"
+  },
+  "4450033": {
+    "zipcode": "4450033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "室町"
+  },
+  "4450034": {
+    "zipcode": "4450034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "善明町"
+  },
+  "4450035": {
+    "zipcode": "4450035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "花蔵寺町"
+  },
+  "4450041": {
+    "zipcode": "4450041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "小焼野町"
+  },
+  "4450042": {
+    "zipcode": "4450042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "宅野島町"
+  },
+  "4450043": {
+    "zipcode": "4450043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "鵜ケ池町"
+  },
+  "4450044": {
+    "zipcode": "4450044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "鎌谷町"
+  },
+  "4450045": {
+    "zipcode": "4450045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "十郎島町"
+  },
+  "4450046": {
+    "zipcode": "4450046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "須脇町"
+  },
+  "4450047": {
+    "zipcode": "4450047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "細池町"
+  },
+  "4450051": {
+    "zipcode": "4450051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "天竹町"
+  },
+  "4450052": {
+    "zipcode": "4450052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "横手町"
+  },
+  "4450053": {
+    "zipcode": "4450053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "笹曽根町"
+  },
+  "4450054": {
+    "zipcode": "4450054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "平口町"
+  },
+  "4450055": {
+    "zipcode": "4450055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "市子町"
+  },
+  "4450056": {
+    "zipcode": "4450056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "斉藤町"
+  },
+  "4450057": {
+    "zipcode": "4450057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "野々宮町"
+  },
+  "4450061": {
+    "zipcode": "4450061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "寄近町"
+  },
+  "4450062": {
+    "zipcode": "4450062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "丁田町"
+  },
+  "4450063": {
+    "zipcode": "4450063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "今川町"
+  },
+  "4450064": {
+    "zipcode": "4450064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "高畠町"
+  },
+  "4450065": {
+    "zipcode": "4450065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "城崎町"
+  },
+  "4450071": {
+    "zipcode": "4450071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "熊味町"
+  },
+  "4450072": {
+    "zipcode": "4450072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "徳次町"
+  },
+  "4450073": {
+    "zipcode": "4450073",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "寄住町"
+  },
+  "4450074": {
+    "zipcode": "4450074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "戸ケ崎町"
+  },
+  "4450075": {
+    "zipcode": "4450075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "戸ケ崎"
+  },
+  "4450076": {
+    "zipcode": "4450076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "新渡場"
+  },
+  "4450077": {
+    "zipcode": "4450077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "新渡場町"
+  },
+  "4450081": {
+    "zipcode": "4450081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "志籠谷町"
+  },
+  "4450082": {
+    "zipcode": "4450082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "八ツ面町"
+  },
+  "4450083": {
+    "zipcode": "4450083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "中原町"
+  },
+  "4450084": {
+    "zipcode": "4450084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "志貴野町"
+  },
+  "4450801": {
+    "zipcode": "4450801",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "南中根町"
+  },
+  "4450802": {
+    "zipcode": "4450802",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "米津町"
+  },
+  "4450803": {
+    "zipcode": "4450803",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "桜町"
+  },
+  "4450804": {
+    "zipcode": "4450804",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "緑町"
+  },
+  "4450805": {
+    "zipcode": "4450805",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "鶴城町"
+  },
+  "4450806": {
+    "zipcode": "4450806",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "伊藤町"
+  },
+  "4450807": {
+    "zipcode": "4450807",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "伊藤"
+  },
+  "4450811": {
+    "zipcode": "4450811",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "道光寺町"
+  },
+  "4450812": {
+    "zipcode": "4450812",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "道光寺"
+  },
+  "4450813": {
+    "zipcode": "4450813",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "若松町"
+  },
+  "4450814": {
+    "zipcode": "4450814",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "新屋敷町"
+  },
+  "4450815": {
+    "zipcode": "4450815",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "菅原町"
+  },
+  "4450816": {
+    "zipcode": "4450816",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "宮町"
+  },
+  "4450821": {
+    "zipcode": "4450821",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "矢場町"
+  },
+  "4450822": {
+    "zipcode": "4450822",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "伊文町"
+  },
+  "4450823": {
+    "zipcode": "4450823",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "神下町"
+  },
+  "4450824": {
+    "zipcode": "4450824",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "和泉町"
+  },
+  "4450825": {
+    "zipcode": "4450825",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "会生町"
+  },
+  "4450826": {
+    "zipcode": "4450826",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "満全町"
+  },
+  "4450827": {
+    "zipcode": "4450827",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "幸町"
+  },
+  "4450831": {
+    "zipcode": "4450831",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "大給町"
+  },
+  "4450832": {
+    "zipcode": "4450832",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "瓦町"
+  },
+  "4450833": {
+    "zipcode": "4450833",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "天王町"
+  },
+  "4450834": {
+    "zipcode": "4450834",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "順海町"
+  },
+  "4450835": {
+    "zipcode": "4450835",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "肴町"
+  },
+  "4450836": {
+    "zipcode": "4450836",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "中町"
+  },
+  "4450837": {
+    "zipcode": "4450837",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "鶴ケ崎町"
+  },
+  "4450841": {
+    "zipcode": "4450841",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "馬場町"
+  },
+  "4450842": {
+    "zipcode": "4450842",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "弥生町"
+  },
+  "4450843": {
+    "zipcode": "4450843",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "天神町"
+  },
+  "4450844": {
+    "zipcode": "4450844",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "末広町"
+  },
+  "4450845": {
+    "zipcode": "4450845",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "鶴舞町"
+  },
+  "4450846": {
+    "zipcode": "4450846",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "千歳町"
+  },
+  "4450847": {
+    "zipcode": "4450847",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "亀沢町"
+  },
+  "4450851": {
+    "zipcode": "4450851",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "住吉町"
+  },
+  "4450852": {
+    "zipcode": "4450852",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "花ノ木町"
+  },
+  "4450853": {
+    "zipcode": "4450853",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "桜木町"
+  },
+  "4450854": {
+    "zipcode": "4450854",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "永楽町"
+  },
+  "4450855": {
+    "zipcode": "4450855",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "南旭町"
+  },
+  "4450856": {
+    "zipcode": "4450856",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "高砂町"
+  },
+  "4450857": {
+    "zipcode": "4450857",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "北旭町"
+  },
+  "4450861": {
+    "zipcode": "4450861",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "吾妻町"
+  },
+  "4450862": {
+    "zipcode": "4450862",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "須田町"
+  },
+  "4450863": {
+    "zipcode": "4450863",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "葵町"
+  },
+  "4450864": {
+    "zipcode": "4450864",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "錦城町"
+  },
+  "4450865": {
+    "zipcode": "4450865",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "本町"
+  },
+  "4450866": {
+    "zipcode": "4450866",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "塩町"
+  },
+  "4450870": {
+    "zipcode": "4450870",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "永吉"
+  },
+  "4450871": {
+    "zipcode": "4450871",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "永吉町"
+  },
+  "4450872": {
+    "zipcode": "4450872",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "矢曽根町"
+  },
+  "4450873": {
+    "zipcode": "4450873",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "川口町"
+  },
+  "4450874": {
+    "zipcode": "4450874",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "菱池町"
+  },
+  "4450875": {
+    "zipcode": "4450875",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "深池町"
+  },
+  "4450876": {
+    "zipcode": "4450876",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "住崎町"
+  },
+  "4450877": {
+    "zipcode": "4450877",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "山下町"
+  },
+  "4450878": {
+    "zipcode": "4450878",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "新在家"
+  },
+  "4450879": {
+    "zipcode": "4450879",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "住崎"
+  },
+  "4450881": {
+    "zipcode": "4450881",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "熱池町"
+  },
+  "4450882": {
+    "zipcode": "4450882",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "上道目記町"
+  },
+  "4450883": {
+    "zipcode": "4450883",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "下道目記町"
+  },
+  "4450884": {
+    "zipcode": "4450884",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "八ケ尻町"
+  },
+  "4450885": {
+    "zipcode": "4450885",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "行用町"
+  },
+  "4450886": {
+    "zipcode": "4450886",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "針曽根町"
+  },
+  "4450887": {
+    "zipcode": "4450887",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "長縄町"
+  },
+  "4450891": {
+    "zipcode": "4450891",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "下町"
+  },
+  "4450892": {
+    "zipcode": "4450892",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "法光寺町"
+  },
+  "4450893": {
+    "zipcode": "4450893",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "小間町"
+  },
+  "4450894": {
+    "zipcode": "4450894",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "town": "上町"
+  }
+}

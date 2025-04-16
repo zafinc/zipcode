@@ -1,0 +1,1002 @@
+{
+  "0120000": {
+    "zipcode": "0120000",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "以下に掲載がない場合"
+  },
+  "0120001": {
+    "zipcode": "0120001",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "角間"
+  },
+  "0120002": {
+    "zipcode": "0120002",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "下二井田"
+  },
+  "0120003": {
+    "zipcode": "0120003",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "上二井田"
+  },
+  "0120004": {
+    "zipcode": "0120004",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "二井田"
+  },
+  "0120005": {
+    "zipcode": "0120005",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "金谷"
+  },
+  "0120006": {
+    "zipcode": "0120006",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "柳田"
+  },
+  "0120007": {
+    "zipcode": "0120007",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "八幡"
+  },
+  "0120008": {
+    "zipcode": "0120008",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "高前"
+  },
+  "0120011": {
+    "zipcode": "0120011",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "森"
+  },
+  "0120012": {
+    "zipcode": "0120012",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "大森"
+  },
+  "0120013": {
+    "zipcode": "0120013",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "栄田"
+  },
+  "0120014": {
+    "zipcode": "0120014",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "大倉谷地"
+  },
+  "0120015": {
+    "zipcode": "0120015",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "倉内"
+  },
+  "0120016": {
+    "zipcode": "0120016",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "千刈"
+  },
+  "0120017": {
+    "zipcode": "0120017",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "富士見"
+  },
+  "0120021": {
+    "zipcode": "0120021",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "黄金原"
+  },
+  "0120022": {
+    "zipcode": "0120022",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "祝田"
+  },
+  "0120023": {
+    "zipcode": "0120023",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "沖田"
+  },
+  "0120024": {
+    "zipcode": "0120024",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "赤土"
+  },
+  "0120025": {
+    "zipcode": "0120025",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "前島"
+  },
+  "0120026": {
+    "zipcode": "0120026",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "大島"
+  },
+  "0120031": {
+    "zipcode": "0120031",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "鶴館"
+  },
+  "0120032": {
+    "zipcode": "0120032",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "元清水"
+  },
+  "0120033": {
+    "zipcode": "0120033",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "清水町"
+  },
+  "0120034": {
+    "zipcode": "0120034",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "西新町"
+  },
+  "0120035": {
+    "zipcode": "0120035",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "幸町"
+  },
+  "0120036": {
+    "zipcode": "0120036",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "両神"
+  },
+  "0120037": {
+    "zipcode": "0120037",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "沖鶴"
+  },
+  "0120041": {
+    "zipcode": "0120041",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "中野"
+  },
+  "0120042": {
+    "zipcode": "0120042",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "小豆田"
+  },
+  "0120043": {
+    "zipcode": "0120043",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "万石"
+  },
+  "0120044": {
+    "zipcode": "0120044",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "中野々目"
+  },
+  "0120045": {
+    "zipcode": "0120045",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "岡田町"
+  },
+  "0120051": {
+    "zipcode": "0120051",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "深堀"
+  },
+  "0120052": {
+    "zipcode": "0120052",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "下中川原"
+  },
+  "0120053": {
+    "zipcode": "0120053",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "中川原"
+  },
+  "0120054": {
+    "zipcode": "0120054",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "西中川原"
+  },
+  "0120055": {
+    "zipcode": "0120055",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "山田"
+  },
+  "0120056": {
+    "zipcode": "0120056",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "藤花"
+  },
+  "0120057": {
+    "zipcode": "0120057",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "雄勝田"
+  },
+  "0120061": {
+    "zipcode": "0120061",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "松岡"
+  },
+  "0120062": {
+    "zipcode": "0120062",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "石塚"
+  },
+  "0120104": {
+    "zipcode": "0120104",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "駒形町"
+  },
+  "0120105": {
+    "zipcode": "0120105",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "川連町"
+  },
+  "0120106": {
+    "zipcode": "0120106",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "三梨町"
+  },
+  "0120107": {
+    "zipcode": "0120107",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "稲庭町"
+  },
+  "0120183": {
+    "zipcode": "0120183",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "皆瀬（その他）"
+  },
+  "0120801": {
+    "zipcode": "0120801",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "岩崎"
+  },
+  "0120802": {
+    "zipcode": "0120802",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "成沢"
+  },
+  "0120803": {
+    "zipcode": "0120803",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "杉沢新所"
+  },
+  "0120804": {
+    "zipcode": "0120804",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "杉沢"
+  },
+  "0120811": {
+    "zipcode": "0120811",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "桜通り"
+  },
+  "0120812": {
+    "zipcode": "0120812",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "東赤土山"
+  },
+  "0120813": {
+    "zipcode": "0120813",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "前森"
+  },
+  "0120814": {
+    "zipcode": "0120814",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "大工町"
+  },
+  "0120815": {
+    "zipcode": "0120815",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "古館町"
+  },
+  "0120821": {
+    "zipcode": "0120821",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "山谷"
+  },
+  "0120822": {
+    "zipcode": "0120822",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "下山谷"
+  },
+  "0120823": {
+    "zipcode": "0120823",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "湯ノ原"
+  },
+  "0120824": {
+    "zipcode": "0120824",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "佐竹町"
+  },
+  "0120825": {
+    "zipcode": "0120825",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "北荒町"
+  },
+  "0120826": {
+    "zipcode": "0120826",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "柳町"
+  },
+  "0120827": {
+    "zipcode": "0120827",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "表町"
+  },
+  "0120831": {
+    "zipcode": "0120831",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "角間沢"
+  },
+  "0120832": {
+    "zipcode": "0120832",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "広沢山"
+  },
+  "0120833": {
+    "zipcode": "0120833",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "カツクイ沢山"
+  },
+  "0120834": {
+    "zipcode": "0120834",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "岩ノ沢山"
+  },
+  "0120835": {
+    "zipcode": "0120835",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "鉦打沢"
+  },
+  "0120836": {
+    "zipcode": "0120836",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "金堀沢山"
+  },
+  "0120837": {
+    "zipcode": "0120837",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "西金堀沢山"
+  },
+  "0120838": {
+    "zipcode": "0120838",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "蛇野"
+  },
+  "0120841": {
+    "zipcode": "0120841",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "大町"
+  },
+  "0120842": {
+    "zipcode": "0120842",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "内舘町"
+  },
+  "0120843": {
+    "zipcode": "0120843",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "内町"
+  },
+  "0120844": {
+    "zipcode": "0120844",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "田町"
+  },
+  "0120845": {
+    "zipcode": "0120845",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "材木町"
+  },
+  "0120851": {
+    "zipcode": "0120851",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "吹張"
+  },
+  "0120852": {
+    "zipcode": "0120852",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "荒町"
+  },
+  "0120853": {
+    "zipcode": "0120853",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "新町"
+  },
+  "0120854": {
+    "zipcode": "0120854",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "鳶ケ沢山"
+  },
+  "0120855": {
+    "zipcode": "0120855",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "愛宕町"
+  },
+  "0120856": {
+    "zipcode": "0120856",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "御囲地町"
+  },
+  "0120857": {
+    "zipcode": "0120857",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "千石町"
+  },
+  "0120861": {
+    "zipcode": "0120861",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "東松沢"
+  },
+  "0120862": {
+    "zipcode": "0120862",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "関口"
+  },
+  "0120863": {
+    "zipcode": "0120863",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "下関"
+  },
+  "0120864": {
+    "zipcode": "0120864",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "上関"
+  },
+  "0120865": {
+    "zipcode": "0120865",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "沼樋"
+  },
+  "0120866": {
+    "zipcode": "0120866",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "西松沢"
+  },
+  "0120867": {
+    "zipcode": "0120867",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "南台"
+  },
+  "0120868": {
+    "zipcode": "0120868",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "西愛宕町"
+  },
+  "0120869": {
+    "zipcode": "0120869",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "town": "若葉町"
+  },
+  "0121100": {
+    "zipcode": "0121100",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "以下に掲載がない場合"
+  },
+  "0121101": {
+    "zipcode": "0121101",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "大沢"
+  },
+  "0121102": {
+    "zipcode": "0121102",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "新町"
+  },
+  "0121103": {
+    "zipcode": "0121103",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "林崎"
+  },
+  "0121104": {
+    "zipcode": "0121104",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "堀内"
+  },
+  "0121105": {
+    "zipcode": "0121105",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "水沢"
+  },
+  "0121106": {
+    "zipcode": "0121106",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "払体"
+  },
+  "0121111": {
+    "zipcode": "0121111",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "嶋田新田"
+  },
+  "0121112": {
+    "zipcode": "0121112",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "睦合"
+  },
+  "0121113": {
+    "zipcode": "0121113",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "郡山"
+  },
+  "0121114": {
+    "zipcode": "0121114",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "糠塚"
+  },
+  "0121115": {
+    "zipcode": "0121115",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "足田"
+  },
+  "0121116": {
+    "zipcode": "0121116",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "高尾田"
+  },
+  "0121121": {
+    "zipcode": "0121121",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "大久保"
+  },
+  "0121122": {
+    "zipcode": "0121122",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "柏原"
+  },
+  "0121123": {
+    "zipcode": "0121123",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "貝沢"
+  },
+  "0121124": {
+    "zipcode": "0121124",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "赤袴"
+  },
+  "0121125": {
+    "zipcode": "0121125",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "野中"
+  },
+  "0121126": {
+    "zipcode": "0121126",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "杉宮"
+  },
+  "0121131": {
+    "zipcode": "0121131",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "西馬音内"
+  },
+  "0121132": {
+    "zipcode": "0121132",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "大戸"
+  },
+  "0121133": {
+    "zipcode": "0121133",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "床舞"
+  },
+  "0121134": {
+    "zipcode": "0121134",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "田沢"
+  },
+  "0121135": {
+    "zipcode": "0121135",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "鹿内"
+  },
+  "0121136": {
+    "zipcode": "0121136",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "飯沢"
+  },
+  "0121137": {
+    "zipcode": "0121137",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "西馬音内堀回"
+  },
+  "0121241": {
+    "zipcode": "0121241",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "田代"
+  },
+  "0121242": {
+    "zipcode": "0121242",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "上到米"
+  },
+  "0121243": {
+    "zipcode": "0121243",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "軽井沢"
+  },
+  "0121351": {
+    "zipcode": "0121351",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "下仙道"
+  },
+  "0121352": {
+    "zipcode": "0121352",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "中仙道"
+  },
+  "0121353": {
+    "zipcode": "0121353",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "雄勝郡羽後町",
+    "town": "上仙道"
+  }
+}

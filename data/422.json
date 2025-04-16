@@ -1,0 +1,506 @@
+{
+  "4220000": {
+    "zipcode": "4220000",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市清水区",
+    "town": "以下に掲載がない場合"
+  },
+  "4228001": {
+    "zipcode": "4228001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中吉田"
+  },
+  "4228002": {
+    "zipcode": "4228002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "谷田"
+  },
+  "4228003": {
+    "zipcode": "4228003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "平沢"
+  },
+  "4228004": {
+    "zipcode": "4228004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "国吉田"
+  },
+  "4228005": {
+    "zipcode": "4228005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "池田"
+  },
+  "4228006": {
+    "zipcode": "4228006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "曲金"
+  },
+  "4228007": {
+    "zipcode": "4228007",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "聖一色"
+  },
+  "4228008": {
+    "zipcode": "4228008",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "栗原"
+  },
+  "4228009": {
+    "zipcode": "4228009",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "弥生町"
+  },
+  "4228011": {
+    "zipcode": "4228011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "根古屋"
+  },
+  "4228012": {
+    "zipcode": "4228012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "安居"
+  },
+  "4228013": {
+    "zipcode": "4228013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "古宿"
+  },
+  "4228014": {
+    "zipcode": "4228014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "青沢"
+  },
+  "4228015": {
+    "zipcode": "4228015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中平松"
+  },
+  "4228016": {
+    "zipcode": "4228016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "西平松"
+  },
+  "4228017": {
+    "zipcode": "4228017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "大谷"
+  },
+  "4228018": {
+    "zipcode": "4228018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "西大谷"
+  },
+  "4228019": {
+    "zipcode": "4228019",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "東静岡"
+  },
+  "4228021": {
+    "zipcode": "4228021",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "小鹿"
+  },
+  "4228022": {
+    "zipcode": "4228022",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "恩田原"
+  },
+  "4228023": {
+    "zipcode": "4228023",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "片山"
+  },
+  "4228024": {
+    "zipcode": "4228024",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "宮川"
+  },
+  "4228025": {
+    "zipcode": "4228025",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "水上"
+  },
+  "4228026": {
+    "zipcode": "4228026",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "富士見台"
+  },
+  "4228027": {
+    "zipcode": "4228027",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "豊田"
+  },
+  "4228031": {
+    "zipcode": "4228031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "有明町"
+  },
+  "4228032": {
+    "zipcode": "4228032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "有東"
+  },
+  "4228033": {
+    "zipcode": "4228033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "登呂"
+  },
+  "4228034": {
+    "zipcode": "4228034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "高松"
+  },
+  "4228035": {
+    "zipcode": "4228035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "宮竹"
+  },
+  "4228036": {
+    "zipcode": "4228036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "敷地"
+  },
+  "4228037": {
+    "zipcode": "4228037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "下島"
+  },
+  "4228041": {
+    "zipcode": "4228041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中田"
+  },
+  "4228042": {
+    "zipcode": "4228042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "石田"
+  },
+  "4228043": {
+    "zipcode": "4228043",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中田本町"
+  },
+  "4228044": {
+    "zipcode": "4228044",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "西脇"
+  },
+  "4228045": {
+    "zipcode": "4228045",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "西島"
+  },
+  "4228046": {
+    "zipcode": "4228046",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中島"
+  },
+  "4228047": {
+    "zipcode": "4228047",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中村町"
+  },
+  "4228051": {
+    "zipcode": "4228051",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中野新田"
+  },
+  "4228052": {
+    "zipcode": "4228052",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "緑が丘町"
+  },
+  "4228053": {
+    "zipcode": "4228053",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "西中原"
+  },
+  "4228054": {
+    "zipcode": "4228054",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "南安倍（３丁目）"
+  },
+  "4228055": {
+    "zipcode": "4228055",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "寿町"
+  },
+  "4228056": {
+    "zipcode": "4228056",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "津島町"
+  },
+  "4228057": {
+    "zipcode": "4228057",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "見瀬"
+  },
+  "4228058": {
+    "zipcode": "4228058",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "中原"
+  },
+  "4228061": {
+    "zipcode": "4228061",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "森下町"
+  },
+  "4228062": {
+    "zipcode": "4228062",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "稲川"
+  },
+  "4228063": {
+    "zipcode": "4228063",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "馬渕"
+  },
+  "4228064": {
+    "zipcode": "4228064",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "新川"
+  },
+  "4228065": {
+    "zipcode": "4228065",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "宮本町"
+  },
+  "4228066": {
+    "zipcode": "4228066",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "泉町"
+  },
+  "4228067": {
+    "zipcode": "4228067",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "南町"
+  },
+  "4228071": {
+    "zipcode": "4228071",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "豊原町"
+  },
+  "4228072": {
+    "zipcode": "4228072",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "小黒"
+  },
+  "4228073": {
+    "zipcode": "4228073",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "八幡山"
+  },
+  "4228074": {
+    "zipcode": "4228074",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "南八幡町"
+  },
+  "4228075": {
+    "zipcode": "4228075",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "大坪町"
+  },
+  "4228076": {
+    "zipcode": "4228076",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "八幡"
+  },
+  "4228077": {
+    "zipcode": "4228077",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "大和"
+  },
+  "4228078": {
+    "zipcode": "4228078",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "town": "さつき町"
+  }
+}

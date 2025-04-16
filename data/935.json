@@ -1,0 +1,978 @@
+{
+  "9350000": {
+    "zipcode": "9350000",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "以下に掲載がない場合"
+  },
+  "9350001": {
+    "zipcode": "9350001",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "北八代"
+  },
+  "9350002": {
+    "zipcode": "9350002",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "阿尾"
+  },
+  "9350003": {
+    "zipcode": "9350003",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "間島"
+  },
+  "9350004": {
+    "zipcode": "9350004",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "北大町"
+  },
+  "9350005": {
+    "zipcode": "9350005",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "栄町"
+  },
+  "9350006": {
+    "zipcode": "9350006",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "稲積"
+  },
+  "9350007": {
+    "zipcode": "9350007",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "指崎"
+  },
+  "9350011": {
+    "zipcode": "9350011",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中央町"
+  },
+  "9350012": {
+    "zipcode": "9350012",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "比美町"
+  },
+  "9350013": {
+    "zipcode": "9350013",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "南大町"
+  },
+  "9350014": {
+    "zipcode": "9350014",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "地蔵町"
+  },
+  "9350015": {
+    "zipcode": "9350015",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "伊勢大町"
+  },
+  "9350016": {
+    "zipcode": "9350016",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "本町"
+  },
+  "9350017": {
+    "zipcode": "9350017",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "丸の内"
+  },
+  "9350021": {
+    "zipcode": "9350021",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "幸町"
+  },
+  "9350022": {
+    "zipcode": "9350022",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "朝日本町"
+  },
+  "9350023": {
+    "zipcode": "9350023",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "朝日丘"
+  },
+  "9350024": {
+    "zipcode": "9350024",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "窪"
+  },
+  "9350025": {
+    "zipcode": "9350025",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "鞍川"
+  },
+  "9350026": {
+    "zipcode": "9350026",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大野"
+  },
+  "9350027": {
+    "zipcode": "9350027",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大野新"
+  },
+  "9350031": {
+    "zipcode": "9350031",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "柳田"
+  },
+  "9350032": {
+    "zipcode": "9350032",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "島尾"
+  },
+  "9350033": {
+    "zipcode": "9350033",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "宮田"
+  },
+  "9350034": {
+    "zipcode": "9350034",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小竹"
+  },
+  "9350035": {
+    "zipcode": "9350035",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "上田子"
+  },
+  "9350036": {
+    "zipcode": "9350036",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "下田子"
+  },
+  "9350037": {
+    "zipcode": "9350037",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "上泉"
+  },
+  "9350041": {
+    "zipcode": "9350041",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "園"
+  },
+  "9350042": {
+    "zipcode": "9350042",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "湖光"
+  },
+  "9350043": {
+    "zipcode": "9350043",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "川崎"
+  },
+  "9350044": {
+    "zipcode": "9350044",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "川尻"
+  },
+  "9350045": {
+    "zipcode": "9350045",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "海津"
+  },
+  "9350046": {
+    "zipcode": "9350046",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "下久津呂"
+  },
+  "9350047": {
+    "zipcode": "9350047",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "上久津呂"
+  },
+  "9350051": {
+    "zipcode": "9350051",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "十二町"
+  },
+  "9350052": {
+    "zipcode": "9350052",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "坂津"
+  },
+  "9350053": {
+    "zipcode": "9350053",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "万尾"
+  },
+  "9350054": {
+    "zipcode": "9350054",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "粟原"
+  },
+  "9350055": {
+    "zipcode": "9350055",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中谷内"
+  },
+  "9350056": {
+    "zipcode": "9350056",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "上田"
+  },
+  "9350057": {
+    "zipcode": "9350057",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "西朴木"
+  },
+  "9350061": {
+    "zipcode": "9350061",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "余川"
+  },
+  "9350062": {
+    "zipcode": "9350062",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "諏訪野"
+  },
+  "9350063": {
+    "zipcode": "9350063",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "加納"
+  },
+  "9350064": {
+    "zipcode": "9350064",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中尾"
+  },
+  "9350065": {
+    "zipcode": "9350065",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "泉"
+  },
+  "9350066": {
+    "zipcode": "9350066",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "七分一"
+  },
+  "9350067": {
+    "zipcode": "9350067",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "柿谷"
+  },
+  "9350101": {
+    "zipcode": "9350101",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大浦新町"
+  },
+  "9350102": {
+    "zipcode": "9350102",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中島"
+  },
+  "9350103": {
+    "zipcode": "9350103",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大浦"
+  },
+  "9350104": {
+    "zipcode": "9350104",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "堀田"
+  },
+  "9350105": {
+    "zipcode": "9350105",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "蒲田"
+  },
+  "9350106": {
+    "zipcode": "9350106",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "神代"
+  },
+  "9350107": {
+    "zipcode": "9350107",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "矢方"
+  },
+  "9350111": {
+    "zipcode": "9350111",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "布施"
+  },
+  "9350112": {
+    "zipcode": "9350112",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "飯久保"
+  },
+  "9350113": {
+    "zipcode": "9350113",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "惣領"
+  },
+  "9350114": {
+    "zipcode": "9350114",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "仏生寺"
+  },
+  "9350115": {
+    "zipcode": "9350115",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "鉾根"
+  },
+  "9350116": {
+    "zipcode": "9350116",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "矢田部"
+  },
+  "9350117": {
+    "zipcode": "9350117",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "深原"
+  },
+  "9350251": {
+    "zipcode": "9350251",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "熊無"
+  },
+  "9350252": {
+    "zipcode": "9350252",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中村"
+  },
+  "9350253": {
+    "zipcode": "9350253",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "谷屋"
+  },
+  "9350254": {
+    "zipcode": "9350254",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "新保"
+  },
+  "9350255": {
+    "zipcode": "9350255",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "早借"
+  },
+  "9350256": {
+    "zipcode": "9350256",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "田江"
+  },
+  "9350257": {
+    "zipcode": "9350257",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小窪"
+  },
+  "9350258": {
+    "zipcode": "9350258",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "論田"
+  },
+  "9350261": {
+    "zipcode": "9350261",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "三尾"
+  },
+  "9350262": {
+    "zipcode": "9350262",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "日名田"
+  },
+  "9350263": {
+    "zipcode": "9350263",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小久米"
+  },
+  "9350264": {
+    "zipcode": "9350264",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "日詰"
+  },
+  "9350265": {
+    "zipcode": "9350265",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "久目"
+  },
+  "9350266": {
+    "zipcode": "9350266",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "触坂"
+  },
+  "9350267": {
+    "zipcode": "9350267",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "見内"
+  },
+  "9350268": {
+    "zipcode": "9350268",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "葛葉"
+  },
+  "9350269": {
+    "zipcode": "9350269",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "床鍋"
+  },
+  "9350271": {
+    "zipcode": "9350271",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "老谷"
+  },
+  "9350272": {
+    "zipcode": "9350272",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "岩瀬"
+  },
+  "9350273": {
+    "zipcode": "9350273",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "桑院"
+  },
+  "9350274": {
+    "zipcode": "9350274",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "赤毛"
+  },
+  "9350275": {
+    "zipcode": "9350275",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "土倉"
+  },
+  "9350276": {
+    "zipcode": "9350276",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "坪池"
+  },
+  "9350277": {
+    "zipcode": "9350277",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "棚懸"
+  },
+  "9350278": {
+    "zipcode": "9350278",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "一の島"
+  },
+  "9350331": {
+    "zipcode": "9350331",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "角間"
+  },
+  "9350332": {
+    "zipcode": "9350332",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "森寺"
+  },
+  "9350333": {
+    "zipcode": "9350333",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "吉滝"
+  },
+  "9350334": {
+    "zipcode": "9350334",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "針木"
+  },
+  "9350335": {
+    "zipcode": "9350335",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "胡桃"
+  },
+  "9350336": {
+    "zipcode": "9350336",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "国見"
+  },
+  "9350337": {
+    "zipcode": "9350337",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小滝"
+  },
+  "9350338": {
+    "zipcode": "9350338",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "磯辺"
+  },
+  "9350341": {
+    "zipcode": "9350341",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "一刎"
+  },
+  "9350342": {
+    "zipcode": "9350342",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "吉懸"
+  },
+  "9350343": {
+    "zipcode": "9350343",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "味川"
+  },
+  "9350344": {
+    "zipcode": "9350344",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "上余川"
+  },
+  "9350345": {
+    "zipcode": "9350345",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "寺尾"
+  },
+  "9350346": {
+    "zipcode": "9350346",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "懸札"
+  },
+  "9350401": {
+    "zipcode": "9350401",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "脇"
+  },
+  "9350402": {
+    "zipcode": "9350402",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中波"
+  },
+  "9350403": {
+    "zipcode": "9350403",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "中田"
+  },
+  "9350404": {
+    "zipcode": "9350404",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "平沢"
+  },
+  "9350405": {
+    "zipcode": "9350405",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "吉岡"
+  },
+  "9350406": {
+    "zipcode": "9350406",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "平"
+  },
+  "9350411": {
+    "zipcode": "9350411",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "姿"
+  },
+  "9350412": {
+    "zipcode": "9350412",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大境"
+  },
+  "9350413": {
+    "zipcode": "9350413",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小境"
+  },
+  "9350414": {
+    "zipcode": "9350414",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "白川"
+  },
+  "9350415": {
+    "zipcode": "9350415",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "戸津宮"
+  },
+  "9350416": {
+    "zipcode": "9350416",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "大窪"
+  },
+  "9350417": {
+    "zipcode": "9350417",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "長坂"
+  },
+  "9350421": {
+    "zipcode": "9350421",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "脇方"
+  },
+  "9350422": {
+    "zipcode": "9350422",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "宇波"
+  },
+  "9350423": {
+    "zipcode": "9350423",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "泊"
+  },
+  "9350424": {
+    "zipcode": "9350424",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "小杉"
+  },
+  "9350425": {
+    "zipcode": "9350425",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "薮田"
+  },
+  "9350426": {
+    "zipcode": "9350426",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "氷見市",
+    "town": "五十谷"
+  }
+}

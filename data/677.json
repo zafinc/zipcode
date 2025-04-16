@@ -1,0 +1,506 @@
+{
+  "6770000": {
+    "zipcode": "6770000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "以下に掲載がない場合"
+  },
+  "6770001": {
+    "zipcode": "6770001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "大木町"
+  },
+  "6770002": {
+    "zipcode": "6770002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "前島町"
+  },
+  "6770003": {
+    "zipcode": "6770003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "西田町"
+  },
+  "6770004": {
+    "zipcode": "6770004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "市原町"
+  },
+  "6770005": {
+    "zipcode": "6770005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "野中町"
+  },
+  "6770006": {
+    "zipcode": "6770006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "羽安町"
+  },
+  "6770011": {
+    "zipcode": "6770011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "富吉上町"
+  },
+  "6770012": {
+    "zipcode": "6770012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "富吉南町"
+  },
+  "6770013": {
+    "zipcode": "6770013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "日野町"
+  },
+  "6770014": {
+    "zipcode": "6770014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "郷瀬町"
+  },
+  "6770015": {
+    "zipcode": "6770015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "西脇"
+  },
+  "6770016": {
+    "zipcode": "6770016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "高田井町"
+  },
+  "6770017": {
+    "zipcode": "6770017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "小坂町"
+  },
+  "6770018": {
+    "zipcode": "6770018",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "富田町"
+  },
+  "6770021": {
+    "zipcode": "6770021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "蒲江"
+  },
+  "6770022": {
+    "zipcode": "6770022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "寺内"
+  },
+  "6770023": {
+    "zipcode": "6770023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "西嶋"
+  },
+  "6770024": {
+    "zipcode": "6770024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "嶋"
+  },
+  "6770025": {
+    "zipcode": "6770025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "大野"
+  },
+  "6770026": {
+    "zipcode": "6770026",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "坂本"
+  },
+  "6770031": {
+    "zipcode": "6770031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "住吉町"
+  },
+  "6770032": {
+    "zipcode": "6770032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "中畑町"
+  },
+  "6770033": {
+    "zipcode": "6770033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "鹿野町"
+  },
+  "6770034": {
+    "zipcode": "6770034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "塚口町"
+  },
+  "6770035": {
+    "zipcode": "6770035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "上戸田"
+  },
+  "6770036": {
+    "zipcode": "6770036",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "津万"
+  },
+  "6770037": {
+    "zipcode": "6770037",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "比延町"
+  },
+  "6770038": {
+    "zipcode": "6770038",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "大垣内"
+  },
+  "6770039": {
+    "zipcode": "6770039",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "上比延町"
+  },
+  "6770041": {
+    "zipcode": "6770041",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "高嶋町"
+  },
+  "6770042": {
+    "zipcode": "6770042",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "堀町"
+  },
+  "6770043": {
+    "zipcode": "6770043",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "下戸田"
+  },
+  "6770044": {
+    "zipcode": "6770044",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "上野"
+  },
+  "6770051": {
+    "zipcode": "6770051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "谷町"
+  },
+  "6770052": {
+    "zipcode": "6770052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "和田町"
+  },
+  "6770053": {
+    "zipcode": "6770053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "和布町"
+  },
+  "6770054": {
+    "zipcode": "6770054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "野村町"
+  },
+  "6770055": {
+    "zipcode": "6770055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "高松町"
+  },
+  "6770056": {
+    "zipcode": "6770056",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "板波町"
+  },
+  "6770057": {
+    "zipcode": "6770057",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "野村町茜が丘"
+  },
+  "6770061": {
+    "zipcode": "6770061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "合山町"
+  },
+  "6770062": {
+    "zipcode": "6770062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "出会町"
+  },
+  "6770063": {
+    "zipcode": "6770063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "平野町"
+  },
+  "6770064": {
+    "zipcode": "6770064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "八坂町"
+  },
+  "6770065": {
+    "zipcode": "6770065",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "岡崎町"
+  },
+  "6770066": {
+    "zipcode": "6770066",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "水尾町"
+  },
+  "6770067": {
+    "zipcode": "6770067",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "明楽寺町"
+  },
+  "6770068": {
+    "zipcode": "6770068",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "落方町"
+  },
+  "6770069": {
+    "zipcode": "6770069",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西脇市",
+    "town": "上王子町"
+  },
+  "6770101": {
+    "zipcode": "6770101",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区大屋"
+  },
+  "6770102": {
+    "zipcode": "6770102",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区坂本"
+  },
+  "6770103": {
+    "zipcode": "6770103",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区中村"
+  },
+  "6770104": {
+    "zipcode": "6770104",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区横屋"
+  },
+  "6770105": {
+    "zipcode": "6770105",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区下村"
+  },
+  "6770111": {
+    "zipcode": "6770111",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区門田"
+  },
+  "6770112": {
+    "zipcode": "6770112",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区赤坂"
+  },
+  "6770113": {
+    "zipcode": "6770113",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区俵田"
+  },
+  "6770114": {
+    "zipcode": "6770114",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区仕出原"
+  },
+  "6770121": {
+    "zipcode": "6770121",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区中野間"
+  },
+  "6770122": {
+    "zipcode": "6770122",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区下野間"
+  },
+  "6770131": {
+    "zipcode": "6770131",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区下三原"
+  },
+  "6770132": {
+    "zipcode": "6770132",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "多可郡多可町",
+    "town": "八千代区大和"
+  }
+}

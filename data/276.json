@@ -1,0 +1,346 @@
+{
+  "2760000": {
+    "zipcode": "2760000",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "以下に掲載がない場合"
+  },
+  "2760001": {
+    "zipcode": "2760001",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "小池"
+  },
+  "2760002": {
+    "zipcode": "2760002",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "真木野"
+  },
+  "2760003": {
+    "zipcode": "2760003",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "大学町"
+  },
+  "2760004": {
+    "zipcode": "2760004",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "島田台"
+  },
+  "2760005": {
+    "zipcode": "2760005",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "島田"
+  },
+  "2760006": {
+    "zipcode": "2760006",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "桑納"
+  },
+  "2760007": {
+    "zipcode": "2760007",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "桑橋"
+  },
+  "2760008": {
+    "zipcode": "2760008",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "神久保"
+  },
+  "2760011": {
+    "zipcode": "2760011",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "佐山"
+  },
+  "2760012": {
+    "zipcode": "2760012",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "堀の内"
+  },
+  "2760013": {
+    "zipcode": "2760013",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "保品"
+  },
+  "2760014": {
+    "zipcode": "2760014",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "米本（米本団地）"
+  },
+  "2760015": {
+    "zipcode": "2760015",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "米本（その他）"
+  },
+  "2760016": {
+    "zipcode": "2760016",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "神野"
+  },
+  "2760017": {
+    "zipcode": "2760017",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "平戸"
+  },
+  "2760020": {
+    "zipcode": "2760020",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "勝田台北"
+  },
+  "2760021": {
+    "zipcode": "2760021",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "下高野"
+  },
+  "2760022": {
+    "zipcode": "2760022",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "上高野"
+  },
+  "2760023": {
+    "zipcode": "2760023",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "勝田台"
+  },
+  "2760024": {
+    "zipcode": "2760024",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "勝田"
+  },
+  "2760025": {
+    "zipcode": "2760025",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "勝田台南"
+  },
+  "2760026": {
+    "zipcode": "2760026",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "下市場"
+  },
+  "2760027": {
+    "zipcode": "2760027",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "村上（村上団地）"
+  },
+  "2760028": {
+    "zipcode": "2760028",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "村上（その他）"
+  },
+  "2760029": {
+    "zipcode": "2760029",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "村上南"
+  },
+  "2760031": {
+    "zipcode": "2760031",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "八千代台北"
+  },
+  "2760032": {
+    "zipcode": "2760032",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "八千代台東"
+  },
+  "2760033": {
+    "zipcode": "2760033",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "八千代台南"
+  },
+  "2760034": {
+    "zipcode": "2760034",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "八千代台西"
+  },
+  "2760035": {
+    "zipcode": "2760035",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "高津（高津団地）"
+  },
+  "2760036": {
+    "zipcode": "2760036",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "高津（その他）"
+  },
+  "2760037": {
+    "zipcode": "2760037",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "高津東"
+  },
+  "2760040": {
+    "zipcode": "2760040",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "緑が丘西"
+  },
+  "2760041": {
+    "zipcode": "2760041",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "麦丸"
+  },
+  "2760042": {
+    "zipcode": "2760042",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "ゆりのき台"
+  },
+  "2760043": {
+    "zipcode": "2760043",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "萱田"
+  },
+  "2760044": {
+    "zipcode": "2760044",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "萱田町"
+  },
+  "2760045": {
+    "zipcode": "2760045",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "大和田"
+  },
+  "2760046": {
+    "zipcode": "2760046",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "大和田新田（その他）"
+  },
+  "2760047": {
+    "zipcode": "2760047",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "吉橋"
+  },
+  "2760048": {
+    "zipcode": "2760048",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "尾崎"
+  },
+  "2760049": {
+    "zipcode": "2760049",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "town": "緑が丘"
+  }
+}

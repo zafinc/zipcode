@@ -1,0 +1,1754 @@
+{
+  "5060000": {
+    "zipcode": "5060000",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "以下に掲載がない場合"
+  },
+  "5060001": {
+    "zipcode": "5060001",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "冬頭町"
+  },
+  "5060002": {
+    "zipcode": "5060002",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "問屋町"
+  },
+  "5060003": {
+    "zipcode": "5060003",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "本母町"
+  },
+  "5060004": {
+    "zipcode": "5060004",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "桐生町"
+  },
+  "5060005": {
+    "zipcode": "5060005",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "七日町"
+  },
+  "5060006": {
+    "zipcode": "5060006",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "神田町"
+  },
+  "5060007": {
+    "zipcode": "5060007",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "総和町"
+  },
+  "5060008": {
+    "zipcode": "5060008",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "初田町"
+  },
+  "5060009": {
+    "zipcode": "5060009",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "花岡町"
+  },
+  "5060011": {
+    "zipcode": "5060011",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "本町"
+  },
+  "5060012": {
+    "zipcode": "5060012",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "八軒町"
+  },
+  "5060013": {
+    "zipcode": "5060013",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "有楽町"
+  },
+  "5060014": {
+    "zipcode": "5060014",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "相生町"
+  },
+  "5060015": {
+    "zipcode": "5060015",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "花川町"
+  },
+  "5060016": {
+    "zipcode": "5060016",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "末広町"
+  },
+  "5060017": {
+    "zipcode": "5060017",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "朝日町"
+  },
+  "5060021": {
+    "zipcode": "5060021",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "名田町"
+  },
+  "5060022": {
+    "zipcode": "5060022",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "西町"
+  },
+  "5060023": {
+    "zipcode": "5060023",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "川原町"
+  },
+  "5060024": {
+    "zipcode": "5060024",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上川原町"
+  },
+  "5060025": {
+    "zipcode": "5060025",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "天満町"
+  },
+  "5060026": {
+    "zipcode": "5060026",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "花里町"
+  },
+  "5060031": {
+    "zipcode": "5060031",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "西之一色町"
+  },
+  "5060032": {
+    "zipcode": "5060032",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "千島町"
+  },
+  "5060033": {
+    "zipcode": "5060033",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "越後町"
+  },
+  "5060034": {
+    "zipcode": "5060034",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "松倉町"
+  },
+  "5060035": {
+    "zipcode": "5060035",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "新宮町"
+  },
+  "5060041": {
+    "zipcode": "5060041",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下切町"
+  },
+  "5060042": {
+    "zipcode": "5060042",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "旭ケ丘町"
+  },
+  "5060043": {
+    "zipcode": "5060043",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "中切町"
+  },
+  "5060044": {
+    "zipcode": "5060044",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上切町"
+  },
+  "5060045": {
+    "zipcode": "5060045",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "赤保木町"
+  },
+  "5060046": {
+    "zipcode": "5060046",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下之切町"
+  },
+  "5060047": {
+    "zipcode": "5060047",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "八日町"
+  },
+  "5060048": {
+    "zipcode": "5060048",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "前原町"
+  },
+  "5060051": {
+    "zipcode": "5060051",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "中山町"
+  },
+  "5060052": {
+    "zipcode": "5060052",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下岡本町"
+  },
+  "5060053": {
+    "zipcode": "5060053",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "昭和町"
+  },
+  "5060054": {
+    "zipcode": "5060054",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "岡本町"
+  },
+  "5060055": {
+    "zipcode": "5060055",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上岡本町"
+  },
+  "5060056": {
+    "zipcode": "5060056",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "緑ケ丘町"
+  },
+  "5060057": {
+    "zipcode": "5060057",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "匠ケ丘町"
+  },
+  "5060058": {
+    "zipcode": "5060058",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "山田町"
+  },
+  "5060059": {
+    "zipcode": "5060059",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下林町"
+  },
+  "5060101": {
+    "zipcode": "5060101",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町牧ケ洞"
+  },
+  "5060102": {
+    "zipcode": "5060102",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町三日町"
+  },
+  "5060103": {
+    "zipcode": "5060103",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町藤瀬"
+  },
+  "5060104": {
+    "zipcode": "5060104",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町福寄"
+  },
+  "5060105": {
+    "zipcode": "5060105",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町三ツ谷"
+  },
+  "5060106": {
+    "zipcode": "5060106",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町坂下"
+  },
+  "5060107": {
+    "zipcode": "5060107",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町巣野俣"
+  },
+  "5060201": {
+    "zipcode": "5060201",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町江黒"
+  },
+  "5060202": {
+    "zipcode": "5060202",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町大谷"
+  },
+  "5060203": {
+    "zipcode": "5060203",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町池本"
+  },
+  "5060204": {
+    "zipcode": "5060204",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町二本木"
+  },
+  "5060205": {
+    "zipcode": "5060205",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町夏厩"
+  },
+  "5060206": {
+    "zipcode": "5060206",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町上小鳥"
+  },
+  "5060207": {
+    "zipcode": "5060207",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "清見町森茂"
+  },
+  "5060271": {
+    "zipcode": "5060271",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "河合町舟原"
+  },
+  "5060801": {
+    "zipcode": "5060801",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上野町"
+  },
+  "5060802": {
+    "zipcode": "5060802",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "松之木町"
+  },
+  "5060803": {
+    "zipcode": "5060803",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "日の出町"
+  },
+  "5060804": {
+    "zipcode": "5060804",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "長坂町"
+  },
+  "5060805": {
+    "zipcode": "5060805",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "東山町"
+  },
+  "5060806": {
+    "zipcode": "5060806",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "曙町"
+  },
+  "5060807": {
+    "zipcode": "5060807",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "三福寺町"
+  },
+  "5060808": {
+    "zipcode": "5060808",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "松本町"
+  },
+  "5060811": {
+    "zipcode": "5060811",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "大洞町"
+  },
+  "5060812": {
+    "zipcode": "5060812",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "漆垣内町"
+  },
+  "5060813": {
+    "zipcode": "5060813",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "塩屋町"
+  },
+  "5060814": {
+    "zipcode": "5060814",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "滝町"
+  },
+  "5060815": {
+    "zipcode": "5060815",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "岩井町"
+  },
+  "5060816": {
+    "zipcode": "5060816",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "大島町"
+  },
+  "5060817": {
+    "zipcode": "5060817",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "山口町"
+  },
+  "5060818": {
+    "zipcode": "5060818",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "江名子町"
+  },
+  "5060821": {
+    "zipcode": "5060821",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "神明町"
+  },
+  "5060822": {
+    "zipcode": "5060822",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "城山"
+  },
+  "5060823": {
+    "zipcode": "5060823",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "森下町"
+  },
+  "5060824": {
+    "zipcode": "5060824",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "片野町"
+  },
+  "5060825": {
+    "zipcode": "5060825",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "石浦町"
+  },
+  "5060831": {
+    "zipcode": "5060831",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "吹屋町"
+  },
+  "5060832": {
+    "zipcode": "5060832",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "天性寺町"
+  },
+  "5060833": {
+    "zipcode": "5060833",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "西洞町"
+  },
+  "5060834": {
+    "zipcode": "5060834",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "宗猷寺町"
+  },
+  "5060835": {
+    "zipcode": "5060835",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "春日町"
+  },
+  "5060836": {
+    "zipcode": "5060836",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "島川原町"
+  },
+  "5060837": {
+    "zipcode": "5060837",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "堀端町"
+  },
+  "5060838": {
+    "zipcode": "5060838",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "馬場町"
+  },
+  "5060841": {
+    "zipcode": "5060841",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下三之町"
+  },
+  "5060842": {
+    "zipcode": "5060842",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下二之町"
+  },
+  "5060843": {
+    "zipcode": "5060843",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "下一之町"
+  },
+  "5060844": {
+    "zipcode": "5060844",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上一之町"
+  },
+  "5060845": {
+    "zipcode": "5060845",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上二之町"
+  },
+  "5060846": {
+    "zipcode": "5060846",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上三之町"
+  },
+  "5060847": {
+    "zipcode": "5060847",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "片原町"
+  },
+  "5060851": {
+    "zipcode": "5060851",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "大新町"
+  },
+  "5060852": {
+    "zipcode": "5060852",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "八幡町"
+  },
+  "5060853": {
+    "zipcode": "5060853",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "左京町"
+  },
+  "5060854": {
+    "zipcode": "5060854",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "若達町"
+  },
+  "5060855": {
+    "zipcode": "5060855",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "愛宕町"
+  },
+  "5060856": {
+    "zipcode": "5060856",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "大門町"
+  },
+  "5060857": {
+    "zipcode": "5060857",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "鉄砲町"
+  },
+  "5060858": {
+    "zipcode": "5060858",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "桜町"
+  },
+  "5061100": {
+    "zipcode": "5061100",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "以下に掲載がない場合"
+  },
+  "5061101": {
+    "zipcode": "5061101",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町和佐府"
+  },
+  "5061102": {
+    "zipcode": "5061102",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町打保"
+  },
+  "5061103": {
+    "zipcode": "5061103",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町岩井谷"
+  },
+  "5061104": {
+    "zipcode": "5061104",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町森茂"
+  },
+  "5061105": {
+    "zipcode": "5061105",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町和佐保"
+  },
+  "5061106": {
+    "zipcode": "5061106",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町伊西"
+  },
+  "5061107": {
+    "zipcode": "5061107",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町下之本"
+  },
+  "5061108": {
+    "zipcode": "5061108",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町瀬戸"
+  },
+  "5061111": {
+    "zipcode": "5061111",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町六郎"
+  },
+  "5061112": {
+    "zipcode": "5061112",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町割石"
+  },
+  "5061113": {
+    "zipcode": "5061113",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町吉ケ原"
+  },
+  "5061114": {
+    "zipcode": "5061114",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町鹿間"
+  },
+  "5061121": {
+    "zipcode": "5061121",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町殿"
+  },
+  "5061122": {
+    "zipcode": "5061122",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町坂富町"
+  },
+  "5061123": {
+    "zipcode": "5061123",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町城ケ丘"
+  },
+  "5061124": {
+    "zipcode": "5061124",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町夕陽ケ丘"
+  },
+  "5061125": {
+    "zipcode": "5061125",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町江馬町"
+  },
+  "5061126": {
+    "zipcode": "5061126",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町桜ケ丘"
+  },
+  "5061131": {
+    "zipcode": "5061131",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町麻生野"
+  },
+  "5061132": {
+    "zipcode": "5061132",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町石神"
+  },
+  "5061133": {
+    "zipcode": "5061133",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町数河"
+  },
+  "5061141": {
+    "zipcode": "5061141",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町野首"
+  },
+  "5061142": {
+    "zipcode": "5061142",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町丸山"
+  },
+  "5061143": {
+    "zipcode": "5061143",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町小萱"
+  },
+  "5061144": {
+    "zipcode": "5061144",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町吉田"
+  },
+  "5061145": {
+    "zipcode": "5061145",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町釜崎"
+  },
+  "5061146": {
+    "zipcode": "5061146",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町緑ケ丘"
+  },
+  "5061147": {
+    "zipcode": "5061147",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町東雲"
+  },
+  "5061148": {
+    "zipcode": "5061148",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町館野町"
+  },
+  "5061149": {
+    "zipcode": "5061149",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町阿曽保"
+  },
+  "5061151": {
+    "zipcode": "5061151",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町梨ケ根"
+  },
+  "5061152": {
+    "zipcode": "5061152",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町寺林"
+  },
+  "5061153": {
+    "zipcode": "5061153",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町堀之内"
+  },
+  "5061154": {
+    "zipcode": "5061154",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町伏方"
+  },
+  "5061155": {
+    "zipcode": "5061155",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町西"
+  },
+  "5061156": {
+    "zipcode": "5061156",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町山田"
+  },
+  "5061157": {
+    "zipcode": "5061157",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町巣山"
+  },
+  "5061158": {
+    "zipcode": "5061158",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町柏原"
+  },
+  "5061161": {
+    "zipcode": "5061161",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町牧ケ平"
+  },
+  "5061162": {
+    "zipcode": "5061162",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町朝浦"
+  },
+  "5061201": {
+    "zipcode": "5061201",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町谷"
+  },
+  "5061202": {
+    "zipcode": "5061202",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町中山"
+  },
+  "5061203": {
+    "zipcode": "5061203",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町横山"
+  },
+  "5061204": {
+    "zipcode": "5061204",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町杉山"
+  },
+  "5061205": {
+    "zipcode": "5061205",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町東茂住"
+  },
+  "5061206": {
+    "zipcode": "5061206",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町西茂住"
+  },
+  "5061211": {
+    "zipcode": "5061211",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町佐古"
+  },
+  "5061212": {
+    "zipcode": "5061212",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町跡津川"
+  },
+  "5061213": {
+    "zipcode": "5061213",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町土"
+  },
+  "5061214": {
+    "zipcode": "5061214",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町牧"
+  },
+  "5061215": {
+    "zipcode": "5061215",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町西漆山"
+  },
+  "5061216": {
+    "zipcode": "5061216",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町東漆山"
+  },
+  "5061217": {
+    "zipcode": "5061217",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "飛騨市",
+    "town": "神岡町二ツ屋"
+  },
+  "5061301": {
+    "zipcode": "5061301",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町葛山"
+  },
+  "5061302": {
+    "zipcode": "5061302",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町長倉"
+  },
+  "5061303": {
+    "zipcode": "5061303",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町岩井戸"
+  },
+  "5061304": {
+    "zipcode": "5061304",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町宮原"
+  },
+  "5061305": {
+    "zipcode": "5061305",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町中山"
+  },
+  "5061306": {
+    "zipcode": "5061306",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町見座"
+  },
+  "5061307": {
+    "zipcode": "5061307",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町双六"
+  },
+  "5061308": {
+    "zipcode": "5061308",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町金木戸"
+  },
+  "5061311": {
+    "zipcode": "5061311",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町鼠餅"
+  },
+  "5061312": {
+    "zipcode": "5061312",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町新田"
+  },
+  "5061313": {
+    "zipcode": "5061313",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町在家"
+  },
+  "5061314": {
+    "zipcode": "5061314",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町蔵柱"
+  },
+  "5061315": {
+    "zipcode": "5061315",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町荒原"
+  },
+  "5061316": {
+    "zipcode": "5061316",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町吉野"
+  },
+  "5061317": {
+    "zipcode": "5061317",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町本郷"
+  },
+  "5061318": {
+    "zipcode": "5061318",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町芋生茂"
+  },
+  "5061319": {
+    "zipcode": "5061319",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "上宝町下佐谷"
+  },
+  "5061421": {
+    "zipcode": "5061421",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷神坂（新穂高）"
+  },
+  "5061422": {
+    "zipcode": "5061422",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷中尾"
+  },
+  "5061423": {
+    "zipcode": "5061423",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷栃尾"
+  },
+  "5061424": {
+    "zipcode": "5061424",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷柏当"
+  },
+  "5061425": {
+    "zipcode": "5061425",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷今見"
+  },
+  "5061426": {
+    "zipcode": "5061426",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷蓼之俣"
+  },
+  "5061427": {
+    "zipcode": "5061427",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷田頃家"
+  },
+  "5061428": {
+    "zipcode": "5061428",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷笹嶋"
+  },
+  "5061429": {
+    "zipcode": "5061429",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷赤桶"
+  },
+  "5061431": {
+    "zipcode": "5061431",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷村上"
+  },
+  "5061432": {
+    "zipcode": "5061432",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷一重ケ根"
+  },
+  "5061433": {
+    "zipcode": "5061433",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷平湯"
+  },
+  "5061434": {
+    "zipcode": "5061434",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "奥飛騨温泉郷福地"
+  },
+  "5062101": {
+    "zipcode": "5062101",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町森部"
+  },
+  "5062103": {
+    "zipcode": "5062103",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町折敷地"
+  },
+  "5062104": {
+    "zipcode": "5062104",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町大沼"
+  },
+  "5062105": {
+    "zipcode": "5062105",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町三之瀬"
+  },
+  "5062106": {
+    "zipcode": "5062106",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町柏原"
+  },
+  "5062111": {
+    "zipcode": "5062111",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町瓜田"
+  },
+  "5062112": {
+    "zipcode": "5062112",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町板殿"
+  },
+  "5062113": {
+    "zipcode": "5062113",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町芦谷"
+  },
+  "5062114": {
+    "zipcode": "5062114",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町日影"
+  },
+  "5062115": {
+    "zipcode": "5062115",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町小野"
+  },
+  "5062116": {
+    "zipcode": "5062116",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町大谷"
+  },
+  "5062117": {
+    "zipcode": "5062117",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町根方"
+  },
+  "5062118": {
+    "zipcode": "5062118",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町白井"
+  },
+  "5062121": {
+    "zipcode": "5062121",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町坊方"
+  },
+  "5062122": {
+    "zipcode": "5062122",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町山口"
+  },
+  "5062123": {
+    "zipcode": "5062123",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町町方"
+  },
+  "5062124": {
+    "zipcode": "5062124",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町新張"
+  },
+  "5062125": {
+    "zipcode": "5062125",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町細越"
+  },
+  "5062131": {
+    "zipcode": "5062131",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町大萱"
+  },
+  "5062132": {
+    "zipcode": "5062132",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町法力"
+  },
+  "5062133": {
+    "zipcode": "5062133",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町北方"
+  },
+  "5062134": {
+    "zipcode": "5062134",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町桐山"
+  },
+  "5062135": {
+    "zipcode": "5062135",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町下保"
+  },
+  "5062251": {
+    "zipcode": "5062251",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町旗鉾"
+  },
+  "5062252": {
+    "zipcode": "5062252",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町久手"
+  },
+  "5062253": {
+    "zipcode": "5062253",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町池之俣"
+  },
+  "5062254": {
+    "zipcode": "5062254",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町岩井谷"
+  },
+  "5062255": {
+    "zipcode": "5062255",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町駄吉"
+  },
+  "5062256": {
+    "zipcode": "5062256",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町日面"
+  },
+  "5062257": {
+    "zipcode": "5062257",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町曽手"
+  },
+  "5062258": {
+    "zipcode": "5062258",
+    "prefectureCode": "21",
+    "prefectureNumber": 21,
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "town": "丹生川町塩屋"
+  }
+}

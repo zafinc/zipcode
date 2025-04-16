@@ -1,0 +1,1474 @@
+{
+  "2920000": {
+    "zipcode": "2920000",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "以下に掲載がない場合"
+  },
+  "2920001": {
+    "zipcode": "2920001",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "牛込"
+  },
+  "2920002": {
+    "zipcode": "2920002",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中野"
+  },
+  "2920003": {
+    "zipcode": "2920003",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "万石"
+  },
+  "2920004": {
+    "zipcode": "2920004",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "久津間"
+  },
+  "2920005": {
+    "zipcode": "2920005",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "畔戸"
+  },
+  "2920006": {
+    "zipcode": "2920006",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "北浜町"
+  },
+  "2920007": {
+    "zipcode": "2920007",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "瓜倉"
+  },
+  "2920008": {
+    "zipcode": "2920008",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中島"
+  },
+  "2920009": {
+    "zipcode": "2920009",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "金田東"
+  },
+  "2920011": {
+    "zipcode": "2920011",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "牛袋野"
+  },
+  "2920012": {
+    "zipcode": "2920012",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "牛袋"
+  },
+  "2920013": {
+    "zipcode": "2920013",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "若葉町"
+  },
+  "2920014": {
+    "zipcode": "2920014",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "高柳"
+  },
+  "2920015": {
+    "zipcode": "2920015",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "本郷"
+  },
+  "2920016": {
+    "zipcode": "2920016",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "高砂"
+  },
+  "2920021": {
+    "zipcode": "2920021",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "有吉"
+  },
+  "2920022": {
+    "zipcode": "2920022",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "上望陀"
+  },
+  "2920023": {
+    "zipcode": "2920023",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "下望陀"
+  },
+  "2920024": {
+    "zipcode": "2920024",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "大寺"
+  },
+  "2920025": {
+    "zipcode": "2920025",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "十日市場"
+  },
+  "2920026": {
+    "zipcode": "2920026",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "井尻"
+  },
+  "2920027": {
+    "zipcode": "2920027",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "曽根"
+  },
+  "2920031": {
+    "zipcode": "2920031",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "椿"
+  },
+  "2920032": {
+    "zipcode": "2920032",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "笹子"
+  },
+  "2920033": {
+    "zipcode": "2920033",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "犬成"
+  },
+  "2920034": {
+    "zipcode": "2920034",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "伊豆島"
+  },
+  "2920035": {
+    "zipcode": "2920035",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中尾"
+  },
+  "2920036": {
+    "zipcode": "2920036",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "菅生"
+  },
+  "2920037": {
+    "zipcode": "2920037",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "日の出町"
+  },
+  "2920038": {
+    "zipcode": "2920038",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "ほたる野"
+  },
+  "2920041": {
+    "zipcode": "2920041",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "清見台東"
+  },
+  "2920042": {
+    "zipcode": "2920042",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "清見台南"
+  },
+  "2920043": {
+    "zipcode": "2920043",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "東太田"
+  },
+  "2920044": {
+    "zipcode": "2920044",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "太田"
+  },
+  "2920045": {
+    "zipcode": "2920045",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "清見台"
+  },
+  "2920051": {
+    "zipcode": "2920051",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "清川"
+  },
+  "2920052": {
+    "zipcode": "2920052",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "祇園"
+  },
+  "2920053": {
+    "zipcode": "2920053",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "永井作"
+  },
+  "2920054": {
+    "zipcode": "2920054",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "長須賀"
+  },
+  "2920055": {
+    "zipcode": "2920055",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "朝日"
+  },
+  "2920056": {
+    "zipcode": "2920056",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "木更津"
+  },
+  "2920057": {
+    "zipcode": "2920057",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "東中央"
+  },
+  "2920061": {
+    "zipcode": "2920061",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "岩根"
+  },
+  "2920062": {
+    "zipcode": "2920062",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "西岩根"
+  },
+  "2920063": {
+    "zipcode": "2920063",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "江川"
+  },
+  "2920064": {
+    "zipcode": "2920064",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中里"
+  },
+  "2920065": {
+    "zipcode": "2920065",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "吾妻"
+  },
+  "2920066": {
+    "zipcode": "2920066",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "新宿"
+  },
+  "2920067": {
+    "zipcode": "2920067",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中央"
+  },
+  "2920071": {
+    "zipcode": "2920071",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中島地先海ほたる"
+  },
+  "2920201": {
+    "zipcode": "2920201",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "真里谷"
+  },
+  "2920202": {
+    "zipcode": "2920202",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "茅野七曲"
+  },
+  "2920203": {
+    "zipcode": "2920203",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "山本七曲"
+  },
+  "2920204": {
+    "zipcode": "2920204",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "茅野"
+  },
+  "2920205": {
+    "zipcode": "2920205",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "下郡"
+  },
+  "2920206": {
+    "zipcode": "2920206",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "佐野"
+  },
+  "2920207": {
+    "zipcode": "2920207",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "田川"
+  },
+  "2920211": {
+    "zipcode": "2920211",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "大稲"
+  },
+  "2920212": {
+    "zipcode": "2920212",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "真里"
+  },
+  "2920213": {
+    "zipcode": "2920213",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "下内橋"
+  },
+  "2920214": {
+    "zipcode": "2920214",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "戸国"
+  },
+  "2920215": {
+    "zipcode": "2920215",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "上根岸"
+  },
+  "2920216": {
+    "zipcode": "2920216",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "根岸"
+  },
+  "2920217": {
+    "zipcode": "2920217",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "下宮田"
+  },
+  "2920401": {
+    "zipcode": "2920401",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "山本"
+  },
+  "2920402": {
+    "zipcode": "2920402",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "西原"
+  },
+  "2920403": {
+    "zipcode": "2920403",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "三田"
+  },
+  "2920404": {
+    "zipcode": "2920404",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "賀恵渕"
+  },
+  "2920411": {
+    "zipcode": "2920411",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "長谷川"
+  },
+  "2920412": {
+    "zipcode": "2920412",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "小櫃台"
+  },
+  "2920413": {
+    "zipcode": "2920413",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "吉野"
+  },
+  "2920414": {
+    "zipcode": "2920414",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "久留里大谷"
+  },
+  "2920415": {
+    "zipcode": "2920415",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "川谷"
+  },
+  "2920416": {
+    "zipcode": "2920416",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "小市部"
+  },
+  "2920421": {
+    "zipcode": "2920421",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "久留里市場"
+  },
+  "2920422": {
+    "zipcode": "2920422",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "久留里"
+  },
+  "2920423": {
+    "zipcode": "2920423",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "久留里大和田"
+  },
+  "2920431": {
+    "zipcode": "2920431",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "怒田"
+  },
+  "2920432": {
+    "zipcode": "2920432",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "浦田"
+  },
+  "2920433": {
+    "zipcode": "2920433",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "芋窪"
+  },
+  "2920434": {
+    "zipcode": "2920434",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "向郷"
+  },
+  "2920435": {
+    "zipcode": "2920435",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "栗坪"
+  },
+  "2920441": {
+    "zipcode": "2920441",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "戸崎"
+  },
+  "2920442": {
+    "zipcode": "2920442",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "岩出"
+  },
+  "2920443": {
+    "zipcode": "2920443",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "寺沢"
+  },
+  "2920444": {
+    "zipcode": "2920444",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "富田"
+  },
+  "2920445": {
+    "zipcode": "2920445",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "愛宕"
+  },
+  "2920451": {
+    "zipcode": "2920451",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "末吉"
+  },
+  "2920452": {
+    "zipcode": "2920452",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "上新田"
+  },
+  "2920453": {
+    "zipcode": "2920453",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "箕輪"
+  },
+  "2920454": {
+    "zipcode": "2920454",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "青柳"
+  },
+  "2920455": {
+    "zipcode": "2920455",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "俵田"
+  },
+  "2920501": {
+    "zipcode": "2920501",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "山滝野"
+  },
+  "2920502": {
+    "zipcode": "2920502",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "平山"
+  },
+  "2920503": {
+    "zipcode": "2920503",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "広岡"
+  },
+  "2920511": {
+    "zipcode": "2920511",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大坂"
+  },
+  "2920512": {
+    "zipcode": "2920512",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大戸見"
+  },
+  "2920513": {
+    "zipcode": "2920513",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "加名盛"
+  },
+  "2920514": {
+    "zipcode": "2920514",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大戸見旧名殿"
+  },
+  "2920515": {
+    "zipcode": "2920515",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "柳城"
+  },
+  "2920516": {
+    "zipcode": "2920516",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "高水"
+  },
+  "2920521": {
+    "zipcode": "2920521",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "利根"
+  },
+  "2920522": {
+    "zipcode": "2920522",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大中"
+  },
+  "2920523": {
+    "zipcode": "2920523",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "豊田"
+  },
+  "2920524": {
+    "zipcode": "2920524",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "川俣"
+  },
+  "2920525": {
+    "zipcode": "2920525",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "草川原"
+  },
+  "2920526": {
+    "zipcode": "2920526",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "笹"
+  },
+  "2920527": {
+    "zipcode": "2920527",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "香木原"
+  },
+  "2920531": {
+    "zipcode": "2920531",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "藤林"
+  },
+  "2920532": {
+    "zipcode": "2920532",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "坂畑"
+  },
+  "2920533": {
+    "zipcode": "2920533",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "折木沢"
+  },
+  "2920534": {
+    "zipcode": "2920534",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "滝原"
+  },
+  "2920535": {
+    "zipcode": "2920535",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "釜生"
+  },
+  "2920536": {
+    "zipcode": "2920536",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "蔵玉"
+  },
+  "2920537": {
+    "zipcode": "2920537",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "黄和田畑"
+  },
+  "2920801": {
+    "zipcode": "2920801",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "請西"
+  },
+  "2920802": {
+    "zipcode": "2920802",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "真舟"
+  },
+  "2920803": {
+    "zipcode": "2920803",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "幸町"
+  },
+  "2920804": {
+    "zipcode": "2920804",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "文京"
+  },
+  "2920805": {
+    "zipcode": "2920805",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "大和"
+  },
+  "2920806": {
+    "zipcode": "2920806",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "請西東"
+  },
+  "2920807": {
+    "zipcode": "2920807",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "請西南"
+  },
+  "2920808": {
+    "zipcode": "2920808",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "千束台"
+  },
+  "2920811": {
+    "zipcode": "2920811",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "草敷"
+  },
+  "2920812": {
+    "zipcode": "2920812",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "矢那"
+  },
+  "2920813": {
+    "zipcode": "2920813",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "上烏田"
+  },
+  "2920814": {
+    "zipcode": "2920814",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "八幡台"
+  },
+  "2920815": {
+    "zipcode": "2920815",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "大久保"
+  },
+  "2920816": {
+    "zipcode": "2920816",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "下烏田"
+  },
+  "2920817": {
+    "zipcode": "2920817",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中烏田"
+  },
+  "2920818": {
+    "zipcode": "2920818",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "かずさ鎌足"
+  },
+  "2920819": {
+    "zipcode": "2920819",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "羽鳥野"
+  },
+  "2920821": {
+    "zipcode": "2920821",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "桜町"
+  },
+  "2920822": {
+    "zipcode": "2920822",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "桜井"
+  },
+  "2920823": {
+    "zipcode": "2920823",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "桜井新町"
+  },
+  "2920824": {
+    "zipcode": "2920824",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "小浜"
+  },
+  "2920825": {
+    "zipcode": "2920825",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "畑沢"
+  },
+  "2920826": {
+    "zipcode": "2920826",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "畑沢南"
+  },
+  "2920827": {
+    "zipcode": "2920827",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "港南台"
+  },
+  "2920831": {
+    "zipcode": "2920831",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "富士見"
+  },
+  "2920832": {
+    "zipcode": "2920832",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "新田"
+  },
+  "2920833": {
+    "zipcode": "2920833",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "貝渕"
+  },
+  "2920834": {
+    "zipcode": "2920834",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "潮見"
+  },
+  "2920835": {
+    "zipcode": "2920835",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "築地"
+  },
+  "2920836": {
+    "zipcode": "2920836",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "新港"
+  },
+  "2920837": {
+    "zipcode": "2920837",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "木材港"
+  },
+  "2920838": {
+    "zipcode": "2920838",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "潮浜"
+  },
+  "2920839": {
+    "zipcode": "2920839",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "town": "中の島"
+  },
+  "2921140": {
+    "zipcode": "2921140",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "糠田飛地"
+  },
+  "2921141": {
+    "zipcode": "2921141",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "根本"
+  },
+  "2921142": {
+    "zipcode": "2921142",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "小糸大谷"
+  },
+  "2921143": {
+    "zipcode": "2921143",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "長石"
+  },
+  "2921144": {
+    "zipcode": "2921144",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "法木"
+  },
+  "2921145": {
+    "zipcode": "2921145",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "糸川"
+  },
+  "2921146": {
+    "zipcode": "2921146",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大井戸"
+  },
+  "2921147": {
+    "zipcode": "2921147",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "塚原"
+  },
+  "2921148": {
+    "zipcode": "2921148",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "行馬"
+  },
+  "2921149": {
+    "zipcode": "2921149",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "かずさ小糸"
+  },
+  "2921151": {
+    "zipcode": "2921151",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大野台"
+  },
+  "2921152": {
+    "zipcode": "2921152",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "日渡根"
+  },
+  "2921153": {
+    "zipcode": "2921153",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "市宿"
+  },
+  "2921154": {
+    "zipcode": "2921154",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "清和市場"
+  },
+  "2921155": {
+    "zipcode": "2921155",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "鹿野山"
+  },
+  "2921156": {
+    "zipcode": "2921156",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "荻作"
+  },
+  "2921157": {
+    "zipcode": "2921157",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "福岡"
+  },
+  "2921158": {
+    "zipcode": "2921158",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "鎌滝"
+  },
+  "2921161": {
+    "zipcode": "2921161",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "東猪原"
+  },
+  "2921162": {
+    "zipcode": "2921162",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "西猪原"
+  },
+  "2921163": {
+    "zipcode": "2921163",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "東粟倉"
+  },
+  "2921164": {
+    "zipcode": "2921164",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "東日笠"
+  },
+  "2921165": {
+    "zipcode": "2921165",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "西日笠"
+  },
+  "2921166": {
+    "zipcode": "2921166",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "植畑"
+  },
+  "2921167": {
+    "zipcode": "2921167",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "平田"
+  },
+  "2921168": {
+    "zipcode": "2921168",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "西粟倉"
+  },
+  "2921171": {
+    "zipcode": "2921171",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "二入"
+  },
+  "2921172": {
+    "zipcode": "2921172",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "辻森"
+  },
+  "2921173": {
+    "zipcode": "2921173",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "大岩"
+  },
+  "2921174": {
+    "zipcode": "2921174",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "正木"
+  },
+  "2921175": {
+    "zipcode": "2921175",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "奥米"
+  },
+  "2921176": {
+    "zipcode": "2921176",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "宿原"
+  },
+  "2921177": {
+    "zipcode": "2921177",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "怒田沢"
+  },
+  "2921178": {
+    "zipcode": "2921178",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "旅名"
+  },
+  "2921179": {
+    "zipcode": "2921179",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "君津市",
+    "town": "豊英"
+  }
+}

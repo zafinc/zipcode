@@ -1,0 +1,634 @@
+{
+  "3440000": {
+    "zipcode": "3440000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "以下に掲載がない場合"
+  },
+  "3440001": {
+    "zipcode": "3440001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "不動院野"
+  },
+  "3440002": {
+    "zipcode": "3440002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "樋籠"
+  },
+  "3440003": {
+    "zipcode": "3440003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "新川"
+  },
+  "3440004": {
+    "zipcode": "3440004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "牛島"
+  },
+  "3440005": {
+    "zipcode": "3440005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "樋堀"
+  },
+  "3440006": {
+    "zipcode": "3440006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "八丁目"
+  },
+  "3440007": {
+    "zipcode": "3440007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "小渕"
+  },
+  "3440011": {
+    "zipcode": "3440011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "藤塚"
+  },
+  "3440012": {
+    "zipcode": "3440012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "六軒町"
+  },
+  "3440013": {
+    "zipcode": "3440013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "銚子口"
+  },
+  "3440014": {
+    "zipcode": "3440014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "豊野町"
+  },
+  "3440015": {
+    "zipcode": "3440015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "赤沼"
+  },
+  "3440016": {
+    "zipcode": "3440016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "本田町"
+  },
+  "3440021": {
+    "zipcode": "3440021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "大場"
+  },
+  "3440022": {
+    "zipcode": "3440022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "大畑"
+  },
+  "3440023": {
+    "zipcode": "3440023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "大枝"
+  },
+  "3440024": {
+    "zipcode": "3440024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "千間"
+  },
+  "3440025": {
+    "zipcode": "3440025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "増田新田"
+  },
+  "3440026": {
+    "zipcode": "3440026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "武里中野"
+  },
+  "3440031": {
+    "zipcode": "3440031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "一ノ割"
+  },
+  "3440032": {
+    "zipcode": "3440032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "備後東"
+  },
+  "3440033": {
+    "zipcode": "3440033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "備後西"
+  },
+  "3440034": {
+    "zipcode": "3440034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "薄谷"
+  },
+  "3440035": {
+    "zipcode": "3440035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "谷原新田"
+  },
+  "3440036": {
+    "zipcode": "3440036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "下大増新田"
+  },
+  "3440037": {
+    "zipcode": "3440037",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "上大増新田"
+  },
+  "3440038": {
+    "zipcode": "3440038",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "大沼"
+  },
+  "3440041": {
+    "zipcode": "3440041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "増富"
+  },
+  "3440042": {
+    "zipcode": "3440042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "増戸"
+  },
+  "3440043": {
+    "zipcode": "3440043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "下蛭田"
+  },
+  "3440044": {
+    "zipcode": "3440044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "花積"
+  },
+  "3440045": {
+    "zipcode": "3440045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "道口蛭田"
+  },
+  "3440046": {
+    "zipcode": "3440046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "上蛭田"
+  },
+  "3440047": {
+    "zipcode": "3440047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "道順川戸"
+  },
+  "3440048": {
+    "zipcode": "3440048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "南中曽根"
+  },
+  "3440051": {
+    "zipcode": "3440051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "内牧"
+  },
+  "3440052": {
+    "zipcode": "3440052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "梅田"
+  },
+  "3440053": {
+    "zipcode": "3440053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "梅田本町"
+  },
+  "3440054": {
+    "zipcode": "3440054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "浜川戸"
+  },
+  "3440055": {
+    "zipcode": "3440055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "八木崎町"
+  },
+  "3440056": {
+    "zipcode": "3440056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "新方袋"
+  },
+  "3440057": {
+    "zipcode": "3440057",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "南栄町"
+  },
+  "3440058": {
+    "zipcode": "3440058",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "栄町"
+  },
+  "3440059": {
+    "zipcode": "3440059",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "西八木崎"
+  },
+  "3440061": {
+    "zipcode": "3440061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "粕壁"
+  },
+  "3440062": {
+    "zipcode": "3440062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "粕壁東"
+  },
+  "3440063": {
+    "zipcode": "3440063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "緑町"
+  },
+  "3440064": {
+    "zipcode": "3440064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "南"
+  },
+  "3440065": {
+    "zipcode": "3440065",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "谷原"
+  },
+  "3440066": {
+    "zipcode": "3440066",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "豊町"
+  },
+  "3440067": {
+    "zipcode": "3440067",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "中央"
+  },
+  "3440101": {
+    "zipcode": "3440101",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "西親野井"
+  },
+  "3440102": {
+    "zipcode": "3440102",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "西宝珠花"
+  },
+  "3440103": {
+    "zipcode": "3440103",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "上吉妻"
+  },
+  "3440104": {
+    "zipcode": "3440104",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "下吉妻"
+  },
+  "3440105": {
+    "zipcode": "3440105",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "小平"
+  },
+  "3440106": {
+    "zipcode": "3440106",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "木崎"
+  },
+  "3440107": {
+    "zipcode": "3440107",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "塚崎"
+  },
+  "3440111": {
+    "zipcode": "3440111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "上金崎"
+  },
+  "3440112": {
+    "zipcode": "3440112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "西金野井"
+  },
+  "3440113": {
+    "zipcode": "3440113",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "新宿新田"
+  },
+  "3440114": {
+    "zipcode": "3440114",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "東中野"
+  },
+  "3440115": {
+    "zipcode": "3440115",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "米島"
+  },
+  "3440116": {
+    "zipcode": "3440116",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "大衾"
+  },
+  "3440117": {
+    "zipcode": "3440117",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "金崎"
+  },
+  "3440121": {
+    "zipcode": "3440121",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "上柳"
+  },
+  "3440122": {
+    "zipcode": "3440122",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "下柳"
+  },
+  "3440123": {
+    "zipcode": "3440123",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "永沼"
+  },
+  "3440124": {
+    "zipcode": "3440124",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "米崎"
+  },
+  "3440125": {
+    "zipcode": "3440125",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "飯沼"
+  },
+  "3440126": {
+    "zipcode": "3440126",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "赤崎"
+  },
+  "3440127": {
+    "zipcode": "3440127",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "水角"
+  },
+  "3440131": {
+    "zipcode": "3440131",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "芦橋"
+  },
+  "3440132": {
+    "zipcode": "3440132",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "神間"
+  },
+  "3440133": {
+    "zipcode": "3440133",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "椚"
+  },
+  "3440134": {
+    "zipcode": "3440134",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "立野"
+  },
+  "3440135": {
+    "zipcode": "3440135",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "榎"
+  },
+  "3440136": {
+    "zipcode": "3440136",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "town": "倉常"
+  }
+}

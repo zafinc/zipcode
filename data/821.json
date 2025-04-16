@@ -1,0 +1,50 @@
+{
+  "8210002": {
+    "zipcode": "8210002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "大隈町（猪之鼻）"
+  },
+  "8210004": {
+    "zipcode": "8210004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "大隈（１〜１１番地）"
+  },
+  "8210011": {
+    "zipcode": "8210011",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "下山田"
+  },
+  "8210012": {
+    "zipcode": "8210012",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "上山田"
+  },
+  "8210013": {
+    "zipcode": "8210013",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "熊ケ畑"
+  },
+  "8210014": {
+    "zipcode": "8210014",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "town": "猪国"
+  }
+}

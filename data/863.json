@@ -1,0 +1,706 @@
+{
+  "8630000": {
+    "zipcode": "8630000",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "以下に掲載がない場合"
+  },
+  "8630001": {
+    "zipcode": "8630001",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本渡町広瀬"
+  },
+  "8630002": {
+    "zipcode": "8630002",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本渡町本戸馬場"
+  },
+  "8630003": {
+    "zipcode": "8630003",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本渡町本渡"
+  },
+  "8630004": {
+    "zipcode": "8630004",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本渡町本泉"
+  },
+  "8630005": {
+    "zipcode": "8630005",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本町新休"
+  },
+  "8630006": {
+    "zipcode": "8630006",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本町下河内"
+  },
+  "8630007": {
+    "zipcode": "8630007",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "本町本"
+  },
+  "8630011": {
+    "zipcode": "8630011",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "北浜町"
+  },
+  "8630012": {
+    "zipcode": "8630012",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "今釜町"
+  },
+  "8630013": {
+    "zipcode": "8630013",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "今釜新町"
+  },
+  "8630014": {
+    "zipcode": "8630014",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "東浜町"
+  },
+  "8630015": {
+    "zipcode": "8630015",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "大浜町"
+  },
+  "8630016": {
+    "zipcode": "8630016",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "城下町"
+  },
+  "8630017": {
+    "zipcode": "8630017",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "船之尾町"
+  },
+  "8630018": {
+    "zipcode": "8630018",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "浜崎町"
+  },
+  "8630019": {
+    "zipcode": "8630019",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "小松原町"
+  },
+  "8630021": {
+    "zipcode": "8630021",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "港町"
+  },
+  "8630022": {
+    "zipcode": "8630022",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "栄町"
+  },
+  "8630023": {
+    "zipcode": "8630023",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "中央新町"
+  },
+  "8630024": {
+    "zipcode": "8630024",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "川原町"
+  },
+  "8630025": {
+    "zipcode": "8630025",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "古川町"
+  },
+  "8630031": {
+    "zipcode": "8630031",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "南新町"
+  },
+  "8630032": {
+    "zipcode": "8630032",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "太田町"
+  },
+  "8630033": {
+    "zipcode": "8630033",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "東町"
+  },
+  "8630034": {
+    "zipcode": "8630034",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "浄南町"
+  },
+  "8630035": {
+    "zipcode": "8630035",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "山の手町"
+  },
+  "8630036": {
+    "zipcode": "8630036",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "川原新町"
+  },
+  "8630037": {
+    "zipcode": "8630037",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "諏訪町"
+  },
+  "8630038": {
+    "zipcode": "8630038",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "南町"
+  },
+  "8630041": {
+    "zipcode": "8630041",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "志柿町"
+  },
+  "8630042": {
+    "zipcode": "8630042",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "瀬戸町"
+  },
+  "8630043": {
+    "zipcode": "8630043",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "亀場町亀川"
+  },
+  "8630044": {
+    "zipcode": "8630044",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "楠浦町"
+  },
+  "8630045": {
+    "zipcode": "8630045",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "枦宇土町"
+  },
+  "8630046": {
+    "zipcode": "8630046",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "亀場町食場"
+  },
+  "8630047": {
+    "zipcode": "8630047",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "八幡町"
+  },
+  "8630048": {
+    "zipcode": "8630048",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "中村町"
+  },
+  "8630049": {
+    "zipcode": "8630049",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "北原町"
+  },
+  "8630050": {
+    "zipcode": "8630050",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "丸尾町"
+  },
+  "8630101": {
+    "zipcode": "8630101",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "新和町小宮地"
+  },
+  "8630102": {
+    "zipcode": "8630102",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "新和町大多尾"
+  },
+  "8630103": {
+    "zipcode": "8630103",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "新和町大宮地"
+  },
+  "8631111": {
+    "zipcode": "8631111",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "新和町碇石"
+  },
+  "8631112": {
+    "zipcode": "8631112",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "新和町中田"
+  },
+  "8631161": {
+    "zipcode": "8631161",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "宮地岳町"
+  },
+  "8631201": {
+    "zipcode": "8631201",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町今田"
+  },
+  "8631202": {
+    "zipcode": "8631202",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町河浦"
+  },
+  "8631203": {
+    "zipcode": "8631203",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町今富（その他）"
+  },
+  "8631204": {
+    "zipcode": "8631204",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町崎津（その他）"
+  },
+  "8631205": {
+    "zipcode": "8631205",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町高浜北（４００１−２３、４１３５番地）"
+  },
+  "8631211": {
+    "zipcode": "8631211",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町立原"
+  },
+  "8631212": {
+    "zipcode": "8631212",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町宮野河内"
+  },
+  "8631213": {
+    "zipcode": "8631213",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町路木"
+  },
+  "8631214": {
+    "zipcode": "8631214",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町久留"
+  },
+  "8631215": {
+    "zipcode": "8631215",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町白木河内"
+  },
+  "8631216": {
+    "zipcode": "8631216",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町新合"
+  },
+  "8631401": {
+    "zipcode": "8631401",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町大江向"
+  },
+  "8631403": {
+    "zipcode": "8631403",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町今富（１９３３、１９３９、１９４５、１９５５−４、１９６０、１９７０、１９７４、１９７６、１９８３、１９８８−３、１９９０−５、２００３、２０５１）"
+  },
+  "8631404": {
+    "zipcode": "8631404",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "河浦町崎津（１６４４、１６４７−１、１６５９）"
+  },
+  "8631431": {
+    "zipcode": "8631431",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "二浦町早浦"
+  },
+  "8631432": {
+    "zipcode": "8631432",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "二浦町亀浦"
+  },
+  "8631511": {
+    "zipcode": "8631511",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "深海町"
+  },
+  "8631721": {
+    "zipcode": "8631721",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "魚貫町"
+  },
+  "8631901": {
+    "zipcode": "8631901",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "牛深町"
+  },
+  "8631902": {
+    "zipcode": "8631902",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "久玉町"
+  },
+  "8632114": {
+    "zipcode": "8632114",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "五和町城河原"
+  },
+  "8632171": {
+    "zipcode": "8632171",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "佐伊津町"
+  },
+  "8632172": {
+    "zipcode": "8632172",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "旭町"
+  },
+  "8632201": {
+    "zipcode": "8632201",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "五和町御領"
+  },
+  "8632331": {
+    "zipcode": "8632331",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "五和町鬼池"
+  },
+  "8632421": {
+    "zipcode": "8632421",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "五和町二江"
+  },
+  "8632424": {
+    "zipcode": "8632424",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "五和町手野"
+  },
+  "8632500": {
+    "zipcode": "8632500",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "以下に掲載がない場合"
+  },
+  "8632501": {
+    "zipcode": "8632501",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "坂瀬川"
+  },
+  "8632502": {
+    "zipcode": "8632502",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "上津深江"
+  },
+  "8632503": {
+    "zipcode": "8632503",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "志岐"
+  },
+  "8632504": {
+    "zipcode": "8632504",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "年柄"
+  },
+  "8632505": {
+    "zipcode": "8632505",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "内田"
+  },
+  "8632506": {
+    "zipcode": "8632506",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "白木尾"
+  },
+  "8632507": {
+    "zipcode": "8632507",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "富岡"
+  },
+  "8632611": {
+    "zipcode": "8632611",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草郡苓北町",
+    "town": "都呂々"
+  },
+  "8632801": {
+    "zipcode": "8632801",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町大江軍浦"
+  },
+  "8632802": {
+    "zipcode": "8632802",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町下田南"
+  },
+  "8632803": {
+    "zipcode": "8632803",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町下田北"
+  },
+  "8632804": {
+    "zipcode": "8632804",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町高浜南"
+  },
+  "8632805": {
+    "zipcode": "8632805",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町高浜北（その他）"
+  },
+  "8632806": {
+    "zipcode": "8632806",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "天草市",
+    "town": "天草町福連木"
+  }
+}

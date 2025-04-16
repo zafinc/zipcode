@@ -1,0 +1,522 @@
+{
+  "1620041": {
+    "zipcode": "1620041",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "早稲田鶴巻町"
+  },
+  "1620042": {
+    "zipcode": "1620042",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "早稲田町"
+  },
+  "1620043": {
+    "zipcode": "1620043",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "早稲田南町"
+  },
+  "1620044": {
+    "zipcode": "1620044",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "喜久井町"
+  },
+  "1620045": {
+    "zipcode": "1620045",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "馬場下町"
+  },
+  "1620051": {
+    "zipcode": "1620051",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "西早稲田（２丁目１番１〜２３号、２番）"
+  },
+  "1620052": {
+    "zipcode": "1620052",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "戸山（その他）"
+  },
+  "1620053": {
+    "zipcode": "1620053",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "原町"
+  },
+  "1620054": {
+    "zipcode": "1620054",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "河田町"
+  },
+  "1620055": {
+    "zipcode": "1620055",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "余丁町"
+  },
+  "1620056": {
+    "zipcode": "1620056",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "若松町"
+  },
+  "1620061": {
+    "zipcode": "1620061",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷柳町"
+  },
+  "1620062": {
+    "zipcode": "1620062",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷加賀町"
+  },
+  "1620063": {
+    "zipcode": "1620063",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷薬王寺町"
+  },
+  "1620064": {
+    "zipcode": "1620064",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷仲之町"
+  },
+  "1620065": {
+    "zipcode": "1620065",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "住吉町"
+  },
+  "1620066": {
+    "zipcode": "1620066",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷台町"
+  },
+  "1620067": {
+    "zipcode": "1620067",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "富久町"
+  },
+  "1620801": {
+    "zipcode": "1620801",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "山吹町"
+  },
+  "1620802": {
+    "zipcode": "1620802",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "改代町"
+  },
+  "1620803": {
+    "zipcode": "1620803",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "赤城下町"
+  },
+  "1620804": {
+    "zipcode": "1620804",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "中里町"
+  },
+  "1620805": {
+    "zipcode": "1620805",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "矢来町"
+  },
+  "1620806": {
+    "zipcode": "1620806",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "榎町"
+  },
+  "1620807": {
+    "zipcode": "1620807",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "東榎町"
+  },
+  "1620808": {
+    "zipcode": "1620808",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "天神町"
+  },
+  "1620811": {
+    "zipcode": "1620811",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "水道町"
+  },
+  "1620812": {
+    "zipcode": "1620812",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "西五軒町"
+  },
+  "1620813": {
+    "zipcode": "1620813",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "東五軒町"
+  },
+  "1620814": {
+    "zipcode": "1620814",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "新小川町"
+  },
+  "1620815": {
+    "zipcode": "1620815",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "筑土八幡町"
+  },
+  "1620816": {
+    "zipcode": "1620816",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "白銀町"
+  },
+  "1620817": {
+    "zipcode": "1620817",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "赤城元町"
+  },
+  "1620818": {
+    "zipcode": "1620818",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "築地町"
+  },
+  "1620821": {
+    "zipcode": "1620821",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "津久戸町"
+  },
+  "1620822": {
+    "zipcode": "1620822",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "下宮比町"
+  },
+  "1620823": {
+    "zipcode": "1620823",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "神楽河岸"
+  },
+  "1620824": {
+    "zipcode": "1620824",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "揚場町"
+  },
+  "1620825": {
+    "zipcode": "1620825",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "神楽坂"
+  },
+  "1620826": {
+    "zipcode": "1620826",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷船河原町"
+  },
+  "1620827": {
+    "zipcode": "1620827",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "若宮町"
+  },
+  "1620828": {
+    "zipcode": "1620828",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "袋町"
+  },
+  "1620831": {
+    "zipcode": "1620831",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "横寺町"
+  },
+  "1620832": {
+    "zipcode": "1620832",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "岩戸町"
+  },
+  "1620833": {
+    "zipcode": "1620833",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "箪笥町"
+  },
+  "1620834": {
+    "zipcode": "1620834",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "北町"
+  },
+  "1620835": {
+    "zipcode": "1620835",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "中町"
+  },
+  "1620836": {
+    "zipcode": "1620836",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "南町"
+  },
+  "1620837": {
+    "zipcode": "1620837",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "納戸町"
+  },
+  "1620838": {
+    "zipcode": "1620838",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "細工町"
+  },
+  "1620841": {
+    "zipcode": "1620841",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "払方町"
+  },
+  "1620842": {
+    "zipcode": "1620842",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷砂土原町"
+  },
+  "1620843": {
+    "zipcode": "1620843",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷田町"
+  },
+  "1620844": {
+    "zipcode": "1620844",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷八幡町"
+  },
+  "1620845": {
+    "zipcode": "1620845",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷本村町"
+  },
+  "1620846": {
+    "zipcode": "1620846",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷左内町"
+  },
+  "1620847": {
+    "zipcode": "1620847",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷長延寺町"
+  },
+  "1620848": {
+    "zipcode": "1620848",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷鷹匠町"
+  },
+  "1620851": {
+    "zipcode": "1620851",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "弁天町"
+  },
+  "1620852": {
+    "zipcode": "1620852",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "南榎町"
+  },
+  "1620853": {
+    "zipcode": "1620853",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "北山伏町"
+  },
+  "1620854": {
+    "zipcode": "1620854",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "南山伏町"
+  },
+  "1620855": {
+    "zipcode": "1620855",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "二十騎町"
+  },
+  "1620856": {
+    "zipcode": "1620856",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷甲良町"
+  },
+  "1620857": {
+    "zipcode": "1620857",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "town": "市谷山伏町"
+  }
+}

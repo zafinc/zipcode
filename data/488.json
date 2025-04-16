@@ -1,0 +1,922 @@
+{
+  "4880000": {
+    "zipcode": "4880000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "以下に掲載がない場合"
+  },
+  "4880001": {
+    "zipcode": "4880001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭台"
+  },
+  "4880002": {
+    "zipcode": "4880002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "根の鼻町"
+  },
+  "4880003": {
+    "zipcode": "4880003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東大久手町"
+  },
+  "4880004": {
+    "zipcode": "4880004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "大久手町一の曾"
+  },
+  "4880005": {
+    "zipcode": "4880005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "大久手町上切戸"
+  },
+  "4880006": {
+    "zipcode": "4880006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "大久手町中松原"
+  },
+  "4880007": {
+    "zipcode": "4880007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "柏井町公園通"
+  },
+  "4880008": {
+    "zipcode": "4880008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "柏井町弥栄"
+  },
+  "4880011": {
+    "zipcode": "4880011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東栄町"
+  },
+  "4880012": {
+    "zipcode": "4880012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "三郷町角田"
+  },
+  "4880013": {
+    "zipcode": "4880013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "三郷町富丘"
+  },
+  "4880014": {
+    "zipcode": "4880014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "三郷町中井田"
+  },
+  "4880015": {
+    "zipcode": "4880015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "三郷町栄"
+  },
+  "4880016": {
+    "zipcode": "4880016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "三郷町陶栄"
+  },
+  "4880017": {
+    "zipcode": "4880017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東三郷町"
+  },
+  "4880021": {
+    "zipcode": "4880021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "狩宿町"
+  },
+  "4880022": {
+    "zipcode": "4880022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "狩宿新町"
+  },
+  "4880023": {
+    "zipcode": "4880023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "瀬戸川町"
+  },
+  "4880024": {
+    "zipcode": "4880024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "井田町"
+  },
+  "4880031": {
+    "zipcode": "4880031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "晴丘町東"
+  },
+  "4880032": {
+    "zipcode": "4880032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "晴丘町池上"
+  },
+  "4880033": {
+    "zipcode": "4880033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東本地ケ原町"
+  },
+  "4880034": {
+    "zipcode": "4880034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "上の山町山畑"
+  },
+  "4880035": {
+    "zipcode": "4880035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "上の山町間口"
+  },
+  "4880041": {
+    "zipcode": "4880041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南新町中畑"
+  },
+  "4880042": {
+    "zipcode": "4880042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南新町白山"
+  },
+  "4880043": {
+    "zipcode": "4880043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北本地ケ原町"
+  },
+  "4880044": {
+    "zipcode": "4880044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南本地ケ原町"
+  },
+  "4880045": {
+    "zipcode": "4880045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南栄町"
+  },
+  "4880046": {
+    "zipcode": "4880046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南栄町旭ケ丘"
+  },
+  "4880047": {
+    "zipcode": "4880047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南栄町黒石"
+  },
+  "4880051": {
+    "zipcode": "4880051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "下井町前の上"
+  },
+  "4880052": {
+    "zipcode": "4880052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "下井町下井"
+  },
+  "4880053": {
+    "zipcode": "4880053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "下井町刎内"
+  },
+  "4880054": {
+    "zipcode": "4880054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "稲葉町"
+  },
+  "4880055": {
+    "zipcode": "4880055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北山町六反田"
+  },
+  "4880056": {
+    "zipcode": "4880056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北山町北山"
+  },
+  "4880057": {
+    "zipcode": "4880057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北山町北新田"
+  },
+  "4880061": {
+    "zipcode": "4880061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北原山町六田池"
+  },
+  "4880062": {
+    "zipcode": "4880062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北原山町平池浦"
+  },
+  "4880063": {
+    "zipcode": "4880063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北原山町陀摩屋敷"
+  },
+  "4880064": {
+    "zipcode": "4880064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北原山町鳴湫"
+  },
+  "4880065": {
+    "zipcode": "4880065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "北原山町大久保見"
+  },
+  "4880066": {
+    "zipcode": "4880066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南原山町赤土"
+  },
+  "4880067": {
+    "zipcode": "4880067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南原山町石原"
+  },
+  "4880068": {
+    "zipcode": "4880068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "南原山町南原山"
+  },
+  "4880070": {
+    "zipcode": "4880070",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町五反田"
+  },
+  "4880071": {
+    "zipcode": "4880071",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町下切戸"
+  },
+  "4880072": {
+    "zipcode": "4880072",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町諏訪南"
+  },
+  "4880073": {
+    "zipcode": "4880073",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町上の田"
+  },
+  "4880074": {
+    "zipcode": "4880074",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町明才切"
+  },
+  "4880075": {
+    "zipcode": "4880075",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町木の本"
+  },
+  "4880076": {
+    "zipcode": "4880076",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町山の田"
+  },
+  "4880077": {
+    "zipcode": "4880077",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町西浦"
+  },
+  "4880078": {
+    "zipcode": "4880078",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町寺田"
+  },
+  "4880079": {
+    "zipcode": "4880079",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居町今池下"
+  },
+  "4880081": {
+    "zipcode": "4880081",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "新居"
+  },
+  "4880082": {
+    "zipcode": "4880082",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭ケ丘町森"
+  },
+  "4880083": {
+    "zipcode": "4880083",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭ケ丘町旭ケ丘"
+  },
+  "4880084": {
+    "zipcode": "4880084",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭ケ丘町山の手"
+  },
+  "4880085": {
+    "zipcode": "4880085",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭ケ丘町濁池"
+  },
+  "4880086": {
+    "zipcode": "4880086",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭ケ丘町長洞"
+  },
+  "4880801": {
+    "zipcode": "4880801",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東大道町原田"
+  },
+  "4880802": {
+    "zipcode": "4880802",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東大道町曽我廻間"
+  },
+  "4880803": {
+    "zipcode": "4880803",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東大道町山の内"
+  },
+  "4880804": {
+    "zipcode": "4880804",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西の野町"
+  },
+  "4880805": {
+    "zipcode": "4880805",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西の野町豆塚"
+  },
+  "4880813": {
+    "zipcode": "4880813",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西大道町五輪塚"
+  },
+  "4880814": {
+    "zipcode": "4880814",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西大道町前田"
+  },
+  "4880815": {
+    "zipcode": "4880815",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西大道町六兵衛前"
+  },
+  "4880816": {
+    "zipcode": "4880816",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西大道町下大道"
+  },
+  "4880817": {
+    "zipcode": "4880817",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西大道町八瀬の木前"
+  },
+  "4880818": {
+    "zipcode": "4880818",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "向町"
+  },
+  "4880821": {
+    "zipcode": "4880821",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "長坂町南山"
+  },
+  "4880822": {
+    "zipcode": "4880822",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "緑町緑ケ丘"
+  },
+  "4880823": {
+    "zipcode": "4880823",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "庄南町"
+  },
+  "4880824": {
+    "zipcode": "4880824",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "西山町"
+  },
+  "4880825": {
+    "zipcode": "4880825",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東山町"
+  },
+  "4880826": {
+    "zipcode": "4880826",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "大塚町"
+  },
+  "4880827": {
+    "zipcode": "4880827",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "吉岡町"
+  },
+  "4880830": {
+    "zipcode": "4880830",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東印場町"
+  },
+  "4880833": {
+    "zipcode": "4880833",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東印場町二反田"
+  },
+  "4880835": {
+    "zipcode": "4880835",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "庄中町南島"
+  },
+  "4880836": {
+    "zipcode": "4880836",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "庄中町渋川"
+  },
+  "4880838": {
+    "zipcode": "4880838",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "庄中町"
+  },
+  "4880839": {
+    "zipcode": "4880839",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "渋川町"
+  },
+  "4880840": {
+    "zipcode": "4880840",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "印場元町"
+  },
+  "4880841": {
+    "zipcode": "4880841",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "印場元町北山"
+  },
+  "4880843": {
+    "zipcode": "4880843",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "印場元町細田"
+  },
+  "4880844": {
+    "zipcode": "4880844",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "東名西町"
+  },
+  "4880845": {
+    "zipcode": "4880845",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "霞ケ丘町南"
+  },
+  "4880846": {
+    "zipcode": "4880846",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "霞ケ丘町中"
+  },
+  "4880847": {
+    "zipcode": "4880847",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "霞ケ丘町北"
+  },
+  "4880851": {
+    "zipcode": "4880851",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭前町北"
+  },
+  "4880852": {
+    "zipcode": "4880852",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭前町新田洞"
+  },
+  "4880854": {
+    "zipcode": "4880854",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭前町西新田"
+  },
+  "4880855": {
+    "zipcode": "4880855",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "旭前町"
+  },
+  "4880857": {
+    "zipcode": "4880857",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "桜ケ丘町西"
+  },
+  "4880858": {
+    "zipcode": "4880858",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "白鳳町"
+  },
+  "4880859": {
+    "zipcode": "4880859",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "桜ケ丘町"
+  },
+  "4880861": {
+    "zipcode": "4880861",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城前町城前"
+  },
+  "4880863": {
+    "zipcode": "4880863",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城前町上大道"
+  },
+  "4880866": {
+    "zipcode": "4880866",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城前町茅池"
+  },
+  "4880867": {
+    "zipcode": "4880867",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城前町"
+  },
+  "4880871": {
+    "zipcode": "4880871",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子町東"
+  },
+  "4880872": {
+    "zipcode": "4880872",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子町長池上"
+  },
+  "4880873": {
+    "zipcode": "4880873",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子町中通"
+  },
+  "4880874": {
+    "zipcode": "4880874",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子町西"
+  },
+  "4880875": {
+    "zipcode": "4880875",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子町北"
+  },
+  "4880876": {
+    "zipcode": "4880876",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "平子ケ丘町"
+  },
+  "4880881": {
+    "zipcode": "4880881",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城山町三ツ池"
+  },
+  "4880882": {
+    "zipcode": "4880882",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城山町向ケ丘"
+  },
+  "4880883": {
+    "zipcode": "4880883",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城山町長池下"
+  },
+  "4880884": {
+    "zipcode": "4880884",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "尾張旭市",
+    "town": "城山町城山"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "1160000": {
+    "zipcode": "1160000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "以下に掲載がない場合"
+  },
+  "1160001": {
+    "zipcode": "1160001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "町屋"
+  },
+  "1160002": {
+    "zipcode": "1160002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "荒川"
+  },
+  "1160003": {
+    "zipcode": "1160003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "南千住"
+  },
+  "1160011": {
+    "zipcode": "1160011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "西尾久"
+  },
+  "1160012": {
+    "zipcode": "1160012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "東尾久"
+  },
+  "1160013": {
+    "zipcode": "1160013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "西日暮里"
+  },
+  "1160014": {
+    "zipcode": "1160014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "town": "東日暮里"
+  }
+}

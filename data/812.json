@@ -1,0 +1,722 @@
+{
+  "8120000": {
+    "zipcode": "8120000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "以下に掲載がない場合"
+  },
+  "8120001": {
+    "zipcode": "8120001",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "大井"
+  },
+  "8120002": {
+    "zipcode": "8120002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "空港前"
+  },
+  "8120003": {
+    "zipcode": "8120003",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "下臼井"
+  },
+  "8120004": {
+    "zipcode": "8120004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "榎田"
+  },
+  "8120005": {
+    "zipcode": "8120005",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "上臼井"
+  },
+  "8120006": {
+    "zipcode": "8120006",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "上牟田"
+  },
+  "8120007": {
+    "zipcode": "8120007",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東比恵"
+  },
+  "8120008": {
+    "zipcode": "8120008",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東光"
+  },
+  "8120011": {
+    "zipcode": "8120011",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "博多駅前"
+  },
+  "8120012": {
+    "zipcode": "8120012",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "博多駅中央街"
+  },
+  "8120013": {
+    "zipcode": "8120013",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "博多駅東"
+  },
+  "8120014": {
+    "zipcode": "8120014",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "比恵町"
+  },
+  "8120015": {
+    "zipcode": "8120015",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "山王"
+  },
+  "8120016": {
+    "zipcode": "8120016",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "博多駅南"
+  },
+  "8120017": {
+    "zipcode": "8120017",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "美野島"
+  },
+  "8120018": {
+    "zipcode": "8120018",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "住吉"
+  },
+  "8120020": {
+    "zipcode": "8120020",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "対馬小路"
+  },
+  "8120021": {
+    "zipcode": "8120021",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "築港本町"
+  },
+  "8120022": {
+    "zipcode": "8120022",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "神屋町"
+  },
+  "8120023": {
+    "zipcode": "8120023",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "奈良屋町"
+  },
+  "8120024": {
+    "zipcode": "8120024",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "綱場町"
+  },
+  "8120025": {
+    "zipcode": "8120025",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "店屋町"
+  },
+  "8120026": {
+    "zipcode": "8120026",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "上川端町"
+  },
+  "8120027": {
+    "zipcode": "8120027",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "下川端町"
+  },
+  "8120028": {
+    "zipcode": "8120028",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "須崎町"
+  },
+  "8120029": {
+    "zipcode": "8120029",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "古門戸町"
+  },
+  "8120031": {
+    "zipcode": "8120031",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "沖浜町"
+  },
+  "8120032": {
+    "zipcode": "8120032",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "石城町"
+  },
+  "8120033": {
+    "zipcode": "8120033",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "大博町"
+  },
+  "8120034": {
+    "zipcode": "8120034",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "下呉服町"
+  },
+  "8120035": {
+    "zipcode": "8120035",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "中呉服町"
+  },
+  "8120036": {
+    "zipcode": "8120036",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "上呉服町"
+  },
+  "8120037": {
+    "zipcode": "8120037",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "御供所町"
+  },
+  "8120038": {
+    "zipcode": "8120038",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "祇園町"
+  },
+  "8120039": {
+    "zipcode": "8120039",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "冷泉町"
+  },
+  "8120041": {
+    "zipcode": "8120041",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "吉塚"
+  },
+  "8120042": {
+    "zipcode": "8120042",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "豊"
+  },
+  "8120043": {
+    "zipcode": "8120043",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "堅粕"
+  },
+  "8120044": {
+    "zipcode": "8120044",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "千代"
+  },
+  "8120045": {
+    "zipcode": "8120045",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東公園"
+  },
+  "8120046": {
+    "zipcode": "8120046",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "吉塚本町"
+  },
+  "8120051": {
+    "zipcode": "8120051",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "箱崎ふ頭"
+  },
+  "8120052": {
+    "zipcode": "8120052",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "貝塚団地"
+  },
+  "8120053": {
+    "zipcode": "8120053",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "箱崎"
+  },
+  "8120054": {
+    "zipcode": "8120054",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "馬出"
+  },
+  "8120055": {
+    "zipcode": "8120055",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "東浜"
+  },
+  "8120061": {
+    "zipcode": "8120061",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "筥松"
+  },
+  "8120062": {
+    "zipcode": "8120062",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "松島（１、２丁目）"
+  },
+  "8120063": {
+    "zipcode": "8120063",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "原田"
+  },
+  "8120064": {
+    "zipcode": "8120064",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "松田"
+  },
+  "8120065": {
+    "zipcode": "8120065",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "二又瀬新町"
+  },
+  "8120066": {
+    "zipcode": "8120066",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "二又瀬"
+  },
+  "8120067": {
+    "zipcode": "8120067",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "筥松新町"
+  },
+  "8120068": {
+    "zipcode": "8120068",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "社領"
+  },
+  "8120069": {
+    "zipcode": "8120069",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "town": "郷口町"
+  },
+  "8120851": {
+    "zipcode": "8120851",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "青木"
+  },
+  "8120852": {
+    "zipcode": "8120852",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東平尾公園"
+  },
+  "8120853": {
+    "zipcode": "8120853",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東平尾"
+  },
+  "8120854": {
+    "zipcode": "8120854",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東月隈"
+  },
+  "8120855": {
+    "zipcode": "8120855",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "下月隈"
+  },
+  "8120857": {
+    "zipcode": "8120857",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "西月隈"
+  },
+  "8120858": {
+    "zipcode": "8120858",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "月隈"
+  },
+  "8120861": {
+    "zipcode": "8120861",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "浦田"
+  },
+  "8120862": {
+    "zipcode": "8120862",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "立花寺"
+  },
+  "8120863": {
+    "zipcode": "8120863",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "金の隈"
+  },
+  "8120871": {
+    "zipcode": "8120871",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東雲町"
+  },
+  "8120872": {
+    "zipcode": "8120872",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "春町"
+  },
+  "8120873": {
+    "zipcode": "8120873",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "西春町"
+  },
+  "8120874": {
+    "zipcode": "8120874",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "光丘町"
+  },
+  "8120875": {
+    "zipcode": "8120875",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "新和町"
+  },
+  "8120876": {
+    "zipcode": "8120876",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "昭南町"
+  },
+  "8120877": {
+    "zipcode": "8120877",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "元町"
+  },
+  "8120878": {
+    "zipcode": "8120878",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "竹丘町"
+  },
+  "8120879": {
+    "zipcode": "8120879",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "銀天町"
+  },
+  "8120881": {
+    "zipcode": "8120881",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "井相田"
+  },
+  "8120882": {
+    "zipcode": "8120882",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "麦野"
+  },
+  "8120883": {
+    "zipcode": "8120883",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "南本町"
+  },
+  "8120884": {
+    "zipcode": "8120884",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "寿町"
+  },
+  "8120885": {
+    "zipcode": "8120885",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "相生町"
+  },
+  "8120886": {
+    "zipcode": "8120886",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "南八幡町"
+  },
+  "8120887": {
+    "zipcode": "8120887",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "三筑"
+  },
+  "8120888": {
+    "zipcode": "8120888",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "板付"
+  },
+  "8120891": {
+    "zipcode": "8120891",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "雀居"
+  },
+  "8120892": {
+    "zipcode": "8120892",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東那珂"
+  },
+  "8120893": {
+    "zipcode": "8120893",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "那珂"
+  },
+  "8120894": {
+    "zipcode": "8120894",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "諸岡"
+  },
+  "8120895": {
+    "zipcode": "8120895",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "竹下"
+  },
+  "8120896": {
+    "zipcode": "8120896",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "東光寺町"
+  },
+  "8120897": {
+    "zipcode": "8120897",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "半道橋"
+  }
+}

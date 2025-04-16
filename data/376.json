@@ -1,0 +1,610 @@
+{
+  "3760000": {
+    "zipcode": "3760000",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "以下に掲載がない場合"
+  },
+  "3760001": {
+    "zipcode": "3760001",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "菱町"
+  },
+  "3760002": {
+    "zipcode": "3760002",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "境野町"
+  },
+  "3760003": {
+    "zipcode": "3760003",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "琴平町"
+  },
+  "3760004": {
+    "zipcode": "3760004",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "小梅町"
+  },
+  "3760005": {
+    "zipcode": "3760005",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "三吉町"
+  },
+  "3760006": {
+    "zipcode": "3760006",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新宿"
+  },
+  "3760007": {
+    "zipcode": "3760007",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "浜松町"
+  },
+  "3760011": {
+    "zipcode": "3760011",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "相生町"
+  },
+  "3760012": {
+    "zipcode": "3760012",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "桜木町"
+  },
+  "3760013": {
+    "zipcode": "3760013",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "広沢町"
+  },
+  "3760014": {
+    "zipcode": "3760014",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "広沢町間ノ島"
+  },
+  "3760021": {
+    "zipcode": "3760021",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "巴町"
+  },
+  "3760022": {
+    "zipcode": "3760022",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "稲荷町"
+  },
+  "3760023": {
+    "zipcode": "3760023",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "錦町"
+  },
+  "3760024": {
+    "zipcode": "3760024",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "織姫町"
+  },
+  "3760025": {
+    "zipcode": "3760025",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "美原町"
+  },
+  "3760026": {
+    "zipcode": "3760026",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "清瀬町"
+  },
+  "3760027": {
+    "zipcode": "3760027",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "元宿町"
+  },
+  "3760031": {
+    "zipcode": "3760031",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "本町"
+  },
+  "3760032": {
+    "zipcode": "3760032",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "東町"
+  },
+  "3760033": {
+    "zipcode": "3760033",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "泉町"
+  },
+  "3760034": {
+    "zipcode": "3760034",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "東"
+  },
+  "3760035": {
+    "zipcode": "3760035",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "仲町"
+  },
+  "3760036": {
+    "zipcode": "3760036",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "川岸町"
+  },
+  "3760037": {
+    "zipcode": "3760037",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "旭町"
+  },
+  "3760038": {
+    "zipcode": "3760038",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "高砂町"
+  },
+  "3760041": {
+    "zipcode": "3760041",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "川内町"
+  },
+  "3760042": {
+    "zipcode": "3760042",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "堤町"
+  },
+  "3760043": {
+    "zipcode": "3760043",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "小曾根町"
+  },
+  "3760044": {
+    "zipcode": "3760044",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "永楽町"
+  },
+  "3760045": {
+    "zipcode": "3760045",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "末広町"
+  },
+  "3760046": {
+    "zipcode": "3760046",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "宮前町"
+  },
+  "3760051": {
+    "zipcode": "3760051",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "平井町"
+  },
+  "3760052": {
+    "zipcode": "3760052",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "天神町"
+  },
+  "3760053": {
+    "zipcode": "3760053",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "東久方町"
+  },
+  "3760054": {
+    "zipcode": "3760054",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "西久方町"
+  },
+  "3760055": {
+    "zipcode": "3760055",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "横山町"
+  },
+  "3760056": {
+    "zipcode": "3760056",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "宮本町"
+  },
+  "3760100": {
+    "zipcode": "3760100",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "以下に掲載がない場合"
+  },
+  "3760101": {
+    "zipcode": "3760101",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町大間々"
+  },
+  "3760102": {
+    "zipcode": "3760102",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町桐原"
+  },
+  "3760103": {
+    "zipcode": "3760103",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町下神梅"
+  },
+  "3760104": {
+    "zipcode": "3760104",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町上神梅"
+  },
+  "3760111": {
+    "zipcode": "3760111",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町小平"
+  },
+  "3760112": {
+    "zipcode": "3760112",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町長尾根"
+  },
+  "3760113": {
+    "zipcode": "3760113",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町高津戸"
+  },
+  "3760114": {
+    "zipcode": "3760114",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町浅原"
+  },
+  "3760115": {
+    "zipcode": "3760115",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町塩原"
+  },
+  "3760116": {
+    "zipcode": "3760116",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "大間々町塩沢"
+  },
+  "3760121": {
+    "zipcode": "3760121",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町新川"
+  },
+  "3760122": {
+    "zipcode": "3760122",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町野"
+  },
+  "3760123": {
+    "zipcode": "3760123",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町武井"
+  },
+  "3760124": {
+    "zipcode": "3760124",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町小林"
+  },
+  "3760125": {
+    "zipcode": "3760125",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町山上"
+  },
+  "3760131": {
+    "zipcode": "3760131",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町奥沢"
+  },
+  "3760132": {
+    "zipcode": "3760132",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町鶴ケ谷"
+  },
+  "3760133": {
+    "zipcode": "3760133",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町大久保"
+  },
+  "3760134": {
+    "zipcode": "3760134",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町関"
+  },
+  "3760135": {
+    "zipcode": "3760135",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町高泉"
+  },
+  "3760136": {
+    "zipcode": "3760136",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町板橋"
+  },
+  "3760137": {
+    "zipcode": "3760137",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "新里町赤城山"
+  },
+  "3760141": {
+    "zipcode": "3760141",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "黒保根町水沼"
+  },
+  "3760142": {
+    "zipcode": "3760142",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "黒保根町八木原"
+  },
+  "3760143": {
+    "zipcode": "3760143",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "黒保根町宿廻"
+  },
+  "3760144": {
+    "zipcode": "3760144",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "黒保根町下田沢"
+  },
+  "3760145": {
+    "zipcode": "3760145",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "黒保根町上田沢"
+  },
+  "3760301": {
+    "zipcode": "3760301",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町沢入"
+  },
+  "3760302": {
+    "zipcode": "3760302",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町草木"
+  },
+  "3760303": {
+    "zipcode": "3760303",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町座間"
+  },
+  "3760304": {
+    "zipcode": "3760304",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町神戸"
+  },
+  "3760305": {
+    "zipcode": "3760305",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町小夜戸"
+  },
+  "3760306": {
+    "zipcode": "3760306",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町荻原"
+  },
+  "3760307": {
+    "zipcode": "3760307",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町花輪"
+  },
+  "3760308": {
+    "zipcode": "3760308",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "みどり市",
+    "town": "東町小中"
+  },
+  "3760601": {
+    "zipcode": "3760601",
+    "prefectureCode": "10",
+    "prefectureNumber": 10,
+    "prefecture": "群馬県",
+    "city": "桐生市",
+    "town": "梅田町"
+  }
+}

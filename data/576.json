@@ -1,0 +1,282 @@
+{
+  "5760000": {
+    "zipcode": "5760000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "以下に掲載がない場合"
+  },
+  "5760001": {
+    "zipcode": "5760001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "倉治（番地）"
+  },
+  "5760002": {
+    "zipcode": "5760002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私部（番地）"
+  },
+  "5760003": {
+    "zipcode": "5760003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "傍示"
+  },
+  "5760004": {
+    "zipcode": "5760004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私市（番地）"
+  },
+  "5760005": {
+    "zipcode": "5760005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "森"
+  },
+  "5760006": {
+    "zipcode": "5760006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "寺（番地）"
+  },
+  "5760011": {
+    "zipcode": "5760011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "星田（番地）"
+  },
+  "5760012": {
+    "zipcode": "5760012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "妙見東"
+  },
+  "5760013": {
+    "zipcode": "5760013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "南星台"
+  },
+  "5760014": {
+    "zipcode": "5760014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "星田山手"
+  },
+  "5760015": {
+    "zipcode": "5760015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "星田西"
+  },
+  "5760016": {
+    "zipcode": "5760016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "星田（丁目）"
+  },
+  "5760017": {
+    "zipcode": "5760017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "星田北"
+  },
+  "5760021": {
+    "zipcode": "5760021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "妙見坂"
+  },
+  "5760022": {
+    "zipcode": "5760022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "藤が尾"
+  },
+  "5760031": {
+    "zipcode": "5760031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "森南"
+  },
+  "5760032": {
+    "zipcode": "5760032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私市山手"
+  },
+  "5760033": {
+    "zipcode": "5760033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私市（丁目）"
+  },
+  "5760034": {
+    "zipcode": "5760034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "天野が原町"
+  },
+  "5760035": {
+    "zipcode": "5760035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私部南"
+  },
+  "5760036": {
+    "zipcode": "5760036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "森北"
+  },
+  "5760041": {
+    "zipcode": "5760041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私部西"
+  },
+  "5760042": {
+    "zipcode": "5760042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "梅が枝"
+  },
+  "5760043": {
+    "zipcode": "5760043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "松塚"
+  },
+  "5760051": {
+    "zipcode": "5760051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "倉治（丁目）"
+  },
+  "5760052": {
+    "zipcode": "5760052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "私部（丁目）"
+  },
+  "5760053": {
+    "zipcode": "5760053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "郡津"
+  },
+  "5760054": {
+    "zipcode": "5760054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "幾野"
+  },
+  "5760061": {
+    "zipcode": "5760061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "東倉治"
+  },
+  "5760062": {
+    "zipcode": "5760062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "神宮寺"
+  },
+  "5760063": {
+    "zipcode": "5760063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "寺（丁目）"
+  },
+  "5760064": {
+    "zipcode": "5760064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "寺南野"
+  },
+  "5760065": {
+    "zipcode": "5760065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "向井田"
+  },
+  "5760066": {
+    "zipcode": "5760066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "交野市",
+    "town": "青山"
+  }
+}

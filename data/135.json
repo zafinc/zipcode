@@ -1,0 +1,642 @@
+{
+  "1350000": {
+    "zipcode": "1350000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "以下に掲載がない場合"
+  },
+  "1350001": {
+    "zipcode": "1350001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "毛利"
+  },
+  "1350002": {
+    "zipcode": "1350002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "住吉"
+  },
+  "1350003": {
+    "zipcode": "1350003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "猿江"
+  },
+  "1350004": {
+    "zipcode": "1350004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "森下"
+  },
+  "1350005": {
+    "zipcode": "1350005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "高橋"
+  },
+  "1350006": {
+    "zipcode": "1350006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "常盤"
+  },
+  "1350007": {
+    "zipcode": "1350007",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "新大橋"
+  },
+  "1350011": {
+    "zipcode": "1350011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "扇橋"
+  },
+  "1350012": {
+    "zipcode": "1350012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "海辺"
+  },
+  "1350013": {
+    "zipcode": "1350013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "千田"
+  },
+  "1350014": {
+    "zipcode": "1350014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "石島"
+  },
+  "1350015": {
+    "zipcode": "1350015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "千石"
+  },
+  "1350016": {
+    "zipcode": "1350016",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "東陽"
+  },
+  "1350021": {
+    "zipcode": "1350021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "白河"
+  },
+  "1350022": {
+    "zipcode": "1350022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "三好"
+  },
+  "1350023": {
+    "zipcode": "1350023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "平野"
+  },
+  "1350024": {
+    "zipcode": "1350024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "清澄"
+  },
+  "1350031": {
+    "zipcode": "1350031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "佐賀"
+  },
+  "1350032": {
+    "zipcode": "1350032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "福住"
+  },
+  "1350033": {
+    "zipcode": "1350033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "深川"
+  },
+  "1350034": {
+    "zipcode": "1350034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "永代"
+  },
+  "1350041": {
+    "zipcode": "1350041",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "冬木"
+  },
+  "1350042": {
+    "zipcode": "1350042",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "木場"
+  },
+  "1350043": {
+    "zipcode": "1350043",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "塩浜"
+  },
+  "1350044": {
+    "zipcode": "1350044",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "越中島"
+  },
+  "1350045": {
+    "zipcode": "1350045",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "古石場"
+  },
+  "1350046": {
+    "zipcode": "1350046",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "牡丹"
+  },
+  "1350047": {
+    "zipcode": "1350047",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "富岡"
+  },
+  "1350048": {
+    "zipcode": "1350048",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "門前仲町"
+  },
+  "1350051": {
+    "zipcode": "1350051",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "枝川"
+  },
+  "1350052": {
+    "zipcode": "1350052",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "潮見"
+  },
+  "1350053": {
+    "zipcode": "1350053",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "辰巳"
+  },
+  "1350061": {
+    "zipcode": "1350061",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲（次のビルを除く）"
+  },
+  "1350062": {
+    "zipcode": "1350062",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "東雲"
+  },
+  "1350063": {
+    "zipcode": "1350063",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "有明"
+  },
+  "1350064": {
+    "zipcode": "1350064",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "青海"
+  },
+  "1350065": {
+    "zipcode": "1350065",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "中央防波堤"
+  },
+  "1350066": {
+    "zipcode": "1350066",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "海の森"
+  },
+  "1350091": {
+    "zipcode": "1350091",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "台場"
+  },
+  "1350092": {
+    "zipcode": "1350092",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "town": "東八潮"
+  },
+  "1350093": {
+    "zipcode": "1350093",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "town": "令和島"
+  },
+  "1356001": {
+    "zipcode": "1356001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１階）"
+  },
+  "1356002": {
+    "zipcode": "1356002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２階）"
+  },
+  "1356003": {
+    "zipcode": "1356003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３階）"
+  },
+  "1356004": {
+    "zipcode": "1356004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（４階）"
+  },
+  "1356005": {
+    "zipcode": "1356005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（５階）"
+  },
+  "1356006": {
+    "zipcode": "1356006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（６階）"
+  },
+  "1356007": {
+    "zipcode": "1356007",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（７階）"
+  },
+  "1356008": {
+    "zipcode": "1356008",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（８階）"
+  },
+  "1356009": {
+    "zipcode": "1356009",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（９階）"
+  },
+  "1356010": {
+    "zipcode": "1356010",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１０階）"
+  },
+  "1356011": {
+    "zipcode": "1356011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１１階）"
+  },
+  "1356012": {
+    "zipcode": "1356012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１２階）"
+  },
+  "1356013": {
+    "zipcode": "1356013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１３階）"
+  },
+  "1356014": {
+    "zipcode": "1356014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１４階）"
+  },
+  "1356015": {
+    "zipcode": "1356015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１５階）"
+  },
+  "1356016": {
+    "zipcode": "1356016",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１６階）"
+  },
+  "1356017": {
+    "zipcode": "1356017",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１７階）"
+  },
+  "1356018": {
+    "zipcode": "1356018",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１８階）"
+  },
+  "1356019": {
+    "zipcode": "1356019",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（１９階）"
+  },
+  "1356020": {
+    "zipcode": "1356020",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２０階）"
+  },
+  "1356021": {
+    "zipcode": "1356021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２１階）"
+  },
+  "1356022": {
+    "zipcode": "1356022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２２階）"
+  },
+  "1356023": {
+    "zipcode": "1356023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２３階）"
+  },
+  "1356024": {
+    "zipcode": "1356024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２４階）"
+  },
+  "1356025": {
+    "zipcode": "1356025",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２５階）"
+  },
+  "1356026": {
+    "zipcode": "1356026",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２６階）"
+  },
+  "1356027": {
+    "zipcode": "1356027",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２７階）"
+  },
+  "1356028": {
+    "zipcode": "1356028",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２８階）"
+  },
+  "1356029": {
+    "zipcode": "1356029",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（２９階）"
+  },
+  "1356030": {
+    "zipcode": "1356030",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３０階）"
+  },
+  "1356031": {
+    "zipcode": "1356031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３１階）"
+  },
+  "1356032": {
+    "zipcode": "1356032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３２階）"
+  },
+  "1356033": {
+    "zipcode": "1356033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３３階）"
+  },
+  "1356034": {
+    "zipcode": "1356034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３４階）"
+  },
+  "1356035": {
+    "zipcode": "1356035",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３５階）"
+  },
+  "1356036": {
+    "zipcode": "1356036",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３６階）"
+  },
+  "1356037": {
+    "zipcode": "1356037",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（３７階）"
+  },
+  "1356090": {
+    "zipcode": "1356090",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "town": "豊洲豊洲センタービル（地階・階層不明）"
+  }
+}

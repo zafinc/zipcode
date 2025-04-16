@@ -1,0 +1,1058 @@
+{
+  "0730000": {
+    "zipcode": "0730000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "以下に掲載がない場合"
+  },
+  "0730001": {
+    "zipcode": "0730001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "北滝の川"
+  },
+  "0730002": {
+    "zipcode": "0730002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "屯田町西"
+  },
+  "0730003": {
+    "zipcode": "0730003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "滝の川町西"
+  },
+  "0730004": {
+    "zipcode": "0730004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "滝の川町東"
+  },
+  "0730005": {
+    "zipcode": "0730005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "二の坂町東"
+  },
+  "0730006": {
+    "zipcode": "0730006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "二の坂町西"
+  },
+  "0730011": {
+    "zipcode": "0730011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "黄金町西"
+  },
+  "0730012": {
+    "zipcode": "0730012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "黄金町東"
+  },
+  "0730013": {
+    "zipcode": "0730013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "南滝の川"
+  },
+  "0730014": {
+    "zipcode": "0730014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "文京町"
+  },
+  "0730015": {
+    "zipcode": "0730015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "朝日町東"
+  },
+  "0730016": {
+    "zipcode": "0730016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "一の坂町東"
+  },
+  "0730017": {
+    "zipcode": "0730017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "一の坂町西"
+  },
+  "0730018": {
+    "zipcode": "0730018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "朝日町西"
+  },
+  "0730021": {
+    "zipcode": "0730021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "本町"
+  },
+  "0730022": {
+    "zipcode": "0730022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "大町"
+  },
+  "0730023": {
+    "zipcode": "0730023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "緑町"
+  },
+  "0730024": {
+    "zipcode": "0730024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "東町"
+  },
+  "0730025": {
+    "zipcode": "0730025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "流通団地"
+  },
+  "0730026": {
+    "zipcode": "0730026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "東滝川"
+  },
+  "0730027": {
+    "zipcode": "0730027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "東滝川町"
+  },
+  "0730031": {
+    "zipcode": "0730031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "栄町"
+  },
+  "0730032": {
+    "zipcode": "0730032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "明神町"
+  },
+  "0730033": {
+    "zipcode": "0730033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "新町"
+  },
+  "0730034": {
+    "zipcode": "0730034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "空知町"
+  },
+  "0730035": {
+    "zipcode": "0730035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "中島町"
+  },
+  "0730036": {
+    "zipcode": "0730036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "花月町"
+  },
+  "0730041": {
+    "zipcode": "0730041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "西滝川"
+  },
+  "0730042": {
+    "zipcode": "0730042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "泉町"
+  },
+  "0730043": {
+    "zipcode": "0730043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "幸町"
+  },
+  "0730044": {
+    "zipcode": "0730044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "西町"
+  },
+  "0730045": {
+    "zipcode": "0730045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "有明町"
+  },
+  "0730046": {
+    "zipcode": "0730046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "滝川市",
+    "town": "扇町"
+  },
+  "0730085": {
+    "zipcode": "0730085",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "富平（その他）"
+  },
+  "0730100": {
+    "zipcode": "0730100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "以下に掲載がない場合"
+  },
+  "0730101": {
+    "zipcode": "0730101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太東一条"
+  },
+  "0730102": {
+    "zipcode": "0730102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太東二条"
+  },
+  "0730103": {
+    "zipcode": "0730103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太東三条"
+  },
+  "0730104": {
+    "zipcode": "0730104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太東四条"
+  },
+  "0730105": {
+    "zipcode": "0730105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太東五条"
+  },
+  "0730106": {
+    "zipcode": "0730106",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太（その他）"
+  },
+  "0730107": {
+    "zipcode": "0730107",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "一の沢"
+  },
+  "0730108": {
+    "zipcode": "0730108",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "北光"
+  },
+  "0730111": {
+    "zipcode": "0730111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "晴見一条北"
+  },
+  "0730112": {
+    "zipcode": "0730112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "晴見二条北"
+  },
+  "0730113": {
+    "zipcode": "0730113",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "晴見三条北"
+  },
+  "0730114": {
+    "zipcode": "0730114",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "晴見四条北"
+  },
+  "0730115": {
+    "zipcode": "0730115",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "焼山"
+  },
+  "0730116": {
+    "zipcode": "0730116",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "鶉"
+  },
+  "0730117": {
+    "zipcode": "0730117",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "南吉野町"
+  },
+  "0730118": {
+    "zipcode": "0730118",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "北吉野町"
+  },
+  "0730121": {
+    "zipcode": "0730121",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野一条南"
+  },
+  "0730122": {
+    "zipcode": "0730122",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野二条南"
+  },
+  "0730123": {
+    "zipcode": "0730123",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野三条南"
+  },
+  "0730124": {
+    "zipcode": "0730124",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野四条南"
+  },
+  "0730125": {
+    "zipcode": "0730125",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "宮城の沢"
+  },
+  "0730126": {
+    "zipcode": "0730126",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東豊沼"
+  },
+  "0730127": {
+    "zipcode": "0730127",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "日の出一条南"
+  },
+  "0730131": {
+    "zipcode": "0730131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東一条南"
+  },
+  "0730132": {
+    "zipcode": "0730132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東二条南"
+  },
+  "0730133": {
+    "zipcode": "0730133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東三条南"
+  },
+  "0730134": {
+    "zipcode": "0730134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東四条南"
+  },
+  "0730135": {
+    "zipcode": "0730135",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東五条南"
+  },
+  "0730136": {
+    "zipcode": "0730136",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東六条南"
+  },
+  "0730137": {
+    "zipcode": "0730137",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東七条南"
+  },
+  "0730138": {
+    "zipcode": "0730138",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "豊沼町"
+  },
+  "0730141": {
+    "zipcode": "0730141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西一条南"
+  },
+  "0730142": {
+    "zipcode": "0730142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西二条南"
+  },
+  "0730143": {
+    "zipcode": "0730143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西三条南"
+  },
+  "0730144": {
+    "zipcode": "0730144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西四条南"
+  },
+  "0730145": {
+    "zipcode": "0730145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西五条南"
+  },
+  "0730146": {
+    "zipcode": "0730146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西六条南"
+  },
+  "0730147": {
+    "zipcode": "0730147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西七条南"
+  },
+  "0730148": {
+    "zipcode": "0730148",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西豊沼"
+  },
+  "0730151": {
+    "zipcode": "0730151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東一条北"
+  },
+  "0730152": {
+    "zipcode": "0730152",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東二条北"
+  },
+  "0730153": {
+    "zipcode": "0730153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東三条北"
+  },
+  "0730154": {
+    "zipcode": "0730154",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東四条北"
+  },
+  "0730155": {
+    "zipcode": "0730155",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東五条北"
+  },
+  "0730156": {
+    "zipcode": "0730156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "東六条北"
+  },
+  "0730157": {
+    "zipcode": "0730157",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "三砂町"
+  },
+  "0730158": {
+    "zipcode": "0730158",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野一条北"
+  },
+  "0730159": {
+    "zipcode": "0730159",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "吉野二条北"
+  },
+  "0730161": {
+    "zipcode": "0730161",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西一条北"
+  },
+  "0730162": {
+    "zipcode": "0730162",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西二条北"
+  },
+  "0730163": {
+    "zipcode": "0730163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西三条北"
+  },
+  "0730164": {
+    "zipcode": "0730164",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西四条北"
+  },
+  "0730165": {
+    "zipcode": "0730165",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西五条北"
+  },
+  "0730166": {
+    "zipcode": "0730166",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西六条北"
+  },
+  "0730167": {
+    "zipcode": "0730167",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西七条北"
+  },
+  "0730168": {
+    "zipcode": "0730168",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "西八条北"
+  },
+  "0730171": {
+    "zipcode": "0730171",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西一条"
+  },
+  "0730172": {
+    "zipcode": "0730172",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西二条"
+  },
+  "0730173": {
+    "zipcode": "0730173",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西三条"
+  },
+  "0730174": {
+    "zipcode": "0730174",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西四条"
+  },
+  "0730175": {
+    "zipcode": "0730175",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西五条"
+  },
+  "0730176": {
+    "zipcode": "0730176",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太西六条"
+  },
+  "0730177": {
+    "zipcode": "0730177",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "空知太（１〜３４９番地）"
+  },
+  "0730178": {
+    "zipcode": "0730178",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "砂川市",
+    "town": "袋地"
+  },
+  "0730181": {
+    "zipcode": "0730181",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "弥生（堤防用地）"
+  },
+  "0730200": {
+    "zipcode": "0730200",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "以下に掲載がない場合"
+  },
+  "0730201": {
+    "zipcode": "0730201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "中央"
+  },
+  "0730202": {
+    "zipcode": "0730202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "東町"
+  },
+  "0730203": {
+    "zipcode": "0730203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "中町"
+  },
+  "0730204": {
+    "zipcode": "0730204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "本町"
+  },
+  "0730205": {
+    "zipcode": "0730205",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "朝駒"
+  },
+  "0730206": {
+    "zipcode": "0730206",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "東山"
+  },
+  "0730211": {
+    "zipcode": "0730211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "東鶉"
+  },
+  "0730212": {
+    "zipcode": "0730212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "鶉"
+  },
+  "0730213": {
+    "zipcode": "0730213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "緑が丘"
+  },
+  "0730221": {
+    "zipcode": "0730221",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "鶉本町"
+  },
+  "0730222": {
+    "zipcode": "0730222",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "空知郡上砂川町",
+    "town": "下鶉"
+  },
+  "0730400": {
+    "zipcode": "0730400",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "以下に掲載がない場合"
+  },
+  "0730401": {
+    "zipcode": "0730401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "上歌"
+  },
+  "0730402": {
+    "zipcode": "0730402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "東光"
+  },
+  "0730403": {
+    "zipcode": "0730403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "本町"
+  },
+  "0730404": {
+    "zipcode": "0730404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "歌神"
+  },
+  "0730405": {
+    "zipcode": "0730405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "神威"
+  },
+  "0730406": {
+    "zipcode": "0730406",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "中村"
+  },
+  "0730407": {
+    "zipcode": "0730407",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "歌志内市",
+    "town": "文珠"
+  },
+  "0731100": {
+    "zipcode": "0731100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "以下に掲載がない場合"
+  },
+  "0731101": {
+    "zipcode": "0731101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "士寸"
+  },
+  "0731102": {
+    "zipcode": "0731102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "大和"
+  },
+  "0731103": {
+    "zipcode": "0731103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "中央"
+  },
+  "0731104": {
+    "zipcode": "0731104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "弥生（その他）"
+  },
+  "0731105": {
+    "zipcode": "0731105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "花月"
+  },
+  "0731106": {
+    "zipcode": "0731106",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "総進"
+  },
+  "0731107": {
+    "zipcode": "0731107",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "トップ"
+  },
+  "0731321": {
+    "zipcode": "0731321",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "学園"
+  },
+  "0731322": {
+    "zipcode": "0731322",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "吉野"
+  },
+  "0731323": {
+    "zipcode": "0731323",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "樺戸郡新十津川町",
+    "town": "幌加"
+  }
+}

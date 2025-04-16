@@ -1,0 +1,42 @@
+{
+  "8270000": {
+    "zipcode": "8270000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "田川郡川崎町",
+    "town": "以下に掲載がない場合"
+  },
+  "8270001": {
+    "zipcode": "8270001",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "田川郡川崎町",
+    "town": "安眞木"
+  },
+  "8270002": {
+    "zipcode": "8270002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "田川郡川崎町",
+    "town": "池尻（その他）"
+  },
+  "8270003": {
+    "zipcode": "8270003",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "田川郡川崎町",
+    "town": "川崎"
+  },
+  "8270004": {
+    "zipcode": "8270004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "田川郡川崎町",
+    "town": "田原"
+  }
+}

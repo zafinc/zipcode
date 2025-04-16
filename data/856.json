@@ -1,0 +1,666 @@
+{
+  "8560000": {
+    "zipcode": "8560000",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "以下に掲載がない場合"
+  },
+  "8560001": {
+    "zipcode": "8560001",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "武留路町"
+  },
+  "8560002": {
+    "zipcode": "8560002",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "東野岳町"
+  },
+  "8560003": {
+    "zipcode": "8560003",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "野岳町"
+  },
+  "8560004": {
+    "zipcode": "8560004",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "立福寺町"
+  },
+  "8560005": {
+    "zipcode": "8560005",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "弥勒寺町"
+  },
+  "8560006": {
+    "zipcode": "8560006",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "福重町"
+  },
+  "8560007": {
+    "zipcode": "8560007",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "草場町"
+  },
+  "8560008": {
+    "zipcode": "8560008",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "松原"
+  },
+  "8560009": {
+    "zipcode": "8560009",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "松原本町"
+  },
+  "8560011": {
+    "zipcode": "8560011",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "重井田町"
+  },
+  "8560012": {
+    "zipcode": "8560012",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "黒木町"
+  },
+  "8560013": {
+    "zipcode": "8560013",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "中岳町"
+  },
+  "8560014": {
+    "zipcode": "8560014",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "田下町"
+  },
+  "8560015": {
+    "zipcode": "8560015",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "宮代町"
+  },
+  "8560016": {
+    "zipcode": "8560016",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "原町"
+  },
+  "8560017": {
+    "zipcode": "8560017",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "荒瀬町"
+  },
+  "8560018": {
+    "zipcode": "8560018",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "今富町"
+  },
+  "8560019": {
+    "zipcode": "8560019",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "野田町"
+  },
+  "8560020": {
+    "zipcode": "8560020",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "小路口本町"
+  },
+  "8560021": {
+    "zipcode": "8560021",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "鬼橋町"
+  },
+  "8560022": {
+    "zipcode": "8560022",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "雄ケ原町"
+  },
+  "8560023": {
+    "zipcode": "8560023",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "上諏訪町"
+  },
+  "8560024": {
+    "zipcode": "8560024",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "諏訪"
+  },
+  "8560025": {
+    "zipcode": "8560025",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "小路口町"
+  },
+  "8560026": {
+    "zipcode": "8560026",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "池田"
+  },
+  "8560027": {
+    "zipcode": "8560027",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "植松"
+  },
+  "8560028": {
+    "zipcode": "8560028",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "坂口町"
+  },
+  "8560029": {
+    "zipcode": "8560029",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "池田新町"
+  },
+  "8560031": {
+    "zipcode": "8560031",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "三城町"
+  },
+  "8560032": {
+    "zipcode": "8560032",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "東大村"
+  },
+  "8560033": {
+    "zipcode": "8560033",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "荒平町"
+  },
+  "8560034": {
+    "zipcode": "8560034",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "水計町"
+  },
+  "8560035": {
+    "zipcode": "8560035",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "武部町"
+  },
+  "8560041": {
+    "zipcode": "8560041",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "徳泉川内町"
+  },
+  "8560042": {
+    "zipcode": "8560042",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "平町"
+  },
+  "8560043": {
+    "zipcode": "8560043",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "小川内町"
+  },
+  "8560044": {
+    "zipcode": "8560044",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "岩松町"
+  },
+  "8560045": {
+    "zipcode": "8560045",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "向木場町"
+  },
+  "8560046": {
+    "zipcode": "8560046",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "木場"
+  },
+  "8560047": {
+    "zipcode": "8560047",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "須田ノ木町"
+  },
+  "8560048": {
+    "zipcode": "8560048",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "赤佐古町"
+  },
+  "8560801": {
+    "zipcode": "8560801",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "寿古町"
+  },
+  "8560802": {
+    "zipcode": "8560802",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "皆同町"
+  },
+  "8560803": {
+    "zipcode": "8560803",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "竹松町"
+  },
+  "8560804": {
+    "zipcode": "8560804",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "大川田町"
+  },
+  "8560805": {
+    "zipcode": "8560805",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "竹松本町"
+  },
+  "8560806": {
+    "zipcode": "8560806",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "富の原"
+  },
+  "8560807": {
+    "zipcode": "8560807",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "宮小路"
+  },
+  "8560808": {
+    "zipcode": "8560808",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "黒丸町"
+  },
+  "8560809": {
+    "zipcode": "8560809",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "沖田町"
+  },
+  "8560811": {
+    "zipcode": "8560811",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "原口町"
+  },
+  "8560812": {
+    "zipcode": "8560812",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "桜馬場"
+  },
+  "8560813": {
+    "zipcode": "8560813",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "西大村本町"
+  },
+  "8560814": {
+    "zipcode": "8560814",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "松並"
+  },
+  "8560815": {
+    "zipcode": "8560815",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "森園町"
+  },
+  "8560816": {
+    "zipcode": "8560816",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "箕島町"
+  },
+  "8560817": {
+    "zipcode": "8560817",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "古賀島町"
+  },
+  "8560818": {
+    "zipcode": "8560818",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "今津町"
+  },
+  "8560820": {
+    "zipcode": "8560820",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "協和町"
+  },
+  "8560821": {
+    "zipcode": "8560821",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "西乾馬場町"
+  },
+  "8560822": {
+    "zipcode": "8560822",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "古町"
+  },
+  "8560823": {
+    "zipcode": "8560823",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "乾馬場町"
+  },
+  "8560824": {
+    "zipcode": "8560824",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "水田町"
+  },
+  "8560825": {
+    "zipcode": "8560825",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "西三城町"
+  },
+  "8560826": {
+    "zipcode": "8560826",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "東三城町"
+  },
+  "8560827": {
+    "zipcode": "8560827",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "水主町"
+  },
+  "8560828": {
+    "zipcode": "8560828",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "杭出津"
+  },
+  "8560829": {
+    "zipcode": "8560829",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "松山町"
+  },
+  "8560831": {
+    "zipcode": "8560831",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "東本町"
+  },
+  "8560832": {
+    "zipcode": "8560832",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "本町"
+  },
+  "8560833": {
+    "zipcode": "8560833",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "片町"
+  },
+  "8560834": {
+    "zipcode": "8560834",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "玖島"
+  },
+  "8560835": {
+    "zipcode": "8560835",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "久原"
+  },
+  "8560836": {
+    "zipcode": "8560836",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "幸町"
+  },
+  "8560837": {
+    "zipcode": "8560837",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "西本町"
+  },
+  "8560841": {
+    "zipcode": "8560841",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "陰平町"
+  },
+  "8560842": {
+    "zipcode": "8560842",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "中里町"
+  },
+  "8560843": {
+    "zipcode": "8560843",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "今村町"
+  },
+  "8560844": {
+    "zipcode": "8560844",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "溝陸町"
+  },
+  "8560845": {
+    "zipcode": "8560845",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "大里町"
+  },
+  "8560846": {
+    "zipcode": "8560846",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "日泊町"
+  },
+  "8560847": {
+    "zipcode": "8560847",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "大村市",
+    "town": "西部町"
+  }
+}

@@ -1,0 +1,4002 @@
+{
+  "6040000": {
+    "zipcode": "6040000",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "以下に掲載がない場合"
+  },
+  "6040001": {
+    "zipcode": "6040001",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "道場町"
+  },
+  "6040002": {
+    "zipcode": "6040002",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鏡屋町"
+  },
+  "6040003": {
+    "zipcode": "6040003",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "花立町"
+  },
+  "6040004": {
+    "zipcode": "6040004",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "相生町"
+  },
+  "6040005": {
+    "zipcode": "6040005",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "玉植町"
+  },
+  "6040011": {
+    "zipcode": "6040011",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "冷泉町"
+  },
+  "6040012": {
+    "zipcode": "6040012",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "竪大恩寺町"
+  },
+  "6040013": {
+    "zipcode": "6040013",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "二条新町"
+  },
+  "6040014": {
+    "zipcode": "6040014",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大黒町（釜座通夷川下る、釜座通二条上る、夷川通釜座東入、夷川通釜座西入）"
+  },
+  "6040015": {
+    "zipcode": "6040015",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "泉町"
+  },
+  "6040021": {
+    "zipcode": "6040021",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "蛸薬師町"
+  },
+  "6040022": {
+    "zipcode": "6040022",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御池之町"
+  },
+  "6040023": {
+    "zipcode": "6040023",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西横町"
+  },
+  "6040024": {
+    "zipcode": "6040024",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下妙覚寺町"
+  },
+  "6040025": {
+    "zipcode": "6040025",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上妙覚寺町"
+  },
+  "6040026": {
+    "zipcode": "6040026",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大恩寺町"
+  },
+  "6040031": {
+    "zipcode": "6040031",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "頭町"
+  },
+  "6040032": {
+    "zipcode": "6040032",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中之町（新町通御池上る、新町通押小路下る）"
+  },
+  "6040033": {
+    "zipcode": "6040033",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋之町"
+  },
+  "6040034": {
+    "zipcode": "6040034",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下松屋町"
+  },
+  "6040035": {
+    "zipcode": "6040035",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上松屋町"
+  },
+  "6040036": {
+    "zipcode": "6040036",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "正行寺町"
+  },
+  "6040041": {
+    "zipcode": "6040041",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "二条西洞院町"
+  },
+  "6040042": {
+    "zipcode": "6040042",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "押西洞院町"
+  },
+  "6040043": {
+    "zipcode": "6040043",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "石橋町（御池通小川西入、御池通小川東入、御池通西洞院西入、御池通油小路東入、小川通御池下る）"
+  },
+  "6040044": {
+    "zipcode": "6040044",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下古城町"
+  },
+  "6040045": {
+    "zipcode": "6040045",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "古城町"
+  },
+  "6040051": {
+    "zipcode": "6040051",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "二条油小路町"
+  },
+  "6040052": {
+    "zipcode": "6040052",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "押油小路町"
+  },
+  "6040053": {
+    "zipcode": "6040053",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "森ノ木町"
+  },
+  "6040054": {
+    "zipcode": "6040054",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "押堀町"
+  },
+  "6040055": {
+    "zipcode": "6040055",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "土橋町"
+  },
+  "6040061": {
+    "zipcode": "6040061",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "槌屋町（小川通夷川下る、小川通二条上る）"
+  },
+  "6040062": {
+    "zipcode": "6040062",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "薬師町"
+  },
+  "6040063": {
+    "zipcode": "6040063",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西大黒町"
+  },
+  "6040064": {
+    "zipcode": "6040064",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "矢幡町"
+  },
+  "6040065": {
+    "zipcode": "6040065",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "九町目"
+  },
+  "6040066": {
+    "zipcode": "6040066",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "薬屋町"
+  },
+  "6040071": {
+    "zipcode": "6040071",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大文字町（丸太町通堀川東入、丸太町通油小路西入、丸太町通油小路東入、丸太町通小川西入、油小路通竹屋町上る、竹屋町通油小路東入）"
+  },
+  "6040072": {
+    "zipcode": "6040072",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋本町"
+  },
+  "6040073": {
+    "zipcode": "6040073",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西夷川町"
+  },
+  "6040074": {
+    "zipcode": "6040074",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "八町目"
+  },
+  "6040075": {
+    "zipcode": "6040075",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西竹屋町"
+  },
+  "6040076": {
+    "zipcode": "6040076",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "七町目"
+  },
+  "6040077": {
+    "zipcode": "6040077",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丸太町"
+  },
+  "6040081": {
+    "zipcode": "6040081",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "田中町"
+  },
+  "6040082": {
+    "zipcode": "6040082",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "毘沙門町（西洞院通竹屋町下る、西洞院通夷川上る、竹屋町通西洞院西入、竹屋町通西洞院東入、夷川通西洞院東入）"
+  },
+  "6040083": {
+    "zipcode": "6040083",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東夷川町"
+  },
+  "6040084": {
+    "zipcode": "6040084",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下丸屋町（小川通夷川下る、小川通夷川上る）"
+  },
+  "6040085": {
+    "zipcode": "6040085",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東竹屋町"
+  },
+  "6040086": {
+    "zipcode": "6040086",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中之町（小川通丸太町下る、小川通竹屋町上る）"
+  },
+  "6040087": {
+    "zipcode": "6040087",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "横鍛冶町"
+  },
+  "6040091": {
+    "zipcode": "6040091",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅屋町（丸太町通釜座西入、丸太町通釜座東入、丸太町通新町西入、丸太町通西洞院東入、釜座通丸太町上る）"
+  },
+  "6040092": {
+    "zipcode": "6040092",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大炊町（新町通丸太町下る、新町通竹屋町上る、丸太町通新町西入、丸太町通新町東入、竹屋町通新町西入、竹屋町通新町東入）"
+  },
+  "6040093": {
+    "zipcode": "6040093",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "弁財天町"
+  },
+  "6040094": {
+    "zipcode": "6040094",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀屋町（釜座通竹屋町下る、釜座通夷川上る、夷川通釜座西入、夷川通釜座東入、夷川通西洞院東入、夷川通新町西入）"
+  },
+  "6040095": {
+    "zipcode": "6040095",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "指物屋町"
+  },
+  "6040096": {
+    "zipcode": "6040096",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桝屋町（釜座通丸太町下る、釜座通竹屋町上る）"
+  },
+  "6040801": {
+    "zipcode": "6040801",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍵屋町（丸太町通堺町東入、丸太町通堺町西入、丸太町通柳馬場東入、丸太町通高倉東入）"
+  },
+  "6040802": {
+    "zipcode": "6040802",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橘町（堺町通丸太町下る、堺町通竹屋町上る、竹屋町通堺町西入、竹屋町通堺町東入）"
+  },
+  "6040803": {
+    "zipcode": "6040803",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "和久屋町（竹屋町通柳馬場西入、竹屋町通堺町東入、竹屋町通堺町西入、竹屋町通高倉東入）"
+  },
+  "6040804": {
+    "zipcode": "6040804",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "絹屋町"
+  },
+  "6040805": {
+    "zipcode": "6040805",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "百足屋町（夷川通柳馬場西入、夷川通堺町東入、夷川通堺町西入、夷川通高倉東入）"
+  },
+  "6040811": {
+    "zipcode": "6040811",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀屋町（堺町通夷川下る、堺町通二条上る、夷川通堺町西入、夷川通堺町東入）"
+  },
+  "6040812": {
+    "zipcode": "6040812",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "天守町"
+  },
+  "6040813": {
+    "zipcode": "6040813",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "夷町"
+  },
+  "6040814": {
+    "zipcode": "6040814",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壺屋町（東洞院通夷川下る、東洞院通二条上る、夷川通東洞院西入、夷川通東洞院東入）"
+  },
+  "6040815": {
+    "zipcode": "6040815",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "山中町"
+  },
+  "6040821": {
+    "zipcode": "6040821",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "観音町"
+  },
+  "6040822": {
+    "zipcode": "6040822",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "杉屋町"
+  },
+  "6040823": {
+    "zipcode": "6040823",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "竹屋町"
+  },
+  "6040824": {
+    "zipcode": "6040824",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "扇屋町"
+  },
+  "6040825": {
+    "zipcode": "6040825",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御所八幡町"
+  },
+  "6040826": {
+    "zipcode": "6040826",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "柊町"
+  },
+  "6040827": {
+    "zipcode": "6040827",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "瓦町"
+  },
+  "6040831": {
+    "zipcode": "6040831",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松屋町"
+  },
+  "6040832": {
+    "zipcode": "6040832",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍵屋町（間之町通二条下る、間之町通押小路上る）"
+  },
+  "6040833": {
+    "zipcode": "6040833",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "左京町"
+  },
+  "6040834": {
+    "zipcode": "6040834",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "高田町"
+  },
+  "6040835": {
+    "zipcode": "6040835",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "高宮町（御池通高倉西入、御池通東洞院東入、御池通間之町東入、御池通間之町西入）"
+  },
+  "6040836": {
+    "zipcode": "6040836",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "船屋町（東洞院通押小路下る、東洞院通御池上る、押小路通東洞院西入、押小路通東洞院東入）"
+  },
+  "6040837": {
+    "zipcode": "6040837",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "瓦之町"
+  },
+  "6040841": {
+    "zipcode": "6040841",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "仁王門突抜町"
+  },
+  "6040842": {
+    "zipcode": "6040842",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西押小路町"
+  },
+  "6040843": {
+    "zipcode": "6040843",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "塗師屋町"
+  },
+  "6040844": {
+    "zipcode": "6040844",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "仲保利町"
+  },
+  "6040845": {
+    "zipcode": "6040845",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "二条殿町"
+  },
+  "6040846": {
+    "zipcode": "6040846",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "金吹町"
+  },
+  "6040847": {
+    "zipcode": "6040847",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "秋野々町"
+  },
+  "6040851": {
+    "zipcode": "6040851",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西九軒町"
+  },
+  "6040852": {
+    "zipcode": "6040852",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東九軒町"
+  },
+  "6040853": {
+    "zipcode": "6040853",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "真如堂町"
+  },
+  "6040854": {
+    "zipcode": "6040854",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "仁王門町"
+  },
+  "6040855": {
+    "zipcode": "6040855",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東玉屋町"
+  },
+  "6040856": {
+    "zipcode": "6040856",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "北小路町"
+  },
+  "6040857": {
+    "zipcode": "6040857",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "蒔絵屋町"
+  },
+  "6040861": {
+    "zipcode": "6040861",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大倉町"
+  },
+  "6040862": {
+    "zipcode": "6040862",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "少将井町"
+  },
+  "6040863": {
+    "zipcode": "6040863",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "巴町"
+  },
+  "6040864": {
+    "zipcode": "6040864",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松竹町"
+  },
+  "6040865": {
+    "zipcode": "6040865",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀屋町（竹屋町通烏丸西入、竹屋町通両替町東入、竹屋町通両替町西入、竹屋町通室町東入、両替町通室町下る）"
+  },
+  "6040866": {
+    "zipcode": "6040866",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西方寺町"
+  },
+  "6040867": {
+    "zipcode": "6040867",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "常真横町"
+  },
+  "6040871": {
+    "zipcode": "6040871",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三本木町"
+  },
+  "6040872": {
+    "zipcode": "6040872",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三本木五丁目"
+  },
+  "6040873": {
+    "zipcode": "6040873",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "少将井御旅町"
+  },
+  "6040874": {
+    "zipcode": "6040874",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "清水町（竹屋町通烏丸東入、竹屋町通東洞院西入、竹屋町通車屋町西入、竹屋町通車屋町東入、車屋町通竹屋町下る）"
+  },
+  "6040875": {
+    "zipcode": "6040875",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "砂金町"
+  },
+  "6040876": {
+    "zipcode": "6040876",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "光リ堂町"
+  },
+  "6040881": {
+    "zipcode": "6040881",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "坂本町"
+  },
+  "6040882": {
+    "zipcode": "6040882",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "福屋町"
+  },
+  "6040883": {
+    "zipcode": "6040883",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "楠町"
+  },
+  "6040884": {
+    "zipcode": "6040884",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "塀之内町"
+  },
+  "6040885": {
+    "zipcode": "6040885",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大津町"
+  },
+  "6040886": {
+    "zipcode": "6040886",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "関東屋町"
+  },
+  "6040901": {
+    "zipcode": "6040901",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "末丸町"
+  },
+  "6040902": {
+    "zipcode": "6040902",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鉾田町"
+  },
+  "6040903": {
+    "zipcode": "6040903",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "指物町"
+  },
+  "6040904": {
+    "zipcode": "6040904",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西革堂町"
+  },
+  "6040905": {
+    "zipcode": "6040905",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅之木町（新烏丸通竹屋町上る、新烏丸通竹屋町下る、新烏丸通夷川上る、夷川通新烏丸東入、夷川通新椹木町西入、竹屋町通新烏丸東入、竹屋町通椹木町西入、新烏丸通御霊図子下る）"
+  },
+  "6040906": {
+    "zipcode": "6040906",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東椹木町"
+  },
+  "6040907": {
+    "zipcode": "6040907",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大文字町（河原町通御霊図子下る、河原町通竹屋町上る）"
+  },
+  "6040911": {
+    "zipcode": "6040911",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "清水町（河原町通夷川下る、河原町通二条上る、夷川通河原町東入、夷川通土手町西入、夷川通土手町東入）"
+  },
+  "6040912": {
+    "zipcode": "6040912",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "樋之口町"
+  },
+  "6040913": {
+    "zipcode": "6040913",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "角倉町"
+  },
+  "6040914": {
+    "zipcode": "6040914",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橘柳町"
+  },
+  "6040915": {
+    "zipcode": "6040915",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "常盤木町"
+  },
+  "6040916": {
+    "zipcode": "6040916",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "要法寺前町"
+  },
+  "6040917": {
+    "zipcode": "6040917",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丸屋町（夷川通寺町西入、夷川通御幸町東入）"
+  },
+  "6040921": {
+    "zipcode": "6040921",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西生洲町"
+  },
+  "6040922": {
+    "zipcode": "6040922",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東生洲町"
+  },
+  "6040923": {
+    "zipcode": "6040923",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上樵木町"
+  },
+  "6040924": {
+    "zipcode": "6040924",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "一之船入町"
+  },
+  "6040925": {
+    "zipcode": "6040925",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上本能寺前町"
+  },
+  "6040931": {
+    "zipcode": "6040931",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "榎木町"
+  },
+  "6040932": {
+    "zipcode": "6040932",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "妙満寺前町"
+  },
+  "6040933": {
+    "zipcode": "6040933",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "山本町"
+  },
+  "6040934": {
+    "zipcode": "6040934",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "尾張町"
+  },
+  "6040935": {
+    "zipcode": "6040935",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丁子屋町"
+  },
+  "6040941": {
+    "zipcode": "6040941",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀屋町（御幸町通御池上る、御幸町通押小路下る、御幸町通押小路西入、御幸町通押小路東入、押小路通寺町西入、御池通御幸町西入、御池通御幸町東入）"
+  },
+  "6040942": {
+    "zipcode": "6040942",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御池大東町"
+  },
+  "6040943": {
+    "zipcode": "6040943",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上白山町"
+  },
+  "6040944": {
+    "zipcode": "6040944",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橘町（押小路通御幸町西入、押小路通麩屋町西入、押小路通麩屋町東入、押小路通富小路西入、押小路通富小路東入、押小路通柳馬場東入）"
+  },
+  "6040951": {
+    "zipcode": "6040951",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "晴明町"
+  },
+  "6040952": {
+    "zipcode": "6040952",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "俵屋町（富小路通二条下る、富小路通押小路上る）"
+  },
+  "6040953": {
+    "zipcode": "6040953",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "守山町"
+  },
+  "6040954": {
+    "zipcode": "6040954",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東八幡町"
+  },
+  "6040955": {
+    "zipcode": "6040955",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "虎石町"
+  },
+  "6040956": {
+    "zipcode": "6040956",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "等持寺町"
+  },
+  "6040961": {
+    "zipcode": "6040961",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "木屋町"
+  },
+  "6040962": {
+    "zipcode": "6040962",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "達磨町"
+  },
+  "6040963": {
+    "zipcode": "6040963",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "布袋屋町"
+  },
+  "6040964": {
+    "zipcode": "6040964",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍛冶屋町（富小路通夷川下る、富小路通二条上る、夷川通富小路西入、夷川通富小路東入）"
+  },
+  "6040965": {
+    "zipcode": "6040965",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "六丁目"
+  },
+  "6040966": {
+    "zipcode": "6040966",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "俵屋町（夷川通富小路西入、夷川通柳馬場東入）"
+  },
+  "6040971": {
+    "zipcode": "6040971",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桝屋町（富小路通丸太町下る、富小路通竹屋町上る、丸太町通富小路東入、竹屋町通富小路東入、丸太町通富小路西入、竹屋町通富小路西入）"
+  },
+  "6040972": {
+    "zipcode": "6040972",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大炊町（富小路通竹屋町下る、富小路通夷川上る、竹屋町通富小路西入、竹屋町通富小路東入、夷川通富小路西入、夷川通富小路東入）"
+  },
+  "6040973": {
+    "zipcode": "6040973",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "五丁目"
+  },
+  "6040974": {
+    "zipcode": "6040974",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "四丁目"
+  },
+  "6040975": {
+    "zipcode": "6040975",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "菊屋町（竹屋町通富小路西入、竹屋町通柳馬場東入）"
+  },
+  "6040976": {
+    "zipcode": "6040976",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桑原町"
+  },
+  "6040981": {
+    "zipcode": "6040981",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "毘沙門町（御幸町通丸太町下る、御幸町通竹屋町上る、丸太町通御幸町西入、丸太町通御幸町東入、竹屋町通御幸町西入、竹屋町通御幸町東入、竹屋町通麩屋町東入）"
+  },
+  "6040982": {
+    "zipcode": "6040982",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松本町（御幸町通竹屋町下る、御幸町通夷川上る、御幸町通竹屋町西入、御幸町通竹屋町東入、夷川通御幸町西入、夷川通御幸町東入）"
+  },
+  "6040983": {
+    "zipcode": "6040983",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "笹屋町（麩屋町通竹屋町下る、麩屋町通夷川上る、竹屋町通麩屋町西入、竹屋町通麩屋町東入、竹屋町通御幸町西入、夷川通麩屋町西入、夷川通麩屋町東入）"
+  },
+  "6040984": {
+    "zipcode": "6040984",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "魚屋町"
+  },
+  "6040985": {
+    "zipcode": "6040985",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "舟屋町"
+  },
+  "6040986": {
+    "zipcode": "6040986",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "昆布屋町"
+  },
+  "6040991": {
+    "zipcode": "6040991",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "行願寺門前町"
+  },
+  "6040992": {
+    "zipcode": "6040992",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "藤木町"
+  },
+  "6040993": {
+    "zipcode": "6040993",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "久遠院前町"
+  },
+  "6040994": {
+    "zipcode": "6040994",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "甘露町"
+  },
+  "6040995": {
+    "zipcode": "6040995",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下御霊前町"
+  },
+  "6040996": {
+    "zipcode": "6040996",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "石屋町（丸太町通寺町西入、丸太町通御幸町東入）"
+  },
+  "6048001": {
+    "zipcode": "6048001",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上大阪町"
+  },
+  "6048002": {
+    "zipcode": "6048002",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "石屋町（木屋町通三条下る、先斗町通三条下る、木屋町通四条上る）"
+  },
+  "6048003": {
+    "zipcode": "6048003",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋下町"
+  },
+  "6048004": {
+    "zipcode": "6048004",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中島町"
+  },
+  "6048005": {
+    "zipcode": "6048005",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "恵比須町"
+  },
+  "6048006": {
+    "zipcode": "6048006",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下丸屋町（御池通河原町東入、河原町通御池下る、河原町通姉小路上る、御池通木屋町西入、木屋町通御池下る、木屋町通姉小路上る）"
+  },
+  "6048011": {
+    "zipcode": "6048011",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "若松町"
+  },
+  "6048012": {
+    "zipcode": "6048012",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅之木町（先斗町通三条下る、先斗町通蛸薬師上る、先斗町通蛸薬師下る、先斗町通四条上る）"
+  },
+  "6048013": {
+    "zipcode": "6048013",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松本町（先斗町通四条上る、先斗町通三条下る）"
+  },
+  "6048014": {
+    "zipcode": "6048014",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "柏屋町"
+  },
+  "6048015": {
+    "zipcode": "6048015",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍋屋町"
+  },
+  "6048016": {
+    "zipcode": "6048016",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下樵木町"
+  },
+  "6048017": {
+    "zipcode": "6048017",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "材木町"
+  },
+  "6048021": {
+    "zipcode": "6048021",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "北車屋町"
+  },
+  "6048022": {
+    "zipcode": "6048022",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "南車屋町"
+  },
+  "6048023": {
+    "zipcode": "6048023",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "備前島町"
+  },
+  "6048024": {
+    "zipcode": "6048024",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "紙屋町"
+  },
+  "6048025": {
+    "zipcode": "6048025",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下大阪町"
+  },
+  "6048026": {
+    "zipcode": "6048026",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "米屋町"
+  },
+  "6048027": {
+    "zipcode": "6048027",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "塩屋町（河原町通蛸薬師下る、河原町通四条上る、蛸薬師通河原町西入）"
+  },
+  "6048031": {
+    "zipcode": "6048031",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大黒町（河原町通三条下る、三条通河原町東入、三条通河原町西入、河原町通六角上る、西木屋町通三条下る、西木屋町通六角上る）"
+  },
+  "6048032": {
+    "zipcode": "6048032",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "山崎町"
+  },
+  "6048033": {
+    "zipcode": "6048033",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "奈良屋町"
+  },
+  "6048034": {
+    "zipcode": "6048034",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松ケ枝町"
+  },
+  "6048035": {
+    "zipcode": "6048035",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桜之町"
+  },
+  "6048036": {
+    "zipcode": "6048036",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "石橋町（三条通河原町西入、三条通寺町東入、三条通新京極西入、三条通新京極東入、寺町通三条下る、寺町通三条上る）"
+  },
+  "6048041": {
+    "zipcode": "6048041",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "裏寺町"
+  },
+  "6048042": {
+    "zipcode": "6048042",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中之町（寺町通錦小路下る、寺町通四条上る、新京極通錦小路下る、新京極通四条上る、錦小路通寺町東入、裏寺町通蛸薬師下る、裏寺町通四条上る）"
+  },
+  "6048043": {
+    "zipcode": "6048043",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東大文字町"
+  },
+  "6048044": {
+    "zipcode": "6048044",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大日町"
+  },
+  "6048045": {
+    "zipcode": "6048045",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "円福寺前町"
+  },
+  "6048046": {
+    "zipcode": "6048046",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東側町"
+  },
+  "6048047": {
+    "zipcode": "6048047",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中筋町"
+  },
+  "6048051": {
+    "zipcode": "6048051",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "船屋町（御幸町通蛸薬師下る、御幸町通錦小路上る、蛸薬師通御幸町東入、錦小路通御幸町東入）"
+  },
+  "6048052": {
+    "zipcode": "6048052",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍛冶屋町（錦小路通御幸町西入、錦小路通麸屋町東入）"
+  },
+  "6048053": {
+    "zipcode": "6048053",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桝屋町（麩屋町通錦小路下る、麩屋町通四条上る、錦小路通麩屋町西入、錦小路通麩屋町東入）"
+  },
+  "6048054": {
+    "zipcode": "6048054",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西大文字町"
+  },
+  "6048055": {
+    "zipcode": "6048055",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東魚屋町"
+  },
+  "6048056": {
+    "zipcode": "6048056",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "高宮町（富小路通錦小路上る、富小路通蛸薬師下る）"
+  },
+  "6048057": {
+    "zipcode": "6048057",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅屋町（麸屋町通錦小路上る、麸屋町通蛸薬師下る）"
+  },
+  "6048061": {
+    "zipcode": "6048061",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "式部町"
+  },
+  "6048062": {
+    "zipcode": "6048062",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "蛸屋町"
+  },
+  "6048063": {
+    "zipcode": "6048063",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "油屋町（蛸薬師通麸屋町西入、蛸薬師通富小路東入、蛸薬師通富小路西入、蛸薬師通柳馬場東入、富小路通蛸薬師上る、富小路通蛸薬師下る）"
+  },
+  "6048064": {
+    "zipcode": "6048064",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "骨屋之町"
+  },
+  "6048065": {
+    "zipcode": "6048065",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "坂井町"
+  },
+  "6048066": {
+    "zipcode": "6048066",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "伊勢屋町"
+  },
+  "6048071": {
+    "zipcode": "6048071",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "永楽町"
+  },
+  "6048072": {
+    "zipcode": "6048072",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "八百屋町（六角通寺町西入、六角通御幸町東入、六角通御幸町西入、六角通麩屋町東入、御幸町通麩屋町下る、麩屋町通六角下る）"
+  },
+  "6048073": {
+    "zipcode": "6048073",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大黒町（麩屋町通六角上る、麩屋町通六角下る、六角通麩屋町西入、富小路通六角上る、富小路通六角下る、六角通富小路西入、六角通富小路東入、六角通柳馬場東入）"
+  },
+  "6048074": {
+    "zipcode": "6048074",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "朝倉町"
+  },
+  "6048075": {
+    "zipcode": "6048075",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "白壁町"
+  },
+  "6048076": {
+    "zipcode": "6048076",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "海老屋町"
+  },
+  "6048081": {
+    "zipcode": "6048081",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "天性寺前町"
+  },
+  "6048082": {
+    "zipcode": "6048082",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "弁慶石町"
+  },
+  "6048083": {
+    "zipcode": "6048083",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中之町（三条通麩屋町西入、三条通富小路西入、三条通富小路東入、三条通柳馬場東入、富小路通三条下る）"
+  },
+  "6048084": {
+    "zipcode": "6048084",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "福長町"
+  },
+  "6048085": {
+    "zipcode": "6048085",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下白山町"
+  },
+  "6048086": {
+    "zipcode": "6048086",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丸屋町（御幸町通姉小路下る、御幸町通三条上る、姉小路通御幸町西入、姉小路通御幸町東入）"
+  },
+  "6048091": {
+    "zipcode": "6048091",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下本能寺前町"
+  },
+  "6048092": {
+    "zipcode": "6048092",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉大東町"
+  },
+  "6048093": {
+    "zipcode": "6048093",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松下町"
+  },
+  "6048094": {
+    "zipcode": "6048094",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中白山町"
+  },
+  "6048095": {
+    "zipcode": "6048095",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大文字町（御幸町通御池下る、御幸町通姉小路上る、御池通御幸町西入、御池通御幸町東入、姉小路通御幸町西入、姉小路通御幸町東入）"
+  },
+  "6048101": {
+    "zipcode": "6048101",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "柳八幡町"
+  },
+  "6048102": {
+    "zipcode": "6048102",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "菊屋町（姉小路通富小路西入、姉小路通柳馬場東入）"
+  },
+  "6048103": {
+    "zipcode": "6048103",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "油屋町（柳馬場通姉小路下る、柳馬場通三条上る、姉小路通柳馬場東入、姉小路通柳馬場西入）"
+  },
+  "6048104": {
+    "zipcode": "6048104",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "木之下町"
+  },
+  "6048105": {
+    "zipcode": "6048105",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀甲屋町"
+  },
+  "6048106": {
+    "zipcode": "6048106",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丸木材木町"
+  },
+  "6048111": {
+    "zipcode": "6048111",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "桝屋町（柳馬場通三条上る、柳馬場通三条下る、堺町通三条上る、堺町通三条下る、高倉通三条上る、高倉通三条下る、三条通柳馬場西入、三条通堺町西入、三条通堺町東入、三条通高倉東入）"
+  },
+  "6048112": {
+    "zipcode": "6048112",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "槌屋町（柳馬場通三条下る、柳馬場通六角上る、六角通柳馬場西入、六角通柳馬場東入）"
+  },
+  "6048113": {
+    "zipcode": "6048113",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "井筒屋町"
+  },
+  "6048114": {
+    "zipcode": "6048114",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "甲屋町"
+  },
+  "6048115": {
+    "zipcode": "6048115",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "雁金町"
+  },
+  "6048116": {
+    "zipcode": "6048116",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "和久屋町（高倉通六角下る、高倉通蛸薬師上る）"
+  },
+  "6048117": {
+    "zipcode": "6048117",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "堀之上町"
+  },
+  "6048118": {
+    "zipcode": "6048118",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "道祐町"
+  },
+  "6048121": {
+    "zipcode": "6048121",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "十文字町"
+  },
+  "6048122": {
+    "zipcode": "6048122",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "瀬戸屋町"
+  },
+  "6048123": {
+    "zipcode": "6048123",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "八百屋町（堺町通錦小路下る、堺町通四条上る）"
+  },
+  "6048124": {
+    "zipcode": "6048124",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "帯屋町"
+  },
+  "6048125": {
+    "zipcode": "6048125",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "中魚屋町"
+  },
+  "6048126": {
+    "zipcode": "6048126",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "貝屋町"
+  },
+  "6048127": {
+    "zipcode": "6048127",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "菊屋町（堺町通蛸薬師下る、堺町通錦小路上る、錦小路通堺町東入、錦小路通柳馬場西入）"
+  },
+  "6048131": {
+    "zipcode": "6048131",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "菱屋町"
+  },
+  "6048132": {
+    "zipcode": "6048132",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "丸屋町（高倉通三条下る、高倉通六角上る）"
+  },
+  "6048133": {
+    "zipcode": "6048133",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "滕屋町"
+  },
+  "6048134": {
+    "zipcode": "6048134",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "堂之前町"
+  },
+  "6048135": {
+    "zipcode": "6048135",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三文字町（東洞院通三条下る、東洞院通六角上る、六角通東洞院西入、六角通東洞院東入）"
+  },
+  "6048136": {
+    "zipcode": "6048136",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅忠町"
+  },
+  "6048141": {
+    "zipcode": "6048141",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "泉正寺町"
+  },
+  "6048142": {
+    "zipcode": "6048142",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西魚屋町"
+  },
+  "6048143": {
+    "zipcode": "6048143",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "阪東屋町"
+  },
+  "6048144": {
+    "zipcode": "6048144",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "元法然寺町"
+  },
+  "6048145": {
+    "zipcode": "6048145",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "元竹田町"
+  },
+  "6048146": {
+    "zipcode": "6048146",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "一蓮社町"
+  },
+  "6048147": {
+    "zipcode": "6048147",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御射山町"
+  },
+  "6048151": {
+    "zipcode": "6048151",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋弁慶町"
+  },
+  "6048152": {
+    "zipcode": "6048152",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "手洗水町"
+  },
+  "6048153": {
+    "zipcode": "6048153",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "笋町"
+  },
+  "6048154": {
+    "zipcode": "6048154",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "菊水鉾町"
+  },
+  "6048155": {
+    "zipcode": "6048155",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "占出山町"
+  },
+  "6048156": {
+    "zipcode": "6048156",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "山伏山町"
+  },
+  "6048161": {
+    "zipcode": "6048161",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "饅頭屋町"
+  },
+  "6048162": {
+    "zipcode": "6048162",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "七観音町"
+  },
+  "6048163": {
+    "zipcode": "6048163",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鯉山町"
+  },
+  "6048164": {
+    "zipcode": "6048164",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "骨屋町"
+  },
+  "6048165": {
+    "zipcode": "6048165",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "烏帽子屋町"
+  },
+  "6048166": {
+    "zipcode": "6048166",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御倉町"
+  },
+  "6048171": {
+    "zipcode": "6048171",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "虎屋町"
+  },
+  "6048172": {
+    "zipcode": "6048172",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "場之町"
+  },
+  "6048173": {
+    "zipcode": "6048173",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "柿本町"
+  },
+  "6048174": {
+    "zipcode": "6048174",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "役行者町"
+  },
+  "6048175": {
+    "zipcode": "6048175",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "円福寺町"
+  },
+  "6048176": {
+    "zipcode": "6048176",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "龍池町"
+  },
+  "6048181": {
+    "zipcode": "6048181",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "綿屋町"
+  },
+  "6048182": {
+    "zipcode": "6048182",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大阪材木町"
+  },
+  "6048183": {
+    "zipcode": "6048183",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "東片町"
+  },
+  "6048184": {
+    "zipcode": "6048184",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "曇華院前町"
+  },
+  "6048185": {
+    "zipcode": "6048185",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "車屋町"
+  },
+  "6048186": {
+    "zipcode": "6048186",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "梅屋町（御池通烏丸東入、御池通東洞院西入）"
+  },
+  "6048187": {
+    "zipcode": "6048187",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "笹屋町（御池通東洞院東入、御池通東洞院西入、御池通烏丸東入、東洞院通姉小路上る、姉小路通東洞院東入）"
+  },
+  "6048201": {
+    "zipcode": "6048201",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "長浜町"
+  },
+  "6048202": {
+    "zipcode": "6048202",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "突抜町（衣棚通姉小路下る、衣棚通三条上る、姉小路通室町西入、姉小路通衣棚西入、姉小路通衣棚東入、姉小路通新町東入）"
+  },
+  "6048203": {
+    "zipcode": "6048203",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "衣棚町"
+  },
+  "6048204": {
+    "zipcode": "6048204",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "了頓図子町"
+  },
+  "6048205": {
+    "zipcode": "6048205",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三条町"
+  },
+  "6048206": {
+    "zipcode": "6048206",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "町頭町"
+  },
+  "6048207": {
+    "zipcode": "6048207",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "神明町"
+  },
+  "6048211": {
+    "zipcode": "6048211",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "玉蔵町"
+  },
+  "6048212": {
+    "zipcode": "6048212",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "六角町"
+  },
+  "6048213": {
+    "zipcode": "6048213",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姥柳町"
+  },
+  "6048214": {
+    "zipcode": "6048214",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "百足屋町（新町通蛸薬師下る、新町通錦小路上る、蛸薬師通新町西入、錦小路通新町西入、錦小路通新町東入）"
+  },
+  "6048215": {
+    "zipcode": "6048215",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "不動町"
+  },
+  "6048216": {
+    "zipcode": "6048216",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "池須町"
+  },
+  "6048217": {
+    "zipcode": "6048217",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西六角町"
+  },
+  "6048221": {
+    "zipcode": "6048221",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "天神山町"
+  },
+  "6048222": {
+    "zipcode": "6048222",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "観音堂町"
+  },
+  "6048223": {
+    "zipcode": "6048223",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "小結棚町"
+  },
+  "6048224": {
+    "zipcode": "6048224",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "炭之座町"
+  },
+  "6048225": {
+    "zipcode": "6048225",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "蟷螂山町"
+  },
+  "6048226": {
+    "zipcode": "6048226",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西錦小路町"
+  },
+  "6048227": {
+    "zipcode": "6048227",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "古西町"
+  },
+  "6048231": {
+    "zipcode": "6048231",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "元本能寺南町"
+  },
+  "6048232": {
+    "zipcode": "6048232",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "空也町"
+  },
+  "6048233": {
+    "zipcode": "6048233",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "藤本町"
+  },
+  "6048234": {
+    "zipcode": "6048234",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "藤西町"
+  },
+  "6048235": {
+    "zipcode": "6048235",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "錦堀川町"
+  },
+  "6048236": {
+    "zipcode": "6048236",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三文字町（錦小路通堀川東入、錦小路通油小路西入、堀川通錦小路下る、醒ケ井通錦小路下る、醒ケ井通錦小路東入、醒ケ井通錦小路西入）"
+  },
+  "6048237": {
+    "zipcode": "6048237",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "山田町"
+  },
+  "6048241": {
+    "zipcode": "6048241",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "釜座町"
+  },
+  "6048242": {
+    "zipcode": "6048242",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "柳水町"
+  },
+  "6048243": {
+    "zipcode": "6048243",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "本能寺町"
+  },
+  "6048244": {
+    "zipcode": "6048244",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "元本能寺町"
+  },
+  "6048245": {
+    "zipcode": "6048245",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "六角油小路町"
+  },
+  "6048246": {
+    "zipcode": "6048246",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "猩々町"
+  },
+  "6048247": {
+    "zipcode": "6048247",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "塩屋町（三条通西洞院西入、三条通小川東入、三条通小川西入、三条通油小路東入）"
+  },
+  "6048251": {
+    "zipcode": "6048251",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三条油小路町"
+  },
+  "6048252": {
+    "zipcode": "6048252",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "越後突抜町"
+  },
+  "6048253": {
+    "zipcode": "6048253",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "亀屋町（蛸薬師通堀川東入、堀川通蛸薬師下る、蛸薬師通油小路西入）"
+  },
+  "6048254": {
+    "zipcode": "6048254",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "四坊堀川町"
+  },
+  "6048255": {
+    "zipcode": "6048255",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壺屋町（堀川通六角下る、六角通堀川東入、堀川通蛸薬師上る）"
+  },
+  "6048256": {
+    "zipcode": "6048256",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "越後町"
+  },
+  "6048257": {
+    "zipcode": "6048257",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋浦町"
+  },
+  "6048258": {
+    "zipcode": "6048258",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋東詰町"
+  },
+  "6048261": {
+    "zipcode": "6048261",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "式阿弥町"
+  },
+  "6048262": {
+    "zipcode": "6048262",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "宗林町"
+  },
+  "6048263": {
+    "zipcode": "6048263",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉東堀川町"
+  },
+  "6048264": {
+    "zipcode": "6048264",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉西堀川町"
+  },
+  "6048265": {
+    "zipcode": "6048265",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西三坊堀川町"
+  },
+  "6048266": {
+    "zipcode": "6048266",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三坊堀川町"
+  },
+  "6048267": {
+    "zipcode": "6048267",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍛冶町"
+  },
+  "6048271": {
+    "zipcode": "6048271",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "津軽町"
+  },
+  "6048272": {
+    "zipcode": "6048272",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "突抜町（釜座通姉小路下る、釜座通三条上る、姉小路通新町西入、姉小路通釜座西入、姉小路通釜座東入、姉小路通西洞院東入）"
+  },
+  "6048273": {
+    "zipcode": "6048273",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉西洞院町"
+  },
+  "6048274": {
+    "zipcode": "6048274",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西堂町"
+  },
+  "6048275": {
+    "zipcode": "6048275",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "宮木町"
+  },
+  "6048276": {
+    "zipcode": "6048276",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壺屋町（小川通御池下る、小川通姉小路上る）"
+  },
+  "6048277": {
+    "zipcode": "6048277",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三坊西洞院町"
+  },
+  "6048301": {
+    "zipcode": "6048301",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "二条城町"
+  },
+  "6048302": {
+    "zipcode": "6048302",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "池元町"
+  },
+  "6048303": {
+    "zipcode": "6048303",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "最上町"
+  },
+  "6048304": {
+    "zipcode": "6048304",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "織物屋町"
+  },
+  "6048305": {
+    "zipcode": "6048305",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "市之町"
+  },
+  "6048306": {
+    "zipcode": "6048306",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "門前町"
+  },
+  "6048311": {
+    "zipcode": "6048311",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "俵屋町（御池通猪熊西入、御池通黒門東入）"
+  },
+  "6048312": {
+    "zipcode": "6048312",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上巴町"
+  },
+  "6048313": {
+    "zipcode": "6048313",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三坊猪熊町北組"
+  },
+  "6048314": {
+    "zipcode": "6048314",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三坊猪熊町南組"
+  },
+  "6048315": {
+    "zipcode": "6048315",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "大文字町（黒門通御池下る、黒門通姉小路上る、御池通黒門西入、御池通黒門東入、御池通猪熊西入）"
+  },
+  "6048316": {
+    "zipcode": "6048316",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三坊大宮町"
+  },
+  "6048321": {
+    "zipcode": "6048321",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "倉本町"
+  },
+  "6048322": {
+    "zipcode": "6048322",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "樽屋町"
+  },
+  "6048323": {
+    "zipcode": "6048323",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上八文字町"
+  },
+  "6048324": {
+    "zipcode": "6048324",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉猪熊町"
+  },
+  "6048325": {
+    "zipcode": "6048325",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上一文字町"
+  },
+  "6048326": {
+    "zipcode": "6048326",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉大宮町東側"
+  },
+  "6048327": {
+    "zipcode": "6048327",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉大宮町西側"
+  },
+  "6048331": {
+    "zipcode": "6048331",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "御供町"
+  },
+  "6048332": {
+    "zipcode": "6048332",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "橋西町"
+  },
+  "6048333": {
+    "zipcode": "6048333",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下八文字町"
+  },
+  "6048334": {
+    "zipcode": "6048334",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三条猪熊町"
+  },
+  "6048335": {
+    "zipcode": "6048335",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下一文字町"
+  },
+  "6048336": {
+    "zipcode": "6048336",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "三条大宮町"
+  },
+  "6048341": {
+    "zipcode": "6048341",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "岩上町"
+  },
+  "6048342": {
+    "zipcode": "6048342",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "六角猪熊町"
+  },
+  "6048343": {
+    "zipcode": "6048343",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上黒門町"
+  },
+  "6048344": {
+    "zipcode": "6048344",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "六角大宮町"
+  },
+  "6048345": {
+    "zipcode": "6048345",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "鍛冶屋町（六角通猪熊西入、六角通黒門東入、六角通黒門西入、六角通大宮東入）"
+  },
+  "6048351": {
+    "zipcode": "6048351",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "畳屋町"
+  },
+  "6048352": {
+    "zipcode": "6048352",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "金屋町"
+  },
+  "6048353": {
+    "zipcode": "6048353",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "宮本町"
+  },
+  "6048354": {
+    "zipcode": "6048354",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下瓦町"
+  },
+  "6048355": {
+    "zipcode": "6048355",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "下黒門町"
+  },
+  "6048356": {
+    "zipcode": "6048356",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "四坊大宮町"
+  },
+  "6048361": {
+    "zipcode": "6048361",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "吉野町"
+  },
+  "6048362": {
+    "zipcode": "6048362",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "松浦町"
+  },
+  "6048363": {
+    "zipcode": "6048363",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "錦猪熊町"
+  },
+  "6048364": {
+    "zipcode": "6048364",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "藤岡町"
+  },
+  "6048365": {
+    "zipcode": "6048365",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "錦大宮町"
+  },
+  "6048366": {
+    "zipcode": "6048366",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "七軒町"
+  },
+  "6048371": {
+    "zipcode": "6048371",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "神泉苑町"
+  },
+  "6048372": {
+    "zipcode": "6048372",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "姉西町"
+  },
+  "6048373": {
+    "zipcode": "6048373",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "瓦師町"
+  },
+  "6048374": {
+    "zipcode": "6048374",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "上瓦町"
+  },
+  "6048375": {
+    "zipcode": "6048375",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京池ノ内町"
+  },
+  "6048381": {
+    "zipcode": "6048381",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京職司町"
+  },
+  "6048382": {
+    "zipcode": "6048382",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京北聖町"
+  },
+  "6048383": {
+    "zipcode": "6048383",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京小堀町"
+  },
+  "6048384": {
+    "zipcode": "6048384",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京式部町"
+  },
+  "6048401": {
+    "zipcode": "6048401",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "聚楽廻松下町"
+  },
+  "6048402": {
+    "zipcode": "6048402",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "聚楽廻西町"
+  },
+  "6048403": {
+    "zipcode": "6048403",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "聚楽廻中町"
+  },
+  "6048404": {
+    "zipcode": "6048404",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "聚楽廻東町"
+  },
+  "6048405": {
+    "zipcode": "6048405",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京車坂町"
+  },
+  "6048411": {
+    "zipcode": "6048411",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "聚楽廻南町"
+  },
+  "6048412": {
+    "zipcode": "6048412",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南聖町"
+  },
+  "6048413": {
+    "zipcode": "6048413",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京勧学院町"
+  },
+  "6048414": {
+    "zipcode": "6048414",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京小倉町"
+  },
+  "6048415": {
+    "zipcode": "6048415",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京栂尾町"
+  },
+  "6048416": {
+    "zipcode": "6048416",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京星池町"
+  },
+  "6048417": {
+    "zipcode": "6048417",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京内畑町"
+  },
+  "6048418": {
+    "zipcode": "6048418",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京東栂尾町"
+  },
+  "6048421": {
+    "zipcode": "6048421",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京永本町"
+  },
+  "6048422": {
+    "zipcode": "6048422",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京東月光町"
+  },
+  "6048423": {
+    "zipcode": "6048423",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京西月光町"
+  },
+  "6048424": {
+    "zipcode": "6048424",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京樋ノ口町"
+  },
+  "6048425": {
+    "zipcode": "6048425",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京銅駝町"
+  },
+  "6048426": {
+    "zipcode": "6048426",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京船塚町"
+  },
+  "6048431": {
+    "zipcode": "6048431",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京原町"
+  },
+  "6048432": {
+    "zipcode": "6048432",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南原町"
+  },
+  "6048433": {
+    "zipcode": "6048433",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京北小路町"
+  },
+  "6048434": {
+    "zipcode": "6048434",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京新建町"
+  },
+  "6048435": {
+    "zipcode": "6048435",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京三条坊町"
+  },
+  "6048436": {
+    "zipcode": "6048436",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京下合町"
+  },
+  "6048437": {
+    "zipcode": "6048437",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京東中合町"
+  },
+  "6048441": {
+    "zipcode": "6048441",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京西中合町"
+  },
+  "6048442": {
+    "zipcode": "6048442",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京桑原町"
+  },
+  "6048443": {
+    "zipcode": "6048443",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京島ノ内町"
+  },
+  "6048444": {
+    "zipcode": "6048444",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京月輪町"
+  },
+  "6048445": {
+    "zipcode": "6048445",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京徳大寺町"
+  },
+  "6048446": {
+    "zipcode": "6048446",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京日扇町"
+  },
+  "6048451": {
+    "zipcode": "6048451",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京御輿岡町"
+  },
+  "6048452": {
+    "zipcode": "6048452",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京伯楽町"
+  },
+  "6048453": {
+    "zipcode": "6048453",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京春日町"
+  },
+  "6048454": {
+    "zipcode": "6048454",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京小堀池町"
+  },
+  "6048455": {
+    "zipcode": "6048455",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京藤ノ木町"
+  },
+  "6048456": {
+    "zipcode": "6048456",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京壺ノ内町"
+  },
+  "6048457": {
+    "zipcode": "6048457",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京馬代町"
+  },
+  "6048461": {
+    "zipcode": "6048461",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京中保町"
+  },
+  "6048462": {
+    "zipcode": "6048462",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京北円町"
+  },
+  "6048463": {
+    "zipcode": "6048463",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京円町"
+  },
+  "6048464": {
+    "zipcode": "6048464",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南円町"
+  },
+  "6048465": {
+    "zipcode": "6048465",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京西円町"
+  },
+  "6048466": {
+    "zipcode": "6048466",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南大炊御門町"
+  },
+  "6048467": {
+    "zipcode": "6048467",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京大炊御門町"
+  },
+  "6048471": {
+    "zipcode": "6048471",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京中御門東町"
+  },
+  "6048472": {
+    "zipcode": "6048472",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京北壺井町"
+  },
+  "6048473": {
+    "zipcode": "6048473",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南壺井町"
+  },
+  "6048474": {
+    "zipcode": "6048474",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京塚本町"
+  },
+  "6048475": {
+    "zipcode": "6048475",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京中御門西町"
+  },
+  "6048481": {
+    "zipcode": "6048481",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京冷泉町"
+  },
+  "6048482": {
+    "zipcode": "6048482",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京笠殿町"
+  },
+  "6048483": {
+    "zipcode": "6048483",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南上合町"
+  },
+  "6048484": {
+    "zipcode": "6048484",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京上合町"
+  },
+  "6048485": {
+    "zipcode": "6048485",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京平町"
+  },
+  "6048491": {
+    "zipcode": "6048491",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京左馬寮町"
+  },
+  "6048492": {
+    "zipcode": "6048492",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京右馬寮町"
+  },
+  "6048493": {
+    "zipcode": "6048493",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京南両町"
+  },
+  "6048494": {
+    "zipcode": "6048494",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京上平町"
+  },
+  "6048495": {
+    "zipcode": "6048495",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京西鹿垣町"
+  },
+  "6048496": {
+    "zipcode": "6048496",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京鹿垣町"
+  },
+  "6048497": {
+    "zipcode": "6048497",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "西ノ京両町"
+  },
+  "6048801": {
+    "zipcode": "6048801",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "今新在家西町"
+  },
+  "6048802": {
+    "zipcode": "6048802",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "今新在家東町"
+  },
+  "6048803": {
+    "zipcode": "6048803",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "因幡町"
+  },
+  "6048804": {
+    "zipcode": "6048804",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生坊城町"
+  },
+  "6048805": {
+    "zipcode": "6048805",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生馬場町"
+  },
+  "6048811": {
+    "zipcode": "6048811",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生賀陽御所町"
+  },
+  "6048812": {
+    "zipcode": "6048812",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生相合町"
+  },
+  "6048821": {
+    "zipcode": "6048821",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生梛ノ宮町"
+  },
+  "6048822": {
+    "zipcode": "6048822",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生辻町"
+  },
+  "6048823": {
+    "zipcode": "6048823",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生松原町"
+  },
+  "6048824": {
+    "zipcode": "6048824",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生高樋町"
+  },
+  "6048831": {
+    "zipcode": "6048831",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生森前町"
+  },
+  "6048832": {
+    "zipcode": "6048832",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生下溝町"
+  },
+  "6048841": {
+    "zipcode": "6048841",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生東土居ノ内町"
+  },
+  "6048842": {
+    "zipcode": "6048842",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生土居ノ内町"
+  },
+  "6048843": {
+    "zipcode": "6048843",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生東桧町"
+  },
+  "6048844": {
+    "zipcode": "6048844",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生桧町"
+  },
+  "6048845": {
+    "zipcode": "6048845",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生東高田町"
+  },
+  "6048846": {
+    "zipcode": "6048846",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生西桧町"
+  },
+  "6048847": {
+    "zipcode": "6048847",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生西土居ノ内町"
+  },
+  "6048851": {
+    "zipcode": "6048851",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生上大竹町"
+  },
+  "6048852": {
+    "zipcode": "6048852",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生東大竹町"
+  },
+  "6048853": {
+    "zipcode": "6048853",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生東淵田町"
+  },
+  "6048854": {
+    "zipcode": "6048854",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生仙念町"
+  },
+  "6048855": {
+    "zipcode": "6048855",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生淵田町"
+  },
+  "6048856": {
+    "zipcode": "6048856",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生西大竹町"
+  },
+  "6048861": {
+    "zipcode": "6048861",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生神明町"
+  },
+  "6048862": {
+    "zipcode": "6048862",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生森町"
+  },
+  "6048863": {
+    "zipcode": "6048863",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生中川町"
+  },
+  "6048871": {
+    "zipcode": "6048871",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生朱雀町"
+  },
+  "6048872": {
+    "zipcode": "6048872",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生御所ノ内町"
+  },
+  "6048873": {
+    "zipcode": "6048873",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生花井町"
+  },
+  "6048874": {
+    "zipcode": "6048874",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "town": "壬生天池町"
+  }
+}

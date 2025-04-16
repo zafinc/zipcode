@@ -1,0 +1,1098 @@
+{
+  "9540000": {
+    "zipcode": "9540000",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "以下に掲載がない場合"
+  },
+  "9540001": {
+    "zipcode": "9540001",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "指出町"
+  },
+  "9540002": {
+    "zipcode": "9540002",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "小栗山町"
+  },
+  "9540004": {
+    "zipcode": "9540004",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "元町"
+  },
+  "9540005": {
+    "zipcode": "9540005",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "戸代新田町"
+  },
+  "9540006": {
+    "zipcode": "9540006",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "新潟町"
+  },
+  "9540007": {
+    "zipcode": "9540007",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "下鳥町"
+  },
+  "9540008": {
+    "zipcode": "9540008",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "内町"
+  },
+  "9540011": {
+    "zipcode": "9540011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "山崎興野町"
+  },
+  "9540012": {
+    "zipcode": "9540012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "島切窪町"
+  },
+  "9540013": {
+    "zipcode": "9540013",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "石地町"
+  },
+  "9540014": {
+    "zipcode": "9540014",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "堀溝町"
+  },
+  "9540016": {
+    "zipcode": "9540016",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "庄川町"
+  },
+  "9540017": {
+    "zipcode": "9540017",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "庄川平町"
+  },
+  "9540021": {
+    "zipcode": "9540021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "池之島町"
+  },
+  "9540022": {
+    "zipcode": "9540022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "杉澤町"
+  },
+  "9540023": {
+    "zipcode": "9540023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "宮之原町"
+  },
+  "9540024": {
+    "zipcode": "9540024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "河野町"
+  },
+  "9540025": {
+    "zipcode": "9540025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "牛ケ嶺町"
+  },
+  "9540026": {
+    "zipcode": "9540026",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "神保町"
+  },
+  "9540027": {
+    "zipcode": "9540027",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "栃窪町"
+  },
+  "9540031": {
+    "zipcode": "9540031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "太田町"
+  },
+  "9540032": {
+    "zipcode": "9540032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "本明町"
+  },
+  "9540033": {
+    "zipcode": "9540033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "明晶町"
+  },
+  "9540034": {
+    "zipcode": "9540034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "月見台"
+  },
+  "9540035": {
+    "zipcode": "9540035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "名木野町"
+  },
+  "9540036": {
+    "zipcode": "9540036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "田井町"
+  },
+  "9540037": {
+    "zipcode": "9540037",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "椿澤町"
+  },
+  "9540038": {
+    "zipcode": "9540038",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "池之内町"
+  },
+  "9540041": {
+    "zipcode": "9540041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "栃栄町"
+  },
+  "9540042": {
+    "zipcode": "9540042",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "山崎町"
+  },
+  "9540043": {
+    "zipcode": "9540043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "耳取町"
+  },
+  "9540044": {
+    "zipcode": "9540044",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "鳥屋脇町"
+  },
+  "9540045": {
+    "zipcode": "9540045",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "緑町"
+  },
+  "9540046": {
+    "zipcode": "9540046",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "双葉町"
+  },
+  "9540051": {
+    "zipcode": "9540051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "本所"
+  },
+  "9540052": {
+    "zipcode": "9540052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "学校町"
+  },
+  "9540053": {
+    "zipcode": "9540053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "本町"
+  },
+  "9540054": {
+    "zipcode": "9540054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "細越"
+  },
+  "9540055": {
+    "zipcode": "9540055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "嶺崎"
+  },
+  "9540056": {
+    "zipcode": "9540056",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "南本町"
+  },
+  "9540057": {
+    "zipcode": "9540057",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "新町"
+  },
+  "9540058": {
+    "zipcode": "9540058",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "葛巻"
+  },
+  "9540059": {
+    "zipcode": "9540059",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "昭和町"
+  },
+  "9540061": {
+    "zipcode": "9540061",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "熱田町"
+  },
+  "9540062": {
+    "zipcode": "9540062",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "下新町"
+  },
+  "9540063": {
+    "zipcode": "9540063",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "漆山町"
+  },
+  "9540064": {
+    "zipcode": "9540064",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "鹿熊町"
+  },
+  "9540067": {
+    "zipcode": "9540067",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "葛巻町"
+  },
+  "9540068": {
+    "zipcode": "9540068",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "仁嘉町"
+  },
+  "9540071": {
+    "zipcode": "9540071",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "傍所町"
+  },
+  "9540072": {
+    "zipcode": "9540072",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "北野町"
+  },
+  "9540073": {
+    "zipcode": "9540073",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "青木町"
+  },
+  "9540074": {
+    "zipcode": "9540074",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "山吉町"
+  },
+  "9540075": {
+    "zipcode": "9540075",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "速水町"
+  },
+  "9540076": {
+    "zipcode": "9540076",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "新幸町"
+  },
+  "9540077": {
+    "zipcode": "9540077",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "葛巻西町"
+  },
+  "9540078": {
+    "zipcode": "9540078",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "葛巻東町"
+  },
+  "9540079": {
+    "zipcode": "9540079",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "葛巻南町"
+  },
+  "9540081": {
+    "zipcode": "9540081",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "片桐町"
+  },
+  "9540082": {
+    "zipcode": "9540082",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "柳橋町"
+  },
+  "9540083": {
+    "zipcode": "9540083",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "市野坪町"
+  },
+  "9540084": {
+    "zipcode": "9540084",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "加坪川町"
+  },
+  "9540085": {
+    "zipcode": "9540085",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "反田町"
+  },
+  "9540086": {
+    "zipcode": "9540086",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "福島町"
+  },
+  "9540087": {
+    "zipcode": "9540087",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "芝野町"
+  },
+  "9540088": {
+    "zipcode": "9540088",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "新潟東町"
+  },
+  "9540089": {
+    "zipcode": "9540089",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "新潟西町"
+  },
+  "9540091": {
+    "zipcode": "9540091",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "美里町"
+  },
+  "9540101": {
+    "zipcode": "9540101",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "三林町"
+  },
+  "9540102": {
+    "zipcode": "9540102",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "釈迦塚町"
+  },
+  "9540103": {
+    "zipcode": "9540103",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "田之尻町"
+  },
+  "9540104": {
+    "zipcode": "9540104",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "坂井町"
+  },
+  "9540105": {
+    "zipcode": "9540105",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "下関町"
+  },
+  "9540106": {
+    "zipcode": "9540106",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "東今町"
+  },
+  "9540107": {
+    "zipcode": "9540107",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "西今町"
+  },
+  "9540111": {
+    "zipcode": "9540111",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "今町"
+  },
+  "9540112": {
+    "zipcode": "9540112",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "見附市",
+    "town": "上新田町"
+  },
+  "9540121": {
+    "zipcode": "9540121",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "野口"
+  },
+  "9540122": {
+    "zipcode": "9540122",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "真弓"
+  },
+  "9540123": {
+    "zipcode": "9540123",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "猫興野"
+  },
+  "9540124": {
+    "zipcode": "9540124",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中之島"
+  },
+  "9540125": {
+    "zipcode": "9540125",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "藤山"
+  },
+  "9540126": {
+    "zipcode": "9540126",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "五百刈"
+  },
+  "9540131": {
+    "zipcode": "9540131",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中興野"
+  },
+  "9540132": {
+    "zipcode": "9540132",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "新栄"
+  },
+  "9540133": {
+    "zipcode": "9540133",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "大曲戸新田"
+  },
+  "9540134": {
+    "zipcode": "9540134",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "大曲戸"
+  },
+  "9540135": {
+    "zipcode": "9540135",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "幸南"
+  },
+  "9540136": {
+    "zipcode": "9540136",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "思川新田"
+  },
+  "9540137": {
+    "zipcode": "9540137",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "押切新田"
+  },
+  "9540138": {
+    "zipcode": "9540138",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "押切川原町"
+  },
+  "9540141": {
+    "zipcode": "9540141",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "粕島"
+  },
+  "9540142": {
+    "zipcode": "9540142",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "灰島新田"
+  },
+  "9540143": {
+    "zipcode": "9540143",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "池之島"
+  },
+  "9540144": {
+    "zipcode": "9540144",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "坪根"
+  },
+  "9540145": {
+    "zipcode": "9540145",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "大口"
+  },
+  "9540146": {
+    "zipcode": "9540146",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "大保"
+  },
+  "9540147": {
+    "zipcode": "9540147",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "品之木"
+  },
+  "9540151": {
+    "zipcode": "9540151",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "杉之森"
+  },
+  "9540152": {
+    "zipcode": "9540152",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中之島高畑"
+  },
+  "9540153": {
+    "zipcode": "9540153",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "横山"
+  },
+  "9540154": {
+    "zipcode": "9540154",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "関根"
+  },
+  "9540155": {
+    "zipcode": "9540155",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "島田"
+  },
+  "9540156": {
+    "zipcode": "9540156",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "長呂"
+  },
+  "9540157": {
+    "zipcode": "9540157",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中之島宮内"
+  },
+  "9540161": {
+    "zipcode": "9540161",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "興野"
+  },
+  "9540162": {
+    "zipcode": "9540162",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "狐興野"
+  },
+  "9540163": {
+    "zipcode": "9540163",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "並木新田"
+  },
+  "9540164": {
+    "zipcode": "9540164",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "末宝"
+  },
+  "9540165": {
+    "zipcode": "9540165",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "福原"
+  },
+  "9540166": {
+    "zipcode": "9540166",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "海老島勇次新田"
+  },
+  "9540171": {
+    "zipcode": "9540171",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "稲島"
+  },
+  "9540172": {
+    "zipcode": "9540172",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "鶴ケ曽根"
+  },
+  "9540173": {
+    "zipcode": "9540173",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中野東"
+  },
+  "9540174": {
+    "zipcode": "9540174",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中野中"
+  },
+  "9540175": {
+    "zipcode": "9540175",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中野西"
+  },
+  "9540176": {
+    "zipcode": "9540176",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "横野"
+  },
+  "9540177": {
+    "zipcode": "9540177",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "亀ケ谷新田"
+  },
+  "9540181": {
+    "zipcode": "9540181",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "脇川新田町（９７０番地）"
+  },
+  "9540201": {
+    "zipcode": "9540201",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "大沼新田"
+  },
+  "9540202": {
+    "zipcode": "9540202",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "赤沼"
+  },
+  "9540203": {
+    "zipcode": "9540203",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "小沼新田"
+  },
+  "9540204": {
+    "zipcode": "9540204",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中西"
+  },
+  "9540205": {
+    "zipcode": "9540205",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "西高山新田"
+  },
+  "9540206": {
+    "zipcode": "9540206",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "六所"
+  },
+  "9540207": {
+    "zipcode": "9540207",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "上沼新田"
+  },
+  "9540211": {
+    "zipcode": "9540211",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "西野新田"
+  },
+  "9540212": {
+    "zipcode": "9540212",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中之島西野"
+  },
+  "9540213": {
+    "zipcode": "9540213",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "下沼新田"
+  },
+  "9540214": {
+    "zipcode": "9540214",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中条新田"
+  },
+  "9540215": {
+    "zipcode": "9540215",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "真野代新田"
+  },
+  "9540216": {
+    "zipcode": "9540216",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "中之島中条"
+  },
+  "9540217": {
+    "zipcode": "9540217",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "松ケ崎新田"
+  },
+  "9540218": {
+    "zipcode": "9540218",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "信条南"
+  },
+  "9540221": {
+    "zipcode": "9540221",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "信条東"
+  },
+  "9540222": {
+    "zipcode": "9540222",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "town": "信条西"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "0810000": {
+    "zipcode": "0810000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "以下に掲載がない場合"
+  },
+  "0810001": {
+    "zipcode": "0810001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "一条北"
+  },
+  "0810002": {
+    "zipcode": "0810002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "二条北"
+  },
+  "0810003": {
+    "zipcode": "0810003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "三条北"
+  },
+  "0810005": {
+    "zipcode": "0810005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "本通北"
+  },
+  "0810006": {
+    "zipcode": "0810006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "栄町"
+  },
+  "0810007": {
+    "zipcode": "0810007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "元町"
+  },
+  "0810008": {
+    "zipcode": "0810008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "本通南"
+  },
+  "0810011": {
+    "zipcode": "0810011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "一条南"
+  },
+  "0810012": {
+    "zipcode": "0810012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "二条南"
+  },
+  "0810013": {
+    "zipcode": "0810013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "三条南"
+  },
+  "0810014": {
+    "zipcode": "0810014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "四条南"
+  },
+  "0810015": {
+    "zipcode": "0810015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "五条南"
+  },
+  "0810021": {
+    "zipcode": "0810021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西一条北"
+  },
+  "0810022": {
+    "zipcode": "0810022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西二条北"
+  },
+  "0810023": {
+    "zipcode": "0810023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西三条北"
+  },
+  "0810031": {
+    "zipcode": "0810031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西一条南"
+  },
+  "0810032": {
+    "zipcode": "0810032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西二条南"
+  },
+  "0810033": {
+    "zipcode": "0810033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西三条南"
+  },
+  "0810034": {
+    "zipcode": "0810034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "西四条南"
+  },
+  "0810035": {
+    "zipcode": "0810035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "上佐幌"
+  },
+  "0810036": {
+    "zipcode": "0810036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "下佐幌"
+  },
+  "0810037": {
+    "zipcode": "0810037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "拓鉄"
+  },
+  "0810038": {
+    "zipcode": "0810038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "新得"
+  },
+  "0810039": {
+    "zipcode": "0810039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "新内"
+  },
+  "0810151": {
+    "zipcode": "0810151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足旭町"
+  },
+  "0810152": {
+    "zipcode": "0810152",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足旭町東"
+  },
+  "0810153": {
+    "zipcode": "0810153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足南町"
+  },
+  "0810154": {
+    "zipcode": "0810154",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足"
+  },
+  "0810155": {
+    "zipcode": "0810155",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足幸町"
+  },
+  "0810156": {
+    "zipcode": "0810156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足幸町西"
+  },
+  "0810161": {
+    "zipcode": "0810161",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足柏町"
+  },
+  "0810162": {
+    "zipcode": "0810162",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足柏町東"
+  },
+  "0810163": {
+    "zipcode": "0810163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足緑町"
+  },
+  "0810164": {
+    "zipcode": "0810164",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "上川郡新得町",
+    "town": "屈足緑町西"
+  },
+  "0810200": {
+    "zipcode": "0810200",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "以下に掲載がない場合"
+  },
+  "0810201": {
+    "zipcode": "0810201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "新町"
+  },
+  "0810202": {
+    "zipcode": "0810202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "北町"
+  },
+  "0810203": {
+    "zipcode": "0810203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "緑町"
+  },
+  "0810204": {
+    "zipcode": "0810204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "笹川北"
+  },
+  "0810205": {
+    "zipcode": "0810205",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "西笹川"
+  },
+  "0810211": {
+    "zipcode": "0810211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "仲町"
+  },
+  "0810212": {
+    "zipcode": "0810212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "泉町"
+  },
+  "0810213": {
+    "zipcode": "0810213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "西町"
+  },
+  "0810214": {
+    "zipcode": "0810214",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "北鹿追北"
+  },
+  "0810215": {
+    "zipcode": "0810215",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "鹿追南"
+  },
+  "0810216": {
+    "zipcode": "0810216",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "鹿追北"
+  },
+  "0810217": {
+    "zipcode": "0810217",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "鹿追基線"
+  },
+  "0810218": {
+    "zipcode": "0810218",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "上然別西"
+  },
+  "0810221": {
+    "zipcode": "0810221",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "栄町"
+  },
+  "0810222": {
+    "zipcode": "0810222",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "東町"
+  },
+  "0810223": {
+    "zipcode": "0810223",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "南町"
+  },
+  "0810224": {
+    "zipcode": "0810224",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "元町"
+  },
+  "0810225": {
+    "zipcode": "0810225",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "柏ケ丘"
+  },
+  "0810226": {
+    "zipcode": "0810226",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "上幌内"
+  },
+  "0810227": {
+    "zipcode": "0810227",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "幌内西"
+  },
+  "0810228": {
+    "zipcode": "0810228",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "美蔓西"
+  },
+  "0810341": {
+    "zipcode": "0810341",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "瓜幕西"
+  },
+  "0810342": {
+    "zipcode": "0810342",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "瓜幕東"
+  },
+  "0810343": {
+    "zipcode": "0810343",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "瓜幕南"
+  },
+  "0810344": {
+    "zipcode": "0810344",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "北瓜幕"
+  },
+  "0810345": {
+    "zipcode": "0810345",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "中瓜幕西"
+  },
+  "0810346": {
+    "zipcode": "0810346",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "河東郡鹿追町",
+    "town": "東瓜幕西"
+  }
+}

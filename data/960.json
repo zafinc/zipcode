@@ -1,0 +1,4178 @@
+{
+  "9600000": {
+    "zipcode": "9600000",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "以下に掲載がない場合"
+  },
+  "9600101": {
+    "zipcode": "9600101",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "瀬上町"
+  },
+  "9600102": {
+    "zipcode": "9600102",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "鎌田"
+  },
+  "9600103": {
+    "zipcode": "9600103",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "本内（その他）"
+  },
+  "9600111": {
+    "zipcode": "9600111",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "丸子"
+  },
+  "9600112": {
+    "zipcode": "9600112",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南矢野目"
+  },
+  "9600113": {
+    "zipcode": "9600113",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北矢野目"
+  },
+  "9600114": {
+    "zipcode": "9600114",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "沖高"
+  },
+  "9600115": {
+    "zipcode": "9600115",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "下飯坂"
+  },
+  "9600116": {
+    "zipcode": "9600116",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "宮代"
+  },
+  "9600201": {
+    "zipcode": "9600201",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町"
+  },
+  "9600211": {
+    "zipcode": "9600211",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町湯野"
+  },
+  "9600221": {
+    "zipcode": "9600221",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町東湯野"
+  },
+  "9600231": {
+    "zipcode": "9600231",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町平野"
+  },
+  "9600241": {
+    "zipcode": "9600241",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "笹谷"
+  },
+  "9600251": {
+    "zipcode": "9600251",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大笹生"
+  },
+  "9600252": {
+    "zipcode": "9600252",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "李平"
+  },
+  "9600261": {
+    "zipcode": "9600261",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町中野"
+  },
+  "9600271": {
+    "zipcode": "9600271",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯坂町茂庭"
+  },
+  "9600401": {
+    "zipcode": "9600401",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "下川原"
+  },
+  "9600402": {
+    "zipcode": "9600402",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "水抜"
+  },
+  "9600403": {
+    "zipcode": "9600403",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "前川原"
+  },
+  "9600404": {
+    "zipcode": "9600404",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "原島"
+  },
+  "9600405": {
+    "zipcode": "9600405",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "一本木"
+  },
+  "9600406": {
+    "zipcode": "9600406",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "堂ノ内"
+  },
+  "9600407": {
+    "zipcode": "9600407",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "日照"
+  },
+  "9600408": {
+    "zipcode": "9600408",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "岡沼"
+  },
+  "9600411": {
+    "zipcode": "9600411",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梨子木町"
+  },
+  "9600412": {
+    "zipcode": "9600412",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "雪車町"
+  },
+  "9600413": {
+    "zipcode": "9600413",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "宮前"
+  },
+  "9600414": {
+    "zipcode": "9600414",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "長岡"
+  },
+  "9600415": {
+    "zipcode": "9600415",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "右城"
+  },
+  "9600416": {
+    "zipcode": "9600416",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "中畑"
+  },
+  "9600417": {
+    "zipcode": "9600417",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "北畑"
+  },
+  "9600418": {
+    "zipcode": "9600418",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "岡前"
+  },
+  "9600419": {
+    "zipcode": "9600419",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "広前"
+  },
+  "9600421": {
+    "zipcode": "9600421",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "一本杉"
+  },
+  "9600422": {
+    "zipcode": "9600422",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "川原田"
+  },
+  "9600423": {
+    "zipcode": "9600423",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "荒町"
+  },
+  "9600424": {
+    "zipcode": "9600424",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "姥ケ懐"
+  },
+  "9600425": {
+    "zipcode": "9600425",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "姥川"
+  },
+  "9600426": {
+    "zipcode": "9600426",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "坂ノ下"
+  },
+  "9600427": {
+    "zipcode": "9600427",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "鍛治屋川"
+  },
+  "9600428": {
+    "zipcode": "9600428",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "坂ノ上"
+  },
+  "9600429": {
+    "zipcode": "9600429",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "塚畑"
+  },
+  "9600431": {
+    "zipcode": "9600431",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "川原町"
+  },
+  "9600432": {
+    "zipcode": "9600432",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "長川原"
+  },
+  "9600433": {
+    "zipcode": "9600433",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "上川原"
+  },
+  "9600434": {
+    "zipcode": "9600434",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "堰下"
+  },
+  "9600435": {
+    "zipcode": "9600435",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "堰上"
+  },
+  "9600436": {
+    "zipcode": "9600436",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "前田"
+  },
+  "9600437": {
+    "zipcode": "9600437",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "一本松"
+  },
+  "9600438": {
+    "zipcode": "9600438",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "雷田"
+  },
+  "9600441": {
+    "zipcode": "9600441",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "新町"
+  },
+  "9600442": {
+    "zipcode": "9600442",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "菅田"
+  },
+  "9600443": {
+    "zipcode": "9600443",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "諏訪西"
+  },
+  "9600444": {
+    "zipcode": "9600444",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "諏訪前"
+  },
+  "9600445": {
+    "zipcode": "9600445",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "神明前"
+  },
+  "9600446": {
+    "zipcode": "9600446",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "諏訪野"
+  },
+  "9600447": {
+    "zipcode": "9600447",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "寺前"
+  },
+  "9600448": {
+    "zipcode": "9600448",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "屋敷間"
+  },
+  "9600451": {
+    "zipcode": "9600451",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "下志和田"
+  },
+  "9600452": {
+    "zipcode": "9600452",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "中志和田"
+  },
+  "9600453": {
+    "zipcode": "9600453",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "上志和田"
+  },
+  "9600454": {
+    "zipcode": "9600454",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "志和田前"
+  },
+  "9600455": {
+    "zipcode": "9600455",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "姥石"
+  },
+  "9600456": {
+    "zipcode": "9600456",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "中道"
+  },
+  "9600457": {
+    "zipcode": "9600457",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "江向"
+  },
+  "9600458": {
+    "zipcode": "9600458",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "扇田"
+  },
+  "9600461": {
+    "zipcode": "9600461",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "片町"
+  },
+  "9600462": {
+    "zipcode": "9600462",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "本町"
+  },
+  "9600463": {
+    "zipcode": "9600463",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "田町"
+  },
+  "9600464": {
+    "zipcode": "9600464",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "南堀"
+  },
+  "9600465": {
+    "zipcode": "9600465",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "久根妻"
+  },
+  "9600466": {
+    "zipcode": "9600466",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "根岸"
+  },
+  "9600467": {
+    "zipcode": "9600467",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "舘ノ内"
+  },
+  "9600468": {
+    "zipcode": "9600468",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "北後"
+  },
+  "9600471": {
+    "zipcode": "9600471",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "長町"
+  },
+  "9600472": {
+    "zipcode": "9600472",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "根田"
+  },
+  "9600473": {
+    "zipcode": "9600473",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "沢田"
+  },
+  "9600474": {
+    "zipcode": "9600474",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "沓形"
+  },
+  "9600475": {
+    "zipcode": "9600475",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "干供田"
+  },
+  "9600476": {
+    "zipcode": "9600476",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "鶴巻"
+  },
+  "9600477": {
+    "zipcode": "9600477",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "柏木町"
+  },
+  "9600478": {
+    "zipcode": "9600478",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "細谷"
+  },
+  "9600479": {
+    "zipcode": "9600479",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "野崎"
+  },
+  "9600481": {
+    "zipcode": "9600481",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "堀切端"
+  },
+  "9600482": {
+    "zipcode": "9600482",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "鶴田"
+  },
+  "9600483": {
+    "zipcode": "9600483",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "柳内"
+  },
+  "9600484": {
+    "zipcode": "9600484",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "馬場口"
+  },
+  "9600485": {
+    "zipcode": "9600485",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "篭田"
+  },
+  "9600486": {
+    "zipcode": "9600486",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "六角"
+  },
+  "9600487": {
+    "zipcode": "9600487",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "高田"
+  },
+  "9600488": {
+    "zipcode": "9600488",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "上台"
+  },
+  "9600489": {
+    "zipcode": "9600489",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "瀬戸場"
+  },
+  "9600501": {
+    "zipcode": "9600501",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "伏黒"
+  },
+  "9600502": {
+    "zipcode": "9600502",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "箱崎"
+  },
+  "9600600": {
+    "zipcode": "9600600",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "以下に掲載がない場合"
+  },
+  "9600601": {
+    "zipcode": "9600601",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町栄町"
+  },
+  "9600602": {
+    "zipcode": "9600602",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町久保"
+  },
+  "9600603": {
+    "zipcode": "9600603",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町古町"
+  },
+  "9600604": {
+    "zipcode": "9600604",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町元木"
+  },
+  "9600605": {
+    "zipcode": "9600605",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町元町"
+  },
+  "9600606": {
+    "zipcode": "9600606",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町鉄炮町"
+  },
+  "9600607": {
+    "zipcode": "9600607",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町１０丁目"
+  },
+  "9600608": {
+    "zipcode": "9600608",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町１１丁目"
+  },
+  "9600609": {
+    "zipcode": "9600609",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町１２丁目"
+  },
+  "9600611": {
+    "zipcode": "9600611",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町城ノ内"
+  },
+  "9600612": {
+    "zipcode": "9600612",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町宮下"
+  },
+  "9600613": {
+    "zipcode": "9600613",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町内町"
+  },
+  "9600614": {
+    "zipcode": "9600614",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町磐前通"
+  },
+  "9600615": {
+    "zipcode": "9600615",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町５丁目"
+  },
+  "9600616": {
+    "zipcode": "9600616",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町６丁目"
+  },
+  "9600617": {
+    "zipcode": "9600617",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町７丁目"
+  },
+  "9600618": {
+    "zipcode": "9600618",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町８丁目"
+  },
+  "9600619": {
+    "zipcode": "9600619",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町９丁目"
+  },
+  "9600621": {
+    "zipcode": "9600621",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町中村町"
+  },
+  "9600622": {
+    "zipcode": "9600622",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町市柳町"
+  },
+  "9600623": {
+    "zipcode": "9600623",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町前田町"
+  },
+  "9600624": {
+    "zipcode": "9600624",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町１丁目"
+  },
+  "9600625": {
+    "zipcode": "9600625",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町２丁目"
+  },
+  "9600626": {
+    "zipcode": "9600626",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町３丁目"
+  },
+  "9600627": {
+    "zipcode": "9600627",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町４丁目"
+  },
+  "9600628": {
+    "zipcode": "9600628",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町実町"
+  },
+  "9600629": {
+    "zipcode": "9600629",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町弥生町"
+  },
+  "9600631": {
+    "zipcode": "9600631",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町中瀬"
+  },
+  "9600632": {
+    "zipcode": "9600632",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町大立目"
+  },
+  "9600633": {
+    "zipcode": "9600633",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町二井田"
+  },
+  "9600634": {
+    "zipcode": "9600634",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町大泉"
+  },
+  "9600635": {
+    "zipcode": "9600635",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町半道"
+  },
+  "9600636": {
+    "zipcode": "9600636",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町大和"
+  },
+  "9600637": {
+    "zipcode": "9600637",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町将監"
+  },
+  "9600638": {
+    "zipcode": "9600638",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町北河原"
+  },
+  "9600639": {
+    "zipcode": "9600639",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町六万坊"
+  },
+  "9600641": {
+    "zipcode": "9600641",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町西猫川"
+  },
+  "9600642": {
+    "zipcode": "9600642",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町東猫川"
+  },
+  "9600643": {
+    "zipcode": "9600643",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町下河原"
+  },
+  "9600644": {
+    "zipcode": "9600644",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町豊町"
+  },
+  "9600645": {
+    "zipcode": "9600645",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町台後"
+  },
+  "9600646": {
+    "zipcode": "9600646",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町東台後"
+  },
+  "9600647": {
+    "zipcode": "9600647",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町小蓋"
+  },
+  "9600648": {
+    "zipcode": "9600648",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町東小蓋"
+  },
+  "9600649": {
+    "zipcode": "9600649",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町清水町"
+  },
+  "9600650": {
+    "zipcode": "9600650",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町西新田"
+  },
+  "9600651": {
+    "zipcode": "9600651",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町柏町"
+  },
+  "9600652": {
+    "zipcode": "9600652",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町西町"
+  },
+  "9600653": {
+    "zipcode": "9600653",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町泉町"
+  },
+  "9600654": {
+    "zipcode": "9600654",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町小幡町"
+  },
+  "9600655": {
+    "zipcode": "9600655",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町宮内町"
+  },
+  "9600656": {
+    "zipcode": "9600656",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町八幡町"
+  },
+  "9600657": {
+    "zipcode": "9600657",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町中瀬町"
+  },
+  "9600658": {
+    "zipcode": "9600658",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町古川端"
+  },
+  "9600659": {
+    "zipcode": "9600659",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町西ノ内"
+  },
+  "9600661": {
+    "zipcode": "9600661",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町金原田"
+  },
+  "9600662": {
+    "zipcode": "9600662",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町柱田"
+  },
+  "9600663": {
+    "zipcode": "9600663",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町舟橋"
+  },
+  "9600664": {
+    "zipcode": "9600664",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町太田中"
+  },
+  "9600665": {
+    "zipcode": "9600665",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町岡代"
+  },
+  "9600666": {
+    "zipcode": "9600666",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町村岡"
+  },
+  "9600667": {
+    "zipcode": "9600667",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町八幡台"
+  },
+  "9600668": {
+    "zipcode": "9600668",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町烏内"
+  },
+  "9600669": {
+    "zipcode": "9600669",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町赤橋"
+  },
+  "9600670": {
+    "zipcode": "9600670",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町桑田"
+  },
+  "9600671": {
+    "zipcode": "9600671",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町東野崎"
+  },
+  "9600672": {
+    "zipcode": "9600672",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町下野崎"
+  },
+  "9600673": {
+    "zipcode": "9600673",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町野崎"
+  },
+  "9600674": {
+    "zipcode": "9600674",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町上野崎"
+  },
+  "9600675": {
+    "zipcode": "9600675",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町大柳"
+  },
+  "9600676": {
+    "zipcode": "9600676",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町千刈"
+  },
+  "9600677": {
+    "zipcode": "9600677",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町早稲田"
+  },
+  "9600678": {
+    "zipcode": "9600678",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町京門"
+  },
+  "9600679": {
+    "zipcode": "9600679",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町油谷地"
+  },
+  "9600681": {
+    "zipcode": "9600681",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町所沢"
+  },
+  "9600682": {
+    "zipcode": "9600682",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町富沢"
+  },
+  "9600683": {
+    "zipcode": "9600683",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町高成田"
+  },
+  "9600684": {
+    "zipcode": "9600684",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町上保原"
+  },
+  "9600685": {
+    "zipcode": "9600685",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町黄金町"
+  },
+  "9600686": {
+    "zipcode": "9600686",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町竹内町"
+  },
+  "9600687": {
+    "zipcode": "9600687",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町旭町"
+  },
+  "9600688": {
+    "zipcode": "9600688",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町みずほ"
+  },
+  "9600689": {
+    "zipcode": "9600689",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "保原町高子岡"
+  },
+  "9600701": {
+    "zipcode": "9600701",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町五十沢"
+  },
+  "9600702": {
+    "zipcode": "9600702",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町東大枝"
+  },
+  "9600703": {
+    "zipcode": "9600703",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町山舟生"
+  },
+  "9600704": {
+    "zipcode": "9600704",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町舟生"
+  },
+  "9600705": {
+    "zipcode": "9600705",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町元舟場"
+  },
+  "9600706": {
+    "zipcode": "9600706",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町北町谷川"
+  },
+  "9600707": {
+    "zipcode": "9600707",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町南町谷川"
+  },
+  "9600708": {
+    "zipcode": "9600708",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町東塩野川"
+  },
+  "9600709": {
+    "zipcode": "9600709",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町西塩野川"
+  },
+  "9600711": {
+    "zipcode": "9600711",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町下川原"
+  },
+  "9600712": {
+    "zipcode": "9600712",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町御八郎"
+  },
+  "9600713": {
+    "zipcode": "9600713",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町八筋"
+  },
+  "9600715": {
+    "zipcode": "9600715",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町大舘"
+  },
+  "9600716": {
+    "zipcode": "9600716",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町白川田"
+  },
+  "9600717": {
+    "zipcode": "9600717",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町向川原"
+  },
+  "9600718": {
+    "zipcode": "9600718",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町二野袋"
+  },
+  "9600719": {
+    "zipcode": "9600719",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町やながわ工業団地"
+  },
+  "9600721": {
+    "zipcode": "9600721",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町白根"
+  },
+  "9600722": {
+    "zipcode": "9600722",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町八幡"
+  },
+  "9600723": {
+    "zipcode": "9600723",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町中足駄木"
+  },
+  "9600724": {
+    "zipcode": "9600724",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町北新井"
+  },
+  "9600725": {
+    "zipcode": "9600725",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町赤五輪"
+  },
+  "9600726": {
+    "zipcode": "9600726",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町北町頭"
+  },
+  "9600727": {
+    "zipcode": "9600727",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町上町"
+  },
+  "9600728": {
+    "zipcode": "9600728",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町天神前"
+  },
+  "9600729": {
+    "zipcode": "9600729",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町希望ケ丘"
+  },
+  "9600731": {
+    "zipcode": "9600731",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町天神町"
+  },
+  "9600732": {
+    "zipcode": "9600732",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町南町頭"
+  },
+  "9600733": {
+    "zipcode": "9600733",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町菖蒲沢"
+  },
+  "9600734": {
+    "zipcode": "9600734",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町茶臼山"
+  },
+  "9600735": {
+    "zipcode": "9600735",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町鶴ケ岡"
+  },
+  "9600736": {
+    "zipcode": "9600736",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町桜岳"
+  },
+  "9600741": {
+    "zipcode": "9600741",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町大町"
+  },
+  "9600742": {
+    "zipcode": "9600742",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町清水町"
+  },
+  "9600743": {
+    "zipcode": "9600743",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町元陣内"
+  },
+  "9600744": {
+    "zipcode": "9600744",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町内町"
+  },
+  "9600745": {
+    "zipcode": "9600745",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町右城町"
+  },
+  "9600746": {
+    "zipcode": "9600746",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町大清水"
+  },
+  "9600747": {
+    "zipcode": "9600747",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町町裏"
+  },
+  "9600751": {
+    "zipcode": "9600751",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町古町"
+  },
+  "9600752": {
+    "zipcode": "9600752",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町四日市"
+  },
+  "9600753": {
+    "zipcode": "9600753",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町上川原"
+  },
+  "9600754": {
+    "zipcode": "9600754",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町栄町"
+  },
+  "9600755": {
+    "zipcode": "9600755",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町中久保"
+  },
+  "9600756": {
+    "zipcode": "9600756",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町青葉町"
+  },
+  "9600757": {
+    "zipcode": "9600757",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町幸町"
+  },
+  "9600758": {
+    "zipcode": "9600758",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町桜町"
+  },
+  "9600759": {
+    "zipcode": "9600759",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町広瀬町"
+  },
+  "9600760": {
+    "zipcode": "9600760",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町陽光台"
+  },
+  "9600762": {
+    "zipcode": "9600762",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町丹波塚"
+  },
+  "9600763": {
+    "zipcode": "9600763",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町大門道"
+  },
+  "9600764": {
+    "zipcode": "9600764",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町壱丁田"
+  },
+  "9600765": {
+    "zipcode": "9600765",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町大関"
+  },
+  "9600766": {
+    "zipcode": "9600766",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町細谷"
+  },
+  "9600767": {
+    "zipcode": "9600767",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町新田"
+  },
+  "9600768": {
+    "zipcode": "9600768",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町柳田"
+  },
+  "9600769": {
+    "zipcode": "9600769",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町舟橋"
+  },
+  "9600772": {
+    "zipcode": "9600772",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町上割田"
+  },
+  "9600773": {
+    "zipcode": "9600773",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町五反田"
+  },
+  "9600774": {
+    "zipcode": "9600774",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町石井戸"
+  },
+  "9600775": {
+    "zipcode": "9600775",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町四石蒔"
+  },
+  "9600776": {
+    "zipcode": "9600776",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町東土橋"
+  },
+  "9600777": {
+    "zipcode": "9600777",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町西土橋"
+  },
+  "9600778": {
+    "zipcode": "9600778",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町伝樋"
+  },
+  "9600781": {
+    "zipcode": "9600781",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町北本町"
+  },
+  "9600782": {
+    "zipcode": "9600782",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町中町"
+  },
+  "9600783": {
+    "zipcode": "9600783",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町本町"
+  },
+  "9600784": {
+    "zipcode": "9600784",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町田町"
+  },
+  "9600785": {
+    "zipcode": "9600785",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町小梁川"
+  },
+  "9600786": {
+    "zipcode": "9600786",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町南本町"
+  },
+  "9600787": {
+    "zipcode": "9600787",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "梁川町山城舘"
+  },
+  "9600801": {
+    "zipcode": "9600801",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町掛田"
+  },
+  "9600802": {
+    "zipcode": "9600802",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町山野川"
+  },
+  "9600803": {
+    "zipcode": "9600803",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町泉原"
+  },
+  "9600804": {
+    "zipcode": "9600804",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町大石"
+  },
+  "9600805": {
+    "zipcode": "9600805",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町中川"
+  },
+  "9600806": {
+    "zipcode": "9600806",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町山戸田"
+  },
+  "9600807": {
+    "zipcode": "9600807",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町石田"
+  },
+  "9600808": {
+    "zipcode": "9600808",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町下小国"
+  },
+  "9600809": {
+    "zipcode": "9600809",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "霊山町上小国"
+  },
+  "9600811": {
+    "zipcode": "9600811",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大波"
+  },
+  "9600901": {
+    "zipcode": "9600901",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町布川"
+  },
+  "9600902": {
+    "zipcode": "9600902",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町月舘"
+  },
+  "9600903": {
+    "zipcode": "9600903",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町下手渡"
+  },
+  "9600904": {
+    "zipcode": "9600904",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町上手渡"
+  },
+  "9600905": {
+    "zipcode": "9600905",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町糠田"
+  },
+  "9600906": {
+    "zipcode": "9600906",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達市",
+    "town": "月舘町御代田"
+  },
+  "9601101": {
+    "zipcode": "9601101",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大森"
+  },
+  "9601102": {
+    "zipcode": "9601102",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "永井川"
+  },
+  "9601103": {
+    "zipcode": "9601103",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "平石"
+  },
+  "9601104": {
+    "zipcode": "9601104",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "小田"
+  },
+  "9601105": {
+    "zipcode": "9601105",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山田"
+  },
+  "9601106": {
+    "zipcode": "9601106",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "下鳥渡"
+  },
+  "9601107": {
+    "zipcode": "9601107",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上鳥渡"
+  },
+  "9601108": {
+    "zipcode": "9601108",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "成川"
+  },
+  "9601231": {
+    "zipcode": "9601231",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町沼袋"
+  },
+  "9601232": {
+    "zipcode": "9601232",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町下川崎"
+  },
+  "9601241": {
+    "zipcode": "9601241",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町"
+  },
+  "9601242": {
+    "zipcode": "9601242",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町美郷"
+  },
+  "9601243": {
+    "zipcode": "9601243",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町水原"
+  },
+  "9601244": {
+    "zipcode": "9601244",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町関谷"
+  },
+  "9601245": {
+    "zipcode": "9601245",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町浅川"
+  },
+  "9601246": {
+    "zipcode": "9601246",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松川町金沢"
+  },
+  "9601247": {
+    "zipcode": "9601247",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "光が丘"
+  },
+  "9601248": {
+    "zipcode": "9601248",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "金谷川"
+  },
+  "9601301": {
+    "zipcode": "9601301",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯野町"
+  },
+  "9601302": {
+    "zipcode": "9601302",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯野町明治"
+  },
+  "9601303": {
+    "zipcode": "9601303",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯野町青木"
+  },
+  "9601304": {
+    "zipcode": "9601304",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "飯野町大久保"
+  },
+  "9601321": {
+    "zipcode": "9601321",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "立子山"
+  },
+  "9601400": {
+    "zipcode": "9601400",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "以下に掲載がない場合"
+  },
+  "9601401": {
+    "zipcode": "9601401",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "飯坂"
+  },
+  "9601402": {
+    "zipcode": "9601402",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "小綱木"
+  },
+  "9601403": {
+    "zipcode": "9601403",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "大綱木"
+  },
+  "9601404": {
+    "zipcode": "9601404",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "西福沢"
+  },
+  "9601405": {
+    "zipcode": "9601405",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "東福沢"
+  },
+  "9601406": {
+    "zipcode": "9601406",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "鶴沢"
+  },
+  "9601407": {
+    "zipcode": "9601407",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "小神"
+  },
+  "9601408": {
+    "zipcode": "9601408",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "羽田"
+  },
+  "9601409": {
+    "zipcode": "9601409",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "秋山"
+  },
+  "9601411": {
+    "zipcode": "9601411",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "細田"
+  },
+  "9601412": {
+    "zipcode": "9601412",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "仲ノ内"
+  },
+  "9601413": {
+    "zipcode": "9601413",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "広畑"
+  },
+  "9601414": {
+    "zipcode": "9601414",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "上桜"
+  },
+  "9601415": {
+    "zipcode": "9601415",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "仁井町"
+  },
+  "9601416": {
+    "zipcode": "9601416",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "舘ノ腰"
+  },
+  "9601417": {
+    "zipcode": "9601417",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "橋本"
+  },
+  "9601421": {
+    "zipcode": "9601421",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "鉄炮町"
+  },
+  "9601422": {
+    "zipcode": "9601422",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "新中町"
+  },
+  "9601423": {
+    "zipcode": "9601423",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "池ノ入"
+  },
+  "9601424": {
+    "zipcode": "9601424",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "寺久保"
+  },
+  "9601425": {
+    "zipcode": "9601425",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "新宮"
+  },
+  "9601426": {
+    "zipcode": "9601426",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "日和田"
+  },
+  "9601427": {
+    "zipcode": "9601427",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "段ノ腰"
+  },
+  "9601428": {
+    "zipcode": "9601428",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "五百田"
+  },
+  "9601429": {
+    "zipcode": "9601429",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "柏崎"
+  },
+  "9601431": {
+    "zipcode": "9601431",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "大清水"
+  },
+  "9601432": {
+    "zipcode": "9601432",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "東大清水"
+  },
+  "9601433": {
+    "zipcode": "9601433",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "賤ノ田"
+  },
+  "9601434": {
+    "zipcode": "9601434",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "小作"
+  },
+  "9601435": {
+    "zipcode": "9601435",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "大作"
+  },
+  "9601436": {
+    "zipcode": "9601436",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "川原田"
+  },
+  "9601441": {
+    "zipcode": "9601441",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "道内"
+  },
+  "9601442": {
+    "zipcode": "9601442",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "後庵"
+  },
+  "9601443": {
+    "zipcode": "9601443",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "大内"
+  },
+  "9601444": {
+    "zipcode": "9601444",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "根本"
+  },
+  "9601445": {
+    "zipcode": "9601445",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "中島"
+  },
+  "9601446": {
+    "zipcode": "9601446",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "舘"
+  },
+  "9601451": {
+    "zipcode": "9601451",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "本町"
+  },
+  "9601452": {
+    "zipcode": "9601452",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "後田"
+  },
+  "9601453": {
+    "zipcode": "9601453",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "瓦町"
+  },
+  "9601454": {
+    "zipcode": "9601454",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "八反田"
+  },
+  "9601455": {
+    "zipcode": "9601455",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "竹ノ内"
+  },
+  "9601456": {
+    "zipcode": "9601456",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "中丁"
+  },
+  "9601461": {
+    "zipcode": "9601461",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "宮町"
+  },
+  "9601462": {
+    "zipcode": "9601462",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "寺前"
+  },
+  "9601463": {
+    "zipcode": "9601463",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "樋ノ口"
+  },
+  "9601464": {
+    "zipcode": "9601464",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "宮ノ脇"
+  },
+  "9601465": {
+    "zipcode": "9601465",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "赤坂"
+  },
+  "9601466": {
+    "zipcode": "9601466",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "宮前"
+  },
+  "9601467": {
+    "zipcode": "9601467",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "宮ノ入"
+  },
+  "9601468": {
+    "zipcode": "9601468",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "天神入"
+  },
+  "9601469": {
+    "zipcode": "9601469",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "道場"
+  },
+  "9601471": {
+    "zipcode": "9601471",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "西戸ノ内"
+  },
+  "9601472": {
+    "zipcode": "9601472",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "草ケ入"
+  },
+  "9601473": {
+    "zipcode": "9601473",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "桜ケ作"
+  },
+  "9601474": {
+    "zipcode": "9601474",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "七曲"
+  },
+  "9601475": {
+    "zipcode": "9601475",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "早坂"
+  },
+  "9601476": {
+    "zipcode": "9601476",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "石川"
+  },
+  "9601477": {
+    "zipcode": "9601477",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "倉ケ作"
+  },
+  "9601478": {
+    "zipcode": "9601478",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "壁沢"
+  },
+  "9601481": {
+    "zipcode": "9601481",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "七窪"
+  },
+  "9601482": {
+    "zipcode": "9601482",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "元屋敷"
+  },
+  "9601483": {
+    "zipcode": "9601483",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "壺ケ作"
+  },
+  "9601484": {
+    "zipcode": "9601484",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "延命神"
+  },
+  "9601485": {
+    "zipcode": "9601485",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "海老ケ作"
+  },
+  "9601486": {
+    "zipcode": "9601486",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "下拍子"
+  },
+  "9601487": {
+    "zipcode": "9601487",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "三百田"
+  },
+  "9601488": {
+    "zipcode": "9601488",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "新田"
+  },
+  "9601489": {
+    "zipcode": "9601489",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "小島"
+  },
+  "9601501": {
+    "zipcode": "9601501",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "伊達郡川俣町",
+    "town": "山木屋"
+  },
+  "9601600": {
+    "zipcode": "9601600",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "以下に掲載がない場合"
+  },
+  "9601631": {
+    "zipcode": "9601631",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "松塚"
+  },
+  "9601632": {
+    "zipcode": "9601632",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "関根"
+  },
+  "9601633": {
+    "zipcode": "9601633",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "臼石"
+  },
+  "9601634": {
+    "zipcode": "9601634",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "二枚橋"
+  },
+  "9601635": {
+    "zipcode": "9601635",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "須萱"
+  },
+  "9601636": {
+    "zipcode": "9601636",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "前田"
+  },
+  "9601721": {
+    "zipcode": "9601721",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "飯樋"
+  },
+  "9601722": {
+    "zipcode": "9601722",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "比曽"
+  },
+  "9601723": {
+    "zipcode": "9601723",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "長泥"
+  },
+  "9601724": {
+    "zipcode": "9601724",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "蕨平"
+  },
+  "9601801": {
+    "zipcode": "9601801",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "草野"
+  },
+  "9601802": {
+    "zipcode": "9601802",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "深谷"
+  },
+  "9601803": {
+    "zipcode": "9601803",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "伊丹沢"
+  },
+  "9601804": {
+    "zipcode": "9601804",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "関沢"
+  },
+  "9601811": {
+    "zipcode": "9601811",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "小宮"
+  },
+  "9601812": {
+    "zipcode": "9601812",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "芦原"
+  },
+  "9601813": {
+    "zipcode": "9601813",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "八木沢"
+  },
+  "9601814": {
+    "zipcode": "9601814",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "大倉"
+  },
+  "9601815": {
+    "zipcode": "9601815",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "相馬郡飯舘村",
+    "town": "佐須"
+  },
+  "9602101": {
+    "zipcode": "9602101",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "さくら"
+  },
+  "9602102": {
+    "zipcode": "9602102",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "荒井北"
+  },
+  "9602151": {
+    "zipcode": "9602151",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "桜本（その他）"
+  },
+  "9602152": {
+    "zipcode": "9602152",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "土船"
+  },
+  "9602153": {
+    "zipcode": "9602153",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "庄野"
+  },
+  "9602154": {
+    "zipcode": "9602154",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "佐倉下"
+  },
+  "9602155": {
+    "zipcode": "9602155",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上名倉"
+  },
+  "9602156": {
+    "zipcode": "9602156",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "荒井"
+  },
+  "9602157": {
+    "zipcode": "9602157",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "土湯温泉町"
+  },
+  "9602158": {
+    "zipcode": "9602158",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "佐原"
+  },
+  "9602251": {
+    "zipcode": "9602251",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "桜本（木通沢）"
+  },
+  "9602261": {
+    "zipcode": "9602261",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "町庭坂"
+  },
+  "9602262": {
+    "zipcode": "9602262",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "在庭坂"
+  },
+  "9602263": {
+    "zipcode": "9602263",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "二子塚"
+  },
+  "9608001": {
+    "zipcode": "9608001",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "天神町"
+  },
+  "9608002": {
+    "zipcode": "9608002",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "森合町"
+  },
+  "9608003": {
+    "zipcode": "9608003",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "森合"
+  },
+  "9608011": {
+    "zipcode": "9608011",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "宮下町"
+  },
+  "9608012": {
+    "zipcode": "9608012",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "御山町"
+  },
+  "9608013": {
+    "zipcode": "9608013",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南平"
+  },
+  "9608014": {
+    "zipcode": "9608014",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "児石"
+  },
+  "9608015": {
+    "zipcode": "9608015",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "狐山"
+  },
+  "9608016": {
+    "zipcode": "9608016",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "狐塚畑"
+  },
+  "9608017": {
+    "zipcode": "9608017",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "狐塚"
+  },
+  "9608018": {
+    "zipcode": "9608018",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松木町"
+  },
+  "9608021": {
+    "zipcode": "9608021",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "霞町"
+  },
+  "9608022": {
+    "zipcode": "9608022",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "新浜町"
+  },
+  "9608023": {
+    "zipcode": "9608023",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大明神"
+  },
+  "9608024": {
+    "zipcode": "9608024",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "堂殿"
+  },
+  "9608025": {
+    "zipcode": "9608025",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "駒山"
+  },
+  "9608026": {
+    "zipcode": "9608026",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "狩野"
+  },
+  "9608031": {
+    "zipcode": "9608031",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "栄町"
+  },
+  "9608032": {
+    "zipcode": "9608032",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "陣場町"
+  },
+  "9608033": {
+    "zipcode": "9608033",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "万世町"
+  },
+  "9608034": {
+    "zipcode": "9608034",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "置賜町"
+  },
+  "9608035": {
+    "zipcode": "9608035",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "本町"
+  },
+  "9608036": {
+    "zipcode": "9608036",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "新町"
+  },
+  "9608041": {
+    "zipcode": "9608041",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大町"
+  },
+  "9608042": {
+    "zipcode": "9608042",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "荒町"
+  },
+  "9608043": {
+    "zipcode": "9608043",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "中町"
+  },
+  "9608044": {
+    "zipcode": "9608044",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "早稲町"
+  },
+  "9608051": {
+    "zipcode": "9608051",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "曽根田町"
+  },
+  "9608052": {
+    "zipcode": "9608052",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "公事田"
+  },
+  "9608053": {
+    "zipcode": "9608053",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "三河南町"
+  },
+  "9608054": {
+    "zipcode": "9608054",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "三河北町"
+  },
+  "9608055": {
+    "zipcode": "9608055",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "野田町"
+  },
+  "9608056": {
+    "zipcode": "9608056",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "八島田"
+  },
+  "9608057": {
+    "zipcode": "9608057",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "笹木野"
+  },
+  "9608058": {
+    "zipcode": "9608058",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "下谷地"
+  },
+  "9608061": {
+    "zipcode": "9608061",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "五月町"
+  },
+  "9608062": {
+    "zipcode": "9608062",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "清明町"
+  },
+  "9608063": {
+    "zipcode": "9608063",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "柳町"
+  },
+  "9608064": {
+    "zipcode": "9608064",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "御倉町"
+  },
+  "9608065": {
+    "zipcode": "9608065",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "杉妻町"
+  },
+  "9608066": {
+    "zipcode": "9608066",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "矢剣町"
+  },
+  "9608067": {
+    "zipcode": "9608067",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "須川町"
+  },
+  "9608068": {
+    "zipcode": "9608068",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "太田町"
+  },
+  "9608071": {
+    "zipcode": "9608071",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "東中央"
+  },
+  "9608072": {
+    "zipcode": "9608072",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北中央"
+  },
+  "9608073": {
+    "zipcode": "9608073",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南中央"
+  },
+  "9608074": {
+    "zipcode": "9608074",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "西中央"
+  },
+  "9608075": {
+    "zipcode": "9608075",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "下野寺"
+  },
+  "9608076": {
+    "zipcode": "9608076",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上野寺"
+  },
+  "9608101": {
+    "zipcode": "9608101",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上町"
+  },
+  "9608102": {
+    "zipcode": "9608102",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北町"
+  },
+  "9608103": {
+    "zipcode": "9608103",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "舟場町"
+  },
+  "9608104": {
+    "zipcode": "9608104",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "豊田町"
+  },
+  "9608105": {
+    "zipcode": "9608105",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "仲間町"
+  },
+  "9608106": {
+    "zipcode": "9608106",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "宮町"
+  },
+  "9608107": {
+    "zipcode": "9608107",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "浜田町"
+  },
+  "9608111": {
+    "zipcode": "9608111",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "五老内町"
+  },
+  "9608112": {
+    "zipcode": "9608112",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "花園町"
+  },
+  "9608113": {
+    "zipcode": "9608113",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "旭町"
+  },
+  "9608114": {
+    "zipcode": "9608114",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松浪町"
+  },
+  "9608115": {
+    "zipcode": "9608115",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山下町"
+  },
+  "9608116": {
+    "zipcode": "9608116",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "春日町"
+  },
+  "9608117": {
+    "zipcode": "9608117",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "入江町"
+  },
+  "9608121": {
+    "zipcode": "9608121",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "小金山"
+  },
+  "9608122": {
+    "zipcode": "9608122",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "清水山"
+  },
+  "9608123": {
+    "zipcode": "9608123",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "所窪"
+  },
+  "9608124": {
+    "zipcode": "9608124",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山居上"
+  },
+  "9608125": {
+    "zipcode": "9608125",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "鴇頭森"
+  },
+  "9608131": {
+    "zipcode": "9608131",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北五老内町"
+  },
+  "9608132": {
+    "zipcode": "9608132",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "東浜町"
+  },
+  "9608133": {
+    "zipcode": "9608133",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "桜木町"
+  },
+  "9608134": {
+    "zipcode": "9608134",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上浜町"
+  },
+  "9608135": {
+    "zipcode": "9608135",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "腰浜町"
+  },
+  "9608136": {
+    "zipcode": "9608136",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "八島町"
+  },
+  "9608137": {
+    "zipcode": "9608137",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "堀河町"
+  },
+  "9608141": {
+    "zipcode": "9608141",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "渡利"
+  },
+  "9608142": {
+    "zipcode": "9608142",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "小倉寺"
+  },
+  "9608143": {
+    "zipcode": "9608143",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南向台"
+  },
+  "9608151": {
+    "zipcode": "9608151",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "太平寺"
+  },
+  "9608152": {
+    "zipcode": "9608152",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "鳥谷野"
+  },
+  "9608153": {
+    "zipcode": "9608153",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "黒岩"
+  },
+  "9608154": {
+    "zipcode": "9608154",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "伏拝"
+  },
+  "9608155": {
+    "zipcode": "9608155",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "清水町"
+  },
+  "9608156": {
+    "zipcode": "9608156",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "田沢"
+  },
+  "9608157": {
+    "zipcode": "9608157",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "蓬莱町"
+  },
+  "9608161": {
+    "zipcode": "9608161",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "郷野目"
+  },
+  "9608162": {
+    "zipcode": "9608162",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南町"
+  },
+  "9608163": {
+    "zipcode": "9608163",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "方木田"
+  },
+  "9608164": {
+    "zipcode": "9608164",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "八木田"
+  },
+  "9608165": {
+    "zipcode": "9608165",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "吉倉"
+  },
+  "9608166": {
+    "zipcode": "9608166",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "仁井田"
+  },
+  "9608201": {
+    "zipcode": "9608201",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "岡島"
+  },
+  "9608202": {
+    "zipcode": "9608202",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山口"
+  },
+  "9608203": {
+    "zipcode": "9608203",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "本内（南下釜）"
+  },
+  "9608204": {
+    "zipcode": "9608204",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "岡部"
+  },
+  "9608211": {
+    "zipcode": "9608211",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "茶屋下"
+  },
+  "9608212": {
+    "zipcode": "9608212",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "道前"
+  },
+  "9608213": {
+    "zipcode": "9608213",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "遠瀬戸"
+  },
+  "9608214": {
+    "zipcode": "9608214",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "古川"
+  },
+  "9608215": {
+    "zipcode": "9608215",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "下荒子"
+  },
+  "9608216": {
+    "zipcode": "9608216",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "中荒子"
+  },
+  "9608217": {
+    "zipcode": "9608217",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "上荒子"
+  },
+  "9608218": {
+    "zipcode": "9608218",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "高野河原下"
+  },
+  "9608221": {
+    "zipcode": "9608221",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北中川原"
+  },
+  "9608222": {
+    "zipcode": "9608222",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "蝦貫"
+  },
+  "9608223": {
+    "zipcode": "9608223",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "矢倉下"
+  },
+  "9608224": {
+    "zipcode": "9608224",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "舘ノ前"
+  },
+  "9608225": {
+    "zipcode": "9608225",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "舘ノ内"
+  },
+  "9608226": {
+    "zipcode": "9608226",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北ノ前"
+  },
+  "9608227": {
+    "zipcode": "9608227",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "田中島"
+  },
+  "9608228": {
+    "zipcode": "9608228",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "松山町"
+  },
+  "9608231": {
+    "zipcode": "9608231",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北原"
+  },
+  "9608232": {
+    "zipcode": "9608232",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "立石"
+  },
+  "9608233": {
+    "zipcode": "9608233",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "猫渕"
+  },
+  "9608234": {
+    "zipcode": "9608234",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山居"
+  },
+  "9608235": {
+    "zipcode": "9608235",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "滝元"
+  },
+  "9608236": {
+    "zipcode": "9608236",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "山際"
+  },
+  "9608237": {
+    "zipcode": "9608237",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "大森（２−２）"
+  },
+  "9608241": {
+    "zipcode": "9608241",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "岩ノ前"
+  },
+  "9608242": {
+    "zipcode": "9608242",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "坂登"
+  },
+  "9608243": {
+    "zipcode": "9608243",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "岩谷"
+  },
+  "9608244": {
+    "zipcode": "9608244",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "石田"
+  },
+  "9608251": {
+    "zipcode": "9608251",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "北沢又"
+  },
+  "9608252": {
+    "zipcode": "9608252",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "御山"
+  },
+  "9608253": {
+    "zipcode": "9608253",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "泉"
+  },
+  "9608254": {
+    "zipcode": "9608254",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "福島市",
+    "town": "南沢又"
+  }
+}

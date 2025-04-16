@@ -1,0 +1,674 @@
+{
+  "5280000": {
+    "zipcode": "5280000",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "以下に掲載がない場合"
+  },
+  "5280001": {
+    "zipcode": "5280001",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町中畑"
+  },
+  "5280002": {
+    "zipcode": "5280002",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町今郷"
+  },
+  "5280003": {
+    "zipcode": "5280003",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町和野"
+  },
+  "5280004": {
+    "zipcode": "5280004",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町嶬峨"
+  },
+  "5280005": {
+    "zipcode": "5280005",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町水口"
+  },
+  "5280006": {
+    "zipcode": "5280006",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町元町"
+  },
+  "5280007": {
+    "zipcode": "5280007",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町新城"
+  },
+  "5280011": {
+    "zipcode": "5280011",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町高塚"
+  },
+  "5280012": {
+    "zipcode": "5280012",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町暁"
+  },
+  "5280013": {
+    "zipcode": "5280013",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町宮の前"
+  },
+  "5280014": {
+    "zipcode": "5280014",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町鹿深"
+  },
+  "5280015": {
+    "zipcode": "5280015",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町松栄"
+  },
+  "5280016": {
+    "zipcode": "5280016",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町神明"
+  },
+  "5280017": {
+    "zipcode": "5280017",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町京町"
+  },
+  "5280020": {
+    "zipcode": "5280020",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町的場"
+  },
+  "5280021": {
+    "zipcode": "5280021",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町八光"
+  },
+  "5280022": {
+    "zipcode": "5280022",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町梅が丘"
+  },
+  "5280023": {
+    "zipcode": "5280023",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町本丸"
+  },
+  "5280024": {
+    "zipcode": "5280024",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町中邸"
+  },
+  "5280025": {
+    "zipcode": "5280025",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町西林口"
+  },
+  "5280026": {
+    "zipcode": "5280026",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町東林口"
+  },
+  "5280027": {
+    "zipcode": "5280027",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町城内"
+  },
+  "5280028": {
+    "zipcode": "5280028",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町城東"
+  },
+  "5280029": {
+    "zipcode": "5280029",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町南林口"
+  },
+  "5280031": {
+    "zipcode": "5280031",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町本町"
+  },
+  "5280032": {
+    "zipcode": "5280032",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町八坂"
+  },
+  "5280033": {
+    "zipcode": "5280033",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町綾野"
+  },
+  "5280034": {
+    "zipcode": "5280034",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町日電"
+  },
+  "5280035": {
+    "zipcode": "5280035",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町名坂"
+  },
+  "5280036": {
+    "zipcode": "5280036",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町東名坂"
+  },
+  "5280037": {
+    "zipcode": "5280037",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町本綾野"
+  },
+  "5280038": {
+    "zipcode": "5280038",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町新町"
+  },
+  "5280040": {
+    "zipcode": "5280040",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町三本柳"
+  },
+  "5280041": {
+    "zipcode": "5280041",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町虫生野"
+  },
+  "5280042": {
+    "zipcode": "5280042",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町虫生野中央"
+  },
+  "5280043": {
+    "zipcode": "5280043",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町杣中"
+  },
+  "5280044": {
+    "zipcode": "5280044",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町山上"
+  },
+  "5280045": {
+    "zipcode": "5280045",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町牛飼"
+  },
+  "5280046": {
+    "zipcode": "5280046",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町三大寺"
+  },
+  "5280047": {
+    "zipcode": "5280047",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町岩坂"
+  },
+  "5280048": {
+    "zipcode": "5280048",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町高山"
+  },
+  "5280049": {
+    "zipcode": "5280049",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町貴生川"
+  },
+  "5280051": {
+    "zipcode": "5280051",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町北内貴"
+  },
+  "5280052": {
+    "zipcode": "5280052",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町宇川"
+  },
+  "5280053": {
+    "zipcode": "5280053",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町宇田"
+  },
+  "5280054": {
+    "zipcode": "5280054",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町酒人"
+  },
+  "5280055": {
+    "zipcode": "5280055",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町植"
+  },
+  "5280056": {
+    "zipcode": "5280056",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町泉"
+  },
+  "5280057": {
+    "zipcode": "5280057",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町北脇"
+  },
+  "5280058": {
+    "zipcode": "5280058",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町北泉"
+  },
+  "5280061": {
+    "zipcode": "5280061",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町笹が丘"
+  },
+  "5280062": {
+    "zipcode": "5280062",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町さつきが丘"
+  },
+  "5280063": {
+    "zipcode": "5280063",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町下山"
+  },
+  "5280064": {
+    "zipcode": "5280064",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町伴中山"
+  },
+  "5280065": {
+    "zipcode": "5280065",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町春日"
+  },
+  "5280066": {
+    "zipcode": "5280066",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町八田"
+  },
+  "5280067": {
+    "zipcode": "5280067",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町山"
+  },
+  "5280068": {
+    "zipcode": "5280068",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町ひのきが丘"
+  },
+  "5280069": {
+    "zipcode": "5280069",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町虫生野虹の町"
+  },
+  "5280071": {
+    "zipcode": "5280071",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町秋葉"
+  },
+  "5280072": {
+    "zipcode": "5280072",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町朝日が丘"
+  },
+  "5280073": {
+    "zipcode": "5280073",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町古城が丘"
+  },
+  "5280074": {
+    "zipcode": "5280074",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "水口町松尾"
+  },
+  "5280201": {
+    "zipcode": "5280201",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町大河原"
+  },
+  "5280202": {
+    "zipcode": "5280202",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町鮎河"
+  },
+  "5280203": {
+    "zipcode": "5280203",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町黒滝"
+  },
+  "5280204": {
+    "zipcode": "5280204",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町山女原"
+  },
+  "5280205": {
+    "zipcode": "5280205",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町笹路"
+  },
+  "5280206": {
+    "zipcode": "5280206",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町山中"
+  },
+  "5280207": {
+    "zipcode": "5280207",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町猪鼻"
+  },
+  "5280208": {
+    "zipcode": "5280208",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町黒川"
+  },
+  "5280211": {
+    "zipcode": "5280211",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町北土山"
+  },
+  "5280212": {
+    "zipcode": "5280212",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町南土山"
+  },
+  "5280213": {
+    "zipcode": "5280213",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町大澤"
+  },
+  "5280221": {
+    "zipcode": "5280221",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町青土"
+  },
+  "5280222": {
+    "zipcode": "5280222",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町平子"
+  },
+  "5280223": {
+    "zipcode": "5280223",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町瀬ノ音"
+  },
+  "5280224": {
+    "zipcode": "5280224",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町野上野"
+  },
+  "5280231": {
+    "zipcode": "5280231",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町頓宮"
+  },
+  "5280232": {
+    "zipcode": "5280232",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町前野"
+  },
+  "5280233": {
+    "zipcode": "5280233",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町市場"
+  },
+  "5280234": {
+    "zipcode": "5280234",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町徳原"
+  },
+  "5280235": {
+    "zipcode": "5280235",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "town": "土山町大野"
+  }
+}

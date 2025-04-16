@@ -1,0 +1,978 @@
+{
+  "8170000": {
+    "zipcode": "8170000",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "以下に掲載がない場合"
+  },
+  "8170001": {
+    "zipcode": "8170001",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町小浦"
+  },
+  "8170002": {
+    "zipcode": "8170002",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町曲"
+  },
+  "8170003": {
+    "zipcode": "8170003",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町南室"
+  },
+  "8170005": {
+    "zipcode": "8170005",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町桟原"
+  },
+  "8170006": {
+    "zipcode": "8170006",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町北里"
+  },
+  "8170011": {
+    "zipcode": "8170011",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町宮谷"
+  },
+  "8170012": {
+    "zipcode": "8170012",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町日吉"
+  },
+  "8170013": {
+    "zipcode": "8170013",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町中村"
+  },
+  "8170014": {
+    "zipcode": "8170014",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町天道茂"
+  },
+  "8170015": {
+    "zipcode": "8170015",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町西里"
+  },
+  "8170016": {
+    "zipcode": "8170016",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町東里"
+  },
+  "8170021": {
+    "zipcode": "8170021",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町今屋敷"
+  },
+  "8170022": {
+    "zipcode": "8170022",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町国分"
+  },
+  "8170023": {
+    "zipcode": "8170023",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町田渕"
+  },
+  "8170024": {
+    "zipcode": "8170024",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町大手橋"
+  },
+  "8170031": {
+    "zipcode": "8170031",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町久田道"
+  },
+  "8170032": {
+    "zipcode": "8170032",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町久田"
+  },
+  "8170033": {
+    "zipcode": "8170033",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町尾浦"
+  },
+  "8170034": {
+    "zipcode": "8170034",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町安神"
+  },
+  "8170035": {
+    "zipcode": "8170035",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町久和"
+  },
+  "8170151": {
+    "zipcode": "8170151",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町与良内院"
+  },
+  "8170152": {
+    "zipcode": "8170152",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町豆酘内院"
+  },
+  "8170153": {
+    "zipcode": "8170153",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町浅藻"
+  },
+  "8170154": {
+    "zipcode": "8170154",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町豆酘"
+  },
+  "8170155": {
+    "zipcode": "8170155",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町豆酘瀬"
+  },
+  "8170156": {
+    "zipcode": "8170156",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町佐須瀬"
+  },
+  "8170157": {
+    "zipcode": "8170157",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町内山"
+  },
+  "8170241": {
+    "zipcode": "8170241",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町阿連"
+  },
+  "8170242": {
+    "zipcode": "8170242",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町下原"
+  },
+  "8170243": {
+    "zipcode": "8170243",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町樫根"
+  },
+  "8170244": {
+    "zipcode": "8170244",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町久根浜"
+  },
+  "8170245": {
+    "zipcode": "8170245",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町久根田舎"
+  },
+  "8170246": {
+    "zipcode": "8170246",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町上槻"
+  },
+  "8170247": {
+    "zipcode": "8170247",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町椎根"
+  },
+  "8170248": {
+    "zipcode": "8170248",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "厳原町小茂田"
+  },
+  "8170321": {
+    "zipcode": "8170321",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町洲藻"
+  },
+  "8170322": {
+    "zipcode": "8170322",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町鶏知"
+  },
+  "8170323": {
+    "zipcode": "8170323",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町大船越"
+  },
+  "8170324": {
+    "zipcode": "8170324",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町久須保"
+  },
+  "8170325": {
+    "zipcode": "8170325",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町緒方"
+  },
+  "8170326": {
+    "zipcode": "8170326",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町根緒"
+  },
+  "8170431": {
+    "zipcode": "8170431",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町尾崎"
+  },
+  "8170432": {
+    "zipcode": "8170432",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町今里"
+  },
+  "8170433": {
+    "zipcode": "8170433",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町加志"
+  },
+  "8170434": {
+    "zipcode": "8170434",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町吹崎"
+  },
+  "8170435": {
+    "zipcode": "8170435",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町箕形"
+  },
+  "8170511": {
+    "zipcode": "8170511",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町竹敷"
+  },
+  "8170512": {
+    "zipcode": "8170512",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町黒瀬"
+  },
+  "8170513": {
+    "zipcode": "8170513",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町昼ケ浦"
+  },
+  "8170514": {
+    "zipcode": "8170514",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町島山"
+  },
+  "8171101": {
+    "zipcode": "8171101",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町小船越"
+  },
+  "8171102": {
+    "zipcode": "8171102",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町芦浦"
+  },
+  "8171103": {
+    "zipcode": "8171103",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町賀谷"
+  },
+  "8171104": {
+    "zipcode": "8171104",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町濃部"
+  },
+  "8171105": {
+    "zipcode": "8171105",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町大山"
+  },
+  "8171106": {
+    "zipcode": "8171106",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町犬吠"
+  },
+  "8171107": {
+    "zipcode": "8171107",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "美津島町鴨居瀬"
+  },
+  "8171201": {
+    "zipcode": "8171201",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町仁位"
+  },
+  "8171202": {
+    "zipcode": "8171202",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町和板"
+  },
+  "8171212": {
+    "zipcode": "8171212",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町曽"
+  },
+  "8171213": {
+    "zipcode": "8171213",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町千尋藻"
+  },
+  "8171214": {
+    "zipcode": "8171214",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町鑓川"
+  },
+  "8171223": {
+    "zipcode": "8171223",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町横浦"
+  },
+  "8171231": {
+    "zipcode": "8171231",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町糸瀬"
+  },
+  "8171232": {
+    "zipcode": "8171232",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町嵯峨"
+  },
+  "8171233": {
+    "zipcode": "8171233",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町貝鮒"
+  },
+  "8171234": {
+    "zipcode": "8171234",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町佐志賀"
+  },
+  "8171241": {
+    "zipcode": "8171241",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町貝口"
+  },
+  "8171245": {
+    "zipcode": "8171245",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町唐洲"
+  },
+  "8171246": {
+    "zipcode": "8171246",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町廻"
+  },
+  "8171251": {
+    "zipcode": "8171251",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町田"
+  },
+  "8171252": {
+    "zipcode": "8171252",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町大綱"
+  },
+  "8171253": {
+    "zipcode": "8171253",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町卯麦"
+  },
+  "8171254": {
+    "zipcode": "8171254",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町佐保"
+  },
+  "8171255": {
+    "zipcode": "8171255",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町志多浦"
+  },
+  "8171256": {
+    "zipcode": "8171256",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町小綱"
+  },
+  "8171257": {
+    "zipcode": "8171257",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "豊玉町銘"
+  },
+  "8171301": {
+    "zipcode": "8171301",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町三根"
+  },
+  "8171302": {
+    "zipcode": "8171302",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町狩尾"
+  },
+  "8171303": {
+    "zipcode": "8171303",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町木坂"
+  },
+  "8171304": {
+    "zipcode": "8171304",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町青海"
+  },
+  "8171305": {
+    "zipcode": "8171305",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町津柳"
+  },
+  "8171306": {
+    "zipcode": "8171306",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町吉田"
+  },
+  "8171307": {
+    "zipcode": "8171307",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町賀佐"
+  },
+  "8171411": {
+    "zipcode": "8171411",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町櫛"
+  },
+  "8171412": {
+    "zipcode": "8171412",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町佐賀"
+  },
+  "8171413": {
+    "zipcode": "8171413",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "峰町志多賀"
+  },
+  "8171511": {
+    "zipcode": "8171511",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町鹿見"
+  },
+  "8171512": {
+    "zipcode": "8171512",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町久原"
+  },
+  "8171513": {
+    "zipcode": "8171513",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町女連"
+  },
+  "8171521": {
+    "zipcode": "8171521",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町飼所"
+  },
+  "8171522": {
+    "zipcode": "8171522",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町樫滝"
+  },
+  "8171523": {
+    "zipcode": "8171523",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町瀬田"
+  },
+  "8171524": {
+    "zipcode": "8171524",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町犬ケ浦"
+  },
+  "8171525": {
+    "zipcode": "8171525",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町御園"
+  },
+  "8171531": {
+    "zipcode": "8171531",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町越高"
+  },
+  "8171532": {
+    "zipcode": "8171532",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町伊奈"
+  },
+  "8171533": {
+    "zipcode": "8171533",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町志多留"
+  },
+  "8171601": {
+    "zipcode": "8171601",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町西津屋"
+  },
+  "8171602": {
+    "zipcode": "8171602",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町佐須奈"
+  },
+  "8171603": {
+    "zipcode": "8171603",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上県町佐護"
+  },
+  "8171701": {
+    "zipcode": "8171701",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町比田勝"
+  },
+  "8171702": {
+    "zipcode": "8171702",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町古里"
+  },
+  "8171703": {
+    "zipcode": "8171703",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町西泊"
+  },
+  "8171704": {
+    "zipcode": "8171704",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町網代"
+  },
+  "8171711": {
+    "zipcode": "8171711",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町冨浦"
+  },
+  "8171712": {
+    "zipcode": "8171712",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町唐舟志"
+  },
+  "8171713": {
+    "zipcode": "8171713",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町浜久須"
+  },
+  "8171714": {
+    "zipcode": "8171714",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町玖須"
+  },
+  "8171715": {
+    "zipcode": "8171715",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町大増"
+  },
+  "8171721": {
+    "zipcode": "8171721",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町河内"
+  },
+  "8171722": {
+    "zipcode": "8171722",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町大浦"
+  },
+  "8171723": {
+    "zipcode": "8171723",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町鰐浦"
+  },
+  "8171724": {
+    "zipcode": "8171724",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町豊"
+  },
+  "8171725": {
+    "zipcode": "8171725",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町泉"
+  },
+  "8172241": {
+    "zipcode": "8172241",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町小鹿"
+  },
+  "8172242": {
+    "zipcode": "8172242",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町一重"
+  },
+  "8172243": {
+    "zipcode": "8172243",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町芦見"
+  },
+  "8172331": {
+    "zipcode": "8172331",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町琴"
+  },
+  "8172332": {
+    "zipcode": "8172332",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町五根緒"
+  },
+  "8172333": {
+    "zipcode": "8172333",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "対馬市",
+    "town": "上対馬町舟志"
+  }
+}

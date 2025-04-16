@@ -1,0 +1,986 @@
+{
+  "0410251": {
+    "zipcode": "0410251",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "小安町"
+  },
+  "0410252": {
+    "zipcode": "0410252",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "釜谷町"
+  },
+  "0410253": {
+    "zipcode": "0410253",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "小安山町"
+  },
+  "0410261": {
+    "zipcode": "0410261",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "石崎町"
+  },
+  "0410262": {
+    "zipcode": "0410262",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "古川町"
+  },
+  "0410263": {
+    "zipcode": "0410263",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "豊原町"
+  },
+  "0410264": {
+    "zipcode": "0410264",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "鶴野町"
+  },
+  "0410265": {
+    "zipcode": "0410265",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "白石町"
+  },
+  "0410301": {
+    "zipcode": "0410301",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "汐首町"
+  },
+  "0410302": {
+    "zipcode": "0410302",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "瀬田来町"
+  },
+  "0410303": {
+    "zipcode": "0410303",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "弁才町"
+  },
+  "0410304": {
+    "zipcode": "0410304",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "泊町"
+  },
+  "0410305": {
+    "zipcode": "0410305",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "館町"
+  },
+  "0410306": {
+    "zipcode": "0410306",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "丸山町"
+  },
+  "0410311": {
+    "zipcode": "0410311",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "浜町"
+  },
+  "0410312": {
+    "zipcode": "0410312",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "新二見町"
+  },
+  "0410313": {
+    "zipcode": "0410313",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "原木町"
+  },
+  "0410401": {
+    "zipcode": "0410401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "日浦町"
+  },
+  "0410402": {
+    "zipcode": "0410402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "豊浦町"
+  },
+  "0410403": {
+    "zipcode": "0410403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "大澗町"
+  },
+  "0410404": {
+    "zipcode": "0410404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "中浜町"
+  },
+  "0410405": {
+    "zipcode": "0410405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "川上町"
+  },
+  "0410406": {
+    "zipcode": "0410406",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "女那川町"
+  },
+  "0410407": {
+    "zipcode": "0410407",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "日和山町"
+  },
+  "0410408": {
+    "zipcode": "0410408",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "吉畑町"
+  },
+  "0410521": {
+    "zipcode": "0410521",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "御崎町"
+  },
+  "0410522": {
+    "zipcode": "0410522",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "恵山町"
+  },
+  "0410523": {
+    "zipcode": "0410523",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "柏野町"
+  },
+  "0410524": {
+    "zipcode": "0410524",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "古武井町"
+  },
+  "0410525": {
+    "zipcode": "0410525",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "日ノ浜町"
+  },
+  "0410526": {
+    "zipcode": "0410526",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "高岱町"
+  },
+  "0410601": {
+    "zipcode": "0410601",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "新八幡町"
+  },
+  "0410602": {
+    "zipcode": "0410602",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "島泊町"
+  },
+  "0410603": {
+    "zipcode": "0410603",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "富浦町"
+  },
+  "0410604": {
+    "zipcode": "0410604",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "元村町"
+  },
+  "0410605": {
+    "zipcode": "0410605",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "恵山岬町"
+  },
+  "0410606": {
+    "zipcode": "0410606",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "新恵山町"
+  },
+  "0410611": {
+    "zipcode": "0410611",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "新浜町"
+  },
+  "0410612": {
+    "zipcode": "0410612",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "銚子町"
+  },
+  "0410613": {
+    "zipcode": "0410613",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "絵紙山町"
+  },
+  "0410801": {
+    "zipcode": "0410801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "桔梗町"
+  },
+  "0410802": {
+    "zipcode": "0410802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "石川町"
+  },
+  "0410803": {
+    "zipcode": "0410803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "亀田中野町"
+  },
+  "0410804": {
+    "zipcode": "0410804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "赤川町"
+  },
+  "0410805": {
+    "zipcode": "0410805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "赤川"
+  },
+  "0410806": {
+    "zipcode": "0410806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "美原"
+  },
+  "0410807": {
+    "zipcode": "0410807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "北美原"
+  },
+  "0410808": {
+    "zipcode": "0410808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "桔梗"
+  },
+  "0410811": {
+    "zipcode": "0410811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "富岡町"
+  },
+  "0410812": {
+    "zipcode": "0410812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "昭和"
+  },
+  "0410813": {
+    "zipcode": "0410813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "亀田本町"
+  },
+  "0410821": {
+    "zipcode": "0410821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "港町"
+  },
+  "0410822": {
+    "zipcode": "0410822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "亀田港町"
+  },
+  "0410823": {
+    "zipcode": "0410823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "昭和町"
+  },
+  "0410824": {
+    "zipcode": "0410824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "西桔梗町"
+  },
+  "0410831": {
+    "zipcode": "0410831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "神山町"
+  },
+  "0410832": {
+    "zipcode": "0410832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "神山"
+  },
+  "0410833": {
+    "zipcode": "0410833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "陣川町"
+  },
+  "0410834": {
+    "zipcode": "0410834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "東山町"
+  },
+  "0410835": {
+    "zipcode": "0410835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "東山"
+  },
+  "0410836": {
+    "zipcode": "0410836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "山の手"
+  },
+  "0410837": {
+    "zipcode": "0410837",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "陣川"
+  },
+  "0410841": {
+    "zipcode": "0410841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "日吉町"
+  },
+  "0410843": {
+    "zipcode": "0410843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "花園町"
+  },
+  "0410844": {
+    "zipcode": "0410844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "川原町"
+  },
+  "0410851": {
+    "zipcode": "0410851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "本通"
+  },
+  "0410852": {
+    "zipcode": "0410852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "鍛治"
+  },
+  "0410853": {
+    "zipcode": "0410853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "中道"
+  },
+  "0411100": {
+    "zipcode": "0411100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "以下に掲載がない場合"
+  },
+  "0411101": {
+    "zipcode": "0411101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "仁山"
+  },
+  "0411102": {
+    "zipcode": "0411102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "峠下"
+  },
+  "0411103": {
+    "zipcode": "0411103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "藤城"
+  },
+  "0411104": {
+    "zipcode": "0411104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "上藤城"
+  },
+  "0411105": {
+    "zipcode": "0411105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "桜町"
+  },
+  "0411111": {
+    "zipcode": "0411111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "本町"
+  },
+  "0411112": {
+    "zipcode": "0411112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "鳴川町"
+  },
+  "0411121": {
+    "zipcode": "0411121",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "大中山"
+  },
+  "0411122": {
+    "zipcode": "0411122",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "大川"
+  },
+  "0411131": {
+    "zipcode": "0411131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "中野"
+  },
+  "0411132": {
+    "zipcode": "0411132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "豊田"
+  },
+  "0411133": {
+    "zipcode": "0411133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "中島"
+  },
+  "0411134": {
+    "zipcode": "0411134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "鶴野"
+  },
+  "0411135": {
+    "zipcode": "0411135",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "緑町"
+  },
+  "0411136": {
+    "zipcode": "0411136",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "飯田町"
+  },
+  "0411201": {
+    "zipcode": "0411201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "本町"
+  },
+  "0411211": {
+    "zipcode": "0411211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "白川"
+  },
+  "0411212": {
+    "zipcode": "0411212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "細入"
+  },
+  "0411213": {
+    "zipcode": "0411213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "開発"
+  },
+  "0411214": {
+    "zipcode": "0411214",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "東前"
+  },
+  "0411215": {
+    "zipcode": "0411215",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "萩野"
+  },
+  "0411221": {
+    "zipcode": "0411221",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "清水川"
+  },
+  "0411222": {
+    "zipcode": "0411222",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "千代田"
+  },
+  "0411223": {
+    "zipcode": "0411223",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "一本木"
+  },
+  "0411224": {
+    "zipcode": "0411224",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "南大野"
+  },
+  "0411225": {
+    "zipcode": "0411225",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "文月"
+  },
+  "0411226": {
+    "zipcode": "0411226",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "村内"
+  },
+  "0411231": {
+    "zipcode": "0411231",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "向野"
+  },
+  "0411241": {
+    "zipcode": "0411241",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "稲里"
+  },
+  "0411242": {
+    "zipcode": "0411242",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "市渡"
+  },
+  "0411243": {
+    "zipcode": "0411243",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "中山"
+  },
+  "0411244": {
+    "zipcode": "0411244",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "村山"
+  },
+  "0411251": {
+    "zipcode": "0411251",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "北斗市",
+    "town": "本郷"
+  },
+  "0411351": {
+    "zipcode": "0411351",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "東大沼"
+  },
+  "0411352": {
+    "zipcode": "0411352",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "軍川"
+  },
+  "0411353": {
+    "zipcode": "0411353",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "上軍川"
+  },
+  "0411354": {
+    "zipcode": "0411354",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "大沼町"
+  },
+  "0411355": {
+    "zipcode": "0411355",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "亀田郡七飯町",
+    "town": "西大沼"
+  },
+  "0411400": {
+    "zipcode": "0411400",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "以下に掲載がない場合"
+  },
+  "0411401": {
+    "zipcode": "0411401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "大岩"
+  },
+  "0411402": {
+    "zipcode": "0411402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "鹿部"
+  },
+  "0411403": {
+    "zipcode": "0411403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "宮浜"
+  },
+  "0411404": {
+    "zipcode": "0411404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "本別"
+  },
+  "0411405": {
+    "zipcode": "0411405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "茅部郡鹿部町",
+    "town": "駒見"
+  },
+  "0411601": {
+    "zipcode": "0411601",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "古部町"
+  },
+  "0411602": {
+    "zipcode": "0411602",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "木直町"
+  },
+  "0411603": {
+    "zipcode": "0411603",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "尾札部町"
+  },
+  "0411611": {
+    "zipcode": "0411611",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "川汲町"
+  },
+  "0411612": {
+    "zipcode": "0411612",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "安浦町"
+  },
+  "0411613": {
+    "zipcode": "0411613",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "臼尻町"
+  },
+  "0411621": {
+    "zipcode": "0411621",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "豊崎町"
+  },
+  "0411622": {
+    "zipcode": "0411622",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "大船町"
+  },
+  "0411623": {
+    "zipcode": "0411623",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "双見町"
+  },
+  "0411624": {
+    "zipcode": "0411624",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "函館市",
+    "town": "岩戸町"
+  }
+}

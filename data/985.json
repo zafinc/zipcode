@@ -1,0 +1,818 @@
+{
+  "9850000": {
+    "zipcode": "9850000",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "以下に掲載がない場合"
+  },
+  "9850001": {
+    "zipcode": "9850001",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "新浜町"
+  },
+  "9850002": {
+    "zipcode": "9850002",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "海岸通"
+  },
+  "9850003": {
+    "zipcode": "9850003",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "北浜"
+  },
+  "9850004": {
+    "zipcode": "9850004",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "藤倉"
+  },
+  "9850005": {
+    "zipcode": "9850005",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "杉の入"
+  },
+  "9850006": {
+    "zipcode": "9850006",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "杉の入裏"
+  },
+  "9850011": {
+    "zipcode": "9850011",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "貞山通"
+  },
+  "9850012": {
+    "zipcode": "9850012",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "芦畔町"
+  },
+  "9850013": {
+    "zipcode": "9850013",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "牛生町"
+  },
+  "9850014": {
+    "zipcode": "9850014",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "舟入"
+  },
+  "9850015": {
+    "zipcode": "9850015",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "中の島"
+  },
+  "9850016": {
+    "zipcode": "9850016",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "港町"
+  },
+  "9850021": {
+    "zipcode": "9850021",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "尾島町"
+  },
+  "9850022": {
+    "zipcode": "9850022",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "新富町"
+  },
+  "9850023": {
+    "zipcode": "9850023",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "花立町"
+  },
+  "9850024": {
+    "zipcode": "9850024",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "錦町"
+  },
+  "9850025": {
+    "zipcode": "9850025",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "佐浦町"
+  },
+  "9850026": {
+    "zipcode": "9850026",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "旭町"
+  },
+  "9850031": {
+    "zipcode": "9850031",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "石堂"
+  },
+  "9850032": {
+    "zipcode": "9850032",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "白萩町"
+  },
+  "9850033": {
+    "zipcode": "9850033",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "桜ケ丘"
+  },
+  "9850034": {
+    "zipcode": "9850034",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "南錦町"
+  },
+  "9850035": {
+    "zipcode": "9850035",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "野田"
+  },
+  "9850036": {
+    "zipcode": "9850036",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "東玉川町"
+  },
+  "9850041": {
+    "zipcode": "9850041",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "白菊町"
+  },
+  "9850042": {
+    "zipcode": "9850042",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "玉川"
+  },
+  "9850043": {
+    "zipcode": "9850043",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "袖野田町"
+  },
+  "9850044": {
+    "zipcode": "9850044",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "母子沢町"
+  },
+  "9850045": {
+    "zipcode": "9850045",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "西玉川町"
+  },
+  "9850046": {
+    "zipcode": "9850046",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "大日向町"
+  },
+  "9850051": {
+    "zipcode": "9850051",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "宮町"
+  },
+  "9850052": {
+    "zipcode": "9850052",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "本町"
+  },
+  "9850053": {
+    "zipcode": "9850053",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "南町"
+  },
+  "9850054": {
+    "zipcode": "9850054",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "香津町"
+  },
+  "9850055": {
+    "zipcode": "9850055",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "赤坂"
+  },
+  "9850056": {
+    "zipcode": "9850056",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "泉ケ岡"
+  },
+  "9850057": {
+    "zipcode": "9850057",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "西町"
+  },
+  "9850061": {
+    "zipcode": "9850061",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "清水沢"
+  },
+  "9850062": {
+    "zipcode": "9850062",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "泉沢町"
+  },
+  "9850063": {
+    "zipcode": "9850063",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "栄町"
+  },
+  "9850064": {
+    "zipcode": "9850064",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "権現堂"
+  },
+  "9850065": {
+    "zipcode": "9850065",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "向ケ丘"
+  },
+  "9850066": {
+    "zipcode": "9850066",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "月見ケ丘"
+  },
+  "9850067": {
+    "zipcode": "9850067",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "後楽町"
+  },
+  "9850071": {
+    "zipcode": "9850071",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "松陽台"
+  },
+  "9850072": {
+    "zipcode": "9850072",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "小松崎"
+  },
+  "9850073": {
+    "zipcode": "9850073",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "みのが丘"
+  },
+  "9850074": {
+    "zipcode": "9850074",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "一森山"
+  },
+  "9850075": {
+    "zipcode": "9850075",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "今宮町"
+  },
+  "9850076": {
+    "zipcode": "9850076",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "長沢町"
+  },
+  "9850077": {
+    "zipcode": "9850077",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "梅の宮"
+  },
+  "9850081": {
+    "zipcode": "9850081",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "石田"
+  },
+  "9850082": {
+    "zipcode": "9850082",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "青葉ケ丘"
+  },
+  "9850083": {
+    "zipcode": "9850083",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "越ノ浦"
+  },
+  "9850084": {
+    "zipcode": "9850084",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "楓町"
+  },
+  "9850085": {
+    "zipcode": "9850085",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "庚塚"
+  },
+  "9850086": {
+    "zipcode": "9850086",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "千賀の台"
+  },
+  "9850087": {
+    "zipcode": "9850087",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "伊保石"
+  },
+  "9850088": {
+    "zipcode": "9850088",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "長沢"
+  },
+  "9850191": {
+    "zipcode": "9850191",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "浦戸石浜"
+  },
+  "9850192": {
+    "zipcode": "9850192",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "浦戸桂島"
+  },
+  "9850193": {
+    "zipcode": "9850193",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "浦戸野々島"
+  },
+  "9850194": {
+    "zipcode": "9850194",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "浦戸寒風沢"
+  },
+  "9850195": {
+    "zipcode": "9850195",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "塩竈市",
+    "town": "浦戸朴島"
+  },
+  "9850801": {
+    "zipcode": "9850801",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "代ヶ崎浜"
+  },
+  "9850802": {
+    "zipcode": "9850802",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "吉田浜"
+  },
+  "9850803": {
+    "zipcode": "9850803",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "花渕浜"
+  },
+  "9850804": {
+    "zipcode": "9850804",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "東宮浜"
+  },
+  "9850805": {
+    "zipcode": "9850805",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "笹山"
+  },
+  "9850811": {
+    "zipcode": "9850811",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "菖蒲田浜"
+  },
+  "9850812": {
+    "zipcode": "9850812",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "松ヶ浜"
+  },
+  "9850813": {
+    "zipcode": "9850813",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "湊浜"
+  },
+  "9850821": {
+    "zipcode": "9850821",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "汐見台"
+  },
+  "9850822": {
+    "zipcode": "9850822",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "汐見台南"
+  },
+  "9850823": {
+    "zipcode": "9850823",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "遠山"
+  },
+  "9850824": {
+    "zipcode": "9850824",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "宮城郡七ヶ浜町",
+    "town": "境山"
+  },
+  "9850831": {
+    "zipcode": "9850831",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "笠神"
+  },
+  "9850832": {
+    "zipcode": "9850832",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "大代"
+  },
+  "9850833": {
+    "zipcode": "9850833",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "栄"
+  },
+  "9850834": {
+    "zipcode": "9850834",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "丸山"
+  },
+  "9850835": {
+    "zipcode": "9850835",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "下馬"
+  },
+  "9850841": {
+    "zipcode": "9850841",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "鶴ケ谷"
+  },
+  "9850842": {
+    "zipcode": "9850842",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "桜木"
+  },
+  "9850843": {
+    "zipcode": "9850843",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "明月"
+  },
+  "9850844": {
+    "zipcode": "9850844",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "宮内"
+  },
+  "9850845": {
+    "zipcode": "9850845",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "町前"
+  },
+  "9850846": {
+    "zipcode": "9850846",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "中野"
+  },
+  "9850851": {
+    "zipcode": "9850851",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "南宮"
+  },
+  "9850852": {
+    "zipcode": "9850852",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "山王"
+  },
+  "9850853": {
+    "zipcode": "9850853",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "高橋"
+  },
+  "9850854": {
+    "zipcode": "9850854",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "新田"
+  },
+  "9850861": {
+    "zipcode": "9850861",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "浮島"
+  },
+  "9850862": {
+    "zipcode": "9850862",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "高崎"
+  },
+  "9850863": {
+    "zipcode": "9850863",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "東田中"
+  },
+  "9850864": {
+    "zipcode": "9850864",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "市川"
+  },
+  "9850865": {
+    "zipcode": "9850865",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "城南"
+  },
+  "9850871": {
+    "zipcode": "9850871",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "留ケ谷"
+  },
+  "9850872": {
+    "zipcode": "9850872",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "伝上山"
+  },
+  "9850873": {
+    "zipcode": "9850873",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "中央"
+  },
+  "9850874": {
+    "zipcode": "9850874",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "多賀城市",
+    "town": "八幡"
+  },
+  "9850901": {
+    "zipcode": "9850901",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "港（５丁目）"
+  }
+}

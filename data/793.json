@@ -1,0 +1,482 @@
+{
+  "7930000": {
+    "zipcode": "7930000",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "以下に掲載がない場合"
+  },
+  "7930001": {
+    "zipcode": "7930001",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "玉津"
+  },
+  "7930002": {
+    "zipcode": "7930002",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "天神"
+  },
+  "7930003": {
+    "zipcode": "7930003",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "ひうち"
+  },
+  "7930004": {
+    "zipcode": "7930004",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "船屋甲"
+  },
+  "7930005": {
+    "zipcode": "7930005",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "船屋乙"
+  },
+  "7930006": {
+    "zipcode": "7930006",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "下島山甲"
+  },
+  "7930007": {
+    "zipcode": "7930007",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "下島山乙"
+  },
+  "7930010": {
+    "zipcode": "7930010",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "飯岡"
+  },
+  "7930016": {
+    "zipcode": "7930016",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "大浜"
+  },
+  "7930017": {
+    "zipcode": "7930017",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "早川"
+  },
+  "7930021": {
+    "zipcode": "7930021",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "神拝乙"
+  },
+  "7930022": {
+    "zipcode": "7930022",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "本町"
+  },
+  "7930023": {
+    "zipcode": "7930023",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "明屋敷"
+  },
+  "7930024": {
+    "zipcode": "7930024",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "大師町"
+  },
+  "7930025": {
+    "zipcode": "7930025",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "栄町"
+  },
+  "7930026": {
+    "zipcode": "7930026",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "東町"
+  },
+  "7930027": {
+    "zipcode": "7930027",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "朔日市"
+  },
+  "7930028": {
+    "zipcode": "7930028",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "新田"
+  },
+  "7930030": {
+    "zipcode": "7930030",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "大町"
+  },
+  "7930034": {
+    "zipcode": "7930034",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "明神木"
+  },
+  "7930035": {
+    "zipcode": "7930035",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "福武甲"
+  },
+  "7930036": {
+    "zipcode": "7930036",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "福武乙"
+  },
+  "7930037": {
+    "zipcode": "7930037",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "市之川"
+  },
+  "7930038": {
+    "zipcode": "7930038",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "丸野"
+  },
+  "7930039": {
+    "zipcode": "7930039",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "保野"
+  },
+  "7930041": {
+    "zipcode": "7930041",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "神拝甲"
+  },
+  "7930042": {
+    "zipcode": "7930042",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "喜多川"
+  },
+  "7930043": {
+    "zipcode": "7930043",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "樋之口"
+  },
+  "7930044": {
+    "zipcode": "7930044",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "古川甲"
+  },
+  "7930045": {
+    "zipcode": "7930045",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "古川乙"
+  },
+  "7930046": {
+    "zipcode": "7930046",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "港"
+  },
+  "7930051": {
+    "zipcode": "7930051",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "安知生"
+  },
+  "7930052": {
+    "zipcode": "7930052",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "中西"
+  },
+  "7930053": {
+    "zipcode": "7930053",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "洲之内甲"
+  },
+  "7930054": {
+    "zipcode": "7930054",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "中野甲"
+  },
+  "7930055": {
+    "zipcode": "7930055",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "中野乙"
+  },
+  "7930056": {
+    "zipcode": "7930056",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "中野丙"
+  },
+  "7930057": {
+    "zipcode": "7930057",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "津越"
+  },
+  "7930061": {
+    "zipcode": "7930061",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "禎瑞"
+  },
+  "7930062": {
+    "zipcode": "7930062",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "西田甲"
+  },
+  "7930063": {
+    "zipcode": "7930063",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "西泉甲"
+  },
+  "7930064": {
+    "zipcode": "7930064",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "西泉乙"
+  },
+  "7930065": {
+    "zipcode": "7930065",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "楢木"
+  },
+  "7930066": {
+    "zipcode": "7930066",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "野々市"
+  },
+  "7930067": {
+    "zipcode": "7930067",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "坂元甲"
+  },
+  "7930071": {
+    "zipcode": "7930071",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "氷見甲"
+  },
+  "7930072": {
+    "zipcode": "7930072",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "氷見乙"
+  },
+  "7930073": {
+    "zipcode": "7930073",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "氷見丙"
+  },
+  "7930074": {
+    "zipcode": "7930074",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "氷見丁"
+  },
+  "7930075": {
+    "zipcode": "7930075",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "氷見戊"
+  },
+  "7930101": {
+    "zipcode": "7930101",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "千町"
+  },
+  "7930102": {
+    "zipcode": "7930102",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "藤之石"
+  },
+  "7930103": {
+    "zipcode": "7930103",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "荒川"
+  },
+  "7930211": {
+    "zipcode": "7930211",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "大保木"
+  },
+  "7930212": {
+    "zipcode": "7930212",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "黒瀬"
+  },
+  "7930213": {
+    "zipcode": "7930213",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "兎之山"
+  },
+  "7930214": {
+    "zipcode": "7930214",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "中奥"
+  },
+  "7930215": {
+    "zipcode": "7930215",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "西之川"
+  },
+  "7930216": {
+    "zipcode": "7930216",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "西条市",
+    "town": "東之川"
+  }
+}

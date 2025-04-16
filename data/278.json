@@ -1,0 +1,378 @@
+{
+  "2780000": {
+    "zipcode": "2780000",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "以下に掲載がない場合"
+  },
+  "2780001": {
+    "zipcode": "2780001",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "目吹"
+  },
+  "2780002": {
+    "zipcode": "2780002",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "木野崎"
+  },
+  "2780003": {
+    "zipcode": "2780003",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "鶴奉"
+  },
+  "2780004": {
+    "zipcode": "2780004",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "横内"
+  },
+  "2780005": {
+    "zipcode": "2780005",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "宮崎"
+  },
+  "2780006": {
+    "zipcode": "2780006",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "柳沢"
+  },
+  "2780007": {
+    "zipcode": "2780007",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "金杉"
+  },
+  "2780011": {
+    "zipcode": "2780011",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "三ツ堀"
+  },
+  "2780012": {
+    "zipcode": "2780012",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "瀬戸"
+  },
+  "2780013": {
+    "zipcode": "2780013",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "上三ケ尾"
+  },
+  "2780014": {
+    "zipcode": "2780014",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "下三ケ尾"
+  },
+  "2780015": {
+    "zipcode": "2780015",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "西三ケ尾"
+  },
+  "2780016": {
+    "zipcode": "2780016",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "二ツ塚"
+  },
+  "2780017": {
+    "zipcode": "2780017",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "大殿井"
+  },
+  "2780021": {
+    "zipcode": "2780021",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "堤根"
+  },
+  "2780022": {
+    "zipcode": "2780022",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "山崎"
+  },
+  "2780023": {
+    "zipcode": "2780023",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "山崎貝塚町"
+  },
+  "2780024": {
+    "zipcode": "2780024",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "山崎梅の台"
+  },
+  "2780025": {
+    "zipcode": "2780025",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "今上"
+  },
+  "2780026": {
+    "zipcode": "2780026",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "花井"
+  },
+  "2780027": {
+    "zipcode": "2780027",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "みずき"
+  },
+  "2780028": {
+    "zipcode": "2780028",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "桜木"
+  },
+  "2780029": {
+    "zipcode": "2780029",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "山崎新町"
+  },
+  "2780031": {
+    "zipcode": "2780031",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "中根"
+  },
+  "2780032": {
+    "zipcode": "2780032",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "桜台"
+  },
+  "2780033": {
+    "zipcode": "2780033",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "上花輪"
+  },
+  "2780034": {
+    "zipcode": "2780034",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "上花輪新町"
+  },
+  "2780035": {
+    "zipcode": "2780035",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "中野台"
+  },
+  "2780036": {
+    "zipcode": "2780036",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "中野台鹿島町"
+  },
+  "2780037": {
+    "zipcode": "2780037",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "野田"
+  },
+  "2780038": {
+    "zipcode": "2780038",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "つつみ野"
+  },
+  "2780041": {
+    "zipcode": "2780041",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "蕃昌"
+  },
+  "2780042": {
+    "zipcode": "2780042",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "吉春"
+  },
+  "2780043": {
+    "zipcode": "2780043",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "清水"
+  },
+  "2780044": {
+    "zipcode": "2780044",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "堤台"
+  },
+  "2780045": {
+    "zipcode": "2780045",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "座生"
+  },
+  "2780046": {
+    "zipcode": "2780046",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "谷津"
+  },
+  "2780047": {
+    "zipcode": "2780047",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "清水公園東"
+  },
+  "2780048": {
+    "zipcode": "2780048",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "桜の里"
+  },
+  "2780051": {
+    "zipcode": "2780051",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "七光台"
+  },
+  "2780052": {
+    "zipcode": "2780052",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "春日町"
+  },
+  "2780053": {
+    "zipcode": "2780053",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "五木新町"
+  },
+  "2780054": {
+    "zipcode": "2780054",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "五木"
+  },
+  "2780055": {
+    "zipcode": "2780055",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "岩名"
+  },
+  "2780056": {
+    "zipcode": "2780056",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "五木新田"
+  },
+  "2780057": {
+    "zipcode": "2780057",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "town": "光葉町"
+  }
+}

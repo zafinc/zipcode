@@ -1,0 +1,554 @@
+{
+  "0740000": {
+    "zipcode": "0740000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "以下に掲載がない場合"
+  },
+  "0740001": {
+    "zipcode": "0740001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "一条"
+  },
+  "0740002": {
+    "zipcode": "0740002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "二条"
+  },
+  "0740003": {
+    "zipcode": "0740003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "三条"
+  },
+  "0740004": {
+    "zipcode": "0740004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "四条"
+  },
+  "0740005": {
+    "zipcode": "0740005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "五条"
+  },
+  "0740006": {
+    "zipcode": "0740006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "六条"
+  },
+  "0740007": {
+    "zipcode": "0740007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "七条"
+  },
+  "0740008": {
+    "zipcode": "0740008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "八条"
+  },
+  "0740009": {
+    "zipcode": "0740009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "九条"
+  },
+  "0740011": {
+    "zipcode": "0740011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "緑町"
+  },
+  "0740012": {
+    "zipcode": "0740012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "西町"
+  },
+  "0740013": {
+    "zipcode": "0740013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "文光町"
+  },
+  "0740014": {
+    "zipcode": "0740014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "開西町"
+  },
+  "0740015": {
+    "zipcode": "0740015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "深川町メム"
+  },
+  "0740016": {
+    "zipcode": "0740016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "深川町オーホ"
+  },
+  "0740021": {
+    "zipcode": "0740021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "稲穂町"
+  },
+  "0740022": {
+    "zipcode": "0740022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "北光町"
+  },
+  "0740023": {
+    "zipcode": "0740023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "太子町"
+  },
+  "0740024": {
+    "zipcode": "0740024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "新光町"
+  },
+  "0740025": {
+    "zipcode": "0740025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "錦町"
+  },
+  "0740026": {
+    "zipcode": "0740026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "錦町西"
+  },
+  "0740027": {
+    "zipcode": "0740027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "錦町北"
+  },
+  "0740028": {
+    "zipcode": "0740028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "一已町"
+  },
+  "0740031": {
+    "zipcode": "0740031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "あけぼの町"
+  },
+  "0740141": {
+    "zipcode": "0740141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "多度志"
+  },
+  "0740142": {
+    "zipcode": "0740142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "宇摩"
+  },
+  "0740143": {
+    "zipcode": "0740143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "ウッカ"
+  },
+  "0740144": {
+    "zipcode": "0740144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "鷹泊"
+  },
+  "0740145": {
+    "zipcode": "0740145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "幌内"
+  },
+  "0740146": {
+    "zipcode": "0740146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "湯内"
+  },
+  "0740147": {
+    "zipcode": "0740147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "多度志南"
+  },
+  "0740400": {
+    "zipcode": "0740400",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "以下に掲載がない場合"
+  },
+  "0740401": {
+    "zipcode": "0740401",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "平和"
+  },
+  "0740402": {
+    "zipcode": "0740402",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "新成生"
+  },
+  "0740403": {
+    "zipcode": "0740403",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "下幌加内"
+  },
+  "0740404": {
+    "zipcode": "0740404",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "沼牛"
+  },
+  "0740405": {
+    "zipcode": "0740405",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "弥運内"
+  },
+  "0740411": {
+    "zipcode": "0740411",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "幌加内"
+  },
+  "0740412": {
+    "zipcode": "0740412",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "親和"
+  },
+  "0740413": {
+    "zipcode": "0740413",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "雨煙内"
+  },
+  "0740414": {
+    "zipcode": "0740414",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "清月"
+  },
+  "0740415": {
+    "zipcode": "0740415",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "長留内"
+  },
+  "0740421": {
+    "zipcode": "0740421",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "東栄"
+  },
+  "0740422": {
+    "zipcode": "0740422",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "振興"
+  },
+  "0740423": {
+    "zipcode": "0740423",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "上幌加内"
+  },
+  "0740424": {
+    "zipcode": "0740424",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "雨煙別"
+  },
+  "0740425": {
+    "zipcode": "0740425",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "政和第一"
+  },
+  "0740426": {
+    "zipcode": "0740426",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "政和第二"
+  },
+  "0740427": {
+    "zipcode": "0740427",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "政和第三"
+  },
+  "0740741": {
+    "zipcode": "0740741",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "母子里"
+  },
+  "0740742": {
+    "zipcode": "0740742",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "朱鞠内"
+  },
+  "0740743": {
+    "zipcode": "0740743",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "共栄"
+  },
+  "0740744": {
+    "zipcode": "0740744",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "大曲"
+  },
+  "0740745": {
+    "zipcode": "0740745",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "北星"
+  },
+  "0740746": {
+    "zipcode": "0740746",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "添牛内"
+  },
+  "0740747": {
+    "zipcode": "0740747",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "雨竜郡幌加内町",
+    "town": "新富"
+  },
+  "0741161": {
+    "zipcode": "0741161",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（更進）"
+  },
+  "0741162": {
+    "zipcode": "0741162",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（菊丘）"
+  },
+  "0741163": {
+    "zipcode": "0741163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（吉住）"
+  },
+  "0741164": {
+    "zipcode": "0741164",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（国見２３〜２９８番地）"
+  },
+  "0741181": {
+    "zipcode": "0741181",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "旭川市",
+    "town": "神居町西丘（その他）"
+  },
+  "0741182": {
+    "zipcode": "0741182",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "旭川市",
+    "town": "神居町豊里"
+  },
+  "0741271": {
+    "zipcode": "0741271",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "広里町（１〜５丁目）"
+  },
+  "0741272": {
+    "zipcode": "0741272",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（国見その他）"
+  },
+  "0741273": {
+    "zipcode": "0741273",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（音江）"
+  },
+  "0741274": {
+    "zipcode": "0741274",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（豊泉）"
+  },
+  "0741275": {
+    "zipcode": "0741275",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（向陽）"
+  },
+  "0741276": {
+    "zipcode": "0741276",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "深川市",
+    "town": "音江町（稲田）"
+  }
+}

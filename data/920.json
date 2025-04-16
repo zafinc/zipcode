@@ -1,0 +1,4650 @@
+{
+  "9200000": {
+    "zipcode": "9200000",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "以下に掲載がない場合"
+  },
+  "9200001": {
+    "zipcode": "9200001",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "千木町"
+  },
+  "9200002": {
+    "zipcode": "9200002",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "千木"
+  },
+  "9200003": {
+    "zipcode": "9200003",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "疋田"
+  },
+  "9200004": {
+    "zipcode": "9200004",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "疋田町"
+  },
+  "9200005": {
+    "zipcode": "9200005",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "高柳町"
+  },
+  "9200006": {
+    "zipcode": "9200006",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "宮保町"
+  },
+  "9200007": {
+    "zipcode": "9200007",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田中町"
+  },
+  "9200008": {
+    "zipcode": "9200008",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "今昭町"
+  },
+  "9200011": {
+    "zipcode": "9200011",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "松寺町"
+  },
+  "9200012": {
+    "zipcode": "9200012",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "磯部町"
+  },
+  "9200013": {
+    "zipcode": "9200013",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "沖町"
+  },
+  "9200014": {
+    "zipcode": "9200014",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "諸江町"
+  },
+  "9200015": {
+    "zipcode": "9200015",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "諸江町（上丁）"
+  },
+  "9200016": {
+    "zipcode": "9200016",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "諸江町（中丁）"
+  },
+  "9200017": {
+    "zipcode": "9200017",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "諸江町（下丁）"
+  },
+  "9200018": {
+    "zipcode": "9200018",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三口町"
+  },
+  "9200021": {
+    "zipcode": "9200021",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "七ツ屋町"
+  },
+  "9200022": {
+    "zipcode": "9200022",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北安江"
+  },
+  "9200023": {
+    "zipcode": "9200023",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北安江町"
+  },
+  "9200024": {
+    "zipcode": "9200024",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西念"
+  },
+  "9200025": {
+    "zipcode": "9200025",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "駅西本町"
+  },
+  "9200026": {
+    "zipcode": "9200026",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西念町"
+  },
+  "9200027": {
+    "zipcode": "9200027",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "駅西新町"
+  },
+  "9200031": {
+    "zipcode": "9200031",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "広岡"
+  },
+  "9200032": {
+    "zipcode": "9200032",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "広岡町"
+  },
+  "9200033": {
+    "zipcode": "9200033",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "日吉町"
+  },
+  "9200034": {
+    "zipcode": "9200034",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "醒ケ井町"
+  },
+  "9200035": {
+    "zipcode": "9200035",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中橋町"
+  },
+  "9200036": {
+    "zipcode": "9200036",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "元菊町"
+  },
+  "9200041": {
+    "zipcode": "9200041",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "長田本町"
+  },
+  "9200042": {
+    "zipcode": "9200042",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "長田町"
+  },
+  "9200043": {
+    "zipcode": "9200043",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "長田"
+  },
+  "9200044": {
+    "zipcode": "9200044",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南広岡町"
+  },
+  "9200045": {
+    "zipcode": "9200045",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "向中町"
+  },
+  "9200046": {
+    "zipcode": "9200046",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大和町"
+  },
+  "9200047": {
+    "zipcode": "9200047",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大豆田本町（その他）"
+  },
+  "9200051": {
+    "zipcode": "9200051",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二口町"
+  },
+  "9200052": {
+    "zipcode": "9200052",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "薬師堂町"
+  },
+  "9200053": {
+    "zipcode": "9200053",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "若宮町"
+  },
+  "9200054": {
+    "zipcode": "9200054",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "若宮"
+  },
+  "9200055": {
+    "zipcode": "9200055",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北町"
+  },
+  "9200056": {
+    "zipcode": "9200056",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "出雲町"
+  },
+  "9200057": {
+    "zipcode": "9200057",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "桜田町"
+  },
+  "9200058": {
+    "zipcode": "9200058",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "示野中町"
+  },
+  "9200059": {
+    "zipcode": "9200059",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "示野町"
+  },
+  "9200061": {
+    "zipcode": "9200061",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "問屋町"
+  },
+  "9200062": {
+    "zipcode": "9200062",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "割出町"
+  },
+  "9200063": {
+    "zipcode": "9200063",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三浦町"
+  },
+  "9200064": {
+    "zipcode": "9200064",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南新保町"
+  },
+  "9200065": {
+    "zipcode": "9200065",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二ツ屋町"
+  },
+  "9200067": {
+    "zipcode": "9200067",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二宮町"
+  },
+  "9200068": {
+    "zipcode": "9200068",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "戸板"
+  },
+  "9200069": {
+    "zipcode": "9200069",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "戸板西"
+  },
+  "9200101": {
+    "zipcode": "9200101",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "利屋町"
+  },
+  "9200102": {
+    "zipcode": "9200102",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "岸川町"
+  },
+  "9200103": {
+    "zipcode": "9200103",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "花園八幡町"
+  },
+  "9200104": {
+    "zipcode": "9200104",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "四坊町"
+  },
+  "9200105": {
+    "zipcode": "9200105",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "月影町"
+  },
+  "9200106": {
+    "zipcode": "9200106",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "今町"
+  },
+  "9200107": {
+    "zipcode": "9200107",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二日市町"
+  },
+  "9200111": {
+    "zipcode": "9200111",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "浅丘町"
+  },
+  "9200112": {
+    "zipcode": "9200112",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "榎尾町"
+  },
+  "9200113": {
+    "zipcode": "9200113",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "俵原町"
+  },
+  "9200114": {
+    "zipcode": "9200114",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "加賀朝日町"
+  },
+  "9200115": {
+    "zipcode": "9200115",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "千杉町"
+  },
+  "9200116": {
+    "zipcode": "9200116",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "地代町"
+  },
+  "9200121": {
+    "zipcode": "9200121",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "琴町"
+  },
+  "9200122": {
+    "zipcode": "9200122",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上平町"
+  },
+  "9200123": {
+    "zipcode": "9200123",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "滝下町"
+  },
+  "9200124": {
+    "zipcode": "9200124",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中尾町"
+  },
+  "9200125": {
+    "zipcode": "9200125",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "今泉町"
+  },
+  "9200126": {
+    "zipcode": "9200126",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "朝日牧町"
+  },
+  "9200127": {
+    "zipcode": "9200127",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南千谷町"
+  },
+  "9200128": {
+    "zipcode": "9200128",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北千石町"
+  },
+  "9200129": {
+    "zipcode": "9200129",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "琴坂町"
+  },
+  "9200131": {
+    "zipcode": "9200131",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東原町"
+  },
+  "9200132": {
+    "zipcode": "9200132",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "清水谷町"
+  },
+  "9200133": {
+    "zipcode": "9200133",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "堀切町"
+  },
+  "9200134": {
+    "zipcode": "9200134",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "曲子原町"
+  },
+  "9200135": {
+    "zipcode": "9200135",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "土子原町"
+  },
+  "9200136": {
+    "zipcode": "9200136",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "松根町"
+  },
+  "9200137": {
+    "zipcode": "9200137",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "竹又町"
+  },
+  "9200141": {
+    "zipcode": "9200141",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江野町"
+  },
+  "9200142": {
+    "zipcode": "9200142",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "納年町"
+  },
+  "9200143": {
+    "zipcode": "9200143",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北方町"
+  },
+  "9200144": {
+    "zipcode": "9200144",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小嶺町"
+  },
+  "9200145": {
+    "zipcode": "9200145",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "市瀬町"
+  },
+  "9200146": {
+    "zipcode": "9200146",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "柚木町"
+  },
+  "9200147": {
+    "zipcode": "9200147",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "不室町"
+  },
+  "9200148": {
+    "zipcode": "9200148",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "牧山町"
+  },
+  "9200151": {
+    "zipcode": "9200151",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "梨木町"
+  },
+  "9200152": {
+    "zipcode": "9200152",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鳴瀬元町"
+  },
+  "9200153": {
+    "zipcode": "9200153",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "宮野町"
+  },
+  "9200154": {
+    "zipcode": "9200154",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "正部町"
+  },
+  "9200155": {
+    "zipcode": "9200155",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "高坂町"
+  },
+  "9200156": {
+    "zipcode": "9200156",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "古屋谷町"
+  },
+  "9200157": {
+    "zipcode": "9200157",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "車町"
+  },
+  "9200161": {
+    "zipcode": "9200161",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鞁筒町"
+  },
+  "9200162": {
+    "zipcode": "9200162",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小池町"
+  },
+  "9200163": {
+    "zipcode": "9200163",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "桐山町"
+  },
+  "9200164": {
+    "zipcode": "9200164",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "堅田町"
+  },
+  "9200165": {
+    "zipcode": "9200165",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "深谷町"
+  },
+  "9200166": {
+    "zipcode": "9200166",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "四王寺町"
+  },
+  "9200167": {
+    "zipcode": "9200167",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "福畠町"
+  },
+  "9200168": {
+    "zipcode": "9200168",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小野町"
+  },
+  "9200171": {
+    "zipcode": "9200171",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "岩出町"
+  },
+  "9200172": {
+    "zipcode": "9200172",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "河原市町"
+  },
+  "9200173": {
+    "zipcode": "9200173",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "不動寺町"
+  },
+  "9200174": {
+    "zipcode": "9200174",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "薬師町"
+  },
+  "9200175": {
+    "zipcode": "9200175",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上涌波町"
+  },
+  "9200176": {
+    "zipcode": "9200176",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下涌波町"
+  },
+  "9200177": {
+    "zipcode": "9200177",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北陽台"
+  },
+  "9200178": {
+    "zipcode": "9200178",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "月浦町"
+  },
+  "9200200": {
+    "zipcode": "9200200",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "以下に掲載がない場合"
+  },
+  "9200201": {
+    "zipcode": "9200201",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "みずき"
+  },
+  "9200202": {
+    "zipcode": "9200202",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "木越"
+  },
+  "9200203": {
+    "zipcode": "9200203",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "木越町（その他）"
+  },
+  "9200204": {
+    "zipcode": "9200204",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "千田町"
+  },
+  "9200205": {
+    "zipcode": "9200205",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大浦町"
+  },
+  "9200206": {
+    "zipcode": "9200206",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北寺町"
+  },
+  "9200207": {
+    "zipcode": "9200207",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "須崎町"
+  },
+  "9200208": {
+    "zipcode": "9200208",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "蚊爪町"
+  },
+  "9200209": {
+    "zipcode": "9200209",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東蚊爪町"
+  },
+  "9200210": {
+    "zipcode": "9200210",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大河端西"
+  },
+  "9200211": {
+    "zipcode": "9200211",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湊"
+  },
+  "9200212": {
+    "zipcode": "9200212",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北間町"
+  },
+  "9200213": {
+    "zipcode": "9200213",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大河端町"
+  },
+  "9200214": {
+    "zipcode": "9200214",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三ツ屋町"
+  },
+  "9200215": {
+    "zipcode": "9200215",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "弓取町"
+  },
+  "9200219": {
+    "zipcode": "9200219",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "かたつ"
+  },
+  "9200223": {
+    "zipcode": "9200223",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "戸水町"
+  },
+  "9200224": {
+    "zipcode": "9200224",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "五郎島町"
+  },
+  "9200225": {
+    "zipcode": "9200225",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大野町新町"
+  },
+  "9200226": {
+    "zipcode": "9200226",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "粟崎町"
+  },
+  "9200227": {
+    "zipcode": "9200227",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "粟崎浜町"
+  },
+  "9200231": {
+    "zipcode": "9200231",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大野町（ソ、タ、ヌ、ヨ、レ）"
+  },
+  "9200261": {
+    "zipcode": "9200261",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "室"
+  },
+  "9200262": {
+    "zipcode": "9200262",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "西荒屋"
+  },
+  "9200263": {
+    "zipcode": "9200263",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "湖西"
+  },
+  "9200264": {
+    "zipcode": "9200264",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "宮坂"
+  },
+  "9200265": {
+    "zipcode": "9200265",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "大学"
+  },
+  "9200266": {
+    "zipcode": "9200266",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "大根布"
+  },
+  "9200267": {
+    "zipcode": "9200267",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "大清台"
+  },
+  "9200268": {
+    "zipcode": "9200268",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "ハマナス"
+  },
+  "9200269": {
+    "zipcode": "9200269",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "白帆台"
+  },
+  "9200271": {
+    "zipcode": "9200271",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "鶴ケ丘"
+  },
+  "9200272": {
+    "zipcode": "9200272",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "向陽台"
+  },
+  "9200273": {
+    "zipcode": "9200273",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "アカシア"
+  },
+  "9200274": {
+    "zipcode": "9200274",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "向粟崎"
+  },
+  "9200275": {
+    "zipcode": "9200275",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "旭ケ丘"
+  },
+  "9200276": {
+    "zipcode": "9200276",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "緑台"
+  },
+  "9200277": {
+    "zipcode": "9200277",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "河北郡内灘町",
+    "town": "千鳥台"
+  },
+  "9200310": {
+    "zipcode": "9200310",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石相生町"
+  },
+  "9200311": {
+    "zipcode": "9200311",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石上浜町"
+  },
+  "9200312": {
+    "zipcode": "9200312",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石松前町"
+  },
+  "9200313": {
+    "zipcode": "9200313",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石浜町"
+  },
+  "9200314": {
+    "zipcode": "9200314",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石御船町"
+  },
+  "9200315": {
+    "zipcode": "9200315",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石下寺町"
+  },
+  "9200316": {
+    "zipcode": "9200316",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石通町"
+  },
+  "9200317": {
+    "zipcode": "9200317",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石下本町"
+  },
+  "9200318": {
+    "zipcode": "9200318",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石味噌屋町"
+  },
+  "9200319": {
+    "zipcode": "9200319",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石上越前町"
+  },
+  "9200321": {
+    "zipcode": "9200321",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石海禅寺町"
+  },
+  "9200322": {
+    "zipcode": "9200322",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石今町"
+  },
+  "9200330": {
+    "zipcode": "9200330",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石新町"
+  },
+  "9200331": {
+    "zipcode": "9200331",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大野町（その他）"
+  },
+  "9200332": {
+    "zipcode": "9200332",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "無量寺町"
+  },
+  "9200333": {
+    "zipcode": "9200333",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "無量寺"
+  },
+  "9200334": {
+    "zipcode": "9200334",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "桂町"
+  },
+  "9200335": {
+    "zipcode": "9200335",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石東"
+  },
+  "9200336": {
+    "zipcode": "9200336",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石本町"
+  },
+  "9200337": {
+    "zipcode": "9200337",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石西"
+  },
+  "9200338": {
+    "zipcode": "9200338",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金石北"
+  },
+  "9200339": {
+    "zipcode": "9200339",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "木曳野"
+  },
+  "9200341": {
+    "zipcode": "9200341",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "寺中町"
+  },
+  "9200342": {
+    "zipcode": "9200342",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "畝田西"
+  },
+  "9200343": {
+    "zipcode": "9200343",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "畝田中"
+  },
+  "9200344": {
+    "zipcode": "9200344",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "畝田東"
+  },
+  "9200345": {
+    "zipcode": "9200345",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "藤江北"
+  },
+  "9200346": {
+    "zipcode": "9200346",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "藤江南"
+  },
+  "9200347": {
+    "zipcode": "9200347",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "松村町"
+  },
+  "9200348": {
+    "zipcode": "9200348",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "松村"
+  },
+  "9200351": {
+    "zipcode": "9200351",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "普正寺町"
+  },
+  "9200352": {
+    "zipcode": "9200352",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "観音堂町"
+  },
+  "9200353": {
+    "zipcode": "9200353",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "赤土町"
+  },
+  "9200354": {
+    "zipcode": "9200354",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二ツ寺町"
+  },
+  "9200355": {
+    "zipcode": "9200355",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "稚日野町"
+  },
+  "9200356": {
+    "zipcode": "9200356",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "専光寺町"
+  },
+  "9200357": {
+    "zipcode": "9200357",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "佐奇森町"
+  },
+  "9200361": {
+    "zipcode": "9200361",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "袋畠町"
+  },
+  "9200362": {
+    "zipcode": "9200362",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "古府町（西）"
+  },
+  "9200363": {
+    "zipcode": "9200363",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "古府町（南）"
+  },
+  "9200364": {
+    "zipcode": "9200364",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "松島町"
+  },
+  "9200365": {
+    "zipcode": "9200365",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "神野町"
+  },
+  "9200366": {
+    "zipcode": "9200366",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南塚町"
+  },
+  "9200367": {
+    "zipcode": "9200367",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北塚町"
+  },
+  "9200368": {
+    "zipcode": "9200368",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "神野"
+  },
+  "9200370": {
+    "zipcode": "9200370",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上安原"
+  },
+  "9200371": {
+    "zipcode": "9200371",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下安原町"
+  },
+  "9200372": {
+    "zipcode": "9200372",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "豊穂町"
+  },
+  "9200373": {
+    "zipcode": "9200373",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "みどり"
+  },
+  "9200374": {
+    "zipcode": "9200374",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上安原南"
+  },
+  "9200375": {
+    "zipcode": "9200375",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中屋町"
+  },
+  "9200376": {
+    "zipcode": "9200376",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "福増町"
+  },
+  "9200377": {
+    "zipcode": "9200377",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "打木町"
+  },
+  "9200378": {
+    "zipcode": "9200378",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "いなほ"
+  },
+  "9200379": {
+    "zipcode": "9200379",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中屋南"
+  },
+  "9200381": {
+    "zipcode": "9200381",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中屋"
+  },
+  "9200801": {
+    "zipcode": "9200801",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "神谷内町"
+  },
+  "9200802": {
+    "zipcode": "9200802",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三池町"
+  },
+  "9200803": {
+    "zipcode": "9200803",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "神宮寺町"
+  },
+  "9200804": {
+    "zipcode": "9200804",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鳴和"
+  },
+  "9200805": {
+    "zipcode": "9200805",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小金町"
+  },
+  "9200806": {
+    "zipcode": "9200806",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "神宮寺"
+  },
+  "9200807": {
+    "zipcode": "9200807",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "乙丸町"
+  },
+  "9200808": {
+    "zipcode": "9200808",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三池新町"
+  },
+  "9200809": {
+    "zipcode": "9200809",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三池栄町"
+  },
+  "9200811": {
+    "zipcode": "9200811",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小坂町"
+  },
+  "9200812": {
+    "zipcode": "9200812",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南御所町"
+  },
+  "9200813": {
+    "zipcode": "9200813",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "御所町"
+  },
+  "9200814": {
+    "zipcode": "9200814",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鳴和町"
+  },
+  "9200815": {
+    "zipcode": "9200815",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鳴和台"
+  },
+  "9200816": {
+    "zipcode": "9200816",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "山の上町"
+  },
+  "9200817": {
+    "zipcode": "9200817",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "春日町"
+  },
+  "9200818": {
+    "zipcode": "9200818",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大樋町"
+  },
+  "9200821": {
+    "zipcode": "9200821",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "山王町"
+  },
+  "9200822": {
+    "zipcode": "9200822",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東長江町"
+  },
+  "9200823": {
+    "zipcode": "9200823",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "夕日寺町"
+  },
+  "9200824": {
+    "zipcode": "9200824",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "伝燈寺町"
+  },
+  "9200825": {
+    "zipcode": "9200825",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "釣部町"
+  },
+  "9200826": {
+    "zipcode": "9200826",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小二又町"
+  },
+  "9200827": {
+    "zipcode": "9200827",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "牧町"
+  },
+  "9200831": {
+    "zipcode": "9200831",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東山"
+  },
+  "9200832": {
+    "zipcode": "9200832",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "卯辰町"
+  },
+  "9200833": {
+    "zipcode": "9200833",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "末広町"
+  },
+  "9200834": {
+    "zipcode": "9200834",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "常盤町"
+  },
+  "9200835": {
+    "zipcode": "9200835",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東御影町"
+  },
+  "9200836": {
+    "zipcode": "9200836",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "子来町"
+  },
+  "9200837": {
+    "zipcode": "9200837",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鶯町"
+  },
+  "9200838": {
+    "zipcode": "9200838",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "観音町"
+  },
+  "9200841": {
+    "zipcode": "9200841",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "浅野本町"
+  },
+  "9200842": {
+    "zipcode": "9200842",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "元町"
+  },
+  "9200843": {
+    "zipcode": "9200843",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "森山"
+  },
+  "9200844": {
+    "zipcode": "9200844",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小橋町"
+  },
+  "9200845": {
+    "zipcode": "9200845",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "瓢箪町"
+  },
+  "9200846": {
+    "zipcode": "9200846",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "昌永町"
+  },
+  "9200847": {
+    "zipcode": "9200847",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "堀川町"
+  },
+  "9200848": {
+    "zipcode": "9200848",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "京町"
+  },
+  "9200849": {
+    "zipcode": "9200849",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "堀川新町"
+  },
+  "9200851": {
+    "zipcode": "9200851",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "笠市町"
+  },
+  "9200852": {
+    "zipcode": "9200852",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "此花町"
+  },
+  "9200853": {
+    "zipcode": "9200853",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "本町"
+  },
+  "9200854": {
+    "zipcode": "9200854",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "安江町"
+  },
+  "9200855": {
+    "zipcode": "9200855",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "武蔵町"
+  },
+  "9200856": {
+    "zipcode": "9200856",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "昭和町"
+  },
+  "9200857": {
+    "zipcode": "9200857",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "折違町"
+  },
+  "9200858": {
+    "zipcode": "9200858",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "木ノ新保町"
+  },
+  "9200861": {
+    "zipcode": "9200861",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三社町"
+  },
+  "9200862": {
+    "zipcode": "9200862",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "芳斉"
+  },
+  "9200863": {
+    "zipcode": "9200863",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "玉川町"
+  },
+  "9200864": {
+    "zipcode": "9200864",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "高岡町"
+  },
+  "9200865": {
+    "zipcode": "9200865",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "長町"
+  },
+  "9200866": {
+    "zipcode": "9200866",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中央通町"
+  },
+  "9200867": {
+    "zipcode": "9200867",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "長土塀"
+  },
+  "9200868": {
+    "zipcode": "9200868",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "六枚町"
+  },
+  "9200869": {
+    "zipcode": "9200869",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上堤町"
+  },
+  "9200901": {
+    "zipcode": "9200901",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "彦三町"
+  },
+  "9200902": {
+    "zipcode": "9200902",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "尾張町"
+  },
+  "9200903": {
+    "zipcode": "9200903",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "博労町"
+  },
+  "9200904": {
+    "zipcode": "9200904",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下近江町"
+  },
+  "9200905": {
+    "zipcode": "9200905",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上近江町"
+  },
+  "9200906": {
+    "zipcode": "9200906",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "十間町"
+  },
+  "9200907": {
+    "zipcode": "9200907",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "青草町"
+  },
+  "9200908": {
+    "zipcode": "9200908",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "主計町"
+  },
+  "9200909": {
+    "zipcode": "9200909",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "袋町"
+  },
+  "9200910": {
+    "zipcode": "9200910",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下新町"
+  },
+  "9200911": {
+    "zipcode": "9200911",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "橋場町"
+  },
+  "9200912": {
+    "zipcode": "9200912",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大手町"
+  },
+  "9200913": {
+    "zipcode": "9200913",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西町三番丁"
+  },
+  "9200914": {
+    "zipcode": "9200914",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西町四番丁"
+  },
+  "9200915": {
+    "zipcode": "9200915",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西町藪ノ内通"
+  },
+  "9200916": {
+    "zipcode": "9200916",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下松原町"
+  },
+  "9200917": {
+    "zipcode": "9200917",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下堤町"
+  },
+  "9200918": {
+    "zipcode": "9200918",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "尾山町"
+  },
+  "9200919": {
+    "zipcode": "9200919",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南町"
+  },
+  "9200921": {
+    "zipcode": "9200921",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "材木町"
+  },
+  "9200922": {
+    "zipcode": "9200922",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "横山町"
+  },
+  "9200923": {
+    "zipcode": "9200923",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "桜町"
+  },
+  "9200924": {
+    "zipcode": "9200924",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田井町"
+  },
+  "9200925": {
+    "zipcode": "9200925",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "天神町"
+  },
+  "9200926": {
+    "zipcode": "9200926",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "暁町"
+  },
+  "9200927": {
+    "zipcode": "9200927",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "扇町"
+  },
+  "9200928": {
+    "zipcode": "9200928",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "並木町"
+  },
+  "9200931": {
+    "zipcode": "9200931",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "兼六元町"
+  },
+  "9200932": {
+    "zipcode": "9200932",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小将町"
+  },
+  "9200933": {
+    "zipcode": "9200933",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東兼六町"
+  },
+  "9200934": {
+    "zipcode": "9200934",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "宝町"
+  },
+  "9200935": {
+    "zipcode": "9200935",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "石引"
+  },
+  "9200936": {
+    "zipcode": "9200936",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "兼六町"
+  },
+  "9200937": {
+    "zipcode": "9200937",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "丸の内"
+  },
+  "9200938": {
+    "zipcode": "9200938",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "飛梅町"
+  },
+  "9200939": {
+    "zipcode": "9200939",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下石引町"
+  },
+  "9200941": {
+    "zipcode": "9200941",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "旭町"
+  },
+  "9200942": {
+    "zipcode": "9200942",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小立野"
+  },
+  "9200943": {
+    "zipcode": "9200943",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上野本町"
+  },
+  "9200944": {
+    "zipcode": "9200944",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三口新町"
+  },
+  "9200945": {
+    "zipcode": "9200945",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大桑新町"
+  },
+  "9200946": {
+    "zipcode": "9200946",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大桑町（カ、コ、サ乙、サ甲、ソ、タ、ツ甲、ナ、メ、ユ、ヨ、ラ、ワ、穴欠、穴淵欠、子、庚、葭島、下葭島欠）"
+  },
+  "9200947": {
+    "zipcode": "9200947",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "笠舞本町"
+  },
+  "9200951": {
+    "zipcode": "9200951",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "花里町"
+  },
+  "9200952": {
+    "zipcode": "9200952",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "錦町"
+  },
+  "9200953": {
+    "zipcode": "9200953",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "涌波"
+  },
+  "9200954": {
+    "zipcode": "9200954",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "涌波町"
+  },
+  "9200955": {
+    "zipcode": "9200955",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "土清水"
+  },
+  "9200956": {
+    "zipcode": "9200956",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "舘山町"
+  },
+  "9200957": {
+    "zipcode": "9200957",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "舘町"
+  },
+  "9200961": {
+    "zipcode": "9200961",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "香林坊"
+  },
+  "9200962": {
+    "zipcode": "9200962",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "広坂"
+  },
+  "9200963": {
+    "zipcode": "9200963",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "出羽町"
+  },
+  "9200964": {
+    "zipcode": "9200964",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "本多町"
+  },
+  "9200965": {
+    "zipcode": "9200965",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "笠舞"
+  },
+  "9200966": {
+    "zipcode": "9200966",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "城南"
+  },
+  "9200967": {
+    "zipcode": "9200967",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "菊川"
+  },
+  "9200968": {
+    "zipcode": "9200968",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "幸町"
+  },
+  "9200971": {
+    "zipcode": "9200971",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鱗町"
+  },
+  "9200972": {
+    "zipcode": "9200972",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "杉浦町"
+  },
+  "9200973": {
+    "zipcode": "9200973",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "枝町"
+  },
+  "9200974": {
+    "zipcode": "9200974",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "川岸町"
+  },
+  "9200975": {
+    "zipcode": "9200975",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中川除町"
+  },
+  "9200976": {
+    "zipcode": "9200976",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "十三間町"
+  },
+  "9200977": {
+    "zipcode": "9200977",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "十三間町中丁"
+  },
+  "9200978": {
+    "zipcode": "9200978",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "水溜町"
+  },
+  "9200981": {
+    "zipcode": "9200981",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "片町"
+  },
+  "9200982": {
+    "zipcode": "9200982",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大工町"
+  },
+  "9200983": {
+    "zipcode": "9200983",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "池田町一番丁"
+  },
+  "9200984": {
+    "zipcode": "9200984",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "池田町二番丁"
+  },
+  "9200985": {
+    "zipcode": "9200985",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "池田町三番丁"
+  },
+  "9200986": {
+    "zipcode": "9200986",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "池田町四番丁"
+  },
+  "9200987": {
+    "zipcode": "9200987",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "池田町立丁"
+  },
+  "9200988": {
+    "zipcode": "9200988",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "木倉町"
+  },
+  "9200991": {
+    "zipcode": "9200991",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下柿木畠"
+  },
+  "9200992": {
+    "zipcode": "9200992",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上柿木畠"
+  },
+  "9200993": {
+    "zipcode": "9200993",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下本多町"
+  },
+  "9200994": {
+    "zipcode": "9200994",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "茨木町"
+  },
+  "9200995": {
+    "zipcode": "9200995",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "新竪町"
+  },
+  "9200996": {
+    "zipcode": "9200996",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "油車"
+  },
+  "9200997": {
+    "zipcode": "9200997",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "竪町"
+  },
+  "9200998": {
+    "zipcode": "9200998",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "里見町"
+  },
+  "9200999": {
+    "zipcode": "9200999",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "柿木畠"
+  },
+  "9201101": {
+    "zipcode": "9201101",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "砂子坂町"
+  },
+  "9201102": {
+    "zipcode": "9201102",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二俣町"
+  },
+  "9201103": {
+    "zipcode": "9201103",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田島町"
+  },
+  "9201104": {
+    "zipcode": "9201104",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "清水町"
+  },
+  "9201105": {
+    "zipcode": "9201105",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "戸室新保"
+  },
+  "9201106": {
+    "zipcode": "9201106",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯谷原町"
+  },
+  "9201107": {
+    "zipcode": "9201107",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小豆沢町"
+  },
+  "9201108": {
+    "zipcode": "9201108",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "俵町"
+  },
+  "9201109": {
+    "zipcode": "9201109",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中山町"
+  },
+  "9201111": {
+    "zipcode": "9201111",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "菱池小原町"
+  },
+  "9201112": {
+    "zipcode": "9201112",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "折谷町"
+  },
+  "9201113": {
+    "zipcode": "9201113",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上山町"
+  },
+  "9201114": {
+    "zipcode": "9201114",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "古郷町"
+  },
+  "9201115": {
+    "zipcode": "9201115",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "石黒町"
+  },
+  "9201116": {
+    "zipcode": "9201116",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "板ケ谷町"
+  },
+  "9201117": {
+    "zipcode": "9201117",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "横谷町"
+  },
+  "9201118": {
+    "zipcode": "9201118",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯涌河内町"
+  },
+  "9201119": {
+    "zipcode": "9201119",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯涌曲町"
+  },
+  "9201121": {
+    "zipcode": "9201121",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東町"
+  },
+  "9201122": {
+    "zipcode": "9201122",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯涌荒屋町"
+  },
+  "9201123": {
+    "zipcode": "9201123",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯涌町"
+  },
+  "9201124": {
+    "zipcode": "9201124",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湯涌田子島町"
+  },
+  "9201125": {
+    "zipcode": "9201125",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上原町"
+  },
+  "9201126": {
+    "zipcode": "9201126",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "白見町"
+  },
+  "9201127": {
+    "zipcode": "9201127",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下谷町"
+  },
+  "9201128": {
+    "zipcode": "9201128",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "羽場町"
+  },
+  "9201129": {
+    "zipcode": "9201129",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "芝原町"
+  },
+  "9201131": {
+    "zipcode": "9201131",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東荒屋町"
+  },
+  "9201132": {
+    "zipcode": "9201132",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "朝加屋町"
+  },
+  "9201133": {
+    "zipcode": "9201133",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "藤六町"
+  },
+  "9201134": {
+    "zipcode": "9201134",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "東市瀬町"
+  },
+  "9201135": {
+    "zipcode": "9201135",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北袋町"
+  },
+  "9201136": {
+    "zipcode": "9201136",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西市瀬町"
+  },
+  "9201137": {
+    "zipcode": "9201137",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "七曲町"
+  },
+  "9201138": {
+    "zipcode": "9201138",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "茅原町"
+  },
+  "9201141": {
+    "zipcode": "9201141",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "平等本町"
+  },
+  "9201142": {
+    "zipcode": "9201142",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "蓮如町"
+  },
+  "9201143": {
+    "zipcode": "9201143",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "高池町"
+  },
+  "9201144": {
+    "zipcode": "9201144",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "袋板屋町"
+  },
+  "9201145": {
+    "zipcode": "9201145",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "浅川町"
+  },
+  "9201146": {
+    "zipcode": "9201146",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上中町"
+  },
+  "9201147": {
+    "zipcode": "9201147",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "銚子町"
+  },
+  "9201148": {
+    "zipcode": "9201148",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金川町"
+  },
+  "9201149": {
+    "zipcode": "9201149",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "打尾町"
+  },
+  "9201151": {
+    "zipcode": "9201151",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上町"
+  },
+  "9201152": {
+    "zipcode": "9201152",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上"
+  },
+  "9201153": {
+    "zipcode": "9201153",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上新町"
+  },
+  "9201154": {
+    "zipcode": "9201154",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "太陽が丘"
+  },
+  "9201155": {
+    "zipcode": "9201155",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上本町"
+  },
+  "9201156": {
+    "zipcode": "9201156",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上の里"
+  },
+  "9201157": {
+    "zipcode": "9201157",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "田上さくら"
+  },
+  "9201158": {
+    "zipcode": "9201158",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "朝霧台"
+  },
+  "9201161": {
+    "zipcode": "9201161",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鈴見台"
+  },
+  "9201162": {
+    "zipcode": "9201162",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鈴見町"
+  },
+  "9201163": {
+    "zipcode": "9201163",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "角間新町"
+  },
+  "9201164": {
+    "zipcode": "9201164",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "角間町"
+  },
+  "9201165": {
+    "zipcode": "9201165",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "若松町"
+  },
+  "9201166": {
+    "zipcode": "9201166",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上若松町"
+  },
+  "9201167": {
+    "zipcode": "9201167",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "もりの里"
+  },
+  "9201301": {
+    "zipcode": "9201301",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "永安町"
+  },
+  "9201302": {
+    "zipcode": "9201302",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "末町"
+  },
+  "9201303": {
+    "zipcode": "9201303",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "辰巳町"
+  },
+  "9201304": {
+    "zipcode": "9201304",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "上辰巳町"
+  },
+  "9201311": {
+    "zipcode": "9201311",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "菅池町"
+  },
+  "9201312": {
+    "zipcode": "9201312",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "瀬領町"
+  },
+  "9201313": {
+    "zipcode": "9201313",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "駒帰町"
+  },
+  "9201314": {
+    "zipcode": "9201314",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "娚杉町"
+  },
+  "9201315": {
+    "zipcode": "9201315",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "寺津町"
+  },
+  "9201316": {
+    "zipcode": "9201316",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "二又新町"
+  },
+  "9201321": {
+    "zipcode": "9201321",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "水淵町"
+  },
+  "9201322": {
+    "zipcode": "9201322",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "相合谷町"
+  },
+  "9201323": {
+    "zipcode": "9201323",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "下鴛原町"
+  },
+  "9201324": {
+    "zipcode": "9201324",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鴛原町"
+  },
+  "9201325": {
+    "zipcode": "9201325",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "城力町"
+  },
+  "9201326": {
+    "zipcode": "9201326",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "熊走町"
+  },
+  "9201331": {
+    "zipcode": "9201331",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "天池町"
+  },
+  "9201332": {
+    "zipcode": "9201332",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "樫見町"
+  },
+  "9201333": {
+    "zipcode": "9201333",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "国見町"
+  },
+  "9201334": {
+    "zipcode": "9201334",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "平町"
+  },
+  "9201335": {
+    "zipcode": "9201335",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大平沢町"
+  },
+  "9201336": {
+    "zipcode": "9201336",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "中戸町"
+  },
+  "9201337": {
+    "zipcode": "9201337",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "山川町"
+  },
+  "9201341": {
+    "zipcode": "9201341",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "別所町"
+  },
+  "9201342": {
+    "zipcode": "9201342",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "蓮花町"
+  },
+  "9201343": {
+    "zipcode": "9201343",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "小原町"
+  },
+  "9201344": {
+    "zipcode": "9201344",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "住吉町"
+  },
+  "9201345": {
+    "zipcode": "9201345",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "新保町"
+  },
+  "9201346": {
+    "zipcode": "9201346",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "三小牛町"
+  },
+  "9202101": {
+    "zipcode": "9202101",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "曽谷町"
+  },
+  "9202102": {
+    "zipcode": "9202102",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "坂尻町"
+  },
+  "9202103": {
+    "zipcode": "9202103",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "小柳町"
+  },
+  "9202104": {
+    "zipcode": "9202104",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "月橋町"
+  },
+  "9202111": {
+    "zipcode": "9202111",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来朝日町"
+  },
+  "9202112": {
+    "zipcode": "9202112",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来日吉町"
+  },
+  "9202113": {
+    "zipcode": "9202113",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "八幡町"
+  },
+  "9202114": {
+    "zipcode": "9202114",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "三宮町"
+  },
+  "9202115": {
+    "zipcode": "9202115",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "白山町"
+  },
+  "9202116": {
+    "zipcode": "9202116",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "中島町"
+  },
+  "9202121": {
+    "zipcode": "9202121",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来本町（１〜４丁目）"
+  },
+  "9202122": {
+    "zipcode": "9202122",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来知守町"
+  },
+  "9202123": {
+    "zipcode": "9202123",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来日詰町"
+  },
+  "9202124": {
+    "zipcode": "9202124",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来清沢町"
+  },
+  "9202125": {
+    "zipcode": "9202125",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来今町"
+  },
+  "9202126": {
+    "zipcode": "9202126",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来新町"
+  },
+  "9202127": {
+    "zipcode": "9202127",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来上東町"
+  },
+  "9202128": {
+    "zipcode": "9202128",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来下東町"
+  },
+  "9202129": {
+    "zipcode": "9202129",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来古町"
+  },
+  "9202131": {
+    "zipcode": "9202131",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "森島町"
+  },
+  "9202132": {
+    "zipcode": "9202132",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "明島町"
+  },
+  "9202133": {
+    "zipcode": "9202133",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来大国町"
+  },
+  "9202134": {
+    "zipcode": "9202134",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来水戸町（２〜４丁目）"
+  },
+  "9202141": {
+    "zipcode": "9202141",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "安養寺町"
+  },
+  "9202142": {
+    "zipcode": "9202142",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "深瀬新町"
+  },
+  "9202143": {
+    "zipcode": "9202143",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "七原町"
+  },
+  "9202144": {
+    "zipcode": "9202144",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "大竹町"
+  },
+  "9202145": {
+    "zipcode": "9202145",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "明法島町"
+  },
+  "9202146": {
+    "zipcode": "9202146",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "日向町"
+  },
+  "9202147": {
+    "zipcode": "9202147",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "中ノ郷町"
+  },
+  "9202148": {
+    "zipcode": "9202148",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "行町"
+  },
+  "9202151": {
+    "zipcode": "9202151",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "荒屋町"
+  },
+  "9202152": {
+    "zipcode": "9202152",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "明光（１〜４丁目）"
+  },
+  "9202153": {
+    "zipcode": "9202153",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "日御子町"
+  },
+  "9202154": {
+    "zipcode": "9202154",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "井口町"
+  },
+  "9202155": {
+    "zipcode": "9202155",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "知気寺町"
+  },
+  "9202161": {
+    "zipcode": "9202161",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "熱野町"
+  },
+  "9202162": {
+    "zipcode": "9202162",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "道法寺町"
+  },
+  "9202163": {
+    "zipcode": "9202163",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "柴木町"
+  },
+  "9202164": {
+    "zipcode": "9202164",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "柴木（２丁目）"
+  },
+  "9202165": {
+    "zipcode": "9202165",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "富光寺町"
+  },
+  "9202166": {
+    "zipcode": "9202166",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鶴来桑島町"
+  },
+  "9202167": {
+    "zipcode": "9202167",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "部入道町"
+  },
+  "9202168": {
+    "zipcode": "9202168",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "陽羽里"
+  },
+  "9202301": {
+    "zipcode": "9202301",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町口直海"
+  },
+  "9202302": {
+    "zipcode": "9202302",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町ふじが丘"
+  },
+  "9202303": {
+    "zipcode": "9202303",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町福岡"
+  },
+  "9202304": {
+    "zipcode": "9202304",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町きりの里"
+  },
+  "9202305": {
+    "zipcode": "9202305",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町江津"
+  },
+  "9202306": {
+    "zipcode": "9202306",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町吉岡"
+  },
+  "9202311": {
+    "zipcode": "9202311",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町中直海"
+  },
+  "9202312": {
+    "zipcode": "9202312",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町奥池"
+  },
+  "9202313": {
+    "zipcode": "9202313",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町久保"
+  },
+  "9202314": {
+    "zipcode": "9202314",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町吹上"
+  },
+  "9202315": {
+    "zipcode": "9202315",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町板尾"
+  },
+  "9202316": {
+    "zipcode": "9202316",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町金間"
+  },
+  "9202317": {
+    "zipcode": "9202317",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町下折"
+  },
+  "9202318": {
+    "zipcode": "9202318",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河内町内尾"
+  },
+  "9202321": {
+    "zipcode": "9202321",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "吉野"
+  },
+  "9202322": {
+    "zipcode": "9202322",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "佐良"
+  },
+  "9202323": {
+    "zipcode": "9202323",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "瀬波"
+  },
+  "9202324": {
+    "zipcode": "9202324",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "中宮"
+  },
+  "9202325": {
+    "zipcode": "9202325",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "木滑新"
+  },
+  "9202326": {
+    "zipcode": "9202326",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "木滑"
+  },
+  "9202327": {
+    "zipcode": "9202327",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "市原"
+  },
+  "9202331": {
+    "zipcode": "9202331",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "瀬戸"
+  },
+  "9202332": {
+    "zipcode": "9202332",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "荒谷"
+  },
+  "9202333": {
+    "zipcode": "9202333",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "尾添"
+  },
+  "9202334": {
+    "zipcode": "9202334",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "深瀬"
+  },
+  "9202335": {
+    "zipcode": "9202335",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "女原"
+  },
+  "9202336": {
+    "zipcode": "9202336",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "東二口"
+  },
+  "9202337": {
+    "zipcode": "9202337",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "五味島"
+  },
+  "9202338": {
+    "zipcode": "9202338",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "釜谷"
+  },
+  "9202339": {
+    "zipcode": "9202339",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "鴇ケ谷"
+  },
+  "9202341": {
+    "zipcode": "9202341",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "釜清水町"
+  },
+  "9202342": {
+    "zipcode": "9202342",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "下吉谷町"
+  },
+  "9202343": {
+    "zipcode": "9202343",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "西佐良町"
+  },
+  "9202344": {
+    "zipcode": "9202344",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "上吉谷町"
+  },
+  "9202345": {
+    "zipcode": "9202345",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "三ツ屋野町"
+  },
+  "9202346": {
+    "zipcode": "9202346",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河原山町"
+  },
+  "9202347": {
+    "zipcode": "9202347",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "仏師ケ野町"
+  },
+  "9202351": {
+    "zipcode": "9202351",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "柳原町"
+  },
+  "9202352": {
+    "zipcode": "9202352",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "野地町"
+  },
+  "9202353": {
+    "zipcode": "9202353",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "左礫町"
+  },
+  "9202354": {
+    "zipcode": "9202354",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "三ツ瀬町"
+  },
+  "9202355": {
+    "zipcode": "9202355",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "数瀬町"
+  },
+  "9202356": {
+    "zipcode": "9202356",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "阿手町"
+  },
+  "9202357": {
+    "zipcode": "9202357",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "五十谷町"
+  },
+  "9202361": {
+    "zipcode": "9202361",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "三坂町"
+  },
+  "9202362": {
+    "zipcode": "9202362",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "別宮町"
+  },
+  "9202363": {
+    "zipcode": "9202363",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "別宮出町"
+  },
+  "9202364": {
+    "zipcode": "9202364",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "杉森町"
+  },
+  "9202365": {
+    "zipcode": "9202365",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "神子清水町"
+  },
+  "9202366": {
+    "zipcode": "9202366",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "渡津町"
+  },
+  "9202367": {
+    "zipcode": "9202367",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "相滝町"
+  },
+  "9202368": {
+    "zipcode": "9202368",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "出合町"
+  },
+  "9202371": {
+    "zipcode": "9202371",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "広瀬町"
+  },
+  "9202372": {
+    "zipcode": "9202372",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "瀬木野町"
+  },
+  "9202373": {
+    "zipcode": "9202373",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "河合町"
+  },
+  "9202374": {
+    "zipcode": "9202374",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "下野町"
+  },
+  "9202375": {
+    "zipcode": "9202375",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "上野町"
+  },
+  "9202376": {
+    "zipcode": "9202376",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "若原町"
+  },
+  "9202501": {
+    "zipcode": "9202501",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "白峰"
+  },
+  "9202502": {
+    "zipcode": "9202502",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "桑島"
+  },
+  "9202503": {
+    "zipcode": "9202503",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "白山市",
+    "town": "下田原"
+  },
+  "9203101": {
+    "zipcode": "9203101",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "才田町"
+  },
+  "9203102": {
+    "zipcode": "9203102",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "忠縄町"
+  },
+  "9203103": {
+    "zipcode": "9203103",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湖陽"
+  },
+  "9203104": {
+    "zipcode": "9203104",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "八田町東"
+  },
+  "9203105": {
+    "zipcode": "9203105",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "八田町西"
+  },
+  "9203106": {
+    "zipcode": "9203106",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "八田町"
+  },
+  "9203107": {
+    "zipcode": "9203107",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "湖南町"
+  },
+  "9203111": {
+    "zipcode": "9203111",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "梅田町"
+  },
+  "9203112": {
+    "zipcode": "9203112",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "観法寺町"
+  },
+  "9203113": {
+    "zipcode": "9203113",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "塚崎町"
+  },
+  "9203114": {
+    "zipcode": "9203114",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "吉原町"
+  },
+  "9203115": {
+    "zipcode": "9203115",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "弥勒町"
+  },
+  "9203116": {
+    "zipcode": "9203116",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "南森本町"
+  },
+  "9203117": {
+    "zipcode": "9203117",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "北森本町"
+  },
+  "9203121": {
+    "zipcode": "9203121",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大場町"
+  },
+  "9203122": {
+    "zipcode": "9203122",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "福久町"
+  },
+  "9203123": {
+    "zipcode": "9203123",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "福久東"
+  },
+  "9203124": {
+    "zipcode": "9203124",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "荒屋"
+  },
+  "9203125": {
+    "zipcode": "9203125",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "荒屋町"
+  },
+  "9203126": {
+    "zipcode": "9203126",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "福久"
+  },
+  "9203131": {
+    "zipcode": "9203131",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "百坂町"
+  },
+  "9203132": {
+    "zipcode": "9203132",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "法光寺町"
+  },
+  "9203133": {
+    "zipcode": "9203133",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "柳橋町"
+  },
+  "9203134": {
+    "zipcode": "9203134",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "金市町"
+  },
+  "9203135": {
+    "zipcode": "9203135",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "横枕町"
+  },
+  "9208201": {
+    "zipcode": "9208201",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鞍月東"
+  },
+  "9208202": {
+    "zipcode": "9208202",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "西都"
+  },
+  "9208203": {
+    "zipcode": "9208203",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "鞍月"
+  },
+  "9208204": {
+    "zipcode": "9208204",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "戸水"
+  },
+  "9208205": {
+    "zipcode": "9208205",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大友"
+  },
+  "9208213": {
+    "zipcode": "9208213",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江東"
+  },
+  "9208214": {
+    "zipcode": "9208214",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江南"
+  },
+  "9208215": {
+    "zipcode": "9208215",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江西"
+  },
+  "9208216": {
+    "zipcode": "9208216",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江町"
+  },
+  "9208217": {
+    "zipcode": "9208217",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "近岡町"
+  },
+  "9208218": {
+    "zipcode": "9208218",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "直江北"
+  },
+  "9208221": {
+    "zipcode": "9208221",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "御供田町"
+  },
+  "9208222": {
+    "zipcode": "9208222",
+    "prefectureCode": "17",
+    "prefectureNumber": 17,
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "town": "大友町"
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "5700000": {
+    "zipcode": "5700000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "以下に掲載がない場合"
+  },
+  "5700001": {
+    "zipcode": "5700001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "佐太西町"
+  },
+  "5700002": {
+    "zipcode": "5700002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "佐太中町"
+  },
+  "5700003": {
+    "zipcode": "5700003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大日町"
+  },
+  "5700004": {
+    "zipcode": "5700004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "淀江町"
+  },
+  "5700005": {
+    "zipcode": "5700005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "八雲中町"
+  },
+  "5700006": {
+    "zipcode": "5700006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "八雲西町"
+  },
+  "5700007": {
+    "zipcode": "5700007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "下島町"
+  },
+  "5700008": {
+    "zipcode": "5700008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "八雲北町"
+  },
+  "5700009": {
+    "zipcode": "5700009",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大庭町"
+  },
+  "5700011": {
+    "zipcode": "5700011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "金田町"
+  },
+  "5700012": {
+    "zipcode": "5700012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大久保町"
+  },
+  "5700013": {
+    "zipcode": "5700013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "東町"
+  },
+  "5700014": {
+    "zipcode": "5700014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "藤田町"
+  },
+  "5700015": {
+    "zipcode": "5700015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "梶町"
+  },
+  "5700016": {
+    "zipcode": "5700016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大日東町"
+  },
+  "5700017": {
+    "zipcode": "5700017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "佐太東町"
+  },
+  "5700021": {
+    "zipcode": "5700021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "八雲東町"
+  },
+  "5700022": {
+    "zipcode": "5700022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "暁町"
+  },
+  "5700023": {
+    "zipcode": "5700023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "日向町"
+  },
+  "5700024": {
+    "zipcode": "5700024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "神木町"
+  },
+  "5700025": {
+    "zipcode": "5700025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "竜田通"
+  },
+  "5700026": {
+    "zipcode": "5700026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "松月町"
+  },
+  "5700027": {
+    "zipcode": "5700027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "桜町"
+  },
+  "5700028": {
+    "zipcode": "5700028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "本町"
+  },
+  "5700029": {
+    "zipcode": "5700029",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "来迎町"
+  },
+  "5700031": {
+    "zipcode": "5700031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "橋波東之町"
+  },
+  "5700032": {
+    "zipcode": "5700032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "菊水通"
+  },
+  "5700033": {
+    "zipcode": "5700033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大宮通"
+  },
+  "5700034": {
+    "zipcode": "5700034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "西郷通"
+  },
+  "5700035": {
+    "zipcode": "5700035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "東光町"
+  },
+  "5700036": {
+    "zipcode": "5700036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大枝東町"
+  },
+  "5700037": {
+    "zipcode": "5700037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大枝北町"
+  },
+  "5700038": {
+    "zipcode": "5700038",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "河原町"
+  },
+  "5700039": {
+    "zipcode": "5700039",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "橋波西之町"
+  },
+  "5700041": {
+    "zipcode": "5700041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "東郷通"
+  },
+  "5700042": {
+    "zipcode": "5700042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "寺方錦通"
+  },
+  "5700043": {
+    "zipcode": "5700043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "南寺方東通"
+  },
+  "5700044": {
+    "zipcode": "5700044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "南寺方南通"
+  },
+  "5700045": {
+    "zipcode": "5700045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "南寺方中通"
+  },
+  "5700046": {
+    "zipcode": "5700046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "南寺方北通"
+  },
+  "5700047": {
+    "zipcode": "5700047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "寺方元町"
+  },
+  "5700048": {
+    "zipcode": "5700048",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "寺方本通"
+  },
+  "5700051": {
+    "zipcode": "5700051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大枝南町"
+  },
+  "5700052": {
+    "zipcode": "5700052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "松下町"
+  },
+  "5700053": {
+    "zipcode": "5700053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "高瀬町"
+  },
+  "5700054": {
+    "zipcode": "5700054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大枝西町"
+  },
+  "5700055": {
+    "zipcode": "5700055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "春日町"
+  },
+  "5700056": {
+    "zipcode": "5700056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "寺内町"
+  },
+  "5700061": {
+    "zipcode": "5700061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "小春町"
+  },
+  "5700062": {
+    "zipcode": "5700062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "馬場町"
+  },
+  "5700063": {
+    "zipcode": "5700063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "大門町"
+  },
+  "5700064": {
+    "zipcode": "5700064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "長池町"
+  },
+  "5700065": {
+    "zipcode": "5700065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "滝井元町"
+  },
+  "5700066": {
+    "zipcode": "5700066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "梅園町"
+  },
+  "5700071": {
+    "zipcode": "5700071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "祝町"
+  },
+  "5700072": {
+    "zipcode": "5700072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "早苗町"
+  },
+  "5700073": {
+    "zipcode": "5700073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "土居町"
+  },
+  "5700074": {
+    "zipcode": "5700074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "文園町"
+  },
+  "5700075": {
+    "zipcode": "5700075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "紅屋町"
+  },
+  "5700076": {
+    "zipcode": "5700076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "滝井西町"
+  },
+  "5700077": {
+    "zipcode": "5700077",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "寿町"
+  },
+  "5700078": {
+    "zipcode": "5700078",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "平代町"
+  },
+  "5700079": {
+    "zipcode": "5700079",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "金下町"
+  },
+  "5700081": {
+    "zipcode": "5700081",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "日吉町"
+  },
+  "5700082": {
+    "zipcode": "5700082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "豊秀町"
+  },
+  "5700083": {
+    "zipcode": "5700083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "京阪本通"
+  },
+  "5700084": {
+    "zipcode": "5700084",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "緑町"
+  },
+  "5700085": {
+    "zipcode": "5700085",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "松町"
+  },
+  "5700086": {
+    "zipcode": "5700086",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "竹町"
+  },
+  "5700087": {
+    "zipcode": "5700087",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "梅町"
+  },
+  "5700091": {
+    "zipcode": "5700091",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "北斗町"
+  },
+  "5700092": {
+    "zipcode": "5700092",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "日光町"
+  },
+  "5700093": {
+    "zipcode": "5700093",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "浜町"
+  },
+  "5700094": {
+    "zipcode": "5700094",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "京阪北本通"
+  },
+  "5700095": {
+    "zipcode": "5700095",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "八島町"
+  },
+  "5700096": {
+    "zipcode": "5700096",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "外島町"
+  },
+  "5700097": {
+    "zipcode": "5700097",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "桃町"
+  },
+  "5700098": {
+    "zipcode": "5700098",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "守口市",
+    "town": "新橋寺町"
+  }
+}

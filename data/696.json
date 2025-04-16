@@ -1,0 +1,578 @@
+{
+  "6960000": {
+    "zipcode": "6960000",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "以下に掲載がない場合"
+  },
+  "6960001": {
+    "zipcode": "6960001",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "川本"
+  },
+  "6960002": {
+    "zipcode": "6960002",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "都賀行"
+  },
+  "6960003": {
+    "zipcode": "6960003",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "因原"
+  },
+  "6960004": {
+    "zipcode": "6960004",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "川下"
+  },
+  "6960005": {
+    "zipcode": "6960005",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "谷戸"
+  },
+  "6960006": {
+    "zipcode": "6960006",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "久座仁"
+  },
+  "6960007": {
+    "zipcode": "6960007",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "多田"
+  },
+  "6960011": {
+    "zipcode": "6960011",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "川内"
+  },
+  "6960012": {
+    "zipcode": "6960012",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "小谷"
+  },
+  "6960013": {
+    "zipcode": "6960013",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "馬野原"
+  },
+  "6960100": {
+    "zipcode": "6960100",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "以下に掲載がない場合"
+  },
+  "6960101": {
+    "zipcode": "6960101",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "井原"
+  },
+  "6960102": {
+    "zipcode": "6960102",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "中野"
+  },
+  "6960103": {
+    "zipcode": "6960103",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "矢上"
+  },
+  "6960104": {
+    "zipcode": "6960104",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "日和"
+  },
+  "6960131": {
+    "zipcode": "6960131",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "高水"
+  },
+  "6960221": {
+    "zipcode": "6960221",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "鱒渕"
+  },
+  "6960222": {
+    "zipcode": "6960222",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "下田所"
+  },
+  "6960223": {
+    "zipcode": "6960223",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "下亀谷"
+  },
+  "6960224": {
+    "zipcode": "6960224",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "上亀谷"
+  },
+  "6960225": {
+    "zipcode": "6960225",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "上田所"
+  },
+  "6960311": {
+    "zipcode": "6960311",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "三日市"
+  },
+  "6960312": {
+    "zipcode": "6960312",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "出羽"
+  },
+  "6960313": {
+    "zipcode": "6960313",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "山田"
+  },
+  "6960314": {
+    "zipcode": "6960314",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "岩屋"
+  },
+  "6960315": {
+    "zipcode": "6960315",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "大林"
+  },
+  "6960316": {
+    "zipcode": "6960316",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "久喜"
+  },
+  "6960317": {
+    "zipcode": "6960317",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "淀原"
+  },
+  "6960401": {
+    "zipcode": "6960401",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "布施"
+  },
+  "6960402": {
+    "zipcode": "6960402",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "伏谷"
+  },
+  "6960403": {
+    "zipcode": "6960403",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "和田"
+  },
+  "6960404": {
+    "zipcode": "6960404",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "原村"
+  },
+  "6960405": {
+    "zipcode": "6960405",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "上原"
+  },
+  "6960406": {
+    "zipcode": "6960406",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "高見"
+  },
+  "6960407": {
+    "zipcode": "6960407",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "八色石"
+  },
+  "6960501": {
+    "zipcode": "6960501",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "阿須那"
+  },
+  "6960502": {
+    "zipcode": "6960502",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "木須田"
+  },
+  "6960503": {
+    "zipcode": "6960503",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "宇都井"
+  },
+  "6960504": {
+    "zipcode": "6960504",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "今井"
+  },
+  "6960505": {
+    "zipcode": "6960505",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "戸河内"
+  },
+  "6960506": {
+    "zipcode": "6960506",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "雪田"
+  },
+  "6960601": {
+    "zipcode": "6960601",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "上田"
+  },
+  "6960602": {
+    "zipcode": "6960602",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "上口羽"
+  },
+  "6960603": {
+    "zipcode": "6960603",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡邑南町",
+    "town": "下口羽"
+  },
+  "6960701": {
+    "zipcode": "6960701",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "潮村"
+  },
+  "6960702": {
+    "zipcode": "6960702",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "上野"
+  },
+  "6960703": {
+    "zipcode": "6960703",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "都賀西"
+  },
+  "6960704": {
+    "zipcode": "6960704",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "都賀本郷"
+  },
+  "6960705": {
+    "zipcode": "6960705",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "都賀行"
+  },
+  "6960706": {
+    "zipcode": "6960706",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "長藤"
+  },
+  "6960711": {
+    "zipcode": "6960711",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "宮内"
+  },
+  "6960712": {
+    "zipcode": "6960712",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "比敷"
+  },
+  "6960713": {
+    "zipcode": "6960713",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "村之郷"
+  },
+  "6961131": {
+    "zipcode": "6961131",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "別府"
+  },
+  "6961132": {
+    "zipcode": "6961132",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "志君"
+  },
+  "6961133": {
+    "zipcode": "6961133",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "小林"
+  },
+  "6961134": {
+    "zipcode": "6961134",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "惣森"
+  },
+  "6961135": {
+    "zipcode": "6961135",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "小松地"
+  },
+  "6961136": {
+    "zipcode": "6961136",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "内田"
+  },
+  "6961137": {
+    "zipcode": "6961137",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "櫨谷"
+  },
+  "6961141": {
+    "zipcode": "6961141",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "京覧原"
+  },
+  "6961142": {
+    "zipcode": "6961142",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "久喜原"
+  },
+  "6961143": {
+    "zipcode": "6961143",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "地頭所"
+  },
+  "6961144": {
+    "zipcode": "6961144",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "小谷"
+  },
+  "6961145": {
+    "zipcode": "6961145",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡美郷町",
+    "town": "港"
+  },
+  "6961221": {
+    "zipcode": "6961221",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "北佐木"
+  },
+  "6961222": {
+    "zipcode": "6961222",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "湯谷"
+  },
+  "6961223": {
+    "zipcode": "6961223",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "三俣"
+  },
+  "6961224": {
+    "zipcode": "6961224",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "三原"
+  },
+  "6961225": {
+    "zipcode": "6961225",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "南佐木"
+  },
+  "6961226": {
+    "zipcode": "6961226",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "邑智郡川本町",
+    "town": "田窪"
+  }
+}

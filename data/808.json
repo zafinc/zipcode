@@ -1,0 +1,698 @@
+{
+  "8080000": {
+    "zipcode": "8080000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "以下に掲載がない場合"
+  },
+  "8080001": {
+    "zipcode": "8080001",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小石本村町"
+  },
+  "8080002": {
+    "zipcode": "8080002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "向洋町"
+  },
+  "8080003": {
+    "zipcode": "8080003",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "赤崎町"
+  },
+  "8080004": {
+    "zipcode": "8080004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "西小石町"
+  },
+  "8080005": {
+    "zipcode": "8080005",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "下原町"
+  },
+  "8080006": {
+    "zipcode": "8080006",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "宮前町"
+  },
+  "8080007": {
+    "zipcode": "8080007",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小石"
+  },
+  "8080008": {
+    "zipcode": "8080008",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小竹（１〜１９５３、３００６〜３００８番地、相川、鬼ケ坂、唐木、椿、脇ノ浦）"
+  },
+  "8080011": {
+    "zipcode": "8080011",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "響南町"
+  },
+  "8080012": {
+    "zipcode": "8080012",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "深町"
+  },
+  "8080013": {
+    "zipcode": "8080013",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "波打町"
+  },
+  "8080014": {
+    "zipcode": "8080014",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "栄盛川町"
+  },
+  "8080015": {
+    "zipcode": "8080015",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "上原町"
+  },
+  "8080016": {
+    "zipcode": "8080016",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "原町"
+  },
+  "8080017": {
+    "zipcode": "8080017",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "東小石町"
+  },
+  "8080021": {
+    "zipcode": "8080021",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "響町"
+  },
+  "8080022": {
+    "zipcode": "8080022",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "安瀬"
+  },
+  "8080023": {
+    "zipcode": "8080023",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "北浜"
+  },
+  "8080024": {
+    "zipcode": "8080024",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "浜町"
+  },
+  "8080025": {
+    "zipcode": "8080025",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "中川町"
+  },
+  "8080026": {
+    "zipcode": "8080026",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "桜町"
+  },
+  "8080027": {
+    "zipcode": "8080027",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "北湊町"
+  },
+  "8080031": {
+    "zipcode": "8080031",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "西園町"
+  },
+  "8080032": {
+    "zipcode": "8080032",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "老松"
+  },
+  "8080033": {
+    "zipcode": "8080033",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "大井戸町"
+  },
+  "8080034": {
+    "zipcode": "8080034",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "本町"
+  },
+  "8080035": {
+    "zipcode": "8080035",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "白山"
+  },
+  "8080036": {
+    "zipcode": "8080036",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "山手町"
+  },
+  "8080041": {
+    "zipcode": "8080041",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "迫田町"
+  },
+  "8080042": {
+    "zipcode": "8080042",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "棚田町"
+  },
+  "8080043": {
+    "zipcode": "8080043",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "西畑町"
+  },
+  "8080044": {
+    "zipcode": "8080044",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "東畑町"
+  },
+  "8080045": {
+    "zipcode": "8080045",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "山ノ堂町"
+  },
+  "8080046": {
+    "zipcode": "8080046",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小糸町"
+  },
+  "8080047": {
+    "zipcode": "8080047",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "中畑町"
+  },
+  "8080051": {
+    "zipcode": "8080051",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "大谷町"
+  },
+  "8080052": {
+    "zipcode": "8080052",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "新大谷町"
+  },
+  "8080053": {
+    "zipcode": "8080053",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "修多羅"
+  },
+  "8080054": {
+    "zipcode": "8080054",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "久岐の浜"
+  },
+  "8080055": {
+    "zipcode": "8080055",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "畑谷町"
+  },
+  "8080061": {
+    "zipcode": "8080061",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "大池町"
+  },
+  "8080062": {
+    "zipcode": "8080062",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "古前"
+  },
+  "8080063": {
+    "zipcode": "8080063",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "和田町"
+  },
+  "8080064": {
+    "zipcode": "8080064",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "宮丸"
+  },
+  "8080065": {
+    "zipcode": "8080065",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "藤木"
+  },
+  "8080066": {
+    "zipcode": "8080066",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "くきのうみ中央"
+  },
+  "8080071": {
+    "zipcode": "8080071",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "今光"
+  },
+  "8080072": {
+    "zipcode": "8080072",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "百合野町"
+  },
+  "8080073": {
+    "zipcode": "8080073",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "赤島町"
+  },
+  "8080074": {
+    "zipcode": "8080074",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "藤ノ木"
+  },
+  "8080075": {
+    "zipcode": "8080075",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "赤岩町（その他）"
+  },
+  "8080076": {
+    "zipcode": "8080076",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "童子丸"
+  },
+  "8080077": {
+    "zipcode": "8080077",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "用勺町"
+  },
+  "8080101": {
+    "zipcode": "8080101",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "西天神町"
+  },
+  "8080102": {
+    "zipcode": "8080102",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "東二島"
+  },
+  "8080103": {
+    "zipcode": "8080103",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "二島"
+  },
+  "8080104": {
+    "zipcode": "8080104",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "畠田"
+  },
+  "8080105": {
+    "zipcode": "8080105",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "鴨生田"
+  },
+  "8080106": {
+    "zipcode": "8080106",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "片山"
+  },
+  "8080108": {
+    "zipcode": "8080108",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小竹（その他）"
+  },
+  "8080109": {
+    "zipcode": "8080109",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "南二島"
+  },
+  "8080111": {
+    "zipcode": "8080111",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "柳崎町"
+  },
+  "8080112": {
+    "zipcode": "8080112",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "頓田"
+  },
+  "8080113": {
+    "zipcode": "8080113",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "払川"
+  },
+  "8080121": {
+    "zipcode": "8080121",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "竹並"
+  },
+  "8080122": {
+    "zipcode": "8080122",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "蜑住"
+  },
+  "8080123": {
+    "zipcode": "8080123",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "有毛"
+  },
+  "8080124": {
+    "zipcode": "8080124",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "安屋"
+  },
+  "8080131": {
+    "zipcode": "8080131",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "塩屋"
+  },
+  "8080132": {
+    "zipcode": "8080132",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小敷"
+  },
+  "8080133": {
+    "zipcode": "8080133",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "大鳥居"
+  },
+  "8080134": {
+    "zipcode": "8080134",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "乙丸"
+  },
+  "8080135": {
+    "zipcode": "8080135",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "ひびきの"
+  },
+  "8080136": {
+    "zipcode": "8080136",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "花野路"
+  },
+  "8080137": {
+    "zipcode": "8080137",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "ひびきの南"
+  },
+  "8080138": {
+    "zipcode": "8080138",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "ひびきの北"
+  },
+  "8080139": {
+    "zipcode": "8080139",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "小敷ひびきの"
+  },
+  "8080141": {
+    "zipcode": "8080141",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "青葉台東"
+  },
+  "8080142": {
+    "zipcode": "8080142",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "青葉台南"
+  },
+  "8080143": {
+    "zipcode": "8080143",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "青葉台西"
+  },
+  "8080144": {
+    "zipcode": "8080144",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "高須東"
+  },
+  "8080145": {
+    "zipcode": "8080145",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "高須南"
+  },
+  "8080146": {
+    "zipcode": "8080146",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "高須西"
+  },
+  "8080147": {
+    "zipcode": "8080147",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "高須北"
+  },
+  "8080148": {
+    "zipcode": "8080148",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "高須"
+  },
+  "8080175": {
+    "zipcode": "8080175",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市若松区",
+    "town": "赤岩町（１０〜１２番地）"
+  }
+}

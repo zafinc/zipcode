@@ -1,0 +1,682 @@
+{
+  "6930000": {
+    "zipcode": "6930000",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "以下に掲載がない場合"
+  },
+  "6930001": {
+    "zipcode": "6930001",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "今市町"
+  },
+  "6930002": {
+    "zipcode": "6930002",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "今市町北本町"
+  },
+  "6930003": {
+    "zipcode": "6930003",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "今市町南本町"
+  },
+  "6930004": {
+    "zipcode": "6930004",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "渡橋町"
+  },
+  "6930005": {
+    "zipcode": "6930005",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "天神町"
+  },
+  "6930006": {
+    "zipcode": "6930006",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "白枝町"
+  },
+  "6930007": {
+    "zipcode": "6930007",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "駅北町"
+  },
+  "6930008": {
+    "zipcode": "6930008",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "駅南町"
+  },
+  "6930011": {
+    "zipcode": "6930011",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "大津町"
+  },
+  "6930012": {
+    "zipcode": "6930012",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "大津新崎町"
+  },
+  "6930013": {
+    "zipcode": "6930013",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "荻杼町"
+  },
+  "6930014": {
+    "zipcode": "6930014",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "武志町"
+  },
+  "6930015": {
+    "zipcode": "6930015",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "大津朝倉"
+  },
+  "6930017": {
+    "zipcode": "6930017",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "枝大津町"
+  },
+  "6930021": {
+    "zipcode": "6930021",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶町"
+  },
+  "6930022": {
+    "zipcode": "6930022",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "上塩冶町"
+  },
+  "6930023": {
+    "zipcode": "6930023",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶有原町"
+  },
+  "6930024": {
+    "zipcode": "6930024",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶神前"
+  },
+  "6930025": {
+    "zipcode": "6930025",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶町南町"
+  },
+  "6930026": {
+    "zipcode": "6930026",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶原町"
+  },
+  "6930027": {
+    "zipcode": "6930027",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "医大南町"
+  },
+  "6930028": {
+    "zipcode": "6930028",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "塩冶善行町"
+  },
+  "6930029": {
+    "zipcode": "6930029",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "築山新町"
+  },
+  "6930031": {
+    "zipcode": "6930031",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "古志町"
+  },
+  "6930032": {
+    "zipcode": "6930032",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "下古志町"
+  },
+  "6930033": {
+    "zipcode": "6930033",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "知井宮町"
+  },
+  "6930034": {
+    "zipcode": "6930034",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "神門町"
+  },
+  "6930035": {
+    "zipcode": "6930035",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "芦渡町"
+  },
+  "6930036": {
+    "zipcode": "6930036",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "平成町"
+  },
+  "6930037": {
+    "zipcode": "6930037",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "西新町"
+  },
+  "6930041": {
+    "zipcode": "6930041",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "西園町"
+  },
+  "6930042": {
+    "zipcode": "6930042",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "外園町"
+  },
+  "6930043": {
+    "zipcode": "6930043",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "長浜町"
+  },
+  "6930044": {
+    "zipcode": "6930044",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "荒茅町"
+  },
+  "6930045": {
+    "zipcode": "6930045",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "東園町"
+  },
+  "6930046": {
+    "zipcode": "6930046",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "下横町"
+  },
+  "6930051": {
+    "zipcode": "6930051",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "小山町"
+  },
+  "6930052": {
+    "zipcode": "6930052",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "松寄下町"
+  },
+  "6930053": {
+    "zipcode": "6930053",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "高松町"
+  },
+  "6930054": {
+    "zipcode": "6930054",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "浜町"
+  },
+  "6930055": {
+    "zipcode": "6930055",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "八島町"
+  },
+  "6930056": {
+    "zipcode": "6930056",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "江田町"
+  },
+  "6930057": {
+    "zipcode": "6930057",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "常松町"
+  },
+  "6930058": {
+    "zipcode": "6930058",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "矢野町"
+  },
+  "6930061": {
+    "zipcode": "6930061",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "姫原町"
+  },
+  "6930062": {
+    "zipcode": "6930062",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "中野町"
+  },
+  "6930063": {
+    "zipcode": "6930063",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "大塚町"
+  },
+  "6930064": {
+    "zipcode": "6930064",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "里方町"
+  },
+  "6930065": {
+    "zipcode": "6930065",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "平野町"
+  },
+  "6930066": {
+    "zipcode": "6930066",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "高岡町"
+  },
+  "6930067": {
+    "zipcode": "6930067",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "矢尾町"
+  },
+  "6930068": {
+    "zipcode": "6930068",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "姫原（１〜４丁目）"
+  },
+  "6930071": {
+    "zipcode": "6930071",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "稲岡町"
+  },
+  "6930072": {
+    "zipcode": "6930072",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "日下町"
+  },
+  "6930073": {
+    "zipcode": "6930073",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "西林木町"
+  },
+  "6930074": {
+    "zipcode": "6930074",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "東林木町"
+  },
+  "6930081": {
+    "zipcode": "6930081",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "中野美保北"
+  },
+  "6930082": {
+    "zipcode": "6930082",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "中野美保南"
+  },
+  "6930101": {
+    "zipcode": "6930101",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "上島町"
+  },
+  "6930102": {
+    "zipcode": "6930102",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "西谷町"
+  },
+  "6930103": {
+    "zipcode": "6930103",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "野尻町"
+  },
+  "6930104": {
+    "zipcode": "6930104",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "稗原町"
+  },
+  "6930105": {
+    "zipcode": "6930105",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "宇那手町"
+  },
+  "6930106": {
+    "zipcode": "6930106",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "船津町"
+  },
+  "6930211": {
+    "zipcode": "6930211",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "馬木北町"
+  },
+  "6930212": {
+    "zipcode": "6930212",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "馬木町"
+  },
+  "6930213": {
+    "zipcode": "6930213",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "朝山町"
+  },
+  "6930214": {
+    "zipcode": "6930214",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "所原町"
+  },
+  "6930215": {
+    "zipcode": "6930215",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "見々久町"
+  },
+  "6930216": {
+    "zipcode": "6930216",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "乙立町"
+  },
+  "6930501": {
+    "zipcode": "6930501",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町朝原"
+  },
+  "6930502": {
+    "zipcode": "6930502",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町原田"
+  },
+  "6930503": {
+    "zipcode": "6930503",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町須佐"
+  },
+  "6930504": {
+    "zipcode": "6930504",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町大呂"
+  },
+  "6930505": {
+    "zipcode": "6930505",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町吉野"
+  },
+  "6930506": {
+    "zipcode": "6930506",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町反辺"
+  },
+  "6930511": {
+    "zipcode": "6930511",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町八幡原"
+  },
+  "6930512": {
+    "zipcode": "6930512",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町東村"
+  },
+  "6930521": {
+    "zipcode": "6930521",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町毛津"
+  },
+  "6930522": {
+    "zipcode": "6930522",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町一窪田"
+  },
+  "6930523": {
+    "zipcode": "6930523",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町佐津目"
+  },
+  "6930524": {
+    "zipcode": "6930524",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町高津屋"
+  },
+  "6930525": {
+    "zipcode": "6930525",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町下橋波"
+  },
+  "6930526": {
+    "zipcode": "6930526",
+    "prefectureCode": "32",
+    "prefectureNumber": 32,
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "town": "佐田町上橋波"
+  }
+}

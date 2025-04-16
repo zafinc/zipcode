@@ -1,0 +1,66 @@
+{
+  "1640000": {
+    "zipcode": "1640000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "以下に掲載がない場合"
+  },
+  "1640001": {
+    "zipcode": "1640001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "中野"
+  },
+  "1640002": {
+    "zipcode": "1640002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "上高田"
+  },
+  "1640003": {
+    "zipcode": "1640003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "東中野"
+  },
+  "1640011": {
+    "zipcode": "1640011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "中央"
+  },
+  "1640012": {
+    "zipcode": "1640012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "本町"
+  },
+  "1640013": {
+    "zipcode": "1640013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "弥生町"
+  },
+  "1640014": {
+    "zipcode": "1640014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "town": "南台"
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "4580000": {
+    "zipcode": "4580000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "以下に掲載がない場合"
+  },
+  "4580001": {
+    "zipcode": "4580001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "梅里"
+  },
+  "4580002": {
+    "zipcode": "4580002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桃山"
+  },
+  "4580003": {
+    "zipcode": "4580003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "黒沢台"
+  },
+  "4580004": {
+    "zipcode": "4580004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "乗鞍"
+  },
+  "4580005": {
+    "zipcode": "4580005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴丘"
+  },
+  "4580006": {
+    "zipcode": "4580006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "細口"
+  },
+  "4580007": {
+    "zipcode": "4580007",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "篭山"
+  },
+  "4580008": {
+    "zipcode": "4580008",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "平手北"
+  },
+  "4580009": {
+    "zipcode": "4580009",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "平手南"
+  },
+  "4580011": {
+    "zipcode": "4580011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "相川"
+  },
+  "4580012": {
+    "zipcode": "4580012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "久方"
+  },
+  "4580013": {
+    "zipcode": "4580013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "ほら貝"
+  },
+  "4580014": {
+    "zipcode": "4580014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "神沢"
+  },
+  "4580015": {
+    "zipcode": "4580015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "篠の風"
+  },
+  "4580016": {
+    "zipcode": "4580016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "上旭"
+  },
+  "4580021": {
+    "zipcode": "4580021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "滝ノ水"
+  },
+  "4580022": {
+    "zipcode": "4580022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "小坂"
+  },
+  "4580023": {
+    "zipcode": "4580023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鴻仏目"
+  },
+  "4580024": {
+    "zipcode": "4580024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "尾崎山"
+  },
+  "4580025": {
+    "zipcode": "4580025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳥澄"
+  },
+  "4580031": {
+    "zipcode": "4580031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "旭出"
+  },
+  "4580032": {
+    "zipcode": "4580032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "大形山"
+  },
+  "4580033": {
+    "zipcode": "4580033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "相原郷"
+  },
+  "4580034": {
+    "zipcode": "4580034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "若田"
+  },
+  "4580035": {
+    "zipcode": "4580035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "曽根"
+  },
+  "4580036": {
+    "zipcode": "4580036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "六田"
+  },
+  "4580037": {
+    "zipcode": "4580037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "潮見が丘"
+  },
+  "4580038": {
+    "zipcode": "4580038",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "作の山町"
+  },
+  "4580039": {
+    "zipcode": "4580039",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "四本木"
+  },
+  "4580041": {
+    "zipcode": "4580041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴子町"
+  },
+  "4580042": {
+    "zipcode": "4580042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "高根台"
+  },
+  "4580043": {
+    "zipcode": "4580043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "万場山"
+  },
+  "4580044": {
+    "zipcode": "4580044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "池上台"
+  },
+  "4580045": {
+    "zipcode": "4580045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鹿山"
+  },
+  "4580046": {
+    "zipcode": "4580046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "長根町"
+  },
+  "4580047": {
+    "zipcode": "4580047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "古鳴海"
+  },
+  "4580801": {
+    "zipcode": "4580801",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（その他）"
+  },
+  "4580802": {
+    "zipcode": "4580802",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "兵庫"
+  },
+  "4580803": {
+    "zipcode": "4580803",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鏡田"
+  },
+  "4580804": {
+    "zipcode": "4580804",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "亀が洞"
+  },
+  "4580805": {
+    "zipcode": "4580805",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "大清水"
+  },
+  "4580806": {
+    "zipcode": "4580806",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "大清水西"
+  },
+  "4580807": {
+    "zipcode": "4580807",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "砂田"
+  },
+  "4580808": {
+    "zipcode": "4580808",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "東神の倉"
+  },
+  "4580809": {
+    "zipcode": "4580809",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "西神の倉"
+  },
+  "4580810": {
+    "zipcode": "4580810",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "八つ松"
+  },
+  "4580811": {
+    "zipcode": "4580811",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（神ノ倉）"
+  },
+  "4580812": {
+    "zipcode": "4580812",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "神の倉"
+  },
+  "4580813": {
+    "zipcode": "4580813",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "藤塚"
+  },
+  "4580814": {
+    "zipcode": "4580814",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鶴が沢"
+  },
+  "4580815": {
+    "zipcode": "4580815",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "徳重"
+  },
+  "4580816": {
+    "zipcode": "4580816",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "横吹町"
+  },
+  "4580817": {
+    "zipcode": "4580817",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "諸の木"
+  },
+  "4580818": {
+    "zipcode": "4580818",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（大清水）"
+  },
+  "4580819": {
+    "zipcode": "4580819",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（八ツ松）"
+  },
+  "4580820": {
+    "zipcode": "4580820",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "境松"
+  },
+  "4580821": {
+    "zipcode": "4580821",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（尾崎山）"
+  },
+  "4580822": {
+    "zipcode": "4580822",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "大将ケ根"
+  },
+  "4580823": {
+    "zipcode": "4580823",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "太子"
+  },
+  "4580824": {
+    "zipcode": "4580824",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（有松裏）"
+  },
+  "4580825": {
+    "zipcode": "4580825",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "左京山"
+  },
+  "4580826": {
+    "zipcode": "4580826",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "平子が丘"
+  },
+  "4580827": {
+    "zipcode": "4580827",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（細根）"
+  },
+  "4580828": {
+    "zipcode": "4580828",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（姥子山）"
+  },
+  "4580829": {
+    "zipcode": "4580829",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鎌倉台"
+  },
+  "4580830": {
+    "zipcode": "4580830",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "姥子山"
+  },
+  "4580831": {
+    "zipcode": "4580831",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（向田）"
+  },
+  "4580832": {
+    "zipcode": "4580832",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "漆山"
+  },
+  "4580833": {
+    "zipcode": "4580833",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "青山"
+  },
+  "4580834": {
+    "zipcode": "4580834",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（前之輪）"
+  },
+  "4580835": {
+    "zipcode": "4580835",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（上汐田）"
+  },
+  "4580836": {
+    "zipcode": "4580836",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "白土"
+  },
+  "4580837": {
+    "zipcode": "4580837",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "赤松"
+  },
+  "4580838": {
+    "zipcode": "4580838",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "東陵"
+  },
+  "4580841": {
+    "zipcode": "4580841",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（小森）"
+  },
+  "4580842": {
+    "zipcode": "4580842",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（上ノ山）"
+  },
+  "4580843": {
+    "zipcode": "4580843",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "松が根台"
+  },
+  "4580844": {
+    "zipcode": "4580844",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（伝治山）"
+  },
+  "4580845": {
+    "zipcode": "4580845",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（赤塚）"
+  },
+  "4580846": {
+    "zipcode": "4580846",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "鳴海町（薬師山）"
+  },
+  "4580847": {
+    "zipcode": "4580847",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "浦里"
+  },
+  "4580848": {
+    "zipcode": "4580848",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "水広"
+  },
+  "4580849": {
+    "zipcode": "4580849",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "大清水東"
+  },
+  "4580851": {
+    "zipcode": "4580851",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "熊の前"
+  },
+  "4580852": {
+    "zipcode": "4580852",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "元徳重"
+  },
+  "4580901": {
+    "zipcode": "4580901",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松町有松"
+  },
+  "4580902": {
+    "zipcode": "4580902",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松三丁山"
+  },
+  "4580903": {
+    "zipcode": "4580903",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松愛宕"
+  },
+  "4580910": {
+    "zipcode": "4580910",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間森前"
+  },
+  "4580911": {
+    "zipcode": "4580911",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松町桶狭間（その他）"
+  },
+  "4580912": {
+    "zipcode": "4580912",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松町桶狭間（生山）"
+  },
+  "4580913": {
+    "zipcode": "4580913",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間北"
+  },
+  "4580915": {
+    "zipcode": "4580915",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "野末町"
+  },
+  "4580916": {
+    "zipcode": "4580916",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松町桶狭間（愛宕西）"
+  },
+  "4580917": {
+    "zipcode": "4580917",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "武路町"
+  },
+  "4580918": {
+    "zipcode": "4580918",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "南陵"
+  },
+  "4580919": {
+    "zipcode": "4580919",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間神明"
+  },
+  "4580920": {
+    "zipcode": "4580920",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間巻山"
+  },
+  "4580921": {
+    "zipcode": "4580921",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間清水山"
+  },
+  "4580922": {
+    "zipcode": "4580922",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間切戸"
+  },
+  "4580924": {
+    "zipcode": "4580924",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松"
+  },
+  "4580925": {
+    "zipcode": "4580925",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間"
+  },
+  "4580926": {
+    "zipcode": "4580926",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間上の山"
+  },
+  "4580927": {
+    "zipcode": "4580927",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間南"
+  },
+  "4580928": {
+    "zipcode": "4580928",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "有松幕山"
+  },
+  "4580929": {
+    "zipcode": "4580929",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "名古屋市緑区",
+    "town": "桶狭間西"
+  }
+}

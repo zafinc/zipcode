@@ -1,0 +1,594 @@
+{
+  "3570000": {
+    "zipcode": "3570000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "以下に掲載がない場合"
+  },
+  "3570001": {
+    "zipcode": "3570001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "宮沢"
+  },
+  "3570002": {
+    "zipcode": "3570002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "中居"
+  },
+  "3570003": {
+    "zipcode": "3570003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "青木"
+  },
+  "3570004": {
+    "zipcode": "3570004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "新町"
+  },
+  "3570005": {
+    "zipcode": "3570005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "原町"
+  },
+  "3570006": {
+    "zipcode": "3570006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "中山"
+  },
+  "3570011": {
+    "zipcode": "3570011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "川崎"
+  },
+  "3570012": {
+    "zipcode": "3570012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下川崎"
+  },
+  "3570013": {
+    "zipcode": "3570013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "芦苅場"
+  },
+  "3570014": {
+    "zipcode": "3570014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "平松"
+  },
+  "3570015": {
+    "zipcode": "3570015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "小久保"
+  },
+  "3570016": {
+    "zipcode": "3570016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下加治"
+  },
+  "3570021": {
+    "zipcode": "3570021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "双柳"
+  },
+  "3570022": {
+    "zipcode": "3570022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "新光"
+  },
+  "3570023": {
+    "zipcode": "3570023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "岩沢"
+  },
+  "3570024": {
+    "zipcode": "3570024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "緑町"
+  },
+  "3570025": {
+    "zipcode": "3570025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "栄町"
+  },
+  "3570031": {
+    "zipcode": "3570031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "山手町"
+  },
+  "3570032": {
+    "zipcode": "3570032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "本町"
+  },
+  "3570033": {
+    "zipcode": "3570033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "八幡町"
+  },
+  "3570034": {
+    "zipcode": "3570034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "東町"
+  },
+  "3570035": {
+    "zipcode": "3570035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "柳町"
+  },
+  "3570036": {
+    "zipcode": "3570036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "南町"
+  },
+  "3570037": {
+    "zipcode": "3570037",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "稲荷町"
+  },
+  "3570038": {
+    "zipcode": "3570038",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "仲町"
+  },
+  "3570041": {
+    "zipcode": "3570041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "美杉台"
+  },
+  "3570042": {
+    "zipcode": "3570042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "矢颪"
+  },
+  "3570043": {
+    "zipcode": "3570043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "前ケ貫"
+  },
+  "3570044": {
+    "zipcode": "3570044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "川寺"
+  },
+  "3570045": {
+    "zipcode": "3570045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "笠縫"
+  },
+  "3570046": {
+    "zipcode": "3570046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "阿須"
+  },
+  "3570047": {
+    "zipcode": "3570047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "落合"
+  },
+  "3570048": {
+    "zipcode": "3570048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "岩渕"
+  },
+  "3570049": {
+    "zipcode": "3570049",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "征矢町"
+  },
+  "3570051": {
+    "zipcode": "3570051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "苅生"
+  },
+  "3570052": {
+    "zipcode": "3570052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下畑"
+  },
+  "3570053": {
+    "zipcode": "3570053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上畑"
+  },
+  "3570054": {
+    "zipcode": "3570054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下直竹"
+  },
+  "3570055": {
+    "zipcode": "3570055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上直竹下分"
+  },
+  "3570056": {
+    "zipcode": "3570056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上直竹上分"
+  },
+  "3570061": {
+    "zipcode": "3570061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "永田台"
+  },
+  "3570062": {
+    "zipcode": "3570062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "永田"
+  },
+  "3570063": {
+    "zipcode": "3570063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "飯能"
+  },
+  "3570064": {
+    "zipcode": "3570064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "久下"
+  },
+  "3570065": {
+    "zipcode": "3570065",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "大河原"
+  },
+  "3570066": {
+    "zipcode": "3570066",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "小岩井"
+  },
+  "3570067": {
+    "zipcode": "3570067",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "小瀬戸"
+  },
+  "3570068": {
+    "zipcode": "3570068",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "久須美"
+  },
+  "3570069": {
+    "zipcode": "3570069",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "茜台"
+  },
+  "3570111": {
+    "zipcode": "3570111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上名栗"
+  },
+  "3570112": {
+    "zipcode": "3570112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下名栗"
+  },
+  "3570121": {
+    "zipcode": "3570121",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "中藤上郷"
+  },
+  "3570122": {
+    "zipcode": "3570122",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "中藤中郷"
+  },
+  "3570123": {
+    "zipcode": "3570123",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "中藤下郷"
+  },
+  "3570124": {
+    "zipcode": "3570124",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "原市場"
+  },
+  "3570125": {
+    "zipcode": "3570125",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上赤工"
+  },
+  "3570126": {
+    "zipcode": "3570126",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "下赤工"
+  },
+  "3570127": {
+    "zipcode": "3570127",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "唐竹"
+  },
+  "3570128": {
+    "zipcode": "3570128",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "赤沢"
+  },
+  "3570201": {
+    "zipcode": "3570201",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "北川"
+  },
+  "3570202": {
+    "zipcode": "3570202",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "高山"
+  },
+  "3570203": {
+    "zipcode": "3570203",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "長沢"
+  },
+  "3570204": {
+    "zipcode": "3570204",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "虎秀"
+  },
+  "3570205": {
+    "zipcode": "3570205",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "白子"
+  },
+  "3570206": {
+    "zipcode": "3570206",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "上長沢"
+  },
+  "3570211": {
+    "zipcode": "3570211",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "平戸"
+  },
+  "3570212": {
+    "zipcode": "3570212",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "井上"
+  },
+  "3570213": {
+    "zipcode": "3570213",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "坂石町分"
+  },
+  "3570214": {
+    "zipcode": "3570214",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "南"
+  },
+  "3570215": {
+    "zipcode": "3570215",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "坂石"
+  },
+  "3570216": {
+    "zipcode": "3570216",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "吾野"
+  },
+  "3570217": {
+    "zipcode": "3570217",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "南川"
+  },
+  "3570218": {
+    "zipcode": "3570218",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "town": "坂元"
+  }
+}

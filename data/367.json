@@ -1,0 +1,962 @@
+{
+  "3670000": {
+    "zipcode": "3670000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "以下に掲載がない場合"
+  },
+  "3670001": {
+    "zipcode": "3670001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "下仁手"
+  },
+  "3670002": {
+    "zipcode": "3670002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "仁手"
+  },
+  "3670003": {
+    "zipcode": "3670003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "台町"
+  },
+  "3670004": {
+    "zipcode": "3670004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "本町"
+  },
+  "3670005": {
+    "zipcode": "3670005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "久々宇"
+  },
+  "3670006": {
+    "zipcode": "3670006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "田中"
+  },
+  "3670007": {
+    "zipcode": "3670007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "上仁手"
+  },
+  "3670011": {
+    "zipcode": "3670011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "小和瀬"
+  },
+  "3670012": {
+    "zipcode": "3670012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "宮戸"
+  },
+  "3670013": {
+    "zipcode": "3670013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "滝瀬"
+  },
+  "3670014": {
+    "zipcode": "3670014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "堀田"
+  },
+  "3670015": {
+    "zipcode": "3670015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "牧西"
+  },
+  "3670016": {
+    "zipcode": "3670016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "鵜森"
+  },
+  "3670017": {
+    "zipcode": "3670017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "傍示堂"
+  },
+  "3670018": {
+    "zipcode": "3670018",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "諏訪町"
+  },
+  "3670021": {
+    "zipcode": "3670021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "東台"
+  },
+  "3670022": {
+    "zipcode": "3670022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "日の出"
+  },
+  "3670023": {
+    "zipcode": "3670023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "寿"
+  },
+  "3670024": {
+    "zipcode": "3670024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "東五十子"
+  },
+  "3670025": {
+    "zipcode": "3670025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "西五十子"
+  },
+  "3670026": {
+    "zipcode": "3670026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "朝日町"
+  },
+  "3670027": {
+    "zipcode": "3670027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "五十子"
+  },
+  "3670030": {
+    "zipcode": "3670030",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "早稲田の杜"
+  },
+  "3670031": {
+    "zipcode": "3670031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "北堀"
+  },
+  "3670032": {
+    "zipcode": "3670032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "栗崎"
+  },
+  "3670033": {
+    "zipcode": "3670033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "東富田"
+  },
+  "3670034": {
+    "zipcode": "3670034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "四方田"
+  },
+  "3670035": {
+    "zipcode": "3670035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "西富田"
+  },
+  "3670036": {
+    "zipcode": "3670036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "今井"
+  },
+  "3670037": {
+    "zipcode": "3670037",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "共栄"
+  },
+  "3670038": {
+    "zipcode": "3670038",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "いまい台"
+  },
+  "3670039": {
+    "zipcode": "3670039",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "四季の里"
+  },
+  "3670041": {
+    "zipcode": "3670041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "駅南"
+  },
+  "3670042": {
+    "zipcode": "3670042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "けや木"
+  },
+  "3670043": {
+    "zipcode": "3670043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "緑"
+  },
+  "3670044": {
+    "zipcode": "3670044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "見福"
+  },
+  "3670045": {
+    "zipcode": "3670045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "柏"
+  },
+  "3670046": {
+    "zipcode": "3670046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "栄"
+  },
+  "3670047": {
+    "zipcode": "3670047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "前原"
+  },
+  "3670048": {
+    "zipcode": "3670048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "南"
+  },
+  "3670051": {
+    "zipcode": "3670051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "本庄"
+  },
+  "3670052": {
+    "zipcode": "3670052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "銀座"
+  },
+  "3670053": {
+    "zipcode": "3670053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "中央"
+  },
+  "3670054": {
+    "zipcode": "3670054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "千代田"
+  },
+  "3670055": {
+    "zipcode": "3670055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "若泉"
+  },
+  "3670056": {
+    "zipcode": "3670056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "照若町"
+  },
+  "3670061": {
+    "zipcode": "3670061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "小島"
+  },
+  "3670062": {
+    "zipcode": "3670062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "小島南"
+  },
+  "3670063": {
+    "zipcode": "3670063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "下野堂"
+  },
+  "3670064": {
+    "zipcode": "3670064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "万年寺"
+  },
+  "3670071": {
+    "zipcode": "3670071",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "山王堂"
+  },
+  "3670072": {
+    "zipcode": "3670072",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "沼和田"
+  },
+  "3670073": {
+    "zipcode": "3670073",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "都島"
+  },
+  "3670074": {
+    "zipcode": "3670074",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "杉山"
+  },
+  "3670075": {
+    "zipcode": "3670075",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "新井"
+  },
+  "3670100": {
+    "zipcode": "3670100",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "以下に掲載がない場合"
+  },
+  "3670101": {
+    "zipcode": "3670101",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "小茂田"
+  },
+  "3670102": {
+    "zipcode": "3670102",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "関"
+  },
+  "3670103": {
+    "zipcode": "3670103",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "阿那志"
+  },
+  "3670104": {
+    "zipcode": "3670104",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "根木"
+  },
+  "3670105": {
+    "zipcode": "3670105",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "沼上"
+  },
+  "3670106": {
+    "zipcode": "3670106",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "南十条"
+  },
+  "3670107": {
+    "zipcode": "3670107",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "北十条"
+  },
+  "3670108": {
+    "zipcode": "3670108",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "下児玉"
+  },
+  "3670111": {
+    "zipcode": "3670111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "古郡"
+  },
+  "3670112": {
+    "zipcode": "3670112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "木部"
+  },
+  "3670113": {
+    "zipcode": "3670113",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "甘粕"
+  },
+  "3670114": {
+    "zipcode": "3670114",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "中里"
+  },
+  "3670115": {
+    "zipcode": "3670115",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "猪俣"
+  },
+  "3670116": {
+    "zipcode": "3670116",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "円良田"
+  },
+  "3670117": {
+    "zipcode": "3670117",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "白石"
+  },
+  "3670118": {
+    "zipcode": "3670118",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "広木"
+  },
+  "3670119": {
+    "zipcode": "3670119",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡美里町",
+    "town": "駒衣"
+  },
+  "3670200": {
+    "zipcode": "3670200",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "以下に掲載がない場合"
+  },
+  "3670201": {
+    "zipcode": "3670201",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町高関"
+  },
+  "3670202": {
+    "zipcode": "3670202",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町下浅見"
+  },
+  "3670203": {
+    "zipcode": "3670203",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町入浅見"
+  },
+  "3670204": {
+    "zipcode": "3670204",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町蛭川"
+  },
+  "3670205": {
+    "zipcode": "3670205",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町上真下"
+  },
+  "3670206": {
+    "zipcode": "3670206",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町共栄"
+  },
+  "3670207": {
+    "zipcode": "3670207",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町下真下"
+  },
+  "3670211": {
+    "zipcode": "3670211",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町吉田林"
+  },
+  "3670212": {
+    "zipcode": "3670212",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町児玉"
+  },
+  "3670213": {
+    "zipcode": "3670213",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町秋山"
+  },
+  "3670214": {
+    "zipcode": "3670214",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町小平"
+  },
+  "3670215": {
+    "zipcode": "3670215",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町長沖"
+  },
+  "3670216": {
+    "zipcode": "3670216",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町金屋"
+  },
+  "3670217": {
+    "zipcode": "3670217",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町八幡山"
+  },
+  "3670218": {
+    "zipcode": "3670218",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町児玉南"
+  },
+  "3670221": {
+    "zipcode": "3670221",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町保木野"
+  },
+  "3670222": {
+    "zipcode": "3670222",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町田端"
+  },
+  "3670223": {
+    "zipcode": "3670223",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町塩谷"
+  },
+  "3670224": {
+    "zipcode": "3670224",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町高柳"
+  },
+  "3670225": {
+    "zipcode": "3670225",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町飯倉"
+  },
+  "3670226": {
+    "zipcode": "3670226",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町宮内"
+  },
+  "3670231": {
+    "zipcode": "3670231",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "中新里"
+  },
+  "3670232": {
+    "zipcode": "3670232",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "新里"
+  },
+  "3670233": {
+    "zipcode": "3670233",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "二ノ宮"
+  },
+  "3670234": {
+    "zipcode": "3670234",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "池田"
+  },
+  "3670235": {
+    "zipcode": "3670235",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "新宿"
+  },
+  "3670236": {
+    "zipcode": "3670236",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "小浜"
+  },
+  "3670237": {
+    "zipcode": "3670237",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "貫井"
+  },
+  "3670238": {
+    "zipcode": "3670238",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "肥土"
+  },
+  "3670241": {
+    "zipcode": "3670241",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "元原"
+  },
+  "3670242": {
+    "zipcode": "3670242",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "原新田"
+  },
+  "3670243": {
+    "zipcode": "3670243",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "熊野堂"
+  },
+  "3670244": {
+    "zipcode": "3670244",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "八日市"
+  },
+  "3670245": {
+    "zipcode": "3670245",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "植竹"
+  },
+  "3670246": {
+    "zipcode": "3670246",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "関口"
+  },
+  "3670247": {
+    "zipcode": "3670247",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "元阿保"
+  },
+  "3670248": {
+    "zipcode": "3670248",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "四軒在家"
+  },
+  "3670251": {
+    "zipcode": "3670251",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町稲沢"
+  },
+  "3670252": {
+    "zipcode": "3670252",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町元田"
+  },
+  "3670253": {
+    "zipcode": "3670253",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町河内"
+  },
+  "3670254": {
+    "zipcode": "3670254",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "本庄市",
+    "town": "児玉町太駄"
+  },
+  "3670301": {
+    "zipcode": "3670301",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "渡瀬"
+  },
+  "3670311": {
+    "zipcode": "3670311",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "下阿久原"
+  },
+  "3670312": {
+    "zipcode": "3670312",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "上阿久原"
+  },
+  "3670313": {
+    "zipcode": "3670313",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "児玉郡神川町",
+    "town": "矢納"
+  }
+}

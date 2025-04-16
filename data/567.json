@@ -1,0 +1,1202 @@
+{
+  "5670000": {
+    "zipcode": "5670000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "以下に掲載がない場合"
+  },
+  "5670001": {
+    "zipcode": "5670001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "安威"
+  },
+  "5670002": {
+    "zipcode": "5670002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東安威"
+  },
+  "5670003": {
+    "zipcode": "5670003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西河原北町"
+  },
+  "5670004": {
+    "zipcode": "5670004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "南耳原"
+  },
+  "5670005": {
+    "zipcode": "5670005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "五日市"
+  },
+  "5670006": {
+    "zipcode": "5670006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "耳原"
+  },
+  "5670007": {
+    "zipcode": "5670007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "南安威"
+  },
+  "5670008": {
+    "zipcode": "5670008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西安威"
+  },
+  "5670009": {
+    "zipcode": "5670009",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "山手台"
+  },
+  "5670010": {
+    "zipcode": "5670010",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "山手台新町"
+  },
+  "5670011": {
+    "zipcode": "5670011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "高田町"
+  },
+  "5670012": {
+    "zipcode": "5670012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東太田"
+  },
+  "5670013": {
+    "zipcode": "5670013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "太田東芝町"
+  },
+  "5670014": {
+    "zipcode": "5670014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "城の前町"
+  },
+  "5670015": {
+    "zipcode": "5670015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西太田町"
+  },
+  "5670016": {
+    "zipcode": "5670016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "十日市町"
+  },
+  "5670017": {
+    "zipcode": "5670017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "花園"
+  },
+  "5670018": {
+    "zipcode": "5670018",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "太田"
+  },
+  "5670021": {
+    "zipcode": "5670021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "三島丘"
+  },
+  "5670022": {
+    "zipcode": "5670022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "三島町"
+  },
+  "5670023": {
+    "zipcode": "5670023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西河原"
+  },
+  "5670024": {
+    "zipcode": "5670024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "三咲町"
+  },
+  "5670025": {
+    "zipcode": "5670025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "田中町"
+  },
+  "5670026": {
+    "zipcode": "5670026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "松下町"
+  },
+  "5670027": {
+    "zipcode": "5670027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西田中町"
+  },
+  "5670028": {
+    "zipcode": "5670028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "畑田町"
+  },
+  "5670029": {
+    "zipcode": "5670029",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "五日市緑町"
+  },
+  "5670031": {
+    "zipcode": "5670031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "春日"
+  },
+  "5670032": {
+    "zipcode": "5670032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西駅前町"
+  },
+  "5670033": {
+    "zipcode": "5670033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "松ケ本町"
+  },
+  "5670034": {
+    "zipcode": "5670034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "中穂積"
+  },
+  "5670035": {
+    "zipcode": "5670035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "見付山"
+  },
+  "5670036": {
+    "zipcode": "5670036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上穂積"
+  },
+  "5670037": {
+    "zipcode": "5670037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上穂東町"
+  },
+  "5670041": {
+    "zipcode": "5670041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "下穂積"
+  },
+  "5670042": {
+    "zipcode": "5670042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "宇野辺"
+  },
+  "5670043": {
+    "zipcode": "5670043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "小坪井"
+  },
+  "5670044": {
+    "zipcode": "5670044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "穂積台"
+  },
+  "5670045": {
+    "zipcode": "5670045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "紫明園"
+  },
+  "5670046": {
+    "zipcode": "5670046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "南春日丘"
+  },
+  "5670047": {
+    "zipcode": "5670047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "美穂ケ丘"
+  },
+  "5670048": {
+    "zipcode": "5670048",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "北春日丘"
+  },
+  "5670051": {
+    "zipcode": "5670051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "宿久庄"
+  },
+  "5670052": {
+    "zipcode": "5670052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "室山"
+  },
+  "5670053": {
+    "zipcode": "5670053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "豊原町"
+  },
+  "5670054": {
+    "zipcode": "5670054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "藤の里"
+  },
+  "5670055": {
+    "zipcode": "5670055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "宿川原町"
+  },
+  "5670056": {
+    "zipcode": "5670056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "南清水町"
+  },
+  "5670057": {
+    "zipcode": "5670057",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "豊川"
+  },
+  "5670058": {
+    "zipcode": "5670058",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西豊川町"
+  },
+  "5670059": {
+    "zipcode": "5670059",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "清水"
+  },
+  "5670061": {
+    "zipcode": "5670061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "福井"
+  },
+  "5670062": {
+    "zipcode": "5670062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東福井"
+  },
+  "5670063": {
+    "zipcode": "5670063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "中河原町"
+  },
+  "5670064": {
+    "zipcode": "5670064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上野町"
+  },
+  "5670065": {
+    "zipcode": "5670065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上郡"
+  },
+  "5670066": {
+    "zipcode": "5670066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "下井町"
+  },
+  "5670067": {
+    "zipcode": "5670067",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西福井"
+  },
+  "5670071": {
+    "zipcode": "5670071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "郡山"
+  },
+  "5670072": {
+    "zipcode": "5670072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "郡"
+  },
+  "5670073": {
+    "zipcode": "5670073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西穂積町"
+  },
+  "5670074": {
+    "zipcode": "5670074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "新郡山"
+  },
+  "5670075": {
+    "zipcode": "5670075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "道祖本"
+  },
+  "5670076": {
+    "zipcode": "5670076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "井口台"
+  },
+  "5670082": {
+    "zipcode": "5670082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "彩都はなだ"
+  },
+  "5670083": {
+    "zipcode": "5670083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "彩都もえぎ"
+  },
+  "5670084": {
+    "zipcode": "5670084",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "彩都あかね"
+  },
+  "5670085": {
+    "zipcode": "5670085",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "彩都あさぎ"
+  },
+  "5670086": {
+    "zipcode": "5670086",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "彩都やまぶき"
+  },
+  "5670801": {
+    "zipcode": "5670801",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "総持寺"
+  },
+  "5670802": {
+    "zipcode": "5670802",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "総持寺駅前町"
+  },
+  "5670803": {
+    "zipcode": "5670803",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "中総持寺町"
+  },
+  "5670804": {
+    "zipcode": "5670804",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "総持寺台"
+  },
+  "5670805": {
+    "zipcode": "5670805",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "橋の内"
+  },
+  "5670806": {
+    "zipcode": "5670806",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "庄"
+  },
+  "5670810": {
+    "zipcode": "5670810",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "宮元町"
+  },
+  "5670811": {
+    "zipcode": "5670811",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上泉町"
+  },
+  "5670812": {
+    "zipcode": "5670812",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東宮町"
+  },
+  "5670813": {
+    "zipcode": "5670813",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "大住町"
+  },
+  "5670814": {
+    "zipcode": "5670814",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "戸伏町"
+  },
+  "5670815": {
+    "zipcode": "5670815",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "竹橋町"
+  },
+  "5670816": {
+    "zipcode": "5670816",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "永代町"
+  },
+  "5670817": {
+    "zipcode": "5670817",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "別院町"
+  },
+  "5670818": {
+    "zipcode": "5670818",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "本町"
+  },
+  "5670819": {
+    "zipcode": "5670819",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "片桐町"
+  },
+  "5670821": {
+    "zipcode": "5670821",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "末広町"
+  },
+  "5670822": {
+    "zipcode": "5670822",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "中村町"
+  },
+  "5670823": {
+    "zipcode": "5670823",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "寺田町"
+  },
+  "5670824": {
+    "zipcode": "5670824",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "中津町"
+  },
+  "5670825": {
+    "zipcode": "5670825",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "園田町"
+  },
+  "5670826": {
+    "zipcode": "5670826",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "大池"
+  },
+  "5670827": {
+    "zipcode": "5670827",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "稲葉町"
+  },
+  "5670828": {
+    "zipcode": "5670828",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "舟木町"
+  },
+  "5670829": {
+    "zipcode": "5670829",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "双葉町"
+  },
+  "5670831": {
+    "zipcode": "5670831",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "鮎川"
+  },
+  "5670832": {
+    "zipcode": "5670832",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "白川"
+  },
+  "5670833": {
+    "zipcode": "5670833",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "学園町"
+  },
+  "5670834": {
+    "zipcode": "5670834",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "学園南町"
+  },
+  "5670835": {
+    "zipcode": "5670835",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "新堂"
+  },
+  "5670836": {
+    "zipcode": "5670836",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "目垣"
+  },
+  "5670837": {
+    "zipcode": "5670837",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "南目垣"
+  },
+  "5670838": {
+    "zipcode": "5670838",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東野々宮町"
+  },
+  "5670841": {
+    "zipcode": "5670841",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "桑田町"
+  },
+  "5670842": {
+    "zipcode": "5670842",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "五十鈴町"
+  },
+  "5670843": {
+    "zipcode": "5670843",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "星見町"
+  },
+  "5670844": {
+    "zipcode": "5670844",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "大同町"
+  },
+  "5670845": {
+    "zipcode": "5670845",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "平田"
+  },
+  "5670846": {
+    "zipcode": "5670846",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "玉島"
+  },
+  "5670847": {
+    "zipcode": "5670847",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "野々宮"
+  },
+  "5670848": {
+    "zipcode": "5670848",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "玉島台"
+  },
+  "5670849": {
+    "zipcode": "5670849",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "平田台"
+  },
+  "5670850": {
+    "zipcode": "5670850",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "真砂玉島台"
+  },
+  "5670851": {
+    "zipcode": "5670851",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "真砂"
+  },
+  "5670852": {
+    "zipcode": "5670852",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "小柳町"
+  },
+  "5670853": {
+    "zipcode": "5670853",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "宮島"
+  },
+  "5670854": {
+    "zipcode": "5670854",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "島"
+  },
+  "5670855": {
+    "zipcode": "5670855",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "新和町"
+  },
+  "5670861": {
+    "zipcode": "5670861",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東奈良"
+  },
+  "5670862": {
+    "zipcode": "5670862",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "美沢町"
+  },
+  "5670863": {
+    "zipcode": "5670863",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "沢良宜東町"
+  },
+  "5670864": {
+    "zipcode": "5670864",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "沢良宜浜"
+  },
+  "5670865": {
+    "zipcode": "5670865",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "横江"
+  },
+  "5670866": {
+    "zipcode": "5670866",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "高浜町"
+  },
+  "5670867": {
+    "zipcode": "5670867",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "大正町"
+  },
+  "5670868": {
+    "zipcode": "5670868",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "沢良宜西"
+  },
+  "5670871": {
+    "zipcode": "5670871",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "岩倉町"
+  },
+  "5670872": {
+    "zipcode": "5670872",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "新中条町"
+  },
+  "5670873": {
+    "zipcode": "5670873",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "小川町"
+  },
+  "5670874": {
+    "zipcode": "5670874",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "奈良町"
+  },
+  "5670875": {
+    "zipcode": "5670875",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "若草町"
+  },
+  "5670876": {
+    "zipcode": "5670876",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "天王"
+  },
+  "5670877": {
+    "zipcode": "5670877",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "丑寅"
+  },
+  "5670878": {
+    "zipcode": "5670878",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "蔵垣内"
+  },
+  "5670879": {
+    "zipcode": "5670879",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東宇野辺町"
+  },
+  "5670881": {
+    "zipcode": "5670881",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "上中条"
+  },
+  "5670882": {
+    "zipcode": "5670882",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "元町"
+  },
+  "5670883": {
+    "zipcode": "5670883",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "大手町"
+  },
+  "5670884": {
+    "zipcode": "5670884",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "新庄町"
+  },
+  "5670885": {
+    "zipcode": "5670885",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "東中条町"
+  },
+  "5670886": {
+    "zipcode": "5670886",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "下中条町"
+  },
+  "5670887": {
+    "zipcode": "5670887",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "西中条町"
+  },
+  "5670888": {
+    "zipcode": "5670888",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "駅前"
+  },
+  "5670891": {
+    "zipcode": "5670891",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "水尾"
+  },
+  "5670892": {
+    "zipcode": "5670892",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "並木町"
+  },
+  "5670893": {
+    "zipcode": "5670893",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "玉瀬町"
+  },
+  "5670894": {
+    "zipcode": "5670894",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "若園町"
+  },
+  "5670895": {
+    "zipcode": "5670895",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "玉櫛"
+  },
+  "5670896": {
+    "zipcode": "5670896",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "玉水町"
+  },
+  "5670897": {
+    "zipcode": "5670897",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "茨木市",
+    "town": "主原町"
+  }
+}

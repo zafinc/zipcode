@@ -1,0 +1,1970 @@
+{
+  "9640000": {
+    "zipcode": "9640000",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "以下に掲載がない場合"
+  },
+  "9640001": {
+    "zipcode": "9640001",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中ノ目"
+  },
+  "9640002": {
+    "zipcode": "9640002",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "湯川町"
+  },
+  "9640003": {
+    "zipcode": "9640003",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "二伊滝"
+  },
+  "9640004": {
+    "zipcode": "9640004",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "伊佐沼町"
+  },
+  "9640005": {
+    "zipcode": "9640005",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "笹屋"
+  },
+  "9640006": {
+    "zipcode": "9640006",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "二又"
+  },
+  "9640007": {
+    "zipcode": "9640007",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "古家"
+  },
+  "9640008": {
+    "zipcode": "9640008",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "鉄扇町"
+  },
+  "9640011": {
+    "zipcode": "9640011",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田才木"
+  },
+  "9640012": {
+    "zipcode": "9640012",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田積内"
+  },
+  "9640013": {
+    "zipcode": "9640013",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "新田"
+  },
+  "9640014": {
+    "zipcode": "9640014",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上新田"
+  },
+  "9640015": {
+    "zipcode": "9640015",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "板目沢"
+  },
+  "9640016": {
+    "zipcode": "9640016",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大森沢"
+  },
+  "9640017": {
+    "zipcode": "9640017",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田御堂内"
+  },
+  "9640021": {
+    "zipcode": "9640021",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田馬保内"
+  },
+  "9640022": {
+    "zipcode": "9640022",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田鍛治内"
+  },
+  "9640023": {
+    "zipcode": "9640023",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "硯石"
+  },
+  "9640024": {
+    "zipcode": "9640024",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "井戸神"
+  },
+  "9640025": {
+    "zipcode": "9640025",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "屋戸入"
+  },
+  "9640026": {
+    "zipcode": "9640026",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中山田"
+  },
+  "9640027": {
+    "zipcode": "9640027",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "山田"
+  },
+  "9640028": {
+    "zipcode": "9640028",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "高平"
+  },
+  "9640029": {
+    "zipcode": "9640029",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田"
+  },
+  "9640031": {
+    "zipcode": "9640031",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "前原"
+  },
+  "9640032": {
+    "zipcode": "9640032",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "毘沙門堂山"
+  },
+  "9640033": {
+    "zipcode": "9640033",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "毘沙門堂"
+  },
+  "9640034": {
+    "zipcode": "9640034",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ堰下"
+  },
+  "9640035": {
+    "zipcode": "9640035",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ天ケ作"
+  },
+  "9640036": {
+    "zipcode": "9640036",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ才木"
+  },
+  "9640037": {
+    "zipcode": "9640037",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ川原"
+  },
+  "9640038": {
+    "zipcode": "9640038",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "立石"
+  },
+  "9640039": {
+    "zipcode": "9640039",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "萩坂"
+  },
+  "9640041": {
+    "zipcode": "9640041",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ日照田"
+  },
+  "9640042": {
+    "zipcode": "9640042",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ大畑"
+  },
+  "9640043": {
+    "zipcode": "9640043",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ諏訪"
+  },
+  "9640044": {
+    "zipcode": "9640044",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ上ノ内"
+  },
+  "9640045": {
+    "zipcode": "9640045",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ笠張"
+  },
+  "9640046": {
+    "zipcode": "9640046",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ山口"
+  },
+  "9640047": {
+    "zipcode": "9640047",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ上平"
+  },
+  "9640048": {
+    "zipcode": "9640048",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大坂"
+  },
+  "9640049": {
+    "zipcode": "9640049",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原セ仲谷地"
+  },
+  "9640051": {
+    "zipcode": "9640051",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "舘野原"
+  },
+  "9640052": {
+    "zipcode": "9640052",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "箕輪"
+  },
+  "9640053": {
+    "zipcode": "9640053",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "乳母沢"
+  },
+  "9640054": {
+    "zipcode": "9640054",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "苗松"
+  },
+  "9640055": {
+    "zipcode": "9640055",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "馬場平"
+  },
+  "9640056": {
+    "zipcode": "9640056",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "雄平台"
+  },
+  "9640057": {
+    "zipcode": "9640057",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大石ケ作"
+  },
+  "9640058": {
+    "zipcode": "9640058",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "三雄山"
+  },
+  "9640061": {
+    "zipcode": "9640061",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳温泉深堀"
+  },
+  "9640062": {
+    "zipcode": "9640062",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳温泉大和"
+  },
+  "9640063": {
+    "zipcode": "9640063",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "才木山"
+  },
+  "9640064": {
+    "zipcode": "9640064",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳温泉横森"
+  },
+  "9640065": {
+    "zipcode": "9640065",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "小関"
+  },
+  "9640066": {
+    "zipcode": "9640066",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳温泉西大和"
+  },
+  "9640071": {
+    "zipcode": "9640071",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "栄町"
+  },
+  "9640072": {
+    "zipcode": "9640072",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳東町"
+  },
+  "9640073": {
+    "zipcode": "9640073",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上葉木坂"
+  },
+  "9640074": {
+    "zipcode": "9640074",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岳温泉"
+  },
+  "9640075": {
+    "zipcode": "9640075",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田（長坂国有林）"
+  },
+  "9640076": {
+    "zipcode": "9640076",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "永田橋積"
+  },
+  "9640077": {
+    "zipcode": "9640077",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大関"
+  },
+  "9640081": {
+    "zipcode": "9640081",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "宮沢"
+  },
+  "9640082": {
+    "zipcode": "9640082",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "休石"
+  },
+  "9640083": {
+    "zipcode": "9640083",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "休石原"
+  },
+  "9640084": {
+    "zipcode": "9640084",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大根畑"
+  },
+  "9640085": {
+    "zipcode": "9640085",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "不動平"
+  },
+  "9640086": {
+    "zipcode": "9640086",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "塩沢"
+  },
+  "9640087": {
+    "zipcode": "9640087",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "木ノ根坂"
+  },
+  "9640088": {
+    "zipcode": "9640088",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "沢松倉"
+  },
+  "9640091": {
+    "zipcode": "9640091",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "安達郡大玉村",
+    "town": "玉井（馬場平）"
+  },
+  "9640111": {
+    "zipcode": "9640111",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "太田"
+  },
+  "9640201": {
+    "zipcode": "9640201",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "戸沢"
+  },
+  "9640202": {
+    "zipcode": "9640202",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "針道"
+  },
+  "9640203": {
+    "zipcode": "9640203",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "木幡"
+  },
+  "9640301": {
+    "zipcode": "9640301",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "東新殿"
+  },
+  "9640302": {
+    "zipcode": "9640302",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "杉沢"
+  },
+  "9640303": {
+    "zipcode": "9640303",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "初森"
+  },
+  "9640304": {
+    "zipcode": "9640304",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "西新殿"
+  },
+  "9640311": {
+    "zipcode": "9640311",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "長折"
+  },
+  "9640312": {
+    "zipcode": "9640312",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上長折"
+  },
+  "9640313": {
+    "zipcode": "9640313",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "小浜"
+  },
+  "9640314": {
+    "zipcode": "9640314",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "西勝田"
+  },
+  "9640315": {
+    "zipcode": "9640315",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "成田"
+  },
+  "9640316": {
+    "zipcode": "9640316",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "下長折"
+  },
+  "9640321": {
+    "zipcode": "9640321",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上太田"
+  },
+  "9640431": {
+    "zipcode": "9640431",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "田沢"
+  },
+  "9640432": {
+    "zipcode": "9640432",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "茂原"
+  },
+  "9640433": {
+    "zipcode": "9640433",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "百目木"
+  },
+  "9640801": {
+    "zipcode": "9640801",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "向作田"
+  },
+  "9640802": {
+    "zipcode": "9640802",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "鐙摺石"
+  },
+  "9640803": {
+    "zipcode": "9640803",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "八万舘"
+  },
+  "9640804": {
+    "zipcode": "9640804",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "下平"
+  },
+  "9640805": {
+    "zipcode": "9640805",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "下ノ内"
+  },
+  "9640806": {
+    "zipcode": "9640806",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "羽石"
+  },
+  "9640807": {
+    "zipcode": "9640807",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "金色久保"
+  },
+  "9640808": {
+    "zipcode": "9640808",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "木藤次郎内"
+  },
+  "9640811": {
+    "zipcode": "9640811",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "宮戸"
+  },
+  "9640812": {
+    "zipcode": "9640812",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "関"
+  },
+  "9640813": {
+    "zipcode": "9640813",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "舟形石山"
+  },
+  "9640814": {
+    "zipcode": "9640814",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "遠西"
+  },
+  "9640815": {
+    "zipcode": "9640815",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "唐谷山"
+  },
+  "9640816": {
+    "zipcode": "9640816",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "原田"
+  },
+  "9640817": {
+    "zipcode": "9640817",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "高西"
+  },
+  "9640818": {
+    "zipcode": "9640818",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "不動"
+  },
+  "9640821": {
+    "zipcode": "9640821",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "舟形石"
+  },
+  "9640822": {
+    "zipcode": "9640822",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "舟石"
+  },
+  "9640823": {
+    "zipcode": "9640823",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岩崎"
+  },
+  "9640824": {
+    "zipcode": "9640824",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "諏訪原"
+  },
+  "9640825": {
+    "zipcode": "9640825",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "下町"
+  },
+  "9640826": {
+    "zipcode": "9640826",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "石ノ花"
+  },
+  "9640827": {
+    "zipcode": "9640827",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "反返"
+  },
+  "9640828": {
+    "zipcode": "9640828",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "新林"
+  },
+  "9640829": {
+    "zipcode": "9640829",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "袋内"
+  },
+  "9640831": {
+    "zipcode": "9640831",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "前田"
+  },
+  "9640832": {
+    "zipcode": "9640832",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "落合"
+  },
+  "9640833": {
+    "zipcode": "9640833",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "杉田仲之内"
+  },
+  "9640834": {
+    "zipcode": "9640834",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "十神"
+  },
+  "9640835": {
+    "zipcode": "9640835",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "水神"
+  },
+  "9640836": {
+    "zipcode": "9640836",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "菅田"
+  },
+  "9640837": {
+    "zipcode": "9640837",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "七ツ段"
+  },
+  "9640838": {
+    "zipcode": "9640838",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "借宿"
+  },
+  "9640841": {
+    "zipcode": "9640841",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "瀬ノ上"
+  },
+  "9640842": {
+    "zipcode": "9640842",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "隠里"
+  },
+  "9640843": {
+    "zipcode": "9640843",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "坊主滝"
+  },
+  "9640844": {
+    "zipcode": "9640844",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "在師"
+  },
+  "9640845": {
+    "zipcode": "9640845",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "竹柄"
+  },
+  "9640846": {
+    "zipcode": "9640846",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "峠"
+  },
+  "9640847": {
+    "zipcode": "9640847",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "薬師"
+  },
+  "9640848": {
+    "zipcode": "9640848",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上平内"
+  },
+  "9640849": {
+    "zipcode": "9640849",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大沢"
+  },
+  "9640851": {
+    "zipcode": "9640851",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "反田"
+  },
+  "9640852": {
+    "zipcode": "9640852",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "長者宮"
+  },
+  "9640853": {
+    "zipcode": "9640853",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "向陽台"
+  },
+  "9640854": {
+    "zipcode": "9640854",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "郡山台"
+  },
+  "9640855": {
+    "zipcode": "9640855",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "成上"
+  },
+  "9640856": {
+    "zipcode": "9640856",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "西町"
+  },
+  "9640857": {
+    "zipcode": "9640857",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "東町"
+  },
+  "9640858": {
+    "zipcode": "9640858",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "姫子松"
+  },
+  "9640859": {
+    "zipcode": "9640859",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中江"
+  },
+  "9640861": {
+    "zipcode": "9640861",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "西池"
+  },
+  "9640862": {
+    "zipcode": "9640862",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "杉田駄子内"
+  },
+  "9640863": {
+    "zipcode": "9640863",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "片岸"
+  },
+  "9640864": {
+    "zipcode": "9640864",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "社前"
+  },
+  "9640865": {
+    "zipcode": "9640865",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "杉田町"
+  },
+  "9640866": {
+    "zipcode": "9640866",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "長命"
+  },
+  "9640867": {
+    "zipcode": "9640867",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "住吉"
+  },
+  "9640868": {
+    "zipcode": "9640868",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "舘野"
+  },
+  "9640869": {
+    "zipcode": "9640869",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大平山"
+  },
+  "9640871": {
+    "zipcode": "9640871",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "成田町"
+  },
+  "9640872": {
+    "zipcode": "9640872",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "藤太郎内"
+  },
+  "9640873": {
+    "zipcode": "9640873",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "東裏"
+  },
+  "9640874": {
+    "zipcode": "9640874",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中里"
+  },
+  "9640875": {
+    "zipcode": "9640875",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "槻木"
+  },
+  "9640876": {
+    "zipcode": "9640876",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "正法寺町"
+  },
+  "9640881": {
+    "zipcode": "9640881",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "藤之前"
+  },
+  "9640882": {
+    "zipcode": "9640882",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "新座"
+  },
+  "9640883": {
+    "zipcode": "9640883",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "下山田"
+  },
+  "9640884": {
+    "zipcode": "9640884",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大作"
+  },
+  "9640885": {
+    "zipcode": "9640885",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "高越屋戸"
+  },
+  "9640886": {
+    "zipcode": "9640886",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "高越松ケ作"
+  },
+  "9640887": {
+    "zipcode": "9640887",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "三保内"
+  },
+  "9640891": {
+    "zipcode": "9640891",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大壇"
+  },
+  "9640892": {
+    "zipcode": "9640892",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "成田日向"
+  },
+  "9640893": {
+    "zipcode": "9640893",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "幸町"
+  },
+  "9640894": {
+    "zipcode": "9640894",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "坦子内"
+  },
+  "9640895": {
+    "zipcode": "9640895",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "三原町"
+  },
+  "9640896": {
+    "zipcode": "9640896",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "末広町"
+  },
+  "9640897": {
+    "zipcode": "9640897",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "塩沢町"
+  },
+  "9640898": {
+    "zipcode": "9640898",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上原"
+  },
+  "9640901": {
+    "zipcode": "9640901",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "表"
+  },
+  "9640902": {
+    "zipcode": "9640902",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "竹田"
+  },
+  "9640903": {
+    "zipcode": "9640903",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "根崎"
+  },
+  "9640904": {
+    "zipcode": "9640904",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "郭内"
+  },
+  "9640905": {
+    "zipcode": "9640905",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "松岡"
+  },
+  "9640906": {
+    "zipcode": "9640906",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "若宮"
+  },
+  "9640907": {
+    "zipcode": "9640907",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "細野"
+  },
+  "9640911": {
+    "zipcode": "9640911",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "亀谷"
+  },
+  "9640912": {
+    "zipcode": "9640912",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上竹"
+  },
+  "9640913": {
+    "zipcode": "9640913",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "茶園"
+  },
+  "9640914": {
+    "zipcode": "9640914",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "市海道"
+  },
+  "9640915": {
+    "zipcode": "9640915",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "金色"
+  },
+  "9640916": {
+    "zipcode": "9640916",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "向原"
+  },
+  "9640917": {
+    "zipcode": "9640917",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "本町"
+  },
+  "9640921": {
+    "zipcode": "9640921",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "小セ川"
+  },
+  "9640922": {
+    "zipcode": "9640922",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "島寺"
+  },
+  "9640923": {
+    "zipcode": "9640923",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "長下"
+  },
+  "9640924": {
+    "zipcode": "9640924",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中森"
+  },
+  "9640925": {
+    "zipcode": "9640925",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "谷和子"
+  },
+  "9640926": {
+    "zipcode": "9640926",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "上蓬田"
+  },
+  "9640927": {
+    "zipcode": "9640927",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "石畑"
+  },
+  "9640928": {
+    "zipcode": "9640928",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "蓬田"
+  },
+  "9640929": {
+    "zipcode": "9640929",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "浅川"
+  },
+  "9640931": {
+    "zipcode": "9640931",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "矢ノ戸"
+  },
+  "9640932": {
+    "zipcode": "9640932",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "丑子内"
+  },
+  "9640933": {
+    "zipcode": "9640933",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "西光内"
+  },
+  "9640934": {
+    "zipcode": "9640934",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "三合内"
+  },
+  "9640935": {
+    "zipcode": "9640935",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "島ノ内"
+  },
+  "9640936": {
+    "zipcode": "9640936",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "諸越谷"
+  },
+  "9640937": {
+    "zipcode": "9640937",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "榎戸"
+  },
+  "9640938": {
+    "zipcode": "9640938",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "安達ケ原"
+  },
+  "9640941": {
+    "zipcode": "9640941",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "水上"
+  },
+  "9640942": {
+    "zipcode": "9640942",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "式部内"
+  },
+  "9640943": {
+    "zipcode": "9640943",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "明主内"
+  },
+  "9640944": {
+    "zipcode": "9640944",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "作"
+  },
+  "9640945": {
+    "zipcode": "9640945",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "遠山"
+  },
+  "9640946": {
+    "zipcode": "9640946",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "堀越"
+  },
+  "9640947": {
+    "zipcode": "9640947",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "松林"
+  },
+  "9640948": {
+    "zipcode": "9640948",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "橋本"
+  },
+  "9640949": {
+    "zipcode": "9640949",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大平中井"
+  },
+  "9640951": {
+    "zipcode": "9640951",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "宮本"
+  },
+  "9640952": {
+    "zipcode": "9640952",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "神明石"
+  },
+  "9640953": {
+    "zipcode": "9640953",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "沼ケ作"
+  },
+  "9640954": {
+    "zipcode": "9640954",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大稲場"
+  },
+  "9640955": {
+    "zipcode": "9640955",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "沖"
+  },
+  "9640956": {
+    "zipcode": "9640956",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "木ノ崎"
+  },
+  "9640957": {
+    "zipcode": "9640957",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "太子堂"
+  },
+  "9640958": {
+    "zipcode": "9640958",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "竹ノ内"
+  },
+  "9640961": {
+    "zipcode": "9640961",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "八坂町"
+  },
+  "9640962": {
+    "zipcode": "9640962",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "鈴石東町"
+  },
+  "9640963": {
+    "zipcode": "9640963",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大久保"
+  },
+  "9640964": {
+    "zipcode": "9640964",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "五月町"
+  },
+  "9640965": {
+    "zipcode": "9640965",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "芹沢"
+  },
+  "9640966": {
+    "zipcode": "9640966",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "昭和町"
+  },
+  "9640971": {
+    "zipcode": "9640971",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "米五町"
+  },
+  "9640972": {
+    "zipcode": "9640972",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "鈴石町"
+  },
+  "9640973": {
+    "zipcode": "9640973",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "平石町"
+  },
+  "9640974": {
+    "zipcode": "9640974",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "小高内"
+  },
+  "9640975": {
+    "zipcode": "9640975",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "岡ノ内"
+  },
+  "9640976": {
+    "zipcode": "9640976",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "新生町"
+  },
+  "9640981": {
+    "zipcode": "9640981",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "平石高田"
+  },
+  "9640982": {
+    "zipcode": "9640982",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "赤井沢"
+  },
+  "9640983": {
+    "zipcode": "9640983",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "南トロミ"
+  },
+  "9640984": {
+    "zipcode": "9640984",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "北トロミ"
+  },
+  "9640985": {
+    "zipcode": "9640985",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "高田"
+  },
+  "9640986": {
+    "zipcode": "9640986",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "作田"
+  },
+  "9640987": {
+    "zipcode": "9640987",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "冠木"
+  },
+  "9640991": {
+    "zipcode": "9640991",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "中町"
+  },
+  "9640992": {
+    "zipcode": "9640992",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "平石三丁目"
+  },
+  "9640993": {
+    "zipcode": "9640993",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "田町"
+  },
+  "9640994": {
+    "zipcode": "9640994",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "南町"
+  },
+  "9640995": {
+    "zipcode": "9640995",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "錦町"
+  },
+  "9640996": {
+    "zipcode": "9640996",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "大町"
+  },
+  "9640997": {
+    "zipcode": "9640997",
+    "prefectureCode": "07",
+    "prefectureNumber": 7,
+    "prefecture": "福島県",
+    "city": "二本松市",
+    "town": "江口"
+  }
+}

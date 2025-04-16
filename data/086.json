@@ -1,0 +1,1922 @@
+{
+  "0860061": {
+    "zipcode": "0860061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "明郷"
+  },
+  "0860062": {
+    "zipcode": "0860062",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "湖南"
+  },
+  "0860063": {
+    "zipcode": "0860063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "東厚床"
+  },
+  "0860064": {
+    "zipcode": "0860064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "厚床"
+  },
+  "0860065": {
+    "zipcode": "0860065",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "西厚床"
+  },
+  "0860071": {
+    "zipcode": "0860071",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "槍昔"
+  },
+  "0860072": {
+    "zipcode": "0860072",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "川口"
+  },
+  "0860073": {
+    "zipcode": "0860073",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "酪陽"
+  },
+  "0860074": {
+    "zipcode": "0860074",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "東梅"
+  },
+  "0860075": {
+    "zipcode": "0860075",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "別当賀"
+  },
+  "0860076": {
+    "zipcode": "0860076",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "根室市",
+    "town": "初田牛"
+  },
+  "0860081": {
+    "zipcode": "0860081",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "厚岸郡浜中町",
+    "town": "厚陽"
+  },
+  "0860131": {
+    "zipcode": "0860131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "上風連"
+  },
+  "0860200": {
+    "zipcode": "0860200",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "以下に掲載がない場合"
+  },
+  "0860201": {
+    "zipcode": "0860201",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海宮舞町"
+  },
+  "0860202": {
+    "zipcode": "0860202",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海旭町"
+  },
+  "0860203": {
+    "zipcode": "0860203",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海西本町"
+  },
+  "0860204": {
+    "zipcode": "0860204",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海新栄町"
+  },
+  "0860205": {
+    "zipcode": "0860205",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海常盤町"
+  },
+  "0860211": {
+    "zipcode": "0860211",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海寿町"
+  },
+  "0860212": {
+    "zipcode": "0860212",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海鶴舞町"
+  },
+  "0860213": {
+    "zipcode": "0860213",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "奥行"
+  },
+  "0860214": {
+    "zipcode": "0860214",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海緑町"
+  },
+  "0860215": {
+    "zipcode": "0860215",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海川上町"
+  },
+  "0860216": {
+    "zipcode": "0860216",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "別海"
+  },
+  "0860341": {
+    "zipcode": "0860341",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中西別緑町"
+  },
+  "0860342": {
+    "zipcode": "0860342",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中西別朝日町"
+  },
+  "0860343": {
+    "zipcode": "0860343",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中西別光町"
+  },
+  "0860344": {
+    "zipcode": "0860344",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中西別本町"
+  },
+  "0860345": {
+    "zipcode": "0860345",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中西別"
+  },
+  "0860346": {
+    "zipcode": "0860346",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "矢臼別（その他）"
+  },
+  "0860521": {
+    "zipcode": "0860521",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "床丹（その他）"
+  },
+  "0860522": {
+    "zipcode": "0860522",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "本別海"
+  },
+  "0860523": {
+    "zipcode": "0860523",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "走古丹"
+  },
+  "0860651": {
+    "zipcode": "0860651",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中春別東町"
+  },
+  "0860652": {
+    "zipcode": "0860652",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中春別南町"
+  },
+  "0860653": {
+    "zipcode": "0860653",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中春別西町"
+  },
+  "0860654": {
+    "zipcode": "0860654",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "中春別"
+  },
+  "0860655": {
+    "zipcode": "0860655",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "床丹（１番地）"
+  },
+  "0860656": {
+    "zipcode": "0860656",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "美原"
+  },
+  "0860657": {
+    "zipcode": "0860657",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "豊原"
+  },
+  "0861001": {
+    "zipcode": "0861001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１条南"
+  },
+  "0861002": {
+    "zipcode": "0861002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２条南"
+  },
+  "0861003": {
+    "zipcode": "0861003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３条南"
+  },
+  "0861004": {
+    "zipcode": "0861004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東４条南"
+  },
+  "0861005": {
+    "zipcode": "0861005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東５条南"
+  },
+  "0861006": {
+    "zipcode": "0861006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東６条南"
+  },
+  "0861007": {
+    "zipcode": "0861007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東７条南"
+  },
+  "0861008": {
+    "zipcode": "0861008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東８条南"
+  },
+  "0861009": {
+    "zipcode": "0861009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東９条南"
+  },
+  "0861010": {
+    "zipcode": "0861010",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１０条南"
+  },
+  "0861011": {
+    "zipcode": "0861011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１１条南"
+  },
+  "0861012": {
+    "zipcode": "0861012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１２条南"
+  },
+  "0861013": {
+    "zipcode": "0861013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１３条南"
+  },
+  "0861014": {
+    "zipcode": "0861014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１４条南"
+  },
+  "0861015": {
+    "zipcode": "0861015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１５条南"
+  },
+  "0861016": {
+    "zipcode": "0861016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１６条南"
+  },
+  "0861017": {
+    "zipcode": "0861017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１７条南"
+  },
+  "0861018": {
+    "zipcode": "0861018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１８条南"
+  },
+  "0861019": {
+    "zipcode": "0861019",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１９条南"
+  },
+  "0861020": {
+    "zipcode": "0861020",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２０条南"
+  },
+  "0861021": {
+    "zipcode": "0861021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２１条南"
+  },
+  "0861022": {
+    "zipcode": "0861022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２２条南"
+  },
+  "0861023": {
+    "zipcode": "0861023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２３条南"
+  },
+  "0861024": {
+    "zipcode": "0861024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２４条南"
+  },
+  "0861025": {
+    "zipcode": "0861025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２５条南"
+  },
+  "0861026": {
+    "zipcode": "0861026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２６条南"
+  },
+  "0861027": {
+    "zipcode": "0861027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２７条南"
+  },
+  "0861028": {
+    "zipcode": "0861028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２８条南"
+  },
+  "0861029": {
+    "zipcode": "0861029",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２９条南"
+  },
+  "0861030": {
+    "zipcode": "0861030",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３０条南"
+  },
+  "0861031": {
+    "zipcode": "0861031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３１条南"
+  },
+  "0861032": {
+    "zipcode": "0861032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３２条南"
+  },
+  "0861033": {
+    "zipcode": "0861033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３３条南"
+  },
+  "0861034": {
+    "zipcode": "0861034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３４条南"
+  },
+  "0861035": {
+    "zipcode": "0861035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３５条南"
+  },
+  "0861036": {
+    "zipcode": "0861036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３６条南"
+  },
+  "0861037": {
+    "zipcode": "0861037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３７条南"
+  },
+  "0861038": {
+    "zipcode": "0861038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３８条南"
+  },
+  "0861039": {
+    "zipcode": "0861039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３９条南"
+  },
+  "0861041": {
+    "zipcode": "0861041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１条北"
+  },
+  "0861042": {
+    "zipcode": "0861042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２条北"
+  },
+  "0861043": {
+    "zipcode": "0861043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３条北"
+  },
+  "0861044": {
+    "zipcode": "0861044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東４条北"
+  },
+  "0861045": {
+    "zipcode": "0861045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東５条北"
+  },
+  "0861046": {
+    "zipcode": "0861046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東６条北"
+  },
+  "0861047": {
+    "zipcode": "0861047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東７条北"
+  },
+  "0861048": {
+    "zipcode": "0861048",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東８条北"
+  },
+  "0861049": {
+    "zipcode": "0861049",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東９条北"
+  },
+  "0861050": {
+    "zipcode": "0861050",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１０条北"
+  },
+  "0861051": {
+    "zipcode": "0861051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１１条北"
+  },
+  "0861052": {
+    "zipcode": "0861052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１２条北"
+  },
+  "0861053": {
+    "zipcode": "0861053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１３条北"
+  },
+  "0861054": {
+    "zipcode": "0861054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１４条北"
+  },
+  "0861055": {
+    "zipcode": "0861055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１５条北"
+  },
+  "0861056": {
+    "zipcode": "0861056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１６条北"
+  },
+  "0861057": {
+    "zipcode": "0861057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１７条北"
+  },
+  "0861058": {
+    "zipcode": "0861058",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１８条北"
+  },
+  "0861059": {
+    "zipcode": "0861059",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東１９条北"
+  },
+  "0861060": {
+    "zipcode": "0861060",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２０条北"
+  },
+  "0861061": {
+    "zipcode": "0861061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２１条北"
+  },
+  "0861062": {
+    "zipcode": "0861062",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２２条北"
+  },
+  "0861063": {
+    "zipcode": "0861063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２３条北"
+  },
+  "0861064": {
+    "zipcode": "0861064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２４条北"
+  },
+  "0861065": {
+    "zipcode": "0861065",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２５条北"
+  },
+  "0861066": {
+    "zipcode": "0861066",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２６条北"
+  },
+  "0861067": {
+    "zipcode": "0861067",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２７条北"
+  },
+  "0861068": {
+    "zipcode": "0861068",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２８条北"
+  },
+  "0861069": {
+    "zipcode": "0861069",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東２９条北"
+  },
+  "0861070": {
+    "zipcode": "0861070",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３０条北"
+  },
+  "0861071": {
+    "zipcode": "0861071",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３１条北"
+  },
+  "0861072": {
+    "zipcode": "0861072",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３２条北"
+  },
+  "0861073": {
+    "zipcode": "0861073",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３３条北"
+  },
+  "0861074": {
+    "zipcode": "0861074",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３４条北"
+  },
+  "0861075": {
+    "zipcode": "0861075",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３５条北"
+  },
+  "0861076": {
+    "zipcode": "0861076",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３６条北"
+  },
+  "0861077": {
+    "zipcode": "0861077",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３７条北"
+  },
+  "0861078": {
+    "zipcode": "0861078",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３８条北"
+  },
+  "0861079": {
+    "zipcode": "0861079",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東３９条北"
+  },
+  "0861080": {
+    "zipcode": "0861080",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東４０条北"
+  },
+  "0861081": {
+    "zipcode": "0861081",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東４１条北"
+  },
+  "0861082": {
+    "zipcode": "0861082",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東４２条北"
+  },
+  "0861083": {
+    "zipcode": "0861083",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東中"
+  },
+  "0861100": {
+    "zipcode": "0861100",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "以下に掲載がない場合"
+  },
+  "0861101": {
+    "zipcode": "0861101",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１条南"
+  },
+  "0861102": {
+    "zipcode": "0861102",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西２条南"
+  },
+  "0861103": {
+    "zipcode": "0861103",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西３条南"
+  },
+  "0861104": {
+    "zipcode": "0861104",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西４条南"
+  },
+  "0861105": {
+    "zipcode": "0861105",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西５条南"
+  },
+  "0861106": {
+    "zipcode": "0861106",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西６条南"
+  },
+  "0861107": {
+    "zipcode": "0861107",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西７条南"
+  },
+  "0861108": {
+    "zipcode": "0861108",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西８条南"
+  },
+  "0861109": {
+    "zipcode": "0861109",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西９条南"
+  },
+  "0861110": {
+    "zipcode": "0861110",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１０条南"
+  },
+  "0861111": {
+    "zipcode": "0861111",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１１条南"
+  },
+  "0861112": {
+    "zipcode": "0861112",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１２条南"
+  },
+  "0861121": {
+    "zipcode": "0861121",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１条北"
+  },
+  "0861122": {
+    "zipcode": "0861122",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西２条北"
+  },
+  "0861123": {
+    "zipcode": "0861123",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西３条北"
+  },
+  "0861124": {
+    "zipcode": "0861124",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西４条北"
+  },
+  "0861125": {
+    "zipcode": "0861125",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西５条北"
+  },
+  "0861126": {
+    "zipcode": "0861126",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西６条北"
+  },
+  "0861127": {
+    "zipcode": "0861127",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西７条北"
+  },
+  "0861128": {
+    "zipcode": "0861128",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西８条北"
+  },
+  "0861129": {
+    "zipcode": "0861129",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西９条北"
+  },
+  "0861130": {
+    "zipcode": "0861130",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１０条北"
+  },
+  "0861131": {
+    "zipcode": "0861131",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１１条北"
+  },
+  "0861132": {
+    "zipcode": "0861132",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１２条北"
+  },
+  "0861133": {
+    "zipcode": "0861133",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１３条北"
+  },
+  "0861134": {
+    "zipcode": "0861134",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西１４条北"
+  },
+  "0861135": {
+    "zipcode": "0861135",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "旭ケ丘"
+  },
+  "0861136": {
+    "zipcode": "0861136",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "協和"
+  },
+  "0861137": {
+    "zipcode": "0861137",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "俵橋"
+  },
+  "0861139": {
+    "zipcode": "0861139",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "豊岡"
+  },
+  "0861141": {
+    "zipcode": "0861141",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "大通北"
+  },
+  "0861142": {
+    "zipcode": "0861142",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "大通南"
+  },
+  "0861143": {
+    "zipcode": "0861143",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "当幌本通"
+  },
+  "0861144": {
+    "zipcode": "0861144",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "東当幌"
+  },
+  "0861145": {
+    "zipcode": "0861145",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "北中"
+  },
+  "0861146": {
+    "zipcode": "0861146",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "南町"
+  },
+  "0861147": {
+    "zipcode": "0861147",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "共立"
+  },
+  "0861148": {
+    "zipcode": "0861148",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "緑ケ丘"
+  },
+  "0861150": {
+    "zipcode": "0861150",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "南中"
+  },
+  "0861151": {
+    "zipcode": "0861151",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "川西"
+  },
+  "0861152": {
+    "zipcode": "0861152",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "北町"
+  },
+  "0861153": {
+    "zipcode": "0861153",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "桜ケ丘"
+  },
+  "0861156": {
+    "zipcode": "0861156",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "並美ケ丘"
+  },
+  "0861157": {
+    "zipcode": "0861157",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "西町"
+  },
+  "0861159": {
+    "zipcode": "0861159",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "青葉台"
+  },
+  "0861160": {
+    "zipcode": "0861160",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "りんどう町"
+  },
+  "0861163": {
+    "zipcode": "0861163",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "俵中"
+  },
+  "0861164": {
+    "zipcode": "0861164",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "丸山"
+  },
+  "0861165": {
+    "zipcode": "0861165",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "緑町北"
+  },
+  "0861166": {
+    "zipcode": "0861166",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "緑町南"
+  },
+  "0861271": {
+    "zipcode": "0861271",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "武佐"
+  },
+  "0861272": {
+    "zipcode": "0861272",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "開陽"
+  },
+  "0861273": {
+    "zipcode": "0861273",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡中標津町",
+    "town": "俣落（その他）"
+  },
+  "0861451": {
+    "zipcode": "0861451",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "川北"
+  },
+  "0861600": {
+    "zipcode": "0861600",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "以下に掲載がない場合"
+  },
+  "0861601": {
+    "zipcode": "0861601",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "忠類"
+  },
+  "0861602": {
+    "zipcode": "0861602",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "伊茶仁"
+  },
+  "0861621": {
+    "zipcode": "0861621",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "茶志骨（パイロット）"
+  },
+  "0861622": {
+    "zipcode": "0861622",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "茶志骨"
+  },
+  "0861623": {
+    "zipcode": "0861623",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "茶志骨（東茶志骨）"
+  },
+  "0861625": {
+    "zipcode": "0861625",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "茶志骨（住吉町）"
+  },
+  "0861626": {
+    "zipcode": "0861626",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "茶志骨（東浜町）"
+  },
+  "0861630": {
+    "zipcode": "0861630",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北十条"
+  },
+  "0861631": {
+    "zipcode": "0861631",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北一条"
+  },
+  "0861632": {
+    "zipcode": "0861632",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北二条"
+  },
+  "0861633": {
+    "zipcode": "0861633",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北三条"
+  },
+  "0861634": {
+    "zipcode": "0861634",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北四条"
+  },
+  "0861635": {
+    "zipcode": "0861635",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北五条"
+  },
+  "0861636": {
+    "zipcode": "0861636",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北六条"
+  },
+  "0861637": {
+    "zipcode": "0861637",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北七条"
+  },
+  "0861638": {
+    "zipcode": "0861638",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北八条"
+  },
+  "0861639": {
+    "zipcode": "0861639",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "北九条"
+  },
+  "0861641": {
+    "zipcode": "0861641",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "尾岱沼"
+  },
+  "0861642": {
+    "zipcode": "0861642",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "尾岱沼岬町"
+  },
+  "0861643": {
+    "zipcode": "0861643",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "尾岱沼港町"
+  },
+  "0861644": {
+    "zipcode": "0861644",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "尾岱沼潮見町"
+  },
+  "0861645": {
+    "zipcode": "0861645",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "野付郡別海町",
+    "town": "野付"
+  },
+  "0861651": {
+    "zipcode": "0861651",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南一条"
+  },
+  "0861652": {
+    "zipcode": "0861652",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南二条"
+  },
+  "0861653": {
+    "zipcode": "0861653",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南三条"
+  },
+  "0861654": {
+    "zipcode": "0861654",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南四条"
+  },
+  "0861655": {
+    "zipcode": "0861655",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南五条"
+  },
+  "0861656": {
+    "zipcode": "0861656",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南六条"
+  },
+  "0861657": {
+    "zipcode": "0861657",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南七条"
+  },
+  "0861658": {
+    "zipcode": "0861658",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "南八条"
+  },
+  "0861731": {
+    "zipcode": "0861731",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "古多糠"
+  },
+  "0861732": {
+    "zipcode": "0861732",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "薫別"
+  },
+  "0861733": {
+    "zipcode": "0861733",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "標津郡標津町",
+    "town": "崎無異"
+  },
+  "0861751": {
+    "zipcode": "0861751",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "峯浜町"
+  },
+  "0861752": {
+    "zipcode": "0861752",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "幌萌町（その他）"
+  },
+  "0861800": {
+    "zipcode": "0861800",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "以下に掲載がない場合"
+  },
+  "0861801": {
+    "zipcode": "0861801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "知床岬"
+  },
+  "0861802": {
+    "zipcode": "0861802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "滝ノ下"
+  },
+  "0861803": {
+    "zipcode": "0861803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "船泊"
+  },
+  "0861804": {
+    "zipcode": "0861804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "化石浜"
+  },
+  "0861805": {
+    "zipcode": "0861805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "崩浜"
+  },
+  "0861806": {
+    "zipcode": "0861806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "相泊"
+  },
+  "0861811": {
+    "zipcode": "0861811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "瀬石"
+  },
+  "0861812": {
+    "zipcode": "0861812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "昆布浜"
+  },
+  "0861813": {
+    "zipcode": "0861813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "北浜"
+  },
+  "0861814": {
+    "zipcode": "0861814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "岬町"
+  },
+  "0861815": {
+    "zipcode": "0861815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "海岸町"
+  },
+  "0861816": {
+    "zipcode": "0861816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "共栄町"
+  },
+  "0861821": {
+    "zipcode": "0861821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "緑町"
+  },
+  "0861822": {
+    "zipcode": "0861822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "湯ノ沢町"
+  },
+  "0861823": {
+    "zipcode": "0861823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "栄町"
+  },
+  "0861831": {
+    "zipcode": "0861831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "富士見町"
+  },
+  "0861832": {
+    "zipcode": "0861832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "船見町"
+  },
+  "0861833": {
+    "zipcode": "0861833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "本町"
+  },
+  "0861834": {
+    "zipcode": "0861834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "礼文町"
+  },
+  "0861835": {
+    "zipcode": "0861835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "松法町"
+  },
+  "0861836": {
+    "zipcode": "0861836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "知昭町"
+  },
+  "0861841": {
+    "zipcode": "0861841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "八木浜町"
+  },
+  "0861842": {
+    "zipcode": "0861842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "麻布町"
+  },
+  "0861843": {
+    "zipcode": "0861843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "春日町"
+  },
+  "0861844": {
+    "zipcode": "0861844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "目梨郡羅臼町",
+    "town": "幌萌町（４０−１、６２３番地）"
+  }
+}

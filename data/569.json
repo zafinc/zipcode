@@ -1,0 +1,1562 @@
+{
+  "5690000": {
+    "zipcode": "5690000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "以下に掲載がない場合"
+  },
+  "5690001": {
+    "zipcode": "5690001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "淀の原町"
+  },
+  "5690002": {
+    "zipcode": "5690002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "東上牧"
+  },
+  "5690003": {
+    "zipcode": "5690003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上牧町"
+  },
+  "5690004": {
+    "zipcode": "5690004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上牧南駅前町"
+  },
+  "5690005": {
+    "zipcode": "5690005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上牧北駅前町"
+  },
+  "5690006": {
+    "zipcode": "5690006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上牧山手町"
+  },
+  "5690007": {
+    "zipcode": "5690007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "神内"
+  },
+  "5690011": {
+    "zipcode": "5690011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "道鵜町"
+  },
+  "5690012": {
+    "zipcode": "5690012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "東天川"
+  },
+  "5690013": {
+    "zipcode": "5690013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "野田"
+  },
+  "5690014": {
+    "zipcode": "5690014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "野田東"
+  },
+  "5690015": {
+    "zipcode": "5690015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "井尻"
+  },
+  "5690016": {
+    "zipcode": "5690016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "五領町"
+  },
+  "5690021": {
+    "zipcode": "5690021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "前島"
+  },
+  "5690022": {
+    "zipcode": "5690022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "須賀町"
+  },
+  "5690023": {
+    "zipcode": "5690023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "松川町"
+  },
+  "5690024": {
+    "zipcode": "5690024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "日向町"
+  },
+  "5690025": {
+    "zipcode": "5690025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "藤の里町"
+  },
+  "5690026": {
+    "zipcode": "5690026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "天川町"
+  },
+  "5690027": {
+    "zipcode": "5690027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "天川新町"
+  },
+  "5690031": {
+    "zipcode": "5690031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大冠町"
+  },
+  "5690032": {
+    "zipcode": "5690032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "東和町"
+  },
+  "5690033": {
+    "zipcode": "5690033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "深沢本町"
+  },
+  "5690034": {
+    "zipcode": "5690034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大塚町"
+  },
+  "5690035": {
+    "zipcode": "5690035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "深沢町"
+  },
+  "5690036": {
+    "zipcode": "5690036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "辻子"
+  },
+  "5690041": {
+    "zipcode": "5690041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "北大樋町"
+  },
+  "5690042": {
+    "zipcode": "5690042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南大樋町"
+  },
+  "5690043": {
+    "zipcode": "5690043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "竹の内町"
+  },
+  "5690044": {
+    "zipcode": "5690044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "番田"
+  },
+  "5690045": {
+    "zipcode": "5690045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西大樋町"
+  },
+  "5690046": {
+    "zipcode": "5690046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "登町"
+  },
+  "5690047": {
+    "zipcode": "5690047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "堤町"
+  },
+  "5690051": {
+    "zipcode": "5690051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "八幡町"
+  },
+  "5690052": {
+    "zipcode": "5690052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "城東町"
+  },
+  "5690053": {
+    "zipcode": "5690053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "春日町"
+  },
+  "5690054": {
+    "zipcode": "5690054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "若松町"
+  },
+  "5690055": {
+    "zipcode": "5690055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西冠"
+  },
+  "5690056": {
+    "zipcode": "5690056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "城南町"
+  },
+  "5690057": {
+    "zipcode": "5690057",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "土橋町"
+  },
+  "5690061": {
+    "zipcode": "5690061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "高西町"
+  },
+  "5690062": {
+    "zipcode": "5690062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "下田部町"
+  },
+  "5690063": {
+    "zipcode": "5690063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南庄所町"
+  },
+  "5690064": {
+    "zipcode": "5690064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "庄所町"
+  },
+  "5690065": {
+    "zipcode": "5690065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "城西町"
+  },
+  "5690066": {
+    "zipcode": "5690066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "中川町"
+  },
+  "5690067": {
+    "zipcode": "5690067",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "桃園町"
+  },
+  "5690071": {
+    "zipcode": "5690071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "城北町"
+  },
+  "5690072": {
+    "zipcode": "5690072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "京口町"
+  },
+  "5690073": {
+    "zipcode": "5690073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上本町"
+  },
+  "5690074": {
+    "zipcode": "5690074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "本町"
+  },
+  "5690075": {
+    "zipcode": "5690075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "城内町"
+  },
+  "5690076": {
+    "zipcode": "5690076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "出丸町"
+  },
+  "5690077": {
+    "zipcode": "5690077",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "野見町"
+  },
+  "5690078": {
+    "zipcode": "5690078",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大手町"
+  },
+  "5690081": {
+    "zipcode": "5690081",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "宮野町"
+  },
+  "5690082": {
+    "zipcode": "5690082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "明野町"
+  },
+  "5690083": {
+    "zipcode": "5690083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "永楽町"
+  },
+  "5690084": {
+    "zipcode": "5690084",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "沢良木町"
+  },
+  "5690085": {
+    "zipcode": "5690085",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南松原町"
+  },
+  "5690086": {
+    "zipcode": "5690086",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "松原町"
+  },
+  "5690087": {
+    "zipcode": "5690087",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "千代田町"
+  },
+  "5690088": {
+    "zipcode": "5690088",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "天王町"
+  },
+  "5690091": {
+    "zipcode": "5690091",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "梶原"
+  },
+  "5690092": {
+    "zipcode": "5690092",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "梶原中村町"
+  },
+  "5690093": {
+    "zipcode": "5690093",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "萩之庄"
+  },
+  "5690094": {
+    "zipcode": "5690094",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "緑町"
+  },
+  "5690095": {
+    "zipcode": "5690095",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "八丁西町"
+  },
+  "5690096": {
+    "zipcode": "5690096",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "八丁畷町"
+  },
+  "5690097": {
+    "zipcode": "5690097",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "高垣町"
+  },
+  "5690801": {
+    "zipcode": "5690801",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大学町"
+  },
+  "5690802": {
+    "zipcode": "5690802",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "北園町"
+  },
+  "5690803": {
+    "zipcode": "5690803",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "高槻町"
+  },
+  "5690804": {
+    "zipcode": "5690804",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "紺屋町"
+  },
+  "5690805": {
+    "zipcode": "5690805",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上田辺町"
+  },
+  "5690806": {
+    "zipcode": "5690806",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "明田町"
+  },
+  "5690807": {
+    "zipcode": "5690807",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "桜町"
+  },
+  "5690811": {
+    "zipcode": "5690811",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "東五百住町"
+  },
+  "5690812": {
+    "zipcode": "5690812",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "登美の里町"
+  },
+  "5690813": {
+    "zipcode": "5690813",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西五百住町"
+  },
+  "5690814": {
+    "zipcode": "5690814",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "富田町"
+  },
+  "5690815": {
+    "zipcode": "5690815",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "昭和台町"
+  },
+  "5690816": {
+    "zipcode": "5690816",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "北昭和台町"
+  },
+  "5690817": {
+    "zipcode": "5690817",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "桜ケ丘北町"
+  },
+  "5690818": {
+    "zipcode": "5690818",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "桜ケ丘南町"
+  },
+  "5690821": {
+    "zipcode": "5690821",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "津之江北町"
+  },
+  "5690822": {
+    "zipcode": "5690822",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "津之江町"
+  },
+  "5690823": {
+    "zipcode": "5690823",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "芝生町"
+  },
+  "5690824": {
+    "zipcode": "5690824",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "川添"
+  },
+  "5690825": {
+    "zipcode": "5690825",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "栄町"
+  },
+  "5690826": {
+    "zipcode": "5690826",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "寿町"
+  },
+  "5690827": {
+    "zipcode": "5690827",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "如是町"
+  },
+  "5690831": {
+    "zipcode": "5690831",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "唐崎北"
+  },
+  "5690832": {
+    "zipcode": "5690832",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "唐崎中"
+  },
+  "5690833": {
+    "zipcode": "5690833",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "唐崎南"
+  },
+  "5690834": {
+    "zipcode": "5690834",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "唐崎"
+  },
+  "5690835": {
+    "zipcode": "5690835",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "三島江"
+  },
+  "5690836": {
+    "zipcode": "5690836",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "唐崎西"
+  },
+  "5690841": {
+    "zipcode": "5690841",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西面北"
+  },
+  "5690842": {
+    "zipcode": "5690842",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西面中"
+  },
+  "5690843": {
+    "zipcode": "5690843",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "三箇牧"
+  },
+  "5690844": {
+    "zipcode": "5690844",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "柱本"
+  },
+  "5690845": {
+    "zipcode": "5690845",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "柱本南町"
+  },
+  "5690846": {
+    "zipcode": "5690846",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "柱本新町"
+  },
+  "5690847": {
+    "zipcode": "5690847",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西面南"
+  },
+  "5690851": {
+    "zipcode": "5690851",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南総持寺町"
+  },
+  "5690852": {
+    "zipcode": "5690852",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "北柳川町"
+  },
+  "5690853": {
+    "zipcode": "5690853",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "柳川町"
+  },
+  "5690854": {
+    "zipcode": "5690854",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西町"
+  },
+  "5690855": {
+    "zipcode": "5690855",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "牧田町"
+  },
+  "5690856": {
+    "zipcode": "5690856",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "玉川新町"
+  },
+  "5690857": {
+    "zipcode": "5690857",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "玉川"
+  },
+  "5691001": {
+    "zipcode": "5691001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "中畑"
+  },
+  "5691002": {
+    "zipcode": "5691002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "田能"
+  },
+  "5691003": {
+    "zipcode": "5691003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "出灰"
+  },
+  "5691004": {
+    "zipcode": "5691004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "二料"
+  },
+  "5691005": {
+    "zipcode": "5691005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "杉生"
+  },
+  "5691011": {
+    "zipcode": "5691011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "川久保"
+  },
+  "5691012": {
+    "zipcode": "5691012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合"
+  },
+  "5691013": {
+    "zipcode": "5691013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合南の町"
+  },
+  "5691014": {
+    "zipcode": "5691014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合東の町"
+  },
+  "5691015": {
+    "zipcode": "5691015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合中の町"
+  },
+  "5691016": {
+    "zipcode": "5691016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合西の町"
+  },
+  "5691017": {
+    "zipcode": "5691017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "成合北の町"
+  },
+  "5691018": {
+    "zipcode": "5691018",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "花林苑"
+  },
+  "5691020": {
+    "zipcode": "5691020",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "高見台"
+  },
+  "5691021": {
+    "zipcode": "5691021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "弥生が丘町"
+  },
+  "5691022": {
+    "zipcode": "5691022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "日吉台"
+  },
+  "5691023": {
+    "zipcode": "5691023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "宮が谷町"
+  },
+  "5691024": {
+    "zipcode": "5691024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "寺谷町"
+  },
+  "5691025": {
+    "zipcode": "5691025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "芝谷町"
+  },
+  "5691026": {
+    "zipcode": "5691026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "緑が丘"
+  },
+  "5691027": {
+    "zipcode": "5691027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "浦堂"
+  },
+  "5691028": {
+    "zipcode": "5691028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "浦堂本町"
+  },
+  "5691029": {
+    "zipcode": "5691029",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安岡寺町"
+  },
+  "5691031": {
+    "zipcode": "5691031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "松が丘"
+  },
+  "5691032": {
+    "zipcode": "5691032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "宮之川原"
+  },
+  "5691033": {
+    "zipcode": "5691033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "宮之川原元町"
+  },
+  "5691034": {
+    "zipcode": "5691034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大蔵司"
+  },
+  "5691035": {
+    "zipcode": "5691035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西之川原"
+  },
+  "5691036": {
+    "zipcode": "5691036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "塚脇"
+  },
+  "5691037": {
+    "zipcode": "5691037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "東城山町"
+  },
+  "5691038": {
+    "zipcode": "5691038",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "黄金の里"
+  },
+  "5691039": {
+    "zipcode": "5691039",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "清水台"
+  },
+  "5691041": {
+    "zipcode": "5691041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "奈佐原"
+  },
+  "5691042": {
+    "zipcode": "5691042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南平台"
+  },
+  "5691043": {
+    "zipcode": "5691043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "奈佐原元町"
+  },
+  "5691044": {
+    "zipcode": "5691044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "上土室"
+  },
+  "5691045": {
+    "zipcode": "5691045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "阿武野"
+  },
+  "5691046": {
+    "zipcode": "5691046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "塚原"
+  },
+  "5691047": {
+    "zipcode": "5691047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大和"
+  },
+  "5691051": {
+    "zipcode": "5691051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "原"
+  },
+  "5691052": {
+    "zipcode": "5691052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "霊仙寺町"
+  },
+  "5691053": {
+    "zipcode": "5691053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "萩谷月見台"
+  },
+  "5691054": {
+    "zipcode": "5691054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "萩谷"
+  },
+  "5691101": {
+    "zipcode": "5691101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満御所の町"
+  },
+  "5691102": {
+    "zipcode": "5691102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満磐手町"
+  },
+  "5691103": {
+    "zipcode": "5691103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "山手町"
+  },
+  "5691104": {
+    "zipcode": "5691104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満東の町"
+  },
+  "5691105": {
+    "zipcode": "5691105",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満中の町"
+  },
+  "5691106": {
+    "zipcode": "5691106",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満新町"
+  },
+  "5691107": {
+    "zipcode": "5691107",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満西の町"
+  },
+  "5691108": {
+    "zipcode": "5691108",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "安満北の町"
+  },
+  "5691109": {
+    "zipcode": "5691109",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "紅茸町"
+  },
+  "5691111": {
+    "zipcode": "5691111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "美しが丘"
+  },
+  "5691112": {
+    "zipcode": "5691112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "別所本町"
+  },
+  "5691113": {
+    "zipcode": "5691113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "別所中の町"
+  },
+  "5691114": {
+    "zipcode": "5691114",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "別所新町"
+  },
+  "5691115": {
+    "zipcode": "5691115",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "古曽部町"
+  },
+  "5691116": {
+    "zipcode": "5691116",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "白梅町"
+  },
+  "5691117": {
+    "zipcode": "5691117",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "天神町"
+  },
+  "5691118": {
+    "zipcode": "5691118",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "奥天神町"
+  },
+  "5691121": {
+    "zipcode": "5691121",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "真上町"
+  },
+  "5691122": {
+    "zipcode": "5691122",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "月見町"
+  },
+  "5691123": {
+    "zipcode": "5691123",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "芥川町"
+  },
+  "5691124": {
+    "zipcode": "5691124",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "南芥川町"
+  },
+  "5691125": {
+    "zipcode": "5691125",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "紫町"
+  },
+  "5691126": {
+    "zipcode": "5691126",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "殿町"
+  },
+  "5691127": {
+    "zipcode": "5691127",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "西真上"
+  },
+  "5691128": {
+    "zipcode": "5691128",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "名神町"
+  },
+  "5691131": {
+    "zipcode": "5691131",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "郡家本町"
+  },
+  "5691132": {
+    "zipcode": "5691132",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "清福寺町"
+  },
+  "5691133": {
+    "zipcode": "5691133",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "川西町"
+  },
+  "5691134": {
+    "zipcode": "5691134",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "朝日町"
+  },
+  "5691135": {
+    "zipcode": "5691135",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "今城町"
+  },
+  "5691136": {
+    "zipcode": "5691136",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "郡家新町"
+  },
+  "5691137": {
+    "zipcode": "5691137",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "岡本町"
+  },
+  "5691141": {
+    "zipcode": "5691141",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "氷室町"
+  },
+  "5691142": {
+    "zipcode": "5691142",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "宮田町"
+  },
+  "5691143": {
+    "zipcode": "5691143",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "幸町"
+  },
+  "5691144": {
+    "zipcode": "5691144",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "大畑町"
+  },
+  "5691145": {
+    "zipcode": "5691145",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "富田丘町"
+  },
+  "5691146": {
+    "zipcode": "5691146",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "赤大路町"
+  },
+  "5691147": {
+    "zipcode": "5691147",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "高槻市",
+    "town": "土室町"
+  }
+}

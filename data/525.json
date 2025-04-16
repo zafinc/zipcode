@@ -1,0 +1,458 @@
+{
+  "5250000": {
+    "zipcode": "5250000",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "以下に掲載がない場合"
+  },
+  "5250001": {
+    "zipcode": "5250001",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "下物町"
+  },
+  "5250002": {
+    "zipcode": "5250002",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "芦浦町"
+  },
+  "5250003": {
+    "zipcode": "5250003",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "長束町"
+  },
+  "5250004": {
+    "zipcode": "5250004",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "上寺町"
+  },
+  "5250005": {
+    "zipcode": "5250005",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "志那町"
+  },
+  "5250006": {
+    "zipcode": "5250006",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "志那中町"
+  },
+  "5250007": {
+    "zipcode": "5250007",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "下寺町"
+  },
+  "5250011": {
+    "zipcode": "5250011",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "片岡町"
+  },
+  "5250012": {
+    "zipcode": "5250012",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "穴村町"
+  },
+  "5250013": {
+    "zipcode": "5250013",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "新堂町"
+  },
+  "5250014": {
+    "zipcode": "5250014",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "駒井沢町"
+  },
+  "5250015": {
+    "zipcode": "5250015",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "集町"
+  },
+  "5250016": {
+    "zipcode": "5250016",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "北大萱町"
+  },
+  "5250021": {
+    "zipcode": "5250021",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "川原"
+  },
+  "5250022": {
+    "zipcode": "5250022",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "川原町"
+  },
+  "5250023": {
+    "zipcode": "5250023",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "平井"
+  },
+  "5250024": {
+    "zipcode": "5250024",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "平井町"
+  },
+  "5250025": {
+    "zipcode": "5250025",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "西渋川"
+  },
+  "5250026": {
+    "zipcode": "5250026",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "渋川"
+  },
+  "5250027": {
+    "zipcode": "5250027",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "野村"
+  },
+  "5250028": {
+    "zipcode": "5250028",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "上笠"
+  },
+  "5250029": {
+    "zipcode": "5250029",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "下笠町"
+  },
+  "5250031": {
+    "zipcode": "5250031",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "若竹町"
+  },
+  "5250032": {
+    "zipcode": "5250032",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "大路"
+  },
+  "5250033": {
+    "zipcode": "5250033",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "東草津"
+  },
+  "5250034": {
+    "zipcode": "5250034",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "草津"
+  },
+  "5250035": {
+    "zipcode": "5250035",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "西草津"
+  },
+  "5250036": {
+    "zipcode": "5250036",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "草津町"
+  },
+  "5250037": {
+    "zipcode": "5250037",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "西大路町"
+  },
+  "5250041": {
+    "zipcode": "5250041",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "青地町"
+  },
+  "5250042": {
+    "zipcode": "5250042",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "山寺町"
+  },
+  "5250043": {
+    "zipcode": "5250043",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "馬場町"
+  },
+  "5250044": {
+    "zipcode": "5250044",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "岡本町"
+  },
+  "5250045": {
+    "zipcode": "5250045",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "若草"
+  },
+  "5250047": {
+    "zipcode": "5250047",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "追分"
+  },
+  "5250048": {
+    "zipcode": "5250048",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "追分南"
+  },
+  "5250050": {
+    "zipcode": "5250050",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "南草津"
+  },
+  "5250051": {
+    "zipcode": "5250051",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "木川町"
+  },
+  "5250052": {
+    "zipcode": "5250052",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "西矢倉"
+  },
+  "5250053": {
+    "zipcode": "5250053",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "矢倉"
+  },
+  "5250054": {
+    "zipcode": "5250054",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "東矢倉"
+  },
+  "5250055": {
+    "zipcode": "5250055",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "野路町"
+  },
+  "5250056": {
+    "zipcode": "5250056",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "南笠町"
+  },
+  "5250057": {
+    "zipcode": "5250057",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "桜ケ丘"
+  },
+  "5250058": {
+    "zipcode": "5250058",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "野路東"
+  },
+  "5250059": {
+    "zipcode": "5250059",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "野路"
+  },
+  "5250061": {
+    "zipcode": "5250061",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "北山田町"
+  },
+  "5250062": {
+    "zipcode": "5250062",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "山田町"
+  },
+  "5250063": {
+    "zipcode": "5250063",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "南山田町"
+  },
+  "5250064": {
+    "zipcode": "5250064",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "御倉町"
+  },
+  "5250065": {
+    "zipcode": "5250065",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "橋岡町"
+  },
+  "5250066": {
+    "zipcode": "5250066",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "矢橋町"
+  },
+  "5250067": {
+    "zipcode": "5250067",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "新浜町"
+  },
+  "5250068": {
+    "zipcode": "5250068",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "南草津プリムタウン"
+  },
+  "5250071": {
+    "zipcode": "5250071",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "南笠東"
+  },
+  "5250072": {
+    "zipcode": "5250072",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "草津市",
+    "town": "笠山"
+  }
+}

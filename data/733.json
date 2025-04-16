@@ -1,0 +1,498 @@
+{
+  "7330000": {
+    "zipcode": "7330000",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "以下に掲載がない場合"
+  },
+  "7330001": {
+    "zipcode": "7330001",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "大芝"
+  },
+  "7330002": {
+    "zipcode": "7330002",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "楠木町"
+  },
+  "7330003": {
+    "zipcode": "7330003",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "三篠町"
+  },
+  "7330004": {
+    "zipcode": "7330004",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "打越町"
+  },
+  "7330005": {
+    "zipcode": "7330005",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "三滝町"
+  },
+  "7330006": {
+    "zipcode": "7330006",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "三篠北町"
+  },
+  "7330007": {
+    "zipcode": "7330007",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "大宮"
+  },
+  "7330011": {
+    "zipcode": "7330011",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "横川町"
+  },
+  "7330012": {
+    "zipcode": "7330012",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "中広町"
+  },
+  "7330013": {
+    "zipcode": "7330013",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "横川新町"
+  },
+  "7330021": {
+    "zipcode": "7330021",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "上天満町"
+  },
+  "7330022": {
+    "zipcode": "7330022",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "天満町"
+  },
+  "7330023": {
+    "zipcode": "7330023",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "都町"
+  },
+  "7330024": {
+    "zipcode": "7330024",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "福島町"
+  },
+  "7330025": {
+    "zipcode": "7330025",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "小河内町"
+  },
+  "7330031": {
+    "zipcode": "7330031",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "観音町"
+  },
+  "7330032": {
+    "zipcode": "7330032",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "東観音町"
+  },
+  "7330033": {
+    "zipcode": "7330033",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "観音本町"
+  },
+  "7330034": {
+    "zipcode": "7330034",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "南観音町"
+  },
+  "7330035": {
+    "zipcode": "7330035",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "南観音"
+  },
+  "7330036": {
+    "zipcode": "7330036",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "観音新町"
+  },
+  "7330037": {
+    "zipcode": "7330037",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "西観音町"
+  },
+  "7330801": {
+    "zipcode": "7330801",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "新庄町"
+  },
+  "7330802": {
+    "zipcode": "7330802",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "三滝本町"
+  },
+  "7330803": {
+    "zipcode": "7330803",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "竜王町"
+  },
+  "7330804": {
+    "zipcode": "7330804",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "山手町"
+  },
+  "7330805": {
+    "zipcode": "7330805",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "三滝山"
+  },
+  "7330811": {
+    "zipcode": "7330811",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐東"
+  },
+  "7330812": {
+    "zipcode": "7330812",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐本町"
+  },
+  "7330813": {
+    "zipcode": "7330813",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐中"
+  },
+  "7330814": {
+    "zipcode": "7330814",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐西町"
+  },
+  "7330815": {
+    "zipcode": "7330815",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐上"
+  },
+  "7330816": {
+    "zipcode": "7330816",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "己斐大迫"
+  },
+  "7330821": {
+    "zipcode": "7330821",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "庚午北"
+  },
+  "7330822": {
+    "zipcode": "7330822",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "庚午中"
+  },
+  "7330823": {
+    "zipcode": "7330823",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "庚午南"
+  },
+  "7330831": {
+    "zipcode": "7330831",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "扇"
+  },
+  "7330832": {
+    "zipcode": "7330832",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津港"
+  },
+  "7330833": {
+    "zipcode": "7330833",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "商工センター"
+  },
+  "7330834": {
+    "zipcode": "7330834",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津新町"
+  },
+  "7330841": {
+    "zipcode": "7330841",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "井口明神"
+  },
+  "7330842": {
+    "zipcode": "7330842",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "井口"
+  },
+  "7330843": {
+    "zipcode": "7330843",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "井口鈴が台"
+  },
+  "7330844": {
+    "zipcode": "7330844",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "井口台"
+  },
+  "7330845": {
+    "zipcode": "7330845",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "井口町"
+  },
+  "7330851": {
+    "zipcode": "7330851",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "田方"
+  },
+  "7330852": {
+    "zipcode": "7330852",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "鈴が峰町"
+  },
+  "7330853": {
+    "zipcode": "7330853",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "山田新町"
+  },
+  "7330854": {
+    "zipcode": "7330854",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "山田町"
+  },
+  "7330861": {
+    "zipcode": "7330861",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津東"
+  },
+  "7330862": {
+    "zipcode": "7330862",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津浜町"
+  },
+  "7330863": {
+    "zipcode": "7330863",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津南"
+  },
+  "7330864": {
+    "zipcode": "7330864",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津梅が台"
+  },
+  "7330865": {
+    "zipcode": "7330865",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "草津本町"
+  },
+  "7330871": {
+    "zipcode": "7330871",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "高須"
+  },
+  "7330872": {
+    "zipcode": "7330872",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "古江東町"
+  },
+  "7330873": {
+    "zipcode": "7330873",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "古江新町"
+  },
+  "7330874": {
+    "zipcode": "7330874",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "古江西町"
+  },
+  "7330875": {
+    "zipcode": "7330875",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "古江上"
+  },
+  "7330876": {
+    "zipcode": "7330876",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "高須台"
+  },
+  "7330877": {
+    "zipcode": "7330877",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市西区",
+    "town": "古田台"
+  }
+}

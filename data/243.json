@@ -1,0 +1,922 @@
+{
+  "2430000": {
+    "zipcode": "2430000",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "以下に掲載がない場合"
+  },
+  "2430001": {
+    "zipcode": "2430001",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "東町"
+  },
+  "2430002": {
+    "zipcode": "2430002",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "元町"
+  },
+  "2430003": {
+    "zipcode": "2430003",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "寿町"
+  },
+  "2430004": {
+    "zipcode": "2430004",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "水引"
+  },
+  "2430005": {
+    "zipcode": "2430005",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "松枝"
+  },
+  "2430006": {
+    "zipcode": "2430006",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "吾妻町"
+  },
+  "2430007": {
+    "zipcode": "2430007",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "厚木"
+  },
+  "2430011": {
+    "zipcode": "2430011",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "厚木町"
+  },
+  "2430012": {
+    "zipcode": "2430012",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "幸町"
+  },
+  "2430013": {
+    "zipcode": "2430013",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "泉町"
+  },
+  "2430014": {
+    "zipcode": "2430014",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "旭町"
+  },
+  "2430015": {
+    "zipcode": "2430015",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "南町"
+  },
+  "2430016": {
+    "zipcode": "2430016",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "田村町"
+  },
+  "2430017": {
+    "zipcode": "2430017",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "栄町"
+  },
+  "2430018": {
+    "zipcode": "2430018",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "中町"
+  },
+  "2430021": {
+    "zipcode": "2430021",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "岡田"
+  },
+  "2430022": {
+    "zipcode": "2430022",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "酒井"
+  },
+  "2430023": {
+    "zipcode": "2430023",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "戸田"
+  },
+  "2430024": {
+    "zipcode": "2430024",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "長沼"
+  },
+  "2430025": {
+    "zipcode": "2430025",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "上落合"
+  },
+  "2430026": {
+    "zipcode": "2430026",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "下津古久"
+  },
+  "2430027": {
+    "zipcode": "2430027",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "愛甲東"
+  },
+  "2430028": {
+    "zipcode": "2430028",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "愛甲西"
+  },
+  "2430031": {
+    "zipcode": "2430031",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "戸室"
+  },
+  "2430032": {
+    "zipcode": "2430032",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "恩名"
+  },
+  "2430033": {
+    "zipcode": "2430033",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "温水"
+  },
+  "2430034": {
+    "zipcode": "2430034",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "船子"
+  },
+  "2430035": {
+    "zipcode": "2430035",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "愛甲"
+  },
+  "2430036": {
+    "zipcode": "2430036",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "長谷"
+  },
+  "2430037": {
+    "zipcode": "2430037",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "毛利台"
+  },
+  "2430038": {
+    "zipcode": "2430038",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "愛名"
+  },
+  "2430039": {
+    "zipcode": "2430039",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "温水西"
+  },
+  "2430041": {
+    "zipcode": "2430041",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "緑ケ丘"
+  },
+  "2430100": {
+    "zipcode": "2430100",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡清川村",
+    "town": "以下に掲載がない場合"
+  },
+  "2430111": {
+    "zipcode": "2430111",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡清川村",
+    "town": "宮ヶ瀬"
+  },
+  "2430112": {
+    "zipcode": "2430112",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡清川村",
+    "town": "煤ヶ谷（その他）"
+  },
+  "2430121": {
+    "zipcode": "2430121",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "七沢"
+  },
+  "2430122": {
+    "zipcode": "2430122",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "森の里"
+  },
+  "2430123": {
+    "zipcode": "2430123",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "森の里青山"
+  },
+  "2430124": {
+    "zipcode": "2430124",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "森の里若宮"
+  },
+  "2430125": {
+    "zipcode": "2430125",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "小野"
+  },
+  "2430126": {
+    "zipcode": "2430126",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "岡津古久"
+  },
+  "2430127": {
+    "zipcode": "2430127",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "森の里紅葉台"
+  },
+  "2430201": {
+    "zipcode": "2430201",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "上荻野"
+  },
+  "2430202": {
+    "zipcode": "2430202",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "中荻野"
+  },
+  "2430203": {
+    "zipcode": "2430203",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "下荻野"
+  },
+  "2430204": {
+    "zipcode": "2430204",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "鳶尾"
+  },
+  "2430205": {
+    "zipcode": "2430205",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "棚沢"
+  },
+  "2430206": {
+    "zipcode": "2430206",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "下川入"
+  },
+  "2430207": {
+    "zipcode": "2430207",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "まつかげ台"
+  },
+  "2430208": {
+    "zipcode": "2430208",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "みはる野"
+  },
+  "2430211": {
+    "zipcode": "2430211",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "三田"
+  },
+  "2430212": {
+    "zipcode": "2430212",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "及川"
+  },
+  "2430213": {
+    "zipcode": "2430213",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "飯山"
+  },
+  "2430214": {
+    "zipcode": "2430214",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "下古沢"
+  },
+  "2430215": {
+    "zipcode": "2430215",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "上古沢"
+  },
+  "2430216": {
+    "zipcode": "2430216",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "宮の里"
+  },
+  "2430217": {
+    "zipcode": "2430217",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "三田南"
+  },
+  "2430218": {
+    "zipcode": "2430218",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "飯山南"
+  },
+  "2430300": {
+    "zipcode": "2430300",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "以下に掲載がない場合"
+  },
+  "2430301": {
+    "zipcode": "2430301",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "角田"
+  },
+  "2430302": {
+    "zipcode": "2430302",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "春日台"
+  },
+  "2430303": {
+    "zipcode": "2430303",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "中津"
+  },
+  "2430304": {
+    "zipcode": "2430304",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "棚沢"
+  },
+  "2430305": {
+    "zipcode": "2430305",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "八菅山"
+  },
+  "2430306": {
+    "zipcode": "2430306",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "田代"
+  },
+  "2430307": {
+    "zipcode": "2430307",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "半原"
+  },
+  "2430308": {
+    "zipcode": "2430308",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "愛甲郡愛川町",
+    "town": "三増"
+  },
+  "2430400": {
+    "zipcode": "2430400",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "以下に掲載がない場合"
+  },
+  "2430401": {
+    "zipcode": "2430401",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "東柏ケ谷"
+  },
+  "2430402": {
+    "zipcode": "2430402",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "柏ケ谷"
+  },
+  "2430403": {
+    "zipcode": "2430403",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "望地"
+  },
+  "2430404": {
+    "zipcode": "2430404",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "勝瀬"
+  },
+  "2430405": {
+    "zipcode": "2430405",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "国分南"
+  },
+  "2430406": {
+    "zipcode": "2430406",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "国分北"
+  },
+  "2430410": {
+    "zipcode": "2430410",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "杉久保北"
+  },
+  "2430411": {
+    "zipcode": "2430411",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "大谷"
+  },
+  "2430412": {
+    "zipcode": "2430412",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "浜田町"
+  },
+  "2430413": {
+    "zipcode": "2430413",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "国分寺台"
+  },
+  "2430414": {
+    "zipcode": "2430414",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "杉久保"
+  },
+  "2430415": {
+    "zipcode": "2430415",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "上河内"
+  },
+  "2430416": {
+    "zipcode": "2430416",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "中河内"
+  },
+  "2430417": {
+    "zipcode": "2430417",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "本郷"
+  },
+  "2430418": {
+    "zipcode": "2430418",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "大谷南"
+  },
+  "2430419": {
+    "zipcode": "2430419",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "大谷北"
+  },
+  "2430421": {
+    "zipcode": "2430421",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "さつき町"
+  },
+  "2430422": {
+    "zipcode": "2430422",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "中新田"
+  },
+  "2430423": {
+    "zipcode": "2430423",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "今里"
+  },
+  "2430424": {
+    "zipcode": "2430424",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "社家"
+  },
+  "2430425": {
+    "zipcode": "2430425",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "中野"
+  },
+  "2430426": {
+    "zipcode": "2430426",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "門沢橋"
+  },
+  "2430427": {
+    "zipcode": "2430427",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "杉久保南"
+  },
+  "2430431": {
+    "zipcode": "2430431",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "上今泉"
+  },
+  "2430432": {
+    "zipcode": "2430432",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "中央"
+  },
+  "2430433": {
+    "zipcode": "2430433",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "河原口"
+  },
+  "2430434": {
+    "zipcode": "2430434",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "上郷"
+  },
+  "2430435": {
+    "zipcode": "2430435",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "下今泉"
+  },
+  "2430436": {
+    "zipcode": "2430436",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "扇町"
+  },
+  "2430437": {
+    "zipcode": "2430437",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "泉"
+  },
+  "2430438": {
+    "zipcode": "2430438",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "town": "めぐみ町"
+  },
+  "2430801": {
+    "zipcode": "2430801",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "上依知"
+  },
+  "2430802": {
+    "zipcode": "2430802",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "猿ケ島"
+  },
+  "2430803": {
+    "zipcode": "2430803",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "山際"
+  },
+  "2430804": {
+    "zipcode": "2430804",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "関口"
+  },
+  "2430805": {
+    "zipcode": "2430805",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "中依知"
+  },
+  "2430806": {
+    "zipcode": "2430806",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "下依知"
+  },
+  "2430807": {
+    "zipcode": "2430807",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "金田"
+  },
+  "2430811": {
+    "zipcode": "2430811",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "妻田"
+  },
+  "2430812": {
+    "zipcode": "2430812",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "妻田北"
+  },
+  "2430813": {
+    "zipcode": "2430813",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "妻田東"
+  },
+  "2430814": {
+    "zipcode": "2430814",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "妻田南"
+  },
+  "2430815": {
+    "zipcode": "2430815",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "妻田西"
+  },
+  "2430816": {
+    "zipcode": "2430816",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "林"
+  },
+  "2430817": {
+    "zipcode": "2430817",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "town": "王子"
+  }
+}

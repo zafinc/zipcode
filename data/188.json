@@ -1,0 +1,66 @@
+{
+  "1880001": {
+    "zipcode": "1880001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "谷戸町"
+  },
+  "1880002": {
+    "zipcode": "1880002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "緑町"
+  },
+  "1880003": {
+    "zipcode": "1880003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "北原町"
+  },
+  "1880004": {
+    "zipcode": "1880004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "西原町"
+  },
+  "1880011": {
+    "zipcode": "1880011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "田無町"
+  },
+  "1880012": {
+    "zipcode": "1880012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "南町"
+  },
+  "1880013": {
+    "zipcode": "1880013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "向台町"
+  },
+  "1880014": {
+    "zipcode": "1880014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "town": "芝久保町"
+  }
+}

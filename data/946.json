@@ -1,0 +1,786 @@
+{
+  "9460000": {
+    "zipcode": "9460000",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "以下に掲載がない場合"
+  },
+  "9460001": {
+    "zipcode": "9460001",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "日渡新田"
+  },
+  "9460002": {
+    "zipcode": "9460002",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "稲荷町"
+  },
+  "9460003": {
+    "zipcode": "9460003",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "諏訪町"
+  },
+  "9460004": {
+    "zipcode": "9460004",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大塚新田"
+  },
+  "9460005": {
+    "zipcode": "9460005",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "横町"
+  },
+  "9460006": {
+    "zipcode": "9460006",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中ノ島"
+  },
+  "9460007": {
+    "zipcode": "9460007",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "四日町"
+  },
+  "9460011": {
+    "zipcode": "9460011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "小出島"
+  },
+  "9460012": {
+    "zipcode": "9460012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "浦町"
+  },
+  "9460021": {
+    "zipcode": "9460021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "佐梨"
+  },
+  "9460022": {
+    "zipcode": "9460022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "上原"
+  },
+  "9460023": {
+    "zipcode": "9460023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "干溝"
+  },
+  "9460024": {
+    "zipcode": "9460024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中原"
+  },
+  "9460025": {
+    "zipcode": "9460025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "古新田"
+  },
+  "9460031": {
+    "zipcode": "9460031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "原虫野"
+  },
+  "9460032": {
+    "zipcode": "9460032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "板木"
+  },
+  "9460033": {
+    "zipcode": "9460033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大浦"
+  },
+  "9460034": {
+    "zipcode": "9460034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大浦新田"
+  },
+  "9460035": {
+    "zipcode": "9460035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "十日町"
+  },
+  "9460036": {
+    "zipcode": "9460036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "岡新田"
+  },
+  "9460037": {
+    "zipcode": "9460037",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "虫野"
+  },
+  "9460038": {
+    "zipcode": "9460038",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "伊勢島"
+  },
+  "9460041": {
+    "zipcode": "9460041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "本町"
+  },
+  "9460042": {
+    "zipcode": "9460042",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "柳原"
+  },
+  "9460043": {
+    "zipcode": "9460043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "青島"
+  },
+  "9460051": {
+    "zipcode": "9460051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "今泉"
+  },
+  "9460052": {
+    "zipcode": "9460052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "江口新田"
+  },
+  "9460053": {
+    "zipcode": "9460053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "長松"
+  },
+  "9460054": {
+    "zipcode": "9460054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "米沢"
+  },
+  "9460055": {
+    "zipcode": "9460055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "山田"
+  },
+  "9460056": {
+    "zipcode": "9460056",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "山田下"
+  },
+  "9460057": {
+    "zipcode": "9460057",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中島"
+  },
+  "9460058": {
+    "zipcode": "9460058",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中島新田"
+  },
+  "9460061": {
+    "zipcode": "9460061",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "新保新田"
+  },
+  "9460062": {
+    "zipcode": "9460062",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "一日市"
+  },
+  "9460063": {
+    "zipcode": "9460063",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中家新田"
+  },
+  "9460064": {
+    "zipcode": "9460064",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "池平新田"
+  },
+  "9460065": {
+    "zipcode": "9460065",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "中子沢"
+  },
+  "9460066": {
+    "zipcode": "9460066",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "三ツ又"
+  },
+  "9460071": {
+    "zipcode": "9460071",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "七日市"
+  },
+  "9460072": {
+    "zipcode": "9460072",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "七日市新田"
+  },
+  "9460073": {
+    "zipcode": "9460073",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大沢"
+  },
+  "9460075": {
+    "zipcode": "9460075",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "吉田"
+  },
+  "9460076": {
+    "zipcode": "9460076",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "井口新田"
+  },
+  "9460081": {
+    "zipcode": "9460081",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "葎沢"
+  },
+  "9460082": {
+    "zipcode": "9460082",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "湯之谷芋川"
+  },
+  "9460083": {
+    "zipcode": "9460083",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "蓑和田"
+  },
+  "9460084": {
+    "zipcode": "9460084",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "宇津野"
+  },
+  "9460085": {
+    "zipcode": "9460085",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "下折立"
+  },
+  "9460086": {
+    "zipcode": "9460086",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "折立又新田"
+  },
+  "9460087": {
+    "zipcode": "9460087",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "上折立"
+  },
+  "9460088": {
+    "zipcode": "9460088",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大湯温泉"
+  },
+  "9460101": {
+    "zipcode": "9460101",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "小平尾"
+  },
+  "9460102": {
+    "zipcode": "9460102",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "外山"
+  },
+  "9460103": {
+    "zipcode": "9460103",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "滝之又"
+  },
+  "9460104": {
+    "zipcode": "9460104",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "栗山"
+  },
+  "9460105": {
+    "zipcode": "9460105",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "宮沢新田"
+  },
+  "9460106": {
+    "zipcode": "9460106",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "田中"
+  },
+  "9460107": {
+    "zipcode": "9460107",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "横瀬"
+  },
+  "9460108": {
+    "zipcode": "9460108",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "親柄"
+  },
+  "9460109": {
+    "zipcode": "9460109",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "和田"
+  },
+  "9460111": {
+    "zipcode": "9460111",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "並柳"
+  },
+  "9460112": {
+    "zipcode": "9460112",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "田尻"
+  },
+  "9460113": {
+    "zipcode": "9460113",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "東中"
+  },
+  "9460114": {
+    "zipcode": "9460114",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "泉沢"
+  },
+  "9460115": {
+    "zipcode": "9460115",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "山口"
+  },
+  "9460121": {
+    "zipcode": "9460121",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "連日"
+  },
+  "9460122": {
+    "zipcode": "9460122",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "吉原"
+  },
+  "9460123": {
+    "zipcode": "9460123",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "茂沢"
+  },
+  "9460124": {
+    "zipcode": "9460124",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大芋川"
+  },
+  "9460125": {
+    "zipcode": "9460125",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "越又"
+  },
+  "9460201": {
+    "zipcode": "9460201",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "高倉"
+  },
+  "9460202": {
+    "zipcode": "9460202",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "東野名"
+  },
+  "9460203": {
+    "zipcode": "9460203",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "渋川"
+  },
+  "9460204": {
+    "zipcode": "9460204",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "西名"
+  },
+  "9460205": {
+    "zipcode": "9460205",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "宮椿新田"
+  },
+  "9460206": {
+    "zipcode": "9460206",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "西名新田"
+  },
+  "9460207": {
+    "zipcode": "9460207",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "福山新田"
+  },
+  "9460211": {
+    "zipcode": "9460211",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "上長鳥新田"
+  },
+  "9460212": {
+    "zipcode": "9460212",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "長鳥"
+  },
+  "9460213": {
+    "zipcode": "9460213",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "細野"
+  },
+  "9460214": {
+    "zipcode": "9460214",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "松川"
+  },
+  "9460215": {
+    "zipcode": "9460215",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大原新田"
+  },
+  "9460216": {
+    "zipcode": "9460216",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "須原"
+  },
+  "9460221": {
+    "zipcode": "9460221",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "須川"
+  },
+  "9460222": {
+    "zipcode": "9460222",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "福田新田"
+  },
+  "9460223": {
+    "zipcode": "9460223",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大倉沢"
+  },
+  "9460224": {
+    "zipcode": "9460224",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "赤土"
+  },
+  "9460225": {
+    "zipcode": "9460225",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "三渕沢"
+  },
+  "9460226": {
+    "zipcode": "9460226",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大倉"
+  },
+  "9460301": {
+    "zipcode": "9460301",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "田小屋"
+  },
+  "9460302": {
+    "zipcode": "9460302",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "芋鞘"
+  },
+  "9460303": {
+    "zipcode": "9460303",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大白川"
+  },
+  "9460304": {
+    "zipcode": "9460304",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "穴沢"
+  },
+  "9460305": {
+    "zipcode": "9460305",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "大栃山"
+  },
+  "9460306": {
+    "zipcode": "9460306",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "平野又"
+  },
+  "9460307": {
+    "zipcode": "9460307",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "魚沼市",
+    "town": "横根"
+  }
+}

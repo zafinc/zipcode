@@ -1,0 +1,578 @@
+{
+  "3660000": {
+    "zipcode": "3660000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "以下に掲載がない場合"
+  },
+  "3660001": {
+    "zipcode": "3660001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "中瀬"
+  },
+  "3660002": {
+    "zipcode": "3660002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "下手計"
+  },
+  "3660003": {
+    "zipcode": "3660003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "大塚"
+  },
+  "3660004": {
+    "zipcode": "3660004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上手計"
+  },
+  "3660005": {
+    "zipcode": "3660005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "町田"
+  },
+  "3660006": {
+    "zipcode": "3660006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "血洗島"
+  },
+  "3660007": {
+    "zipcode": "3660007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "南阿賀野"
+  },
+  "3660008": {
+    "zipcode": "3660008",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "北阿賀野"
+  },
+  "3660009": {
+    "zipcode": "3660009",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "横瀬"
+  },
+  "3660010": {
+    "zipcode": "3660010",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "高島"
+  },
+  "3660011": {
+    "zipcode": "3660011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "石塚"
+  },
+  "3660012": {
+    "zipcode": "3660012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "江原"
+  },
+  "3660013": {
+    "zipcode": "3660013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "堀米"
+  },
+  "3660014": {
+    "zipcode": "3660014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "藤野木"
+  },
+  "3660015": {
+    "zipcode": "3660015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "蓮沼"
+  },
+  "3660016": {
+    "zipcode": "3660016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "新井"
+  },
+  "3660017": {
+    "zipcode": "3660017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "沼尻"
+  },
+  "3660018": {
+    "zipcode": "3660018",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "成塚"
+  },
+  "3660019": {
+    "zipcode": "3660019",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "新戒"
+  },
+  "3660021": {
+    "zipcode": "3660021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上増田"
+  },
+  "3660022": {
+    "zipcode": "3660022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "本田ケ谷"
+  },
+  "3660023": {
+    "zipcode": "3660023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "宮ケ谷戸"
+  },
+  "3660024": {
+    "zipcode": "3660024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "明戸"
+  },
+  "3660025": {
+    "zipcode": "3660025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "寿町"
+  },
+  "3660026": {
+    "zipcode": "3660026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "稲荷町"
+  },
+  "3660027": {
+    "zipcode": "3660027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "天神町"
+  },
+  "3660028": {
+    "zipcode": "3660028",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "稲荷町北"
+  },
+  "3660029": {
+    "zipcode": "3660029",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上敷免"
+  },
+  "3660031": {
+    "zipcode": "3660031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "国済寺町"
+  },
+  "3660032": {
+    "zipcode": "3660032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "幡羅町"
+  },
+  "3660033": {
+    "zipcode": "3660033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "国済寺"
+  },
+  "3660034": {
+    "zipcode": "3660034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "常盤町"
+  },
+  "3660035": {
+    "zipcode": "3660035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "原郷"
+  },
+  "3660041": {
+    "zipcode": "3660041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "東方"
+  },
+  "3660042": {
+    "zipcode": "3660042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "東方町"
+  },
+  "3660051": {
+    "zipcode": "3660051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上柴町東"
+  },
+  "3660052": {
+    "zipcode": "3660052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上柴町西"
+  },
+  "3660053": {
+    "zipcode": "3660053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "秋元町"
+  },
+  "3660054": {
+    "zipcode": "3660054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "緑ケ丘"
+  },
+  "3660061": {
+    "zipcode": "3660061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "二ツ小屋"
+  },
+  "3660062": {
+    "zipcode": "3660062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "前小屋"
+  },
+  "3660801": {
+    "zipcode": "3660801",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "上野台"
+  },
+  "3660802": {
+    "zipcode": "3660802",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "桜ケ丘"
+  },
+  "3660810": {
+    "zipcode": "3660810",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "宿根"
+  },
+  "3660811": {
+    "zipcode": "3660811",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "人見"
+  },
+  "3660812": {
+    "zipcode": "3660812",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "折之口"
+  },
+  "3660813": {
+    "zipcode": "3660813",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "境"
+  },
+  "3660814": {
+    "zipcode": "3660814",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "大谷"
+  },
+  "3660815": {
+    "zipcode": "3660815",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "櫛引"
+  },
+  "3660816": {
+    "zipcode": "3660816",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "樫合"
+  },
+  "3660817": {
+    "zipcode": "3660817",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "柏合"
+  },
+  "3660818": {
+    "zipcode": "3660818",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "萱場"
+  },
+  "3660819": {
+    "zipcode": "3660819",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "見晴町"
+  },
+  "3660821": {
+    "zipcode": "3660821",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "田谷"
+  },
+  "3660822": {
+    "zipcode": "3660822",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "仲町"
+  },
+  "3660823": {
+    "zipcode": "3660823",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "本住町"
+  },
+  "3660824": {
+    "zipcode": "3660824",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "西島町（西島）"
+  },
+  "3660825": {
+    "zipcode": "3660825",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "深谷町"
+  },
+  "3660826": {
+    "zipcode": "3660826",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "田所町"
+  },
+  "3660827": {
+    "zipcode": "3660827",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "栄町"
+  },
+  "3660828": {
+    "zipcode": "3660828",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "東大沼"
+  },
+  "3660829": {
+    "zipcode": "3660829",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "西大沼"
+  },
+  "3660831": {
+    "zipcode": "3660831",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "内ケ島"
+  },
+  "3660832": {
+    "zipcode": "3660832",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "高畑"
+  },
+  "3660833": {
+    "zipcode": "3660833",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "戸森"
+  },
+  "3660834": {
+    "zipcode": "3660834",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "曲田（錦町）"
+  },
+  "3660835": {
+    "zipcode": "3660835",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "谷之"
+  },
+  "3660836": {
+    "zipcode": "3660836",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "伊勢方"
+  },
+  "3660837": {
+    "zipcode": "3660837",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "起会"
+  },
+  "3660838": {
+    "zipcode": "3660838",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "大塚島"
+  },
+  "3660839": {
+    "zipcode": "3660839",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "深谷市",
+    "town": "矢島"
+  }
+}

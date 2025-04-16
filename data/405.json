@@ -1,0 +1,498 @@
+{
+  "4050000": {
+    "zipcode": "4050000",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "以下に掲載がない場合"
+  },
+  "4050001": {
+    "zipcode": "4050001",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "西"
+  },
+  "4050002": {
+    "zipcode": "4050002",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "東"
+  },
+  "4050003": {
+    "zipcode": "4050003",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "下井尻"
+  },
+  "4050004": {
+    "zipcode": "4050004",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "上之割"
+  },
+  "4050005": {
+    "zipcode": "4050005",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "小原東"
+  },
+  "4050006": {
+    "zipcode": "4050006",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "小原西"
+  },
+  "4050007": {
+    "zipcode": "4050007",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "七日市場"
+  },
+  "4050011": {
+    "zipcode": "4050011",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "三ケ所"
+  },
+  "4050012": {
+    "zipcode": "4050012",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "東後屋敷"
+  },
+  "4050013": {
+    "zipcode": "4050013",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "鴨居寺"
+  },
+  "4050014": {
+    "zipcode": "4050014",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "上石森"
+  },
+  "4050015": {
+    "zipcode": "4050015",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "下石森"
+  },
+  "4050016": {
+    "zipcode": "4050016",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "大野"
+  },
+  "4050017": {
+    "zipcode": "4050017",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "下神内川"
+  },
+  "4050018": {
+    "zipcode": "4050018",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "上神内川"
+  },
+  "4050021": {
+    "zipcode": "4050021",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "中村"
+  },
+  "4050022": {
+    "zipcode": "4050022",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "上栗原"
+  },
+  "4050023": {
+    "zipcode": "4050023",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "下栗原"
+  },
+  "4050024": {
+    "zipcode": "4050024",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "歌田"
+  },
+  "4050025": {
+    "zipcode": "4050025",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "一町田中"
+  },
+  "4050031": {
+    "zipcode": "4050031",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "万力"
+  },
+  "4050032": {
+    "zipcode": "4050032",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "正徳寺"
+  },
+  "4050033": {
+    "zipcode": "4050033",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "落合"
+  },
+  "4050034": {
+    "zipcode": "4050034",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "上岩下"
+  },
+  "4050035": {
+    "zipcode": "4050035",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "山根"
+  },
+  "4050036": {
+    "zipcode": "4050036",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "矢坪"
+  },
+  "4050041": {
+    "zipcode": "4050041",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "北"
+  },
+  "4050042": {
+    "zipcode": "4050042",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "南"
+  },
+  "4050043": {
+    "zipcode": "4050043",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "江曽原"
+  },
+  "4050044": {
+    "zipcode": "4050044",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "市川"
+  },
+  "4050045": {
+    "zipcode": "4050045",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "大工"
+  },
+  "4050046": {
+    "zipcode": "4050046",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "堀内"
+  },
+  "4050047": {
+    "zipcode": "4050047",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "水口"
+  },
+  "4050048": {
+    "zipcode": "4050048",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "town": "切差"
+  },
+  "4050051": {
+    "zipcode": "4050051",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町北野呂"
+  },
+  "4050052": {
+    "zipcode": "4050052",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町南野呂"
+  },
+  "4050053": {
+    "zipcode": "4050053",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町中尾"
+  },
+  "4050054": {
+    "zipcode": "4050054",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町千米寺"
+  },
+  "4050055": {
+    "zipcode": "4050055",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町地蔵堂"
+  },
+  "4050056": {
+    "zipcode": "4050056",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町一ノ宮"
+  },
+  "4050057": {
+    "zipcode": "4050057",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町下矢作"
+  },
+  "4050058": {
+    "zipcode": "4050058",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町小城"
+  },
+  "4050059": {
+    "zipcode": "4050059",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町上矢作"
+  },
+  "4050061": {
+    "zipcode": "4050061",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町石"
+  },
+  "4050062": {
+    "zipcode": "4050062",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町金沢"
+  },
+  "4050063": {
+    "zipcode": "4050063",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町市之蔵"
+  },
+  "4050064": {
+    "zipcode": "4050064",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町塩田"
+  },
+  "4050065": {
+    "zipcode": "4050065",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町新巻"
+  },
+  "4050066": {
+    "zipcode": "4050066",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町神沢"
+  },
+  "4050067": {
+    "zipcode": "4050067",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町土塚"
+  },
+  "4050068": {
+    "zipcode": "4050068",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町狐新居"
+  },
+  "4050069": {
+    "zipcode": "4050069",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町東新居"
+  },
+  "4050071": {
+    "zipcode": "4050071",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町北都塚"
+  },
+  "4050072": {
+    "zipcode": "4050072",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町本都塚"
+  },
+  "4050073": {
+    "zipcode": "4050073",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町末木"
+  },
+  "4050074": {
+    "zipcode": "4050074",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町国分"
+  },
+  "4050075": {
+    "zipcode": "4050075",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町東原"
+  },
+  "4050076": {
+    "zipcode": "4050076",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町竹原田"
+  },
+  "4050077": {
+    "zipcode": "4050077",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町坪井"
+  },
+  "4050078": {
+    "zipcode": "4050078",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町田中"
+  },
+  "4050079": {
+    "zipcode": "4050079",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "笛吹市",
+    "town": "一宮町金田"
+  }
+}

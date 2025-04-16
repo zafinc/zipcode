@@ -1,0 +1,642 @@
+{
+  "7630000": {
+    "zipcode": "7630000",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "以下に掲載がない場合"
+  },
+  "7630001": {
+    "zipcode": "7630001",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "風袋町"
+  },
+  "7630002": {
+    "zipcode": "7630002",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "瓦町"
+  },
+  "7630003": {
+    "zipcode": "7630003",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "葭町"
+  },
+  "7630004": {
+    "zipcode": "7630004",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "米屋町"
+  },
+  "7630005": {
+    "zipcode": "7630005",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "松屋町"
+  },
+  "7630006": {
+    "zipcode": "7630006",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "魚屋町"
+  },
+  "7630007": {
+    "zipcode": "7630007",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "宗古町"
+  },
+  "7630011": {
+    "zipcode": "7630011",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "富士見町"
+  },
+  "7630012": {
+    "zipcode": "7630012",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "土居町"
+  },
+  "7630013": {
+    "zipcode": "7630013",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "城東町"
+  },
+  "7630014": {
+    "zipcode": "7630014",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "御供所町"
+  },
+  "7630015": {
+    "zipcode": "7630015",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "北平山町"
+  },
+  "7630021": {
+    "zipcode": "7630021",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "富屋町"
+  },
+  "7630022": {
+    "zipcode": "7630022",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "浜町"
+  },
+  "7630023": {
+    "zipcode": "7630023",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本町"
+  },
+  "7630024": {
+    "zipcode": "7630024",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "塩飽町"
+  },
+  "7630025": {
+    "zipcode": "7630025",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "一番丁"
+  },
+  "7630026": {
+    "zipcode": "7630026",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "六番丁"
+  },
+  "7630027": {
+    "zipcode": "7630027",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "七番丁"
+  },
+  "7630028": {
+    "zipcode": "7630028",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "八番丁"
+  },
+  "7630029": {
+    "zipcode": "7630029",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "九番丁"
+  },
+  "7630030": {
+    "zipcode": "7630030",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "十番丁"
+  },
+  "7630031": {
+    "zipcode": "7630031",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "城南町"
+  },
+  "7630032": {
+    "zipcode": "7630032",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "城西町"
+  },
+  "7630033": {
+    "zipcode": "7630033",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "中府町"
+  },
+  "7630034": {
+    "zipcode": "7630034",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "大手町"
+  },
+  "7630041": {
+    "zipcode": "7630041",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "西平山町"
+  },
+  "7630042": {
+    "zipcode": "7630042",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "港町"
+  },
+  "7630043": {
+    "zipcode": "7630043",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "通町"
+  },
+  "7630044": {
+    "zipcode": "7630044",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "福島町"
+  },
+  "7630045": {
+    "zipcode": "7630045",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "新町"
+  },
+  "7630046": {
+    "zipcode": "7630046",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "南条町"
+  },
+  "7630047": {
+    "zipcode": "7630047",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "西本町"
+  },
+  "7630048": {
+    "zipcode": "7630048",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "幸町"
+  },
+  "7630051": {
+    "zipcode": "7630051",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "今津町"
+  },
+  "7630052": {
+    "zipcode": "7630052",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "津森町"
+  },
+  "7630053": {
+    "zipcode": "7630053",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "金倉町"
+  },
+  "7630054": {
+    "zipcode": "7630054",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "中津町"
+  },
+  "7630055": {
+    "zipcode": "7630055",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "新田町"
+  },
+  "7630061": {
+    "zipcode": "7630061",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "昭和町"
+  },
+  "7630062": {
+    "zipcode": "7630062",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "蓬莱町"
+  },
+  "7630063": {
+    "zipcode": "7630063",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "新浜町"
+  },
+  "7630064": {
+    "zipcode": "7630064",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "前塩屋町"
+  },
+  "7630065": {
+    "zipcode": "7630065",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "塩屋町"
+  },
+  "7630066": {
+    "zipcode": "7630066",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "天満町"
+  },
+  "7630071": {
+    "zipcode": "7630071",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "田村町"
+  },
+  "7630072": {
+    "zipcode": "7630072",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "山北町"
+  },
+  "7630073": {
+    "zipcode": "7630073",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "柞原町"
+  },
+  "7630074": {
+    "zipcode": "7630074",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "原田町"
+  },
+  "7630075": {
+    "zipcode": "7630075",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "原田団地"
+  },
+  "7630081": {
+    "zipcode": "7630081",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "土器町西"
+  },
+  "7630082": {
+    "zipcode": "7630082",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "土器町東"
+  },
+  "7630083": {
+    "zipcode": "7630083",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "土器町北"
+  },
+  "7630084": {
+    "zipcode": "7630084",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯野町東二"
+  },
+  "7630085": {
+    "zipcode": "7630085",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯野町東分"
+  },
+  "7630086": {
+    "zipcode": "7630086",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "飯野町西分"
+  },
+  "7630091": {
+    "zipcode": "7630091",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "川西町北"
+  },
+  "7630092": {
+    "zipcode": "7630092",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "川西町南"
+  },
+  "7630093": {
+    "zipcode": "7630093",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "郡家町"
+  },
+  "7630094": {
+    "zipcode": "7630094",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "三条町"
+  },
+  "7630095": {
+    "zipcode": "7630095",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "垂水町"
+  },
+  "7630101": {
+    "zipcode": "7630101",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町立石"
+  },
+  "7630102": {
+    "zipcode": "7630102",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町江の浦"
+  },
+  "7630103": {
+    "zipcode": "7630103",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町釜の越"
+  },
+  "7630104": {
+    "zipcode": "7630104",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町甲路"
+  },
+  "7630105": {
+    "zipcode": "7630105",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町青木"
+  },
+  "7630106": {
+    "zipcode": "7630106",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町市井"
+  },
+  "7630107": {
+    "zipcode": "7630107",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町茂浦"
+  },
+  "7630108": {
+    "zipcode": "7630108",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "広島町小手島"
+  },
+  "7630111": {
+    "zipcode": "7630111",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "手島町"
+  },
+  "7630221": {
+    "zipcode": "7630221",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町笠島"
+  },
+  "7630222": {
+    "zipcode": "7630222",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町甲生"
+  },
+  "7630223": {
+    "zipcode": "7630223",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町泊"
+  },
+  "7630224": {
+    "zipcode": "7630224",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町小阪"
+  },
+  "7630225": {
+    "zipcode": "7630225",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町生ノ浜"
+  },
+  "7630226": {
+    "zipcode": "7630226",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町尻浜"
+  },
+  "7630227": {
+    "zipcode": "7630227",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町福田"
+  },
+  "7630228": {
+    "zipcode": "7630228",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "本島町大浦"
+  },
+  "7630231": {
+    "zipcode": "7630231",
+    "prefectureCode": "37",
+    "prefectureNumber": 37,
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "town": "牛島"
+  }
+}

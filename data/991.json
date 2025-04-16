@@ -1,0 +1,394 @@
+{
+  "9910000": {
+    "zipcode": "9910000",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "以下に掲載がない場合"
+  },
+  "9910001": {
+    "zipcode": "9910001",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "入倉"
+  },
+  "9910002": {
+    "zipcode": "9910002",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "下河原"
+  },
+  "9910003": {
+    "zipcode": "9910003",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "西根"
+  },
+  "9910004": {
+    "zipcode": "9910004",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "西根北町"
+  },
+  "9910005": {
+    "zipcode": "9910005",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "中河原"
+  },
+  "9910006": {
+    "zipcode": "9910006",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "夕カヘ"
+  },
+  "9910007": {
+    "zipcode": "9910007",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "道生"
+  },
+  "9910008": {
+    "zipcode": "9910008",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "雲河原"
+  },
+  "9910011": {
+    "zipcode": "9910011",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "日田"
+  },
+  "9910012": {
+    "zipcode": "9910012",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "新山町"
+  },
+  "9910013": {
+    "zipcode": "9910013",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "高田"
+  },
+  "9910021": {
+    "zipcode": "9910021",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "中央"
+  },
+  "9910022": {
+    "zipcode": "9910022",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "七日町"
+  },
+  "9910023": {
+    "zipcode": "9910023",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "丸内"
+  },
+  "9910024": {
+    "zipcode": "9910024",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "六供町"
+  },
+  "9910025": {
+    "zipcode": "9910025",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "八幡町"
+  },
+  "9910026": {
+    "zipcode": "9910026",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "山岸町"
+  },
+  "9910027": {
+    "zipcode": "9910027",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "石持町"
+  },
+  "9910028": {
+    "zipcode": "9910028",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "ほなみ"
+  },
+  "9910031": {
+    "zipcode": "9910031",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "本町"
+  },
+  "9910032": {
+    "zipcode": "9910032",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "南町"
+  },
+  "9910033": {
+    "zipcode": "9910033",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "末広町"
+  },
+  "9910034": {
+    "zipcode": "9910034",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "栄町"
+  },
+  "9910035": {
+    "zipcode": "9910035",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "幸町"
+  },
+  "9910040": {
+    "zipcode": "9910040",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "高瀬台"
+  },
+  "9910041": {
+    "zipcode": "9910041",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "寒河江"
+  },
+  "9910042": {
+    "zipcode": "9910042",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "高屋"
+  },
+  "9910043": {
+    "zipcode": "9910043",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "島"
+  },
+  "9910044": {
+    "zipcode": "9910044",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "越井坂町"
+  },
+  "9910045": {
+    "zipcode": "9910045",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "小沼町"
+  },
+  "9910046": {
+    "zipcode": "9910046",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "東新山町"
+  },
+  "9910047": {
+    "zipcode": "9910047",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "新山"
+  },
+  "9910048": {
+    "zipcode": "9910048",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "みずき"
+  },
+  "9910049": {
+    "zipcode": "9910049",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "本楯"
+  },
+  "9910051": {
+    "zipcode": "9910051",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "若葉町"
+  },
+  "9910052": {
+    "zipcode": "9910052",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "幸田町"
+  },
+  "9910053": {
+    "zipcode": "9910053",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "元町"
+  },
+  "9910054": {
+    "zipcode": "9910054",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "仲谷地"
+  },
+  "9910055": {
+    "zipcode": "9910055",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "船橋町"
+  },
+  "9910056": {
+    "zipcode": "9910056",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "落衣前"
+  },
+  "9910057": {
+    "zipcode": "9910057",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "内ノ袋"
+  },
+  "9910061": {
+    "zipcode": "9910061",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "中央工業団地（その他）"
+  },
+  "9910062": {
+    "zipcode": "9910062",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "緑町"
+  },
+  "9910063": {
+    "zipcode": "9910063",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "柴橋"
+  },
+  "9910064": {
+    "zipcode": "9910064",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "平塩"
+  },
+  "9910065": {
+    "zipcode": "9910065",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "中郷"
+  },
+  "9910066": {
+    "zipcode": "9910066",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "松川"
+  },
+  "9910801": {
+    "zipcode": "9910801",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "左沢（１５１８−３、１７５０−１〜２２２８−１８、２２５５−１〜２２５７−２８、２３１６〜２３１８、２４３０−１〜２４３１−７５）"
+  }
+}

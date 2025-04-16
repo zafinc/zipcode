@@ -1,0 +1,762 @@
+{
+  "7880000": {
+    "zipcode": "7880000",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "以下に掲載がない場合"
+  },
+  "7880001": {
+    "zipcode": "7880001",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "中央"
+  },
+  "7880002": {
+    "zipcode": "7880002",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "南沖須賀"
+  },
+  "7880003": {
+    "zipcode": "7880003",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "幸町"
+  },
+  "7880004": {
+    "zipcode": "7880004",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "長田町"
+  },
+  "7880005": {
+    "zipcode": "7880005",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "萩原"
+  },
+  "7880006": {
+    "zipcode": "7880006",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "桜町"
+  },
+  "7880007": {
+    "zipcode": "7880007",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "松田町"
+  },
+  "7880008": {
+    "zipcode": "7880008",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "与市明"
+  },
+  "7880009": {
+    "zipcode": "7880009",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "駅東町"
+  },
+  "7880010": {
+    "zipcode": "7880010",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "駅前町"
+  },
+  "7880011": {
+    "zipcode": "7880011",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "新田"
+  },
+  "7880012": {
+    "zipcode": "7880012",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "高砂"
+  },
+  "7880013": {
+    "zipcode": "7880013",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "片島"
+  },
+  "7880014": {
+    "zipcode": "7880014",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "大島"
+  },
+  "7880015": {
+    "zipcode": "7880015",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "西片島"
+  },
+  "7880016": {
+    "zipcode": "7880016",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "希望ヶ丘"
+  },
+  "7880021": {
+    "zipcode": "7880021",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "池島"
+  },
+  "7880022": {
+    "zipcode": "7880022",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "藻津"
+  },
+  "7880023": {
+    "zipcode": "7880023",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "宇須々木"
+  },
+  "7880024": {
+    "zipcode": "7880024",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "樺"
+  },
+  "7880025": {
+    "zipcode": "7880025",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "西町"
+  },
+  "7880026": {
+    "zipcode": "7880026",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "自由ケ丘"
+  },
+  "7880027": {
+    "zipcode": "7880027",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "港南台"
+  },
+  "7880028": {
+    "zipcode": "7880028",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "新港"
+  },
+  "7880030": {
+    "zipcode": "7880030",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "四季の丘"
+  },
+  "7880031": {
+    "zipcode": "7880031",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "貝塚"
+  },
+  "7880032": {
+    "zipcode": "7880032",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "錦"
+  },
+  "7880033": {
+    "zipcode": "7880033",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小深浦"
+  },
+  "7880034": {
+    "zipcode": "7880034",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "大深浦"
+  },
+  "7880035": {
+    "zipcode": "7880035",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "草木薮"
+  },
+  "7880036": {
+    "zipcode": "7880036",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "野地"
+  },
+  "7880037": {
+    "zipcode": "7880037",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "山北"
+  },
+  "7880038": {
+    "zipcode": "7880038",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "二ノ宮"
+  },
+  "7880039": {
+    "zipcode": "7880039",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "中角"
+  },
+  "7880041": {
+    "zipcode": "7880041",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町出井"
+  },
+  "7880042": {
+    "zipcode": "7880042",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町楠山"
+  },
+  "7880043": {
+    "zipcode": "7880043",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町坂本"
+  },
+  "7880044": {
+    "zipcode": "7880044",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町神有"
+  },
+  "7880045": {
+    "zipcode": "7880045",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町奥奈路"
+  },
+  "7880046": {
+    "zipcode": "7880046",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町橋上"
+  },
+  "7880047": {
+    "zipcode": "7880047",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町平野"
+  },
+  "7880048": {
+    "zipcode": "7880048",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町京法"
+  },
+  "7880049": {
+    "zipcode": "7880049",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "橋上町還住薮"
+  },
+  "7880051": {
+    "zipcode": "7880051",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "押ノ川"
+  },
+  "7880052": {
+    "zipcode": "7880052",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "和田"
+  },
+  "7880053": {
+    "zipcode": "7880053",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "坂ノ下"
+  },
+  "7880054": {
+    "zipcode": "7880054",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "さくらが丘"
+  },
+  "7880261": {
+    "zipcode": "7880261",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町田ノ浦"
+  },
+  "7880262": {
+    "zipcode": "7880262",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町小浦"
+  },
+  "7880263": {
+    "zipcode": "7880263",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町内外ノ浦"
+  },
+  "7880264": {
+    "zipcode": "7880264",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町呼崎"
+  },
+  "7880265": {
+    "zipcode": "7880265",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町湊"
+  },
+  "7880266": {
+    "zipcode": "7880266",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町大海"
+  },
+  "7880267": {
+    "zipcode": "7880267",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町伊与野"
+  },
+  "7880268": {
+    "zipcode": "7880268",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町都賀ノ川"
+  },
+  "7880271": {
+    "zipcode": "7880271",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町小筑紫"
+  },
+  "7880272": {
+    "zipcode": "7880272",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町石原"
+  },
+  "7880273": {
+    "zipcode": "7880273",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町福良"
+  },
+  "7880274": {
+    "zipcode": "7880274",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "小筑紫町栄喜"
+  },
+  "7880300": {
+    "zipcode": "7880300",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "以下に掲載がない場合"
+  },
+  "7880302": {
+    "zipcode": "7880302",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "弘見"
+  },
+  "7880311": {
+    "zipcode": "7880311",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "鉾土"
+  },
+  "7880312": {
+    "zipcode": "7880312",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "清王"
+  },
+  "7880313": {
+    "zipcode": "7880313",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "周防形"
+  },
+  "7880314": {
+    "zipcode": "7880314",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "頭集"
+  },
+  "7880315": {
+    "zipcode": "7880315",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "古満目"
+  },
+  "7880321": {
+    "zipcode": "7880321",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "春遠"
+  },
+  "7880322": {
+    "zipcode": "7880322",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "小才角"
+  },
+  "7880323": {
+    "zipcode": "7880323",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "才角"
+  },
+  "7880324": {
+    "zipcode": "7880324",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "大浦"
+  },
+  "7880325": {
+    "zipcode": "7880325",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "月ケ丘"
+  },
+  "7880331": {
+    "zipcode": "7880331",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "姫ノ井"
+  },
+  "7880332": {
+    "zipcode": "7880332",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "赤泊"
+  },
+  "7880333": {
+    "zipcode": "7880333",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "西泊"
+  },
+  "7880334": {
+    "zipcode": "7880334",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "樫ノ浦"
+  },
+  "7880335": {
+    "zipcode": "7880335",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "唐岩"
+  },
+  "7880341": {
+    "zipcode": "7880341",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "平山"
+  },
+  "7880342": {
+    "zipcode": "7880342",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "一切"
+  },
+  "7880343": {
+    "zipcode": "7880343",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "柏島"
+  },
+  "7880351": {
+    "zipcode": "7880351",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "安満地"
+  },
+  "7880352": {
+    "zipcode": "7880352",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "橘浦"
+  },
+  "7880353": {
+    "zipcode": "7880353",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "泊浦"
+  },
+  "7880361": {
+    "zipcode": "7880361",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "龍ケ迫"
+  },
+  "7880362": {
+    "zipcode": "7880362",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "芳ノ沢"
+  },
+  "7880363": {
+    "zipcode": "7880363",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "幡多郡大月町",
+    "town": "添ノ川"
+  },
+  "7880677": {
+    "zipcode": "7880677",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "沖の島町母島"
+  },
+  "7880678": {
+    "zipcode": "7880678",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "沖の島町弘瀬"
+  },
+  "7880679": {
+    "zipcode": "7880679",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "沖の島町鵜来島"
+  },
+  "7880781": {
+    "zipcode": "7880781",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "平田町黒川"
+  },
+  "7880782": {
+    "zipcode": "7880782",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "平田町中山"
+  },
+  "7880783": {
+    "zipcode": "7880783",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "平田町戸内"
+  },
+  "7880784": {
+    "zipcode": "7880784",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "山奈町山田"
+  },
+  "7880785": {
+    "zipcode": "7880785",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "山奈町芳奈"
+  },
+  "7880786": {
+    "zipcode": "7880786",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "宿毛市",
+    "town": "平田町東平"
+  }
+}

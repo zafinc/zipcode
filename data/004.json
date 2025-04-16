@@ -1,0 +1,714 @@
+{
+  "0040000": {
+    "zipcode": "0040000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "以下に掲載がない場合"
+  },
+  "0040001": {
+    "zipcode": "0040001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別東一条"
+  },
+  "0040002": {
+    "zipcode": "0040002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別東二条"
+  },
+  "0040003": {
+    "zipcode": "0040003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別東三条"
+  },
+  "0040004": {
+    "zipcode": "0040004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別東四条"
+  },
+  "0040005": {
+    "zipcode": "0040005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別東五条"
+  },
+  "0040006": {
+    "zipcode": "0040006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別町小野幌"
+  },
+  "0040007": {
+    "zipcode": "0040007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別町下野幌"
+  },
+  "0040011": {
+    "zipcode": "0040011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "もみじ台東"
+  },
+  "0040012": {
+    "zipcode": "0040012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "もみじ台南"
+  },
+  "0040013": {
+    "zipcode": "0040013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "もみじ台西"
+  },
+  "0040014": {
+    "zipcode": "0040014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "もみじ台北"
+  },
+  "0040015": {
+    "zipcode": "0040015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "下野幌テクノパーク"
+  },
+  "0040021": {
+    "zipcode": "0040021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "青葉町"
+  },
+  "0040022": {
+    "zipcode": "0040022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別南"
+  },
+  "0040031": {
+    "zipcode": "0040031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "上野幌一条"
+  },
+  "0040032": {
+    "zipcode": "0040032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "上野幌二条"
+  },
+  "0040033": {
+    "zipcode": "0040033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "上野幌三条"
+  },
+  "0040039": {
+    "zipcode": "0040039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別町上野幌"
+  },
+  "0040041": {
+    "zipcode": "0040041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "大谷地東"
+  },
+  "0040042": {
+    "zipcode": "0040042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "大谷地西"
+  },
+  "0040051": {
+    "zipcode": "0040051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別中央一条"
+  },
+  "0040052": {
+    "zipcode": "0040052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別中央二条"
+  },
+  "0040053": {
+    "zipcode": "0040053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別中央三条"
+  },
+  "0040054": {
+    "zipcode": "0040054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別中央四条"
+  },
+  "0040055": {
+    "zipcode": "0040055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別中央五条"
+  },
+  "0040061": {
+    "zipcode": "0040061",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西一条"
+  },
+  "0040062": {
+    "zipcode": "0040062",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西二条"
+  },
+  "0040063": {
+    "zipcode": "0040063",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西三条"
+  },
+  "0040064": {
+    "zipcode": "0040064",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西四条"
+  },
+  "0040065": {
+    "zipcode": "0040065",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西五条"
+  },
+  "0040068": {
+    "zipcode": "0040068",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別西"
+  },
+  "0040069": {
+    "zipcode": "0040069",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別町山本"
+  },
+  "0040071": {
+    "zipcode": "0040071",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北一条"
+  },
+  "0040072": {
+    "zipcode": "0040072",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北二条"
+  },
+  "0040073": {
+    "zipcode": "0040073",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北三条"
+  },
+  "0040074": {
+    "zipcode": "0040074",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北四条"
+  },
+  "0040075": {
+    "zipcode": "0040075",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北五条"
+  },
+  "0040076": {
+    "zipcode": "0040076",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市厚別区",
+    "town": "厚別北六条"
+  },
+  "0040801": {
+    "zipcode": "0040801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚一条"
+  },
+  "0040802": {
+    "zipcode": "0040802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚二条"
+  },
+  "0040803": {
+    "zipcode": "0040803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚三条"
+  },
+  "0040804": {
+    "zipcode": "0040804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚四条"
+  },
+  "0040805": {
+    "zipcode": "0040805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚緑ケ丘"
+  },
+  "0040809": {
+    "zipcode": "0040809",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "里塚"
+  },
+  "0040811": {
+    "zipcode": "0040811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "美しが丘一条"
+  },
+  "0040812": {
+    "zipcode": "0040812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "美しが丘二条"
+  },
+  "0040813": {
+    "zipcode": "0040813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "美しが丘三条"
+  },
+  "0040814": {
+    "zipcode": "0040814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "美しが丘四条"
+  },
+  "0040815": {
+    "zipcode": "0040815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "美しが丘五条"
+  },
+  "0040821": {
+    "zipcode": "0040821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "有明"
+  },
+  "0040831": {
+    "zipcode": "0040831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄一条"
+  },
+  "0040832": {
+    "zipcode": "0040832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄二条"
+  },
+  "0040833": {
+    "zipcode": "0040833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄三条"
+  },
+  "0040834": {
+    "zipcode": "0040834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄四条"
+  },
+  "0040835": {
+    "zipcode": "0040835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄五条"
+  },
+  "0040836": {
+    "zipcode": "0040836",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄六条"
+  },
+  "0040839": {
+    "zipcode": "0040839",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "真栄"
+  },
+  "0040840": {
+    "zipcode": "0040840",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田十条"
+  },
+  "0040841": {
+    "zipcode": "0040841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田一条"
+  },
+  "0040842": {
+    "zipcode": "0040842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田二条"
+  },
+  "0040843": {
+    "zipcode": "0040843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田三条"
+  },
+  "0040844": {
+    "zipcode": "0040844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田四条"
+  },
+  "0040845": {
+    "zipcode": "0040845",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田五条"
+  },
+  "0040846": {
+    "zipcode": "0040846",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田六条"
+  },
+  "0040847": {
+    "zipcode": "0040847",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田七条"
+  },
+  "0040848": {
+    "zipcode": "0040848",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田八条"
+  },
+  "0040849": {
+    "zipcode": "0040849",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田九条"
+  },
+  "0040859": {
+    "zipcode": "0040859",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "清田"
+  },
+  "0040861": {
+    "zipcode": "0040861",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野一条"
+  },
+  "0040862": {
+    "zipcode": "0040862",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野二条"
+  },
+  "0040863": {
+    "zipcode": "0040863",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野三条"
+  },
+  "0040864": {
+    "zipcode": "0040864",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野四条"
+  },
+  "0040865": {
+    "zipcode": "0040865",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野五条"
+  },
+  "0040866": {
+    "zipcode": "0040866",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野六条"
+  },
+  "0040867": {
+    "zipcode": "0040867",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "北野七条"
+  },
+  "0040871": {
+    "zipcode": "0040871",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡一条"
+  },
+  "0040872": {
+    "zipcode": "0040872",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡二条"
+  },
+  "0040873": {
+    "zipcode": "0040873",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡三条"
+  },
+  "0040874": {
+    "zipcode": "0040874",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡四条"
+  },
+  "0040875": {
+    "zipcode": "0040875",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡五条"
+  },
+  "0040876": {
+    "zipcode": "0040876",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡六条"
+  },
+  "0040877": {
+    "zipcode": "0040877",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡七条"
+  },
+  "0040878": {
+    "zipcode": "0040878",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡八条"
+  },
+  "0040879": {
+    "zipcode": "0040879",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡九条"
+  },
+  "0040880": {
+    "zipcode": "0040880",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡十条"
+  },
+  "0040881": {
+    "zipcode": "0040881",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡公園"
+  },
+  "0040882": {
+    "zipcode": "0040882",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡公園東"
+  },
+  "0040889": {
+    "zipcode": "0040889",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市清田区",
+    "town": "平岡"
+  }
+}

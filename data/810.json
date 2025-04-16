@@ -1,0 +1,442 @@
+{
+  "8100000": {
+    "zipcode": "8100000",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "以下に掲載がない場合"
+  },
+  "8100001": {
+    "zipcode": "8100001",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "天神"
+  },
+  "8100002": {
+    "zipcode": "8100002",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "西中洲"
+  },
+  "8100003": {
+    "zipcode": "8100003",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "春吉"
+  },
+  "8100004": {
+    "zipcode": "8100004",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "渡辺通"
+  },
+  "8100005": {
+    "zipcode": "8100005",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "清川"
+  },
+  "8100011": {
+    "zipcode": "8100011",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "高砂"
+  },
+  "8100012": {
+    "zipcode": "8100012",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "白金"
+  },
+  "8100013": {
+    "zipcode": "8100013",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "大宮"
+  },
+  "8100014": {
+    "zipcode": "8100014",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "平尾"
+  },
+  "8100015": {
+    "zipcode": "8100015",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "那の川"
+  },
+  "8100016": {
+    "zipcode": "8100016",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "平和"
+  },
+  "8100017": {
+    "zipcode": "8100017",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "平丘町"
+  },
+  "8100018": {
+    "zipcode": "8100018",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "山荘通"
+  },
+  "8100021": {
+    "zipcode": "8100021",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "今泉"
+  },
+  "8100022": {
+    "zipcode": "8100022",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "薬院"
+  },
+  "8100023": {
+    "zipcode": "8100023",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "警固"
+  },
+  "8100024": {
+    "zipcode": "8100024",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "桜坂"
+  },
+  "8100025": {
+    "zipcode": "8100025",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "薬院伊福町"
+  },
+  "8100026": {
+    "zipcode": "8100026",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "古小烏町"
+  },
+  "8100027": {
+    "zipcode": "8100027",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "御所ヶ谷"
+  },
+  "8100028": {
+    "zipcode": "8100028",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "浄水通"
+  },
+  "8100029": {
+    "zipcode": "8100029",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "平尾浄水町"
+  },
+  "8100031": {
+    "zipcode": "8100031",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "谷"
+  },
+  "8100032": {
+    "zipcode": "8100032",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "輝国"
+  },
+  "8100033": {
+    "zipcode": "8100033",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "小笹"
+  },
+  "8100034": {
+    "zipcode": "8100034",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "笹丘"
+  },
+  "8100035": {
+    "zipcode": "8100035",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "梅光園"
+  },
+  "8100036": {
+    "zipcode": "8100036",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "梅光園団地"
+  },
+  "8100037": {
+    "zipcode": "8100037",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "南公園"
+  },
+  "8100041": {
+    "zipcode": "8100041",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "大名"
+  },
+  "8100042": {
+    "zipcode": "8100042",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "赤坂"
+  },
+  "8100043": {
+    "zipcode": "8100043",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "城内"
+  },
+  "8100044": {
+    "zipcode": "8100044",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "六本松"
+  },
+  "8100045": {
+    "zipcode": "8100045",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "草香江"
+  },
+  "8100051": {
+    "zipcode": "8100051",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "大濠公園"
+  },
+  "8100052": {
+    "zipcode": "8100052",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "大濠"
+  },
+  "8100053": {
+    "zipcode": "8100053",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "鳥飼"
+  },
+  "8100054": {
+    "zipcode": "8100054",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "今川"
+  },
+  "8100055": {
+    "zipcode": "8100055",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "黒門"
+  },
+  "8100061": {
+    "zipcode": "8100061",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "西公園"
+  },
+  "8100062": {
+    "zipcode": "8100062",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "荒戸"
+  },
+  "8100063": {
+    "zipcode": "8100063",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "唐人町"
+  },
+  "8100064": {
+    "zipcode": "8100064",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "地行"
+  },
+  "8100065": {
+    "zipcode": "8100065",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "地行浜"
+  },
+  "8100066": {
+    "zipcode": "8100066",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "福浜"
+  },
+  "8100067": {
+    "zipcode": "8100067",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "伊崎"
+  },
+  "8100071": {
+    "zipcode": "8100071",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "那の津"
+  },
+  "8100072": {
+    "zipcode": "8100072",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "長浜"
+  },
+  "8100073": {
+    "zipcode": "8100073",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "舞鶴"
+  },
+  "8100074": {
+    "zipcode": "8100074",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "大手門"
+  },
+  "8100075": {
+    "zipcode": "8100075",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "港"
+  },
+  "8100076": {
+    "zipcode": "8100076",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "town": "荒津"
+  },
+  "8100801": {
+    "zipcode": "8100801",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "中洲"
+  },
+  "8100802": {
+    "zipcode": "8100802",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "town": "中洲中島町"
+  }
+}

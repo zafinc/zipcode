@@ -1,0 +1,570 @@
+{
+  "1700000": {
+    "zipcode": "1700000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "以下に掲載がない場合"
+  },
+  "1700001": {
+    "zipcode": "1700001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "西巣鴨"
+  },
+  "1700002": {
+    "zipcode": "1700002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "巣鴨"
+  },
+  "1700003": {
+    "zipcode": "1700003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "駒込"
+  },
+  "1700004": {
+    "zipcode": "1700004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "北大塚"
+  },
+  "1700005": {
+    "zipcode": "1700005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "南大塚"
+  },
+  "1700011": {
+    "zipcode": "1700011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "池袋本町"
+  },
+  "1700012": {
+    "zipcode": "1700012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "上池袋"
+  },
+  "1700013": {
+    "zipcode": "1700013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋（次のビルを除く）"
+  },
+  "1700014": {
+    "zipcode": "1700014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "池袋（１丁目）"
+  },
+  "1706001": {
+    "zipcode": "1706001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１階）"
+  },
+  "1706002": {
+    "zipcode": "1706002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２階）"
+  },
+  "1706003": {
+    "zipcode": "1706003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３階）"
+  },
+  "1706004": {
+    "zipcode": "1706004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４階）"
+  },
+  "1706005": {
+    "zipcode": "1706005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５階）"
+  },
+  "1706006": {
+    "zipcode": "1706006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（６階）"
+  },
+  "1706007": {
+    "zipcode": "1706007",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（７階）"
+  },
+  "1706008": {
+    "zipcode": "1706008",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（８階）"
+  },
+  "1706009": {
+    "zipcode": "1706009",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（９階）"
+  },
+  "1706010": {
+    "zipcode": "1706010",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１０階）"
+  },
+  "1706011": {
+    "zipcode": "1706011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１１階）"
+  },
+  "1706012": {
+    "zipcode": "1706012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１２階）"
+  },
+  "1706013": {
+    "zipcode": "1706013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１３階）"
+  },
+  "1706014": {
+    "zipcode": "1706014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１４階）"
+  },
+  "1706015": {
+    "zipcode": "1706015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１５階）"
+  },
+  "1706016": {
+    "zipcode": "1706016",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１６階）"
+  },
+  "1706017": {
+    "zipcode": "1706017",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１７階）"
+  },
+  "1706018": {
+    "zipcode": "1706018",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１８階）"
+  },
+  "1706019": {
+    "zipcode": "1706019",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（１９階）"
+  },
+  "1706020": {
+    "zipcode": "1706020",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２０階）"
+  },
+  "1706021": {
+    "zipcode": "1706021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２１階）"
+  },
+  "1706022": {
+    "zipcode": "1706022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２２階）"
+  },
+  "1706023": {
+    "zipcode": "1706023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２３階）"
+  },
+  "1706024": {
+    "zipcode": "1706024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２４階）"
+  },
+  "1706025": {
+    "zipcode": "1706025",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２５階）"
+  },
+  "1706026": {
+    "zipcode": "1706026",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２６階）"
+  },
+  "1706027": {
+    "zipcode": "1706027",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２７階）"
+  },
+  "1706028": {
+    "zipcode": "1706028",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２８階）"
+  },
+  "1706029": {
+    "zipcode": "1706029",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（２９階）"
+  },
+  "1706030": {
+    "zipcode": "1706030",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３０階）"
+  },
+  "1706031": {
+    "zipcode": "1706031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３１階）"
+  },
+  "1706032": {
+    "zipcode": "1706032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３２階）"
+  },
+  "1706033": {
+    "zipcode": "1706033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３３階）"
+  },
+  "1706034": {
+    "zipcode": "1706034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３４階）"
+  },
+  "1706035": {
+    "zipcode": "1706035",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３５階）"
+  },
+  "1706036": {
+    "zipcode": "1706036",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３６階）"
+  },
+  "1706037": {
+    "zipcode": "1706037",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３７階）"
+  },
+  "1706038": {
+    "zipcode": "1706038",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３８階）"
+  },
+  "1706039": {
+    "zipcode": "1706039",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（３９階）"
+  },
+  "1706040": {
+    "zipcode": "1706040",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４０階）"
+  },
+  "1706041": {
+    "zipcode": "1706041",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４１階）"
+  },
+  "1706042": {
+    "zipcode": "1706042",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４２階）"
+  },
+  "1706043": {
+    "zipcode": "1706043",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４３階）"
+  },
+  "1706044": {
+    "zipcode": "1706044",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４４階）"
+  },
+  "1706045": {
+    "zipcode": "1706045",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４５階）"
+  },
+  "1706046": {
+    "zipcode": "1706046",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４６階）"
+  },
+  "1706047": {
+    "zipcode": "1706047",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４７階）"
+  },
+  "1706048": {
+    "zipcode": "1706048",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４８階）"
+  },
+  "1706049": {
+    "zipcode": "1706049",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（４９階）"
+  },
+  "1706050": {
+    "zipcode": "1706050",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５０階）"
+  },
+  "1706051": {
+    "zipcode": "1706051",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５１階）"
+  },
+  "1706052": {
+    "zipcode": "1706052",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５２階）"
+  },
+  "1706053": {
+    "zipcode": "1706053",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５３階）"
+  },
+  "1706054": {
+    "zipcode": "1706054",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５４階）"
+  },
+  "1706055": {
+    "zipcode": "1706055",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５５階）"
+  },
+  "1706056": {
+    "zipcode": "1706056",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５６階）"
+  },
+  "1706057": {
+    "zipcode": "1706057",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５７階）"
+  },
+  "1706058": {
+    "zipcode": "1706058",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５８階）"
+  },
+  "1706059": {
+    "zipcode": "1706059",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（５９階）"
+  },
+  "1706060": {
+    "zipcode": "1706060",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（６０階）"
+  },
+  "1706090": {
+    "zipcode": "1706090",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "town": "東池袋サンシャイン６０（地階・階層不明）"
+  }
+}

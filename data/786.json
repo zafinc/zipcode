@@ -1,0 +1,1002 @@
+{
+  "7860000": {
+    "zipcode": "7860000",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "以下に掲載がない場合"
+  },
+  "7860001": {
+    "zipcode": "7860001",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "藤ノ川"
+  },
+  "7860002": {
+    "zipcode": "7860002",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "見付"
+  },
+  "7860003": {
+    "zipcode": "7860003",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "金上野"
+  },
+  "7860004": {
+    "zipcode": "7860004",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "茂串町"
+  },
+  "7860005": {
+    "zipcode": "7860005",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "本町"
+  },
+  "7860006": {
+    "zipcode": "7860006",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "東町"
+  },
+  "7860007": {
+    "zipcode": "7860007",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "古市町"
+  },
+  "7860008": {
+    "zipcode": "7860008",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "榊山町"
+  },
+  "7860010": {
+    "zipcode": "7860010",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "窪川"
+  },
+  "7860011": {
+    "zipcode": "7860011",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "香月が丘"
+  },
+  "7860012": {
+    "zipcode": "7860012",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "北琴平町"
+  },
+  "7860013": {
+    "zipcode": "7860013",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "琴平町"
+  },
+  "7860014": {
+    "zipcode": "7860014",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "新開町"
+  },
+  "7860015": {
+    "zipcode": "7860015",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "西原"
+  },
+  "7860016": {
+    "zipcode": "7860016",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大井野"
+  },
+  "7860017": {
+    "zipcode": "7860017",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "神ノ西"
+  },
+  "7860018": {
+    "zipcode": "7860018",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "仕出原"
+  },
+  "7860021": {
+    "zipcode": "7860021",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "仁井田"
+  },
+  "7860022": {
+    "zipcode": "7860022",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "小向"
+  },
+  "7860023": {
+    "zipcode": "7860023",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "中ノ越"
+  },
+  "7860024": {
+    "zipcode": "7860024",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "向川"
+  },
+  "7860025": {
+    "zipcode": "7860025",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "富岡"
+  },
+  "7860026": {
+    "zipcode": "7860026",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "平串"
+  },
+  "7860027": {
+    "zipcode": "7860027",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "東大奈路"
+  },
+  "7860028": {
+    "zipcode": "7860028",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "根元原"
+  },
+  "7860031": {
+    "zipcode": "7860031",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "床鍋"
+  },
+  "7860032": {
+    "zipcode": "7860032",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "影野"
+  },
+  "7860033": {
+    "zipcode": "7860033",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "道徳"
+  },
+  "7860034": {
+    "zipcode": "7860034",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "替坂本"
+  },
+  "7860035": {
+    "zipcode": "7860035",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "六反地"
+  },
+  "7860036": {
+    "zipcode": "7860036",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "下呉地"
+  },
+  "7860037": {
+    "zipcode": "7860037",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "魚の川"
+  },
+  "7860038": {
+    "zipcode": "7860038",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "奥呉地"
+  },
+  "7860041": {
+    "zipcode": "7860041",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "奈路"
+  },
+  "7860042": {
+    "zipcode": "7860042",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "黒石"
+  },
+  "7860043": {
+    "zipcode": "7860043",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "本堂"
+  },
+  "7860044": {
+    "zipcode": "7860044",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "与津地"
+  },
+  "7860045": {
+    "zipcode": "7860045",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "興津（１〜１６９９番）"
+  },
+  "7860046": {
+    "zipcode": "7860046",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "興津（その他）"
+  },
+  "7860047": {
+    "zipcode": "7860047",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "八千数"
+  },
+  "7860048": {
+    "zipcode": "7860048",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "親ケ内"
+  },
+  "7860049": {
+    "zipcode": "7860049",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "数神"
+  },
+  "7860051": {
+    "zipcode": "7860051",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "平野"
+  },
+  "7860052": {
+    "zipcode": "7860052",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "土居"
+  },
+  "7860053": {
+    "zipcode": "7860053",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "弘見"
+  },
+  "7860054": {
+    "zipcode": "7860054",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "飯ノ川"
+  },
+  "7860055": {
+    "zipcode": "7860055",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "志和峰"
+  },
+  "7860056": {
+    "zipcode": "7860056",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "志和"
+  },
+  "7860057": {
+    "zipcode": "7860057",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "小鶴津"
+  },
+  "7860058": {
+    "zipcode": "7860058",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大鶴津"
+  },
+  "7860061": {
+    "zipcode": "7860061",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "峰ノ上"
+  },
+  "7860062": {
+    "zipcode": "7860062",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "若井川"
+  },
+  "7860063": {
+    "zipcode": "7860063",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "高野"
+  },
+  "7860064": {
+    "zipcode": "7860064",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "家地川"
+  },
+  "7860065": {
+    "zipcode": "7860065",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "野地"
+  },
+  "7860066": {
+    "zipcode": "7860066",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "天の川"
+  },
+  "7860067": {
+    "zipcode": "7860067",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大向"
+  },
+  "7860068": {
+    "zipcode": "7860068",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "若井"
+  },
+  "7860071": {
+    "zipcode": "7860071",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "奥神ノ川"
+  },
+  "7860072": {
+    "zipcode": "7860072",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "中神ノ川"
+  },
+  "7860073": {
+    "zipcode": "7860073",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "口神ノ川"
+  },
+  "7860074": {
+    "zipcode": "7860074",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "南川口"
+  },
+  "7860075": {
+    "zipcode": "7860075",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "秋丸"
+  },
+  "7860076": {
+    "zipcode": "7860076",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "寺野"
+  },
+  "7860077": {
+    "zipcode": "7860077",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "桧生原"
+  },
+  "7860078": {
+    "zipcode": "7860078",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "折合"
+  },
+  "7860081": {
+    "zipcode": "7860081",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "中村"
+  },
+  "7860082": {
+    "zipcode": "7860082",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "七里"
+  },
+  "7860083": {
+    "zipcode": "7860083",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "西川角"
+  },
+  "7860084": {
+    "zipcode": "7860084",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "東川角"
+  },
+  "7860085": {
+    "zipcode": "7860085",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "根々崎"
+  },
+  "7860086": {
+    "zipcode": "7860086",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "宮内"
+  },
+  "7860087": {
+    "zipcode": "7860087",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "作屋"
+  },
+  "7860088": {
+    "zipcode": "7860088",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "市生原"
+  },
+  "7860091": {
+    "zipcode": "7860091",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "川ノ内"
+  },
+  "7860092": {
+    "zipcode": "7860092",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "勝賀野"
+  },
+  "7860093": {
+    "zipcode": "7860093",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "東北ノ川"
+  },
+  "7860094": {
+    "zipcode": "7860094",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "一斗俵"
+  },
+  "7860095": {
+    "zipcode": "7860095",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "米奥"
+  },
+  "7860096": {
+    "zipcode": "7860096",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "窪川中津川"
+  },
+  "7860097": {
+    "zipcode": "7860097",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "日野地"
+  },
+  "7860098": {
+    "zipcode": "7860098",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "上秋丸"
+  },
+  "7860301": {
+    "zipcode": "7860301",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大正（葛籠川、轟崎を含む）"
+  },
+  "7860302": {
+    "zipcode": "7860302",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "瀬里"
+  },
+  "7860303": {
+    "zipcode": "7860303",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "希ノ川"
+  },
+  "7860304": {
+    "zipcode": "7860304",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "下岡"
+  },
+  "7860305": {
+    "zipcode": "7860305",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "上岡"
+  },
+  "7860306": {
+    "zipcode": "7860306",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "小石"
+  },
+  "7860307": {
+    "zipcode": "7860307",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "江師"
+  },
+  "7860308": {
+    "zipcode": "7860308",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "芳川"
+  },
+  "7860311": {
+    "zipcode": "7860311",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "西ノ川"
+  },
+  "7860312": {
+    "zipcode": "7860312",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大正大奈路"
+  },
+  "7860313": {
+    "zipcode": "7860313",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "木屋ケ内"
+  },
+  "7860314": {
+    "zipcode": "7860314",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "下道"
+  },
+  "7860315": {
+    "zipcode": "7860315",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "下津井"
+  },
+  "7860316": {
+    "zipcode": "7860316",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大正中津川"
+  },
+  "7860321": {
+    "zipcode": "7860321",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大正北ノ川"
+  },
+  "7860322": {
+    "zipcode": "7860322",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "打井川"
+  },
+  "7860323": {
+    "zipcode": "7860323",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "上宮"
+  },
+  "7860324": {
+    "zipcode": "7860324",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "弘瀬"
+  },
+  "7860325": {
+    "zipcode": "7860325",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "市ノ又"
+  },
+  "7860326": {
+    "zipcode": "7860326",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "烏手"
+  },
+  "7860327": {
+    "zipcode": "7860327",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "相去"
+  },
+  "7860501": {
+    "zipcode": "7860501",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "地吉"
+  },
+  "7860502": {
+    "zipcode": "7860502",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "古城"
+  },
+  "7860503": {
+    "zipcode": "7860503",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "戸川"
+  },
+  "7860504": {
+    "zipcode": "7860504",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "十川"
+  },
+  "7860511": {
+    "zipcode": "7860511",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "昭和（その他）"
+  },
+  "7860512": {
+    "zipcode": "7860512",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "昭和甲"
+  },
+  "7860513": {
+    "zipcode": "7860513",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "昭和乙"
+  },
+  "7860514": {
+    "zipcode": "7860514",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "河内"
+  },
+  "7860515": {
+    "zipcode": "7860515",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "久保川"
+  },
+  "7860516": {
+    "zipcode": "7860516",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "口大道"
+  },
+  "7860517": {
+    "zipcode": "7860517",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "奥大道"
+  },
+  "7860521": {
+    "zipcode": "7860521",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "津賀"
+  },
+  "7860522": {
+    "zipcode": "7860522",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "茅吹手"
+  },
+  "7860523": {
+    "zipcode": "7860523",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "浦越"
+  },
+  "7860524": {
+    "zipcode": "7860524",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "里川"
+  },
+  "7860525": {
+    "zipcode": "7860525",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "野々川"
+  },
+  "7860531": {
+    "zipcode": "7860531",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "小野"
+  },
+  "7860532": {
+    "zipcode": "7860532",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "大井川"
+  },
+  "7860533": {
+    "zipcode": "7860533",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "井崎"
+  },
+  "7860534": {
+    "zipcode": "7860534",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "広瀬"
+  },
+  "7860535": {
+    "zipcode": "7860535",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡四万十町",
+    "town": "十和川口"
+  }
+}

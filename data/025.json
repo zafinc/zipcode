@@ -1,0 +1,826 @@
+{
+  "0250000": {
+    "zipcode": "0250000",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "以下に掲載がない場合"
+  },
+  "0250001": {
+    "zipcode": "0250001",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "天下田"
+  },
+  "0250002": {
+    "zipcode": "0250002",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "西宮野目"
+  },
+  "0250003": {
+    "zipcode": "0250003",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東宮野目"
+  },
+  "0250004": {
+    "zipcode": "0250004",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "葛"
+  },
+  "0250005": {
+    "zipcode": "0250005",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "田力"
+  },
+  "0250006": {
+    "zipcode": "0250006",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下似内"
+  },
+  "0250007": {
+    "zipcode": "0250007",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上似内"
+  },
+  "0250008": {
+    "zipcode": "0250008",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "空港南"
+  },
+  "0250011": {
+    "zipcode": "0250011",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "矢沢"
+  },
+  "0250012": {
+    "zipcode": "0250012",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "胡四王"
+  },
+  "0250013": {
+    "zipcode": "0250013",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "幸田"
+  },
+  "0250014": {
+    "zipcode": "0250014",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "高松"
+  },
+  "0250015": {
+    "zipcode": "0250015",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東十二丁目"
+  },
+  "0250016": {
+    "zipcode": "0250016",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "高木"
+  },
+  "0250021": {
+    "zipcode": "0250021",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南城"
+  },
+  "0250022": {
+    "zipcode": "0250022",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "十二丁目"
+  },
+  "0250023": {
+    "zipcode": "0250023",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "成田"
+  },
+  "0250024": {
+    "zipcode": "0250024",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "山の神"
+  },
+  "0250025": {
+    "zipcode": "0250025",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下根子"
+  },
+  "0250026": {
+    "zipcode": "0250026",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大谷地"
+  },
+  "0250031": {
+    "zipcode": "0250031",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "不動"
+  },
+  "0250032": {
+    "zipcode": "0250032",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上諏訪"
+  },
+  "0250033": {
+    "zipcode": "0250033",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "諏訪"
+  },
+  "0250034": {
+    "zipcode": "0250034",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南諏訪町"
+  },
+  "0250035": {
+    "zipcode": "0250035",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "実相寺"
+  },
+  "0250036": {
+    "zipcode": "0250036",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "中根子"
+  },
+  "0250037": {
+    "zipcode": "0250037",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "太田"
+  },
+  "0250038": {
+    "zipcode": "0250038",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "不動町"
+  },
+  "0250039": {
+    "zipcode": "0250039",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "諏訪町"
+  },
+  "0250041": {
+    "zipcode": "0250041",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "膝立"
+  },
+  "0250042": {
+    "zipcode": "0250042",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "円万寺"
+  },
+  "0250043": {
+    "zipcode": "0250043",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上根子"
+  },
+  "0250044": {
+    "zipcode": "0250044",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "湯口（石川原、田屋、二ツ堰、的場）"
+  },
+  "0250045": {
+    "zipcode": "0250045",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "西晴山"
+  },
+  "0250046": {
+    "zipcode": "0250046",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "鍋倉"
+  },
+  "0250051": {
+    "zipcode": "0250051",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南新田"
+  },
+  "0250052": {
+    "zipcode": "0250052",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "野田"
+  },
+  "0250053": {
+    "zipcode": "0250053",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "中北万丁目"
+  },
+  "0250054": {
+    "zipcode": "0250054",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下北万丁目"
+  },
+  "0250055": {
+    "zipcode": "0250055",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南万丁目"
+  },
+  "0250056": {
+    "zipcode": "0250056",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上北万丁目"
+  },
+  "0250057": {
+    "zipcode": "0250057",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "新田"
+  },
+  "0250058": {
+    "zipcode": "0250058",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "一本杉"
+  },
+  "0250061": {
+    "zipcode": "0250061",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "本館"
+  },
+  "0250062": {
+    "zipcode": "0250062",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上小舟渡"
+  },
+  "0250063": {
+    "zipcode": "0250063",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下小舟渡"
+  },
+  "0250064": {
+    "zipcode": "0250064",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "桜台"
+  },
+  "0250065": {
+    "zipcode": "0250065",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "星が丘"
+  },
+  "0250066": {
+    "zipcode": "0250066",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "松園町"
+  },
+  "0250067": {
+    "zipcode": "0250067",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "浅沢"
+  },
+  "0250068": {
+    "zipcode": "0250068",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下幅"
+  },
+  "0250071": {
+    "zipcode": "0250071",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "愛宕町"
+  },
+  "0250072": {
+    "zipcode": "0250072",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "四日町"
+  },
+  "0250073": {
+    "zipcode": "0250073",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "一日市"
+  },
+  "0250074": {
+    "zipcode": "0250074",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "坂本町"
+  },
+  "0250075": {
+    "zipcode": "0250075",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "花城町"
+  },
+  "0250076": {
+    "zipcode": "0250076",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "城内"
+  },
+  "0250077": {
+    "zipcode": "0250077",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "仲町"
+  },
+  "0250078": {
+    "zipcode": "0250078",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "吹張町"
+  },
+  "0250079": {
+    "zipcode": "0250079",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "末広町"
+  },
+  "0250081": {
+    "zipcode": "0250081",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "里川口町"
+  },
+  "0250082": {
+    "zipcode": "0250082",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "御田屋町"
+  },
+  "0250083": {
+    "zipcode": "0250083",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "高田"
+  },
+  "0250084": {
+    "zipcode": "0250084",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "桜町"
+  },
+  "0250085": {
+    "zipcode": "0250085",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "双葉町"
+  },
+  "0250086": {
+    "zipcode": "0250086",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "鍛治町"
+  },
+  "0250087": {
+    "zipcode": "0250087",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "上町"
+  },
+  "0250088": {
+    "zipcode": "0250088",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東町"
+  },
+  "0250089": {
+    "zipcode": "0250089",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "豊沢町"
+  },
+  "0250091": {
+    "zipcode": "0250091",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "西大通り"
+  },
+  "0250092": {
+    "zipcode": "0250092",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大通り"
+  },
+  "0250093": {
+    "zipcode": "0250093",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南川原町"
+  },
+  "0250094": {
+    "zipcode": "0250094",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "桜木町"
+  },
+  "0250095": {
+    "zipcode": "0250095",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石神町"
+  },
+  "0250096": {
+    "zipcode": "0250096",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "藤沢町"
+  },
+  "0250097": {
+    "zipcode": "0250097",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "若葉町"
+  },
+  "0250098": {
+    "zipcode": "0250098",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "材木町"
+  },
+  "0250131": {
+    "zipcode": "0250131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "轟木"
+  },
+  "0250132": {
+    "zipcode": "0250132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "北笹間"
+  },
+  "0250133": {
+    "zipcode": "0250133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "中笹間"
+  },
+  "0250134": {
+    "zipcode": "0250134",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "南笹間"
+  },
+  "0250135": {
+    "zipcode": "0250135",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "栃内"
+  },
+  "0250136": {
+    "zipcode": "0250136",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "横志田"
+  },
+  "0250137": {
+    "zipcode": "0250137",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "尻平川"
+  },
+  "0250244": {
+    "zipcode": "0250244",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "湯口（その他）"
+  },
+  "0250251": {
+    "zipcode": "0250251",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "豊沢"
+  },
+  "0250252": {
+    "zipcode": "0250252",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "鉛"
+  },
+  "0250253": {
+    "zipcode": "0250253",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "下シ沢"
+  },
+  "0250301": {
+    "zipcode": "0250301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "北湯口"
+  },
+  "0250302": {
+    "zipcode": "0250302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "糠塚"
+  },
+  "0250303": {
+    "zipcode": "0250303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大畑"
+  },
+  "0250304": {
+    "zipcode": "0250304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "湯本"
+  },
+  "0250305": {
+    "zipcode": "0250305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "台"
+  },
+  "0250311": {
+    "zipcode": "0250311",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "卸町"
+  },
+  "0250312": {
+    "zipcode": "0250312",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "二枚橋"
+  },
+  "0250313": {
+    "zipcode": "0250313",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "二枚橋町北"
+  },
+  "0250314": {
+    "zipcode": "0250314",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "二枚橋町大通り"
+  },
+  "0250315": {
+    "zipcode": "0250315",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "二枚橋町南"
+  },
+  "0250321": {
+    "zipcode": "0250321",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "金矢"
+  },
+  "0250322": {
+    "zipcode": "0250322",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "狼沢"
+  },
+  "0250323": {
+    "zipcode": "0250323",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "椚ノ目"
+  },
+  "0250324": {
+    "zipcode": "0250324",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "小瀬川"
+  }
+}

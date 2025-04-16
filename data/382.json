@@ -1,0 +1,1002 @@
+{
+  "3820000": {
+    "zipcode": "3820000",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "以下に掲載がない場合"
+  },
+  "3820001": {
+    "zipcode": "3820001",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "松川町"
+  },
+  "3820002": {
+    "zipcode": "3820002",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "北旭ケ丘町"
+  },
+  "3820003": {
+    "zipcode": "3820003",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "旭ケ丘"
+  },
+  "3820004": {
+    "zipcode": "3820004",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "高畑町"
+  },
+  "3820005": {
+    "zipcode": "3820005",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "新田町"
+  },
+  "3820006": {
+    "zipcode": "3820006",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "光ケ丘ニュータウン"
+  },
+  "3820011": {
+    "zipcode": "3820011",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "本郷町"
+  },
+  "3820012": {
+    "zipcode": "3820012",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "大谷町"
+  },
+  "3820013": {
+    "zipcode": "3820013",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "常盤町"
+  },
+  "3820014": {
+    "zipcode": "3820014",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "新町"
+  },
+  "3820015": {
+    "zipcode": "3820015",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "太子町"
+  },
+  "3820016": {
+    "zipcode": "3820016",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "高橋町"
+  },
+  "3820017": {
+    "zipcode": "3820017",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "相森町"
+  },
+  "3820021": {
+    "zipcode": "3820021",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "豊丘町"
+  },
+  "3820022": {
+    "zipcode": "3820022",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "豊丘上町"
+  },
+  "3820023": {
+    "zipcode": "3820023",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "米子町"
+  },
+  "3820024": {
+    "zipcode": "3820024",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "塩野町"
+  },
+  "3820025": {
+    "zipcode": "3820025",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "大日向町"
+  },
+  "3820026": {
+    "zipcode": "3820026",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "坂田町"
+  },
+  "3820027": {
+    "zipcode": "3820027",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "南原町"
+  },
+  "3820028": {
+    "zipcode": "3820028",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "臥竜"
+  },
+  "3820031": {
+    "zipcode": "3820031",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "村石町"
+  },
+  "3820032": {
+    "zipcode": "3820032",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "夏端町"
+  },
+  "3820033": {
+    "zipcode": "3820033",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "亀倉町"
+  },
+  "3820034": {
+    "zipcode": "3820034",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "仁礼町"
+  },
+  "3820036": {
+    "zipcode": "3820036",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "明徳町"
+  },
+  "3820037": {
+    "zipcode": "3820037",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "野辺町"
+  },
+  "3820041": {
+    "zipcode": "3820041",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "米持町"
+  },
+  "3820042": {
+    "zipcode": "3820042",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "望岳台"
+  },
+  "3820043": {
+    "zipcode": "3820043",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "下八町"
+  },
+  "3820044": {
+    "zipcode": "3820044",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "上八町"
+  },
+  "3820045": {
+    "zipcode": "3820045",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "井上"
+  },
+  "3820046": {
+    "zipcode": "3820046",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "二睦町"
+  },
+  "3820047": {
+    "zipcode": "3820047",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "幸高町"
+  },
+  "3820048": {
+    "zipcode": "3820048",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "九反田町"
+  },
+  "3820051": {
+    "zipcode": "3820051",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "八重森町"
+  },
+  "3820052": {
+    "zipcode": "3820052",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "塩川町"
+  },
+  "3820053": {
+    "zipcode": "3820053",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "五閑町"
+  },
+  "3820054": {
+    "zipcode": "3820054",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "高梨町"
+  },
+  "3820055": {
+    "zipcode": "3820055",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "中島町"
+  },
+  "3820056": {
+    "zipcode": "3820056",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "福島町"
+  },
+  "3820057": {
+    "zipcode": "3820057",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "村山町"
+  },
+  "3820061": {
+    "zipcode": "3820061",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "北相之島町"
+  },
+  "3820062": {
+    "zipcode": "3820062",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "小島町"
+  },
+  "3820063": {
+    "zipcode": "3820063",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "西町"
+  },
+  "3820064": {
+    "zipcode": "3820064",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "沼目町"
+  },
+  "3820065": {
+    "zipcode": "3820065",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "相之島"
+  },
+  "3820066": {
+    "zipcode": "3820066",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "豊島町"
+  },
+  "3820071": {
+    "zipcode": "3820071",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "小河原町"
+  },
+  "3820072": {
+    "zipcode": "3820072",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "南小河原町"
+  },
+  "3820073": {
+    "zipcode": "3820073",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "田の神町"
+  },
+  "3820074": {
+    "zipcode": "3820074",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "春木町"
+  },
+  "3820075": {
+    "zipcode": "3820075",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "須坂ハイランド町"
+  },
+  "3820076": {
+    "zipcode": "3820076",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "馬場町"
+  },
+  "3820077": {
+    "zipcode": "3820077",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "北横町"
+  },
+  "3820081": {
+    "zipcode": "3820081",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "横町"
+  },
+  "3820082": {
+    "zipcode": "3820082",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "中町"
+  },
+  "3820083": {
+    "zipcode": "3820083",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "上中町"
+  },
+  "3820084": {
+    "zipcode": "3820084",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "上町"
+  },
+  "3820085": {
+    "zipcode": "3820085",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "穀町"
+  },
+  "3820086": {
+    "zipcode": "3820086",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "本上町"
+  },
+  "3820087": {
+    "zipcode": "3820087",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "東横町"
+  },
+  "3820091": {
+    "zipcode": "3820091",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "立町"
+  },
+  "3820092": {
+    "zipcode": "3820092",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "北原町"
+  },
+  "3820094": {
+    "zipcode": "3820094",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "屋部町"
+  },
+  "3820097": {
+    "zipcode": "3820097",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "南横町"
+  },
+  "3820098": {
+    "zipcode": "3820098",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "墨坂南"
+  },
+  "3820099": {
+    "zipcode": "3820099",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "墨坂"
+  },
+  "3820800": {
+    "zipcode": "3820800",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "以下に掲載がない場合"
+  },
+  "3820801": {
+    "zipcode": "3820801",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "駒場"
+  },
+  "3820802": {
+    "zipcode": "3820802",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "松原"
+  },
+  "3820803": {
+    "zipcode": "3820803",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "桝形"
+  },
+  "3820804": {
+    "zipcode": "3820804",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "中原"
+  },
+  "3820805": {
+    "zipcode": "3820805",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "三郷"
+  },
+  "3820806": {
+    "zipcode": "3820806",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "なかひら"
+  },
+  "3820811": {
+    "zipcode": "3820811",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "宮関"
+  },
+  "3820813": {
+    "zipcode": "3820813",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "蕨平"
+  },
+  "3820814": {
+    "zipcode": "3820814",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "天神原"
+  },
+  "3820815": {
+    "zipcode": "3820815",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "荻久保"
+  },
+  "3820816": {
+    "zipcode": "3820816",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "山田温泉"
+  },
+  "3820817": {
+    "zipcode": "3820817",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "山田牧場"
+  },
+  "3820821": {
+    "zipcode": "3820821",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "牧"
+  },
+  "3820822": {
+    "zipcode": "3820822",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "福井原"
+  },
+  "3820823": {
+    "zipcode": "3820823",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "黒部"
+  },
+  "3820824": {
+    "zipcode": "3820824",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "緑ケ丘"
+  },
+  "3820825": {
+    "zipcode": "3820825",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "紫"
+  },
+  "3820826": {
+    "zipcode": "3820826",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "二ツ石"
+  },
+  "3820827": {
+    "zipcode": "3820827",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "松南"
+  },
+  "3820831": {
+    "zipcode": "3820831",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "荒井原"
+  },
+  "3820832": {
+    "zipcode": "3820832",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "赤和"
+  },
+  "3820833": {
+    "zipcode": "3820833",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "久保"
+  },
+  "3820834": {
+    "zipcode": "3820834",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "水中"
+  },
+  "3820835": {
+    "zipcode": "3820835",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "千本松"
+  },
+  "3820836": {
+    "zipcode": "3820836",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "新堀"
+  },
+  "3820837": {
+    "zipcode": "3820837",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "上高井郡高山村",
+    "town": "堀之内"
+  },
+  "3820901": {
+    "zipcode": "3820901",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "小河原"
+  },
+  "3820902": {
+    "zipcode": "3820902",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "日滝"
+  },
+  "3820903": {
+    "zipcode": "3820903",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "八重森"
+  },
+  "3820904": {
+    "zipcode": "3820904",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "村山"
+  },
+  "3820905": {
+    "zipcode": "3820905",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "沼目"
+  },
+  "3820906": {
+    "zipcode": "3820906",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "小島"
+  },
+  "3820907": {
+    "zipcode": "3820907",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "北相之島"
+  },
+  "3820908": {
+    "zipcode": "3820908",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "豊島"
+  },
+  "3820911": {
+    "zipcode": "3820911",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "須坂"
+  },
+  "3820912": {
+    "zipcode": "3820912",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "小山"
+  },
+  "3820913": {
+    "zipcode": "3820913",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "野辺"
+  },
+  "3820914": {
+    "zipcode": "3820914",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "幸高"
+  },
+  "3820915": {
+    "zipcode": "3820915",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "米持"
+  },
+  "3820916": {
+    "zipcode": "3820916",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "塩川"
+  },
+  "3820917": {
+    "zipcode": "3820917",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "田の神"
+  },
+  "3820921": {
+    "zipcode": "3820921",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "豊丘"
+  },
+  "3820922": {
+    "zipcode": "3820922",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "塩野"
+  },
+  "3820923": {
+    "zipcode": "3820923",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "米子"
+  },
+  "3820924": {
+    "zipcode": "3820924",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "亀倉"
+  },
+  "3820925": {
+    "zipcode": "3820925",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "仁礼（その他）"
+  },
+  "3820926": {
+    "zipcode": "3820926",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "栃倉"
+  },
+  "3820927": {
+    "zipcode": "3820927",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "八町"
+  },
+  "3820928": {
+    "zipcode": "3820928",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "明徳"
+  },
+  "3820929": {
+    "zipcode": "3820929",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "坂田"
+  },
+  "3820931": {
+    "zipcode": "3820931",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "五閑"
+  },
+  "3820932": {
+    "zipcode": "3820932",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "高梨"
+  },
+  "3820933": {
+    "zipcode": "3820933",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "九反田"
+  },
+  "3820934": {
+    "zipcode": "3820934",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "福島"
+  },
+  "3820935": {
+    "zipcode": "3820935",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "town": "中島"
+  }
+}

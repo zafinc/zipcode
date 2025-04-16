@@ -1,0 +1,530 @@
+{
+  "8900000": {
+    "zipcode": "8900000",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島郡三島村",
+    "town": "以下に掲載がない場合"
+  },
+  "8900001": {
+    "zipcode": "8900001",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "千年"
+  },
+  "8900002": {
+    "zipcode": "8900002",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "西伊敷（１〜４丁目）"
+  },
+  "8900003": {
+    "zipcode": "8900003",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "伊敷町（その他）"
+  },
+  "8900004": {
+    "zipcode": "8900004",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "下伊敷町"
+  },
+  "8900005": {
+    "zipcode": "8900005",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "下伊敷"
+  },
+  "8900006": {
+    "zipcode": "8900006",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "若葉町"
+  },
+  "8900007": {
+    "zipcode": "8900007",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "伊敷台"
+  },
+  "8900008": {
+    "zipcode": "8900008",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "伊敷"
+  },
+  "8900011": {
+    "zipcode": "8900011",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "玉里団地（１丁目）"
+  },
+  "8900012": {
+    "zipcode": "8900012",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "玉里町"
+  },
+  "8900013": {
+    "zipcode": "8900013",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "城山（１丁目）"
+  },
+  "8900014": {
+    "zipcode": "8900014",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "草牟田"
+  },
+  "8900015": {
+    "zipcode": "8900015",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "草牟田町"
+  },
+  "8900016": {
+    "zipcode": "8900016",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "新照院町"
+  },
+  "8900021": {
+    "zipcode": "8900021",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "小野"
+  },
+  "8900022": {
+    "zipcode": "8900022",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "小野町（その他）"
+  },
+  "8900023": {
+    "zipcode": "8900023",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "永吉"
+  },
+  "8900024": {
+    "zipcode": "8900024",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "明和"
+  },
+  "8900025": {
+    "zipcode": "8900025",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "原良町"
+  },
+  "8900026": {
+    "zipcode": "8900026",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "原良"
+  },
+  "8900031": {
+    "zipcode": "8900031",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "武岡"
+  },
+  "8900032": {
+    "zipcode": "8900032",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "西陵"
+  },
+  "8900033": {
+    "zipcode": "8900033",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "西別府町"
+  },
+  "8900034": {
+    "zipcode": "8900034",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "田上"
+  },
+  "8900035": {
+    "zipcode": "8900035",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "田上町"
+  },
+  "8900036": {
+    "zipcode": "8900036",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "田上台"
+  },
+  "8900037": {
+    "zipcode": "8900037",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "広木"
+  },
+  "8900038": {
+    "zipcode": "8900038",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "向陽"
+  },
+  "8900041": {
+    "zipcode": "8900041",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "城西"
+  },
+  "8900042": {
+    "zipcode": "8900042",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "薬師"
+  },
+  "8900043": {
+    "zipcode": "8900043",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "鷹師"
+  },
+  "8900044": {
+    "zipcode": "8900044",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "常盤町"
+  },
+  "8900045": {
+    "zipcode": "8900045",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "武"
+  },
+  "8900046": {
+    "zipcode": "8900046",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "西田"
+  },
+  "8900047": {
+    "zipcode": "8900047",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "常盤"
+  },
+  "8900051": {
+    "zipcode": "8900051",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "高麗町"
+  },
+  "8900052": {
+    "zipcode": "8900052",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "上之園町"
+  },
+  "8900053": {
+    "zipcode": "8900053",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "中央町"
+  },
+  "8900054": {
+    "zipcode": "8900054",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "荒田"
+  },
+  "8900055": {
+    "zipcode": "8900055",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "上荒田町"
+  },
+  "8900056": {
+    "zipcode": "8900056",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "下荒田"
+  },
+  "8900061": {
+    "zipcode": "8900061",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "天保山町"
+  },
+  "8900062": {
+    "zipcode": "8900062",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "与次郎"
+  },
+  "8900063": {
+    "zipcode": "8900063",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "鴨池"
+  },
+  "8900064": {
+    "zipcode": "8900064",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "鴨池新町"
+  },
+  "8900065": {
+    "zipcode": "8900065",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "郡元"
+  },
+  "8900066": {
+    "zipcode": "8900066",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "真砂町"
+  },
+  "8900067": {
+    "zipcode": "8900067",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "真砂本町"
+  },
+  "8900068": {
+    "zipcode": "8900068",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "東郡元町"
+  },
+  "8900069": {
+    "zipcode": "8900069",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "南郡元町"
+  },
+  "8900071": {
+    "zipcode": "8900071",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "三和町"
+  },
+  "8900072": {
+    "zipcode": "8900072",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "新栄町"
+  },
+  "8900073": {
+    "zipcode": "8900073",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "宇宿"
+  },
+  "8900074": {
+    "zipcode": "8900074",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "宇宿町"
+  },
+  "8900075": {
+    "zipcode": "8900075",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "桜ケ丘（７、８丁目）"
+  },
+  "8900076": {
+    "zipcode": "8900076",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "中央港新町"
+  },
+  "8900081": {
+    "zipcode": "8900081",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "唐湊"
+  },
+  "8900082": {
+    "zipcode": "8900082",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "紫原"
+  },
+  "8900083": {
+    "zipcode": "8900083",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "西紫原町"
+  },
+  "8900084": {
+    "zipcode": "8900084",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "郡元町"
+  },
+  "8900085": {
+    "zipcode": "8900085",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "南新町"
+  },
+  "8900086": {
+    "zipcode": "8900086",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "town": "日之出町"
+  },
+  "8900901": {
+    "zipcode": "8900901",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島郡三島村",
+    "town": "硫黄島"
+  },
+  "8900902": {
+    "zipcode": "8900902",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島郡三島村",
+    "town": "黒島"
+  },
+  "8900903": {
+    "zipcode": "8900903",
+    "prefectureCode": "46",
+    "prefectureNumber": 46,
+    "prefecture": "鹿児島県",
+    "city": "鹿児島郡三島村",
+    "town": "竹島"
+  }
+}

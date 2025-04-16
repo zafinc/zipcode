@@ -1,0 +1,386 @@
+{
+  "9950000": {
+    "zipcode": "9950000",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "以下に掲載がない場合"
+  },
+  "9950001": {
+    "zipcode": "9950001",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "土生田"
+  },
+  "9950002": {
+    "zipcode": "9950002",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "五十沢"
+  },
+  "9950003": {
+    "zipcode": "9950003",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "本飯田"
+  },
+  "9950004": {
+    "zipcode": "9950004",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "金谷"
+  },
+  "9950005": {
+    "zipcode": "9950005",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "たも山"
+  },
+  "9950006": {
+    "zipcode": "9950006",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "林崎"
+  },
+  "9950011": {
+    "zipcode": "9950011",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡北町"
+  },
+  "9950012": {
+    "zipcode": "9950012",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "湯沢"
+  },
+  "9950013": {
+    "zipcode": "9950013",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡湯沢"
+  },
+  "9950014": {
+    "zipcode": "9950014",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡鶴ケ町"
+  },
+  "9950015": {
+    "zipcode": "9950015",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡二日町"
+  },
+  "9950016": {
+    "zipcode": "9950016",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡晦日町"
+  },
+  "9950017": {
+    "zipcode": "9950017",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡十日町"
+  },
+  "9950018": {
+    "zipcode": "9950018",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡新高田"
+  },
+  "9950021": {
+    "zipcode": "9950021",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡楯"
+  },
+  "9950022": {
+    "zipcode": "9950022",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡馬場"
+  },
+  "9950023": {
+    "zipcode": "9950023",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡東沢"
+  },
+  "9950024": {
+    "zipcode": "9950024",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡笛田"
+  },
+  "9950025": {
+    "zipcode": "9950025",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡"
+  },
+  "9950031": {
+    "zipcode": "9950031",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡大沢川"
+  },
+  "9950032": {
+    "zipcode": "9950032",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡荒町"
+  },
+  "9950033": {
+    "zipcode": "9950033",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡新町"
+  },
+  "9950034": {
+    "zipcode": "9950034",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡五日町"
+  },
+  "9950035": {
+    "zipcode": "9950035",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "中央"
+  },
+  "9950036": {
+    "zipcode": "9950036",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡中町"
+  },
+  "9950037": {
+    "zipcode": "9950037",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "楯岡俵町"
+  },
+  "9950038": {
+    "zipcode": "9950038",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "駅西"
+  },
+  "9950041": {
+    "zipcode": "9950041",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "河島"
+  },
+  "9950042": {
+    "zipcode": "9950042",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "杉島"
+  },
+  "9950051": {
+    "zipcode": "9950051",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "田沢"
+  },
+  "9950052": {
+    "zipcode": "9950052",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "名取"
+  },
+  "9950053": {
+    "zipcode": "9950053",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "西郷"
+  },
+  "9950054": {
+    "zipcode": "9950054",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "大淀"
+  },
+  "9950055": {
+    "zipcode": "9950055",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "長島"
+  },
+  "9950056": {
+    "zipcode": "9950056",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "河島山"
+  },
+  "9950111": {
+    "zipcode": "9950111",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "大久保"
+  },
+  "9950112": {
+    "zipcode": "9950112",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "湯野沢"
+  },
+  "9950113": {
+    "zipcode": "9950113",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "岩野"
+  },
+  "9950201": {
+    "zipcode": "9950201",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "長善寺"
+  },
+  "9950202": {
+    "zipcode": "9950202",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "白鳥"
+  },
+  "9950203": {
+    "zipcode": "9950203",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "大槇"
+  },
+  "9950204": {
+    "zipcode": "9950204",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "稲下"
+  },
+  "9950205": {
+    "zipcode": "9950205",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "樽石"
+  },
+  "9950206": {
+    "zipcode": "9950206",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "山の内"
+  },
+  "9950207": {
+    "zipcode": "9950207",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "雪の観音郷"
+  },
+  "9950208": {
+    "zipcode": "9950208",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "富並"
+  },
+  "9950209": {
+    "zipcode": "9950209",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "村山市",
+    "town": "碁点"
+  }
+}

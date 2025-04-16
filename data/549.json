@@ -1,0 +1,26 @@
+{
+  "5490001": {
+    "zipcode": "5490001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉佐野市",
+    "town": "泉州空港北"
+  },
+  "5490011": {
+    "zipcode": "5490011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡田尻町",
+    "town": "泉州空港中"
+  },
+  "5490021": {
+    "zipcode": "5490021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南市",
+    "town": "泉州空港南"
+  }
+}

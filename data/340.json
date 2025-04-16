@@ -1,0 +1,986 @@
+{
+  "3400000": {
+    "zipcode": "3400000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "以下に掲載がない場合"
+  },
+  "3400001": {
+    "zipcode": "3400001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "柿木町"
+  },
+  "3400002": {
+    "zipcode": "3400002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "青柳"
+  },
+  "3400003": {
+    "zipcode": "3400003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "稲荷"
+  },
+  "3400004": {
+    "zipcode": "3400004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "弁天"
+  },
+  "3400005": {
+    "zipcode": "3400005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "中根"
+  },
+  "3400006": {
+    "zipcode": "3400006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "八幡町"
+  },
+  "3400007": {
+    "zipcode": "3400007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "青柳町"
+  },
+  "3400011": {
+    "zipcode": "3400011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "栄町"
+  },
+  "3400012": {
+    "zipcode": "3400012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "神明"
+  },
+  "3400013": {
+    "zipcode": "3400013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "松江"
+  },
+  "3400014": {
+    "zipcode": "3400014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "住吉"
+  },
+  "3400015": {
+    "zipcode": "3400015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "高砂"
+  },
+  "3400016": {
+    "zipcode": "3400016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "中央"
+  },
+  "3400017": {
+    "zipcode": "3400017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "吉町"
+  },
+  "3400021": {
+    "zipcode": "3400021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "手代"
+  },
+  "3400022": {
+    "zipcode": "3400022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "瀬崎"
+  },
+  "3400023": {
+    "zipcode": "3400023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "谷塚町"
+  },
+  "3400024": {
+    "zipcode": "3400024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "谷塚上町"
+  },
+  "3400025": {
+    "zipcode": "3400025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "谷塚仲町"
+  },
+  "3400026": {
+    "zipcode": "3400026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "両新田東町"
+  },
+  "3400027": {
+    "zipcode": "3400027",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "両新田西町"
+  },
+  "3400028": {
+    "zipcode": "3400028",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "谷塚"
+  },
+  "3400031": {
+    "zipcode": "3400031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "新里町"
+  },
+  "3400032": {
+    "zipcode": "3400032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "遊馬町"
+  },
+  "3400033": {
+    "zipcode": "3400033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "柳島町"
+  },
+  "3400034": {
+    "zipcode": "3400034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "氷川町"
+  },
+  "3400035": {
+    "zipcode": "3400035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "西町"
+  },
+  "3400036": {
+    "zipcode": "3400036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "苗塚町"
+  },
+  "3400041": {
+    "zipcode": "3400041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "松原"
+  },
+  "3400042": {
+    "zipcode": "3400042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "学園町"
+  },
+  "3400043": {
+    "zipcode": "3400043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "草加"
+  },
+  "3400044": {
+    "zipcode": "3400044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "花栗"
+  },
+  "3400045": {
+    "zipcode": "3400045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "小山"
+  },
+  "3400046": {
+    "zipcode": "3400046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "北谷"
+  },
+  "3400047": {
+    "zipcode": "3400047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "北谷町"
+  },
+  "3400048": {
+    "zipcode": "3400048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "原町"
+  },
+  "3400051": {
+    "zipcode": "3400051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "長栄"
+  },
+  "3400052": {
+    "zipcode": "3400052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "金明町"
+  },
+  "3400053": {
+    "zipcode": "3400053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "旭町"
+  },
+  "3400054": {
+    "zipcode": "3400054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "新善町"
+  },
+  "3400055": {
+    "zipcode": "3400055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "清門"
+  },
+  "3400056": {
+    "zipcode": "3400056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "town": "新栄"
+  },
+  "3400100": {
+    "zipcode": "3400100",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "以下に掲載がない場合"
+  },
+  "3400101": {
+    "zipcode": "3400101",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "外国府間"
+  },
+  "3400102": {
+    "zipcode": "3400102",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "高須賀"
+  },
+  "3400103": {
+    "zipcode": "3400103",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "内国府間"
+  },
+  "3400104": {
+    "zipcode": "3400104",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "円藤内"
+  },
+  "3400105": {
+    "zipcode": "3400105",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "松石"
+  },
+  "3400111": {
+    "zipcode": "3400111",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "北"
+  },
+  "3400112": {
+    "zipcode": "3400112",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "権現堂"
+  },
+  "3400113": {
+    "zipcode": "3400113",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "幸手"
+  },
+  "3400114": {
+    "zipcode": "3400114",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "東"
+  },
+  "3400115": {
+    "zipcode": "3400115",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "中"
+  },
+  "3400116": {
+    "zipcode": "3400116",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "西"
+  },
+  "3400121": {
+    "zipcode": "3400121",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "上吉羽"
+  },
+  "3400122": {
+    "zipcode": "3400122",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "神明内"
+  },
+  "3400123": {
+    "zipcode": "3400123",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "木立"
+  },
+  "3400124": {
+    "zipcode": "3400124",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "上宇和田"
+  },
+  "3400125": {
+    "zipcode": "3400125",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "下宇和田"
+  },
+  "3400126": {
+    "zipcode": "3400126",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "下吉羽"
+  },
+  "3400131": {
+    "zipcode": "3400131",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "西関宿"
+  },
+  "3400132": {
+    "zipcode": "3400132",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "中島"
+  },
+  "3400133": {
+    "zipcode": "3400133",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "惣新田"
+  },
+  "3400134": {
+    "zipcode": "3400134",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "花島"
+  },
+  "3400135": {
+    "zipcode": "3400135",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "槇野地"
+  },
+  "3400136": {
+    "zipcode": "3400136",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "細野"
+  },
+  "3400141": {
+    "zipcode": "3400141",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "平野"
+  },
+  "3400142": {
+    "zipcode": "3400142",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "中野"
+  },
+  "3400143": {
+    "zipcode": "3400143",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "長間"
+  },
+  "3400144": {
+    "zipcode": "3400144",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "戸島"
+  },
+  "3400145": {
+    "zipcode": "3400145",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "平須賀"
+  },
+  "3400146": {
+    "zipcode": "3400146",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "神扇"
+  },
+  "3400151": {
+    "zipcode": "3400151",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "緑台"
+  },
+  "3400152": {
+    "zipcode": "3400152",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "天神島"
+  },
+  "3400153": {
+    "zipcode": "3400153",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "吉野"
+  },
+  "3400154": {
+    "zipcode": "3400154",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "栄"
+  },
+  "3400155": {
+    "zipcode": "3400155",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "上高野"
+  },
+  "3400156": {
+    "zipcode": "3400156",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "南"
+  },
+  "3400161": {
+    "zipcode": "3400161",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "千塚"
+  },
+  "3400162": {
+    "zipcode": "3400162",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "下川崎"
+  },
+  "3400163": {
+    "zipcode": "3400163",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "中川崎"
+  },
+  "3400164": {
+    "zipcode": "3400164",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "幸手市",
+    "town": "香日向"
+  },
+  "3400201": {
+    "zipcode": "3400201",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "八甫"
+  },
+  "3400202": {
+    "zipcode": "3400202",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "東大輪"
+  },
+  "3400203": {
+    "zipcode": "3400203",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "桜田"
+  },
+  "3400204": {
+    "zipcode": "3400204",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "上川崎"
+  },
+  "3400205": {
+    "zipcode": "3400205",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "外野"
+  },
+  "3400206": {
+    "zipcode": "3400206",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "西大輪"
+  },
+  "3400211": {
+    "zipcode": "3400211",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "上内"
+  },
+  "3400212": {
+    "zipcode": "3400212",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "久本寺"
+  },
+  "3400213": {
+    "zipcode": "3400213",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "中妻"
+  },
+  "3400214": {
+    "zipcode": "3400214",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "葛梅"
+  },
+  "3400215": {
+    "zipcode": "3400215",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "栄"
+  },
+  "3400216": {
+    "zipcode": "3400216",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "鷲宮中央"
+  },
+  "3400217": {
+    "zipcode": "3400217",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "鷲宮"
+  },
+  "3400218": {
+    "zipcode": "3400218",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "久喜市",
+    "town": "砂原"
+  },
+  "3400800": {
+    "zipcode": "3400800",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "以下に掲載がない場合"
+  },
+  "3400801": {
+    "zipcode": "3400801",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "八條"
+  },
+  "3400802": {
+    "zipcode": "3400802",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "鶴ケ曽根"
+  },
+  "3400803": {
+    "zipcode": "3400803",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "上馬場"
+  },
+  "3400804": {
+    "zipcode": "3400804",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "小作田"
+  },
+  "3400805": {
+    "zipcode": "3400805",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "松之木"
+  },
+  "3400806": {
+    "zipcode": "3400806",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "伊草"
+  },
+  "3400807": {
+    "zipcode": "3400807",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "新町"
+  },
+  "3400808": {
+    "zipcode": "3400808",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "緑町"
+  },
+  "3400811": {
+    "zipcode": "3400811",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "二丁目"
+  },
+  "3400812": {
+    "zipcode": "3400812",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "中馬場"
+  },
+  "3400813": {
+    "zipcode": "3400813",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "木曽根"
+  },
+  "3400814": {
+    "zipcode": "3400814",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "南川崎"
+  },
+  "3400815": {
+    "zipcode": "3400815",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "八潮"
+  },
+  "3400816": {
+    "zipcode": "3400816",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "中央"
+  },
+  "3400821": {
+    "zipcode": "3400821",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "伊勢野"
+  },
+  "3400822": {
+    "zipcode": "3400822",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "大瀬"
+  },
+  "3400823": {
+    "zipcode": "3400823",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "古新田"
+  },
+  "3400824": {
+    "zipcode": "3400824",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "垳"
+  },
+  "3400825": {
+    "zipcode": "3400825",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "大原"
+  },
+  "3400826": {
+    "zipcode": "3400826",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "茜町"
+  },
+  "3400831": {
+    "zipcode": "3400831",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "南後谷"
+  },
+  "3400832": {
+    "zipcode": "3400832",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "柳之宮"
+  },
+  "3400833": {
+    "zipcode": "3400833",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "西袋"
+  },
+  "3400834": {
+    "zipcode": "3400834",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "大曽根"
+  },
+  "3400835": {
+    "zipcode": "3400835",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "town": "浮塚"
+  }
+}

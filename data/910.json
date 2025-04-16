@@ -1,0 +1,4882 @@
+{
+  "9100001": {
+    "zipcode": "9100001",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大願寺"
+  },
+  "9100002": {
+    "zipcode": "9100002",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "町屋"
+  },
+  "9100003": {
+    "zipcode": "9100003",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "松本"
+  },
+  "9100004": {
+    "zipcode": "9100004",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宝永"
+  },
+  "9100005": {
+    "zipcode": "9100005",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大手"
+  },
+  "9100006": {
+    "zipcode": "9100006",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中央"
+  },
+  "9100011": {
+    "zipcode": "9100011",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "経田"
+  },
+  "9100012": {
+    "zipcode": "9100012",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "経栄"
+  },
+  "9100013": {
+    "zipcode": "9100013",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "幾代"
+  },
+  "9100014": {
+    "zipcode": "9100014",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "幾久町"
+  },
+  "9100015": {
+    "zipcode": "9100015",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "二の宮"
+  },
+  "9100016": {
+    "zipcode": "9100016",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大宮"
+  },
+  "9100017": {
+    "zipcode": "9100017",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "文京"
+  },
+  "9100018": {
+    "zipcode": "9100018",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "田原"
+  },
+  "9100019": {
+    "zipcode": "9100019",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "春山"
+  },
+  "9100021": {
+    "zipcode": "9100021",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "乾徳"
+  },
+  "9100022": {
+    "zipcode": "9100022",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "花月"
+  },
+  "9100023": {
+    "zipcode": "9100023",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "順化"
+  },
+  "9100024": {
+    "zipcode": "9100024",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "照手"
+  },
+  "9100025": {
+    "zipcode": "9100025",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "照手町"
+  },
+  "9100026": {
+    "zipcode": "9100026",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "光陽"
+  },
+  "9100027": {
+    "zipcode": "9100027",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "豊岡"
+  },
+  "9100028": {
+    "zipcode": "9100028",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "学園"
+  },
+  "9100029": {
+    "zipcode": "9100029",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "日光"
+  },
+  "9100031": {
+    "zipcode": "9100031",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "堀ノ宮町"
+  },
+  "9100032": {
+    "zipcode": "9100032",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "堀ノ宮"
+  },
+  "9100033": {
+    "zipcode": "9100033",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三郎丸"
+  },
+  "9100034": {
+    "zipcode": "9100034",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "菅谷"
+  },
+  "9100035": {
+    "zipcode": "9100035",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "菅谷町"
+  },
+  "9100036": {
+    "zipcode": "9100036",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三郎丸町"
+  },
+  "9100037": {
+    "zipcode": "9100037",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西堀町"
+  },
+  "9100038": {
+    "zipcode": "9100038",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三ツ屋"
+  },
+  "9100039": {
+    "zipcode": "9100039",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三ツ屋町"
+  },
+  "9100041": {
+    "zipcode": "9100041",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "天菅生町"
+  },
+  "9100042": {
+    "zipcode": "9100042",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "岸水町"
+  },
+  "9100043": {
+    "zipcode": "9100043",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "四十谷町"
+  },
+  "9100044": {
+    "zipcode": "9100044",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "田ノ谷町"
+  },
+  "9100045": {
+    "zipcode": "9100045",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "北楢原町"
+  },
+  "9100046": {
+    "zipcode": "9100046",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南楢原町"
+  },
+  "9100047": {
+    "zipcode": "9100047",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "海老助町"
+  },
+  "9100048": {
+    "zipcode": "9100048",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "地蔵堂町"
+  },
+  "9100049": {
+    "zipcode": "9100049",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "深谷町"
+  },
+  "9100051": {
+    "zipcode": "9100051",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "郡町"
+  },
+  "9100052": {
+    "zipcode": "9100052",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "黒丸町"
+  },
+  "9100053": {
+    "zipcode": "9100053",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "土橋町"
+  },
+  "9100054": {
+    "zipcode": "9100054",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "安竹町"
+  },
+  "9100055": {
+    "zipcode": "9100055",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上伏町"
+  },
+  "9100056": {
+    "zipcode": "9100056",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "里別所新町"
+  },
+  "9100057": {
+    "zipcode": "9100057",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "里別所町"
+  },
+  "9100061": {
+    "zipcode": "9100061",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "舟橋新町"
+  },
+  "9100062": {
+    "zipcode": "9100062",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "灯明寺町"
+  },
+  "9100063": {
+    "zipcode": "9100063",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "灯明寺"
+  },
+  "9100064": {
+    "zipcode": "9100064",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新田塚町"
+  },
+  "9100065": {
+    "zipcode": "9100065",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八ツ島町"
+  },
+  "9100066": {
+    "zipcode": "9100066",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八ツ島"
+  },
+  "9100067": {
+    "zipcode": "9100067",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新田塚"
+  },
+  "9100068": {
+    "zipcode": "9100068",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "舟橋新"
+  },
+  "9100069": {
+    "zipcode": "9100069",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "舟橋黒竜"
+  },
+  "9100070": {
+    "zipcode": "9100070",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高木西"
+  },
+  "9100101": {
+    "zipcode": "9100101",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "つくし野"
+  },
+  "9100102": {
+    "zipcode": "9100102",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "川合鷲塚町"
+  },
+  "9100103": {
+    "zipcode": "9100103",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中角町"
+  },
+  "9100104": {
+    "zipcode": "9100104",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "網戸瀬町"
+  },
+  "9100105": {
+    "zipcode": "9100105",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "河合勝見町"
+  },
+  "9100106": {
+    "zipcode": "9100106",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "六日市町"
+  },
+  "9100107": {
+    "zipcode": "9100107",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高屋町"
+  },
+  "9100108": {
+    "zipcode": "9100108",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "山室町"
+  },
+  "9100109": {
+    "zipcode": "9100109",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "二日市町"
+  },
+  "9100121": {
+    "zipcode": "9100121",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "定正町"
+  },
+  "9100122": {
+    "zipcode": "9100122",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "石盛町"
+  },
+  "9100123": {
+    "zipcode": "9100123",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八重巻町"
+  },
+  "9100124": {
+    "zipcode": "9100124",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "天池町"
+  },
+  "9100125": {
+    "zipcode": "9100125",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "石盛"
+  },
+  "9100126": {
+    "zipcode": "9100126",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "定正"
+  },
+  "9100132": {
+    "zipcode": "9100132",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "河合寄安町"
+  },
+  "9100134": {
+    "zipcode": "9100134",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上野本町"
+  },
+  "9100135": {
+    "zipcode": "9100135",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上野本町新"
+  },
+  "9100136": {
+    "zipcode": "9100136",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "栗森町浜"
+  },
+  "9100137": {
+    "zipcode": "9100137",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "栗森"
+  },
+  "9100138": {
+    "zipcode": "9100138",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東森田"
+  },
+  "9100141": {
+    "zipcode": "9100141",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上森田町"
+  },
+  "9100142": {
+    "zipcode": "9100142",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上森田"
+  },
+  "9100143": {
+    "zipcode": "9100143",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下森田新町"
+  },
+  "9100144": {
+    "zipcode": "9100144",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下森田本町"
+  },
+  "9100145": {
+    "zipcode": "9100145",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下森田藤巻町"
+  },
+  "9100146": {
+    "zipcode": "9100146",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下森田桜町"
+  },
+  "9100147": {
+    "zipcode": "9100147",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下森田町"
+  },
+  "9100151": {
+    "zipcode": "9100151",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "栄町"
+  },
+  "9100152": {
+    "zipcode": "9100152",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "古市"
+  },
+  "9100153": {
+    "zipcode": "9100153",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "古市町"
+  },
+  "9100154": {
+    "zipcode": "9100154",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "稲多元町"
+  },
+  "9100155": {
+    "zipcode": "9100155",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "稲多浜町"
+  },
+  "9100156": {
+    "zipcode": "9100156",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "稲多新町"
+  },
+  "9100157": {
+    "zipcode": "9100157",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八重巻東町"
+  },
+  "9100158": {
+    "zipcode": "9100158",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八重巻中町"
+  },
+  "9100200": {
+    "zipcode": "9100200",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "以下に掲載がない場合"
+  },
+  "9100201": {
+    "zipcode": "9100201",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上竹田（曽谷）"
+  },
+  "9100202": {
+    "zipcode": "9100202",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上竹田（岡）"
+  },
+  "9100203": {
+    "zipcode": "9100203",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町山口"
+  },
+  "9100204": {
+    "zipcode": "9100204",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町山竹田"
+  },
+  "9100205": {
+    "zipcode": "9100205",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上竹田（その他）"
+  },
+  "9100206": {
+    "zipcode": "9100206",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町川上"
+  },
+  "9100207": {
+    "zipcode": "9100207",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町山久保"
+  },
+  "9100208": {
+    "zipcode": "9100208",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町坪江"
+  },
+  "9100211": {
+    "zipcode": "9100211",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町女形谷"
+  },
+  "9100212": {
+    "zipcode": "9100212",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町赤坂"
+  },
+  "9100213": {
+    "zipcode": "9100213",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町田屋"
+  },
+  "9100214": {
+    "zipcode": "9100214",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町畑中"
+  },
+  "9100215": {
+    "zipcode": "9100215",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町与河"
+  },
+  "9100221": {
+    "zipcode": "9100221",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町城北"
+  },
+  "9100222": {
+    "zipcode": "9100222",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町伏屋"
+  },
+  "9100223": {
+    "zipcode": "9100223",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町三本木"
+  },
+  "9100224": {
+    "zipcode": "9100224",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町八ケ郷"
+  },
+  "9100225": {
+    "zipcode": "9100225",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町松川"
+  },
+  "9100226": {
+    "zipcode": "9100226",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町松川町"
+  },
+  "9100227": {
+    "zipcode": "9100227",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町荒町"
+  },
+  "9100231": {
+    "zipcode": "9100231",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町霞町"
+  },
+  "9100232": {
+    "zipcode": "9100232",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町霞ケ丘"
+  },
+  "9100233": {
+    "zipcode": "9100233",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町東陽"
+  },
+  "9100234": {
+    "zipcode": "9100234",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町今市"
+  },
+  "9100235": {
+    "zipcode": "9100235",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町巽町"
+  },
+  "9100236": {
+    "zipcode": "9100236",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町本町"
+  },
+  "9100237": {
+    "zipcode": "9100237",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町乾"
+  },
+  "9100241": {
+    "zipcode": "9100241",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町柳町"
+  },
+  "9100242": {
+    "zipcode": "9100242",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町西里丸岡"
+  },
+  "9100243": {
+    "zipcode": "9100243",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町石城戸町"
+  },
+  "9100244": {
+    "zipcode": "9100244",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町富田町"
+  },
+  "9100245": {
+    "zipcode": "9100245",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町谷町"
+  },
+  "9100246": {
+    "zipcode": "9100246",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町西瓜屋"
+  },
+  "9100251": {
+    "zipcode": "9100251",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町一本田福所"
+  },
+  "9100252": {
+    "zipcode": "9100252",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町御幸"
+  },
+  "9100253": {
+    "zipcode": "9100253",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町一本田中"
+  },
+  "9100254": {
+    "zipcode": "9100254",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町一本田"
+  },
+  "9100261": {
+    "zipcode": "9100261",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町針ノ木"
+  },
+  "9100262": {
+    "zipcode": "9100262",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町栄"
+  },
+  "9100263": {
+    "zipcode": "9100263",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上田町"
+  },
+  "9100264": {
+    "zipcode": "9100264",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町乾下田"
+  },
+  "9100265": {
+    "zipcode": "9100265",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町朝陽"
+  },
+  "9100271": {
+    "zipcode": "9100271",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町堀水"
+  },
+  "9100272": {
+    "zipcode": "9100272",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町乗兼"
+  },
+  "9100273": {
+    "zipcode": "9100273",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町長畝"
+  },
+  "9100274": {
+    "zipcode": "9100274",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町千田"
+  },
+  "9100275": {
+    "zipcode": "9100275",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町宇田"
+  },
+  "9100276": {
+    "zipcode": "9100276",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町玄女"
+  },
+  "9100277": {
+    "zipcode": "9100277",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町里竹田"
+  },
+  "9100301": {
+    "zipcode": "9100301",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町愛宕"
+  },
+  "9100302": {
+    "zipcode": "9100302",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町里丸岡"
+  },
+  "9100303": {
+    "zipcode": "9100303",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町猪爪"
+  },
+  "9100304": {
+    "zipcode": "9100304",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町今福"
+  },
+  "9100305": {
+    "zipcode": "9100305",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町八幡町"
+  },
+  "9100311": {
+    "zipcode": "9100311",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町豊原"
+  },
+  "9100312": {
+    "zipcode": "9100312",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町曽々木"
+  },
+  "9100313": {
+    "zipcode": "9100313",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町内田"
+  },
+  "9100314": {
+    "zipcode": "9100314",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町舛田"
+  },
+  "9100315": {
+    "zipcode": "9100315",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町小黒"
+  },
+  "9100316": {
+    "zipcode": "9100316",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町篠岡"
+  },
+  "9100317": {
+    "zipcode": "9100317",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町石上"
+  },
+  "9100321": {
+    "zipcode": "9100321",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町山崎三ケ"
+  },
+  "9100322": {
+    "zipcode": "9100322",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町大森"
+  },
+  "9100323": {
+    "zipcode": "9100323",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町野中山王"
+  },
+  "9100324": {
+    "zipcode": "9100324",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町油為頭"
+  },
+  "9100325": {
+    "zipcode": "9100325",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町板倉"
+  },
+  "9100326": {
+    "zipcode": "9100326",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町末政"
+  },
+  "9100331": {
+    "zipcode": "9100331",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上久米田"
+  },
+  "9100332": {
+    "zipcode": "9100332",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町下久米田"
+  },
+  "9100333": {
+    "zipcode": "9100333",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町金元"
+  },
+  "9100334": {
+    "zipcode": "9100334",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町東二ツ屋"
+  },
+  "9100335": {
+    "zipcode": "9100335",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上金屋"
+  },
+  "9100336": {
+    "zipcode": "9100336",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町楽間"
+  },
+  "9100337": {
+    "zipcode": "9100337",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町新鳴鹿"
+  },
+  "9100338": {
+    "zipcode": "9100338",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町為安"
+  },
+  "9100339": {
+    "zipcode": "9100339",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町寄永"
+  },
+  "9100341": {
+    "zipcode": "9100341",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町四ツ柳"
+  },
+  "9100342": {
+    "zipcode": "9100342",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町高田"
+  },
+  "9100343": {
+    "zipcode": "9100343",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町坪ノ内"
+  },
+  "9100344": {
+    "zipcode": "9100344",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町友末"
+  },
+  "9100345": {
+    "zipcode": "9100345",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町四郎丸"
+  },
+  "9100346": {
+    "zipcode": "9100346",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町磯部島"
+  },
+  "9100347": {
+    "zipcode": "9100347",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町熊堂"
+  },
+  "9100348": {
+    "zipcode": "9100348",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町今町"
+  },
+  "9100349": {
+    "zipcode": "9100349",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町反保"
+  },
+  "9100350": {
+    "zipcode": "9100350",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町南今市"
+  },
+  "9100351": {
+    "zipcode": "9100351",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町寅国"
+  },
+  "9100352": {
+    "zipcode": "9100352",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町新間"
+  },
+  "9100353": {
+    "zipcode": "9100353",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町筑後清水"
+  },
+  "9100354": {
+    "zipcode": "9100354",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町豊原高瀬"
+  },
+  "9100355": {
+    "zipcode": "9100355",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町高瀬"
+  },
+  "9100356": {
+    "zipcode": "9100356",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町牛ケ島"
+  },
+  "9100357": {
+    "zipcode": "9100357",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町儀間"
+  },
+  "9100361": {
+    "zipcode": "9100361",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町安田新"
+  },
+  "9100362": {
+    "zipcode": "9100362",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町上安田"
+  },
+  "9100363": {
+    "zipcode": "9100363",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町下安田"
+  },
+  "9100364": {
+    "zipcode": "9100364",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町八丁"
+  },
+  "9100365": {
+    "zipcode": "9100365",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町磯部福庄"
+  },
+  "9100366": {
+    "zipcode": "9100366",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町宇随"
+  },
+  "9100367": {
+    "zipcode": "9100367",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町羽崎"
+  },
+  "9100368": {
+    "zipcode": "9100368",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町磯部新保"
+  },
+  "9100369": {
+    "zipcode": "9100369",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町新九頭竜"
+  },
+  "9100371": {
+    "zipcode": "9100371",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町八ツ口"
+  },
+  "9100372": {
+    "zipcode": "9100372",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町吉政"
+  },
+  "9100373": {
+    "zipcode": "9100373",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町高柳"
+  },
+  "9100374": {
+    "zipcode": "9100374",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町北横地"
+  },
+  "9100375": {
+    "zipcode": "9100375",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町南横地"
+  },
+  "9100381": {
+    "zipcode": "9100381",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町舟寄"
+  },
+  "9100382": {
+    "zipcode": "9100382",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町笹和田"
+  },
+  "9100383": {
+    "zipcode": "9100383",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町長崎"
+  },
+  "9100384": {
+    "zipcode": "9100384",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "坂井市",
+    "town": "丸岡町四ツ屋"
+  },
+  "9100801": {
+    "zipcode": "9100801",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "寺前町"
+  },
+  "9100802": {
+    "zipcode": "9100802",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大和田町"
+  },
+  "9100803": {
+    "zipcode": "9100803",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高柳町"
+  },
+  "9100804": {
+    "zipcode": "9100804",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高木中央"
+  },
+  "9100805": {
+    "zipcode": "9100805",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高木"
+  },
+  "9100806": {
+    "zipcode": "9100806",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高木町"
+  },
+  "9100807": {
+    "zipcode": "9100807",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高木北"
+  },
+  "9100808": {
+    "zipcode": "9100808",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "舟橋"
+  },
+  "9100809": {
+    "zipcode": "9100809",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "舟橋町"
+  },
+  "9100811": {
+    "zipcode": "9100811",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中藤新保町"
+  },
+  "9100812": {
+    "zipcode": "9100812",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新田本町"
+  },
+  "9100813": {
+    "zipcode": "9100813",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中新田町"
+  },
+  "9100814": {
+    "zipcode": "9100814",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "北野下町"
+  },
+  "9100815": {
+    "zipcode": "9100815",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "北野上町"
+  },
+  "9100816": {
+    "zipcode": "9100816",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中ノ郷町"
+  },
+  "9100817": {
+    "zipcode": "9100817",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "泉田町"
+  },
+  "9100818": {
+    "zipcode": "9100818",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "堂島町"
+  },
+  "9100821": {
+    "zipcode": "9100821",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "島橋町"
+  },
+  "9100822": {
+    "zipcode": "9100822",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "玄正島町"
+  },
+  "9100823": {
+    "zipcode": "9100823",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "重立町"
+  },
+  "9100824": {
+    "zipcode": "9100824",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "間山町"
+  },
+  "9100825": {
+    "zipcode": "9100825",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "原目町"
+  },
+  "9100826": {
+    "zipcode": "9100826",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上中町"
+  },
+  "9100827": {
+    "zipcode": "9100827",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "藤島町"
+  },
+  "9100828": {
+    "zipcode": "9100828",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "林町"
+  },
+  "9100829": {
+    "zipcode": "9100829",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "林藤島町"
+  },
+  "9100831": {
+    "zipcode": "9100831",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "若栄町"
+  },
+  "9100832": {
+    "zipcode": "9100832",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新保町"
+  },
+  "9100833": {
+    "zipcode": "9100833",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新保"
+  },
+  "9100834": {
+    "zipcode": "9100834",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "丸山"
+  },
+  "9100835": {
+    "zipcode": "9100835",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "丸山町"
+  },
+  "9100836": {
+    "zipcode": "9100836",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大和田"
+  },
+  "9100837": {
+    "zipcode": "9100837",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高柳"
+  },
+  "9100838": {
+    "zipcode": "9100838",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "新保北"
+  },
+  "9100841": {
+    "zipcode": "9100841",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "開発町"
+  },
+  "9100842": {
+    "zipcode": "9100842",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "開発"
+  },
+  "9100843": {
+    "zipcode": "9100843",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西開発"
+  },
+  "9100844": {
+    "zipcode": "9100844",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "長本町"
+  },
+  "9100845": {
+    "zipcode": "9100845",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "志比口"
+  },
+  "9100846": {
+    "zipcode": "9100846",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "四ツ井"
+  },
+  "9100851": {
+    "zipcode": "9100851",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "米松"
+  },
+  "9100852": {
+    "zipcode": "9100852",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "松城町"
+  },
+  "9100853": {
+    "zipcode": "9100853",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "城東"
+  },
+  "9100854": {
+    "zipcode": "9100854",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "御幸"
+  },
+  "9100855": {
+    "zipcode": "9100855",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西方"
+  },
+  "9100856": {
+    "zipcode": "9100856",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "勝見"
+  },
+  "9100857": {
+    "zipcode": "9100857",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "豊島"
+  },
+  "9100858": {
+    "zipcode": "9100858",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "手寄"
+  },
+  "9100859": {
+    "zipcode": "9100859",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "日之出"
+  },
+  "9101100": {
+    "zipcode": "9101100",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "以下に掲載がない場合"
+  },
+  "9101101": {
+    "zipcode": "9101101",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡樋爪"
+  },
+  "9101102": {
+    "zipcode": "9101102",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡学園"
+  },
+  "9101103": {
+    "zipcode": "9101103",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡上合月"
+  },
+  "9101104": {
+    "zipcode": "9101104",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡下合月"
+  },
+  "9101105": {
+    "zipcode": "9101105",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡末政"
+  },
+  "9101106": {
+    "zipcode": "9101106",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡御公領"
+  },
+  "9101111": {
+    "zipcode": "9101111",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡志比堺"
+  },
+  "9101112": {
+    "zipcode": "9101112",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡越坂"
+  },
+  "9101113": {
+    "zipcode": "9101113",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡松ケ丘"
+  },
+  "9101114": {
+    "zipcode": "9101114",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡城東"
+  },
+  "9101115": {
+    "zipcode": "9101115",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡石舟"
+  },
+  "9101116": {
+    "zipcode": "9101116",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡清水"
+  },
+  "9101117": {
+    "zipcode": "9101117",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡神明"
+  },
+  "9101118": {
+    "zipcode": "9101118",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡薬師"
+  },
+  "9101121": {
+    "zipcode": "9101121",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡吉野"
+  },
+  "9101122": {
+    "zipcode": "9101122",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡宮重"
+  },
+  "9101123": {
+    "zipcode": "9101123",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡湯谷"
+  },
+  "9101124": {
+    "zipcode": "9101124",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡上吉野"
+  },
+  "9101125": {
+    "zipcode": "9101125",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡西野中"
+  },
+  "9101126": {
+    "zipcode": "9101126",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡小畑"
+  },
+  "9101127": {
+    "zipcode": "9101127",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡吉野堺"
+  },
+  "9101131": {
+    "zipcode": "9101131",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡椚"
+  },
+  "9101132": {
+    "zipcode": "9101132",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡葵"
+  },
+  "9101133": {
+    "zipcode": "9101133",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡春日"
+  },
+  "9101134": {
+    "zipcode": "9101134",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡芝原"
+  },
+  "9101135": {
+    "zipcode": "9101135",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡室"
+  },
+  "9101136": {
+    "zipcode": "9101136",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡窪"
+  },
+  "9101137": {
+    "zipcode": "9101137",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡観音"
+  },
+  "9101138": {
+    "zipcode": "9101138",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡松ケ原"
+  },
+  "9101139": {
+    "zipcode": "9101139",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡木ノ下"
+  },
+  "9101141": {
+    "zipcode": "9101141",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡領家"
+  },
+  "9101142": {
+    "zipcode": "9101142",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡兼定島"
+  },
+  "9101143": {
+    "zipcode": "9101143",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡渡新田"
+  },
+  "9101144": {
+    "zipcode": "9101144",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "松岡平成"
+  },
+  "9101201": {
+    "zipcode": "9101201",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "鳴鹿山鹿"
+  },
+  "9101202": {
+    "zipcode": "9101202",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "下浄法寺"
+  },
+  "9101203": {
+    "zipcode": "9101203",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "上浄法寺"
+  },
+  "9101204": {
+    "zipcode": "9101204",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "岩野"
+  },
+  "9101205": {
+    "zipcode": "9101205",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "吉波"
+  },
+  "9101206": {
+    "zipcode": "9101206",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "栃原"
+  },
+  "9101211": {
+    "zipcode": "9101211",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "法寺岡"
+  },
+  "9101212": {
+    "zipcode": "9101212",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "東古市"
+  },
+  "9101213": {
+    "zipcode": "9101213",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "高橋"
+  },
+  "9101214": {
+    "zipcode": "9101214",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "谷口"
+  },
+  "9101215": {
+    "zipcode": "9101215",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "花谷"
+  },
+  "9101216": {
+    "zipcode": "9101216",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "光明寺"
+  },
+  "9101217": {
+    "zipcode": "9101217",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "飯島"
+  },
+  "9101218": {
+    "zipcode": "9101218",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "轟"
+  },
+  "9101221": {
+    "zipcode": "9101221",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "山"
+  },
+  "9101222": {
+    "zipcode": "9101222",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "諏訪間"
+  },
+  "9101223": {
+    "zipcode": "9101223",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "けやき台"
+  },
+  "9101224": {
+    "zipcode": "9101224",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "寺本"
+  },
+  "9101225": {
+    "zipcode": "9101225",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "京善"
+  },
+  "9101226": {
+    "zipcode": "9101226",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "市野々"
+  },
+  "9101227": {
+    "zipcode": "9101227",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "荒谷"
+  },
+  "9101228": {
+    "zipcode": "9101228",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "志比"
+  },
+  "9101301": {
+    "zipcode": "9101301",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "中島"
+  },
+  "9101302": {
+    "zipcode": "9101302",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "市荒川"
+  },
+  "9101303": {
+    "zipcode": "9101303",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "藤巻"
+  },
+  "9101304": {
+    "zipcode": "9101304",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "吉峰"
+  },
+  "9101305": {
+    "zipcode": "9101305",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "竹原"
+  },
+  "9101311": {
+    "zipcode": "9101311",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "大野島"
+  },
+  "9101312": {
+    "zipcode": "9101312",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "清水"
+  },
+  "9101313": {
+    "zipcode": "9101313",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "石上"
+  },
+  "9101314": {
+    "zipcode": "9101314",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "栗住波"
+  },
+  "9101315": {
+    "zipcode": "9101315",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "せせらぎ"
+  },
+  "9101316": {
+    "zipcode": "9101316",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "市右エ門島"
+  },
+  "9101321": {
+    "zipcode": "9101321",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "山王"
+  },
+  "9101322": {
+    "zipcode": "9101322",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "大月"
+  },
+  "9101323": {
+    "zipcode": "9101323",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "浅見"
+  },
+  "9101324": {
+    "zipcode": "9101324",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "野中"
+  },
+  "9101325": {
+    "zipcode": "9101325",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "北島"
+  },
+  "9101326": {
+    "zipcode": "9101326",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "吉田郡永平寺町",
+    "town": "牧福島"
+  },
+  "9102141": {
+    "zipcode": "9102141",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高尾町"
+  },
+  "9102142": {
+    "zipcode": "9102142",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "前波町"
+  },
+  "9102143": {
+    "zipcode": "9102143",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宿布町"
+  },
+  "9102144": {
+    "zipcode": "9102144",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上毘沙門町"
+  },
+  "9102145": {
+    "zipcode": "9102145",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中毘沙門町"
+  },
+  "9102146": {
+    "zipcode": "9102146",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下毘沙門町"
+  },
+  "9102147": {
+    "zipcode": "9102147",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "成願寺町"
+  },
+  "9102148": {
+    "zipcode": "9102148",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "篠尾町"
+  },
+  "9102149": {
+    "zipcode": "9102149",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東郷美里町"
+  },
+  "9102151": {
+    "zipcode": "9102151",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "安波賀中島町"
+  },
+  "9102152": {
+    "zipcode": "9102152",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "安波賀町"
+  },
+  "9102153": {
+    "zipcode": "9102153",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "城戸ノ内町"
+  },
+  "9102154": {
+    "zipcode": "9102154",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東新町"
+  },
+  "9102155": {
+    "zipcode": "9102155",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浄教寺町"
+  },
+  "9102156": {
+    "zipcode": "9102156",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "鹿俣町"
+  },
+  "9102157": {
+    "zipcode": "9102157",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西新町"
+  },
+  "9102161": {
+    "zipcode": "9102161",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "脇三ケ町"
+  },
+  "9102162": {
+    "zipcode": "9102162",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南山町"
+  },
+  "9102163": {
+    "zipcode": "9102163",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "栃泉町"
+  },
+  "9102164": {
+    "zipcode": "9102164",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "深見町"
+  },
+  "9102165": {
+    "zipcode": "9102165",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東郷二ケ町"
+  },
+  "9102166": {
+    "zipcode": "9102166",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小路町"
+  },
+  "9102167": {
+    "zipcode": "9102167",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "安原町"
+  },
+  "9102171": {
+    "zipcode": "9102171",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "荒木町"
+  },
+  "9102172": {
+    "zipcode": "9102172",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "荒木新保町"
+  },
+  "9102173": {
+    "zipcode": "9102173",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下東郷町"
+  },
+  "9102174": {
+    "zipcode": "9102174",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上東郷町"
+  },
+  "9102175": {
+    "zipcode": "9102175",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "円成寺町"
+  },
+  "9102176": {
+    "zipcode": "9102176",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東郷中島町"
+  },
+  "9102177": {
+    "zipcode": "9102177",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "稲津町"
+  },
+  "9102178": {
+    "zipcode": "9102178",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "栂野町"
+  },
+  "9102201": {
+    "zipcode": "9102201",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "皿谷町"
+  },
+  "9102202": {
+    "zipcode": "9102202",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "所谷町"
+  },
+  "9102203": {
+    "zipcode": "9102203",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西中町"
+  },
+  "9102204": {
+    "zipcode": "9102204",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "美山大谷町"
+  },
+  "9102205": {
+    "zipcode": "9102205",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "篭谷町"
+  },
+  "9102206": {
+    "zipcode": "9102206",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "吉山町（上吉山）"
+  },
+  "9102207": {
+    "zipcode": "9102207",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "吉山町（下吉山）"
+  },
+  "9102208": {
+    "zipcode": "9102208",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "吉山町（その他）"
+  },
+  "9102211": {
+    "zipcode": "9102211",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "獺ケ口町"
+  },
+  "9102212": {
+    "zipcode": "9102212",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小和清水町"
+  },
+  "9102213": {
+    "zipcode": "9102213",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大久保町"
+  },
+  "9102214": {
+    "zipcode": "9102214",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "福島町"
+  },
+  "9102221": {
+    "zipcode": "9102221",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "奈良瀬町"
+  },
+  "9102222": {
+    "zipcode": "9102222",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "市波町"
+  },
+  "9102223": {
+    "zipcode": "9102223",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宇坂別所町"
+  },
+  "9102224": {
+    "zipcode": "9102224",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三万谷町"
+  },
+  "9102225": {
+    "zipcode": "9102225",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "田尻町"
+  },
+  "9102226": {
+    "zipcode": "9102226",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高田町"
+  },
+  "9102227": {
+    "zipcode": "9102227",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宇坂大谷町"
+  },
+  "9102331": {
+    "zipcode": "9102331",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "計石町"
+  },
+  "9102332": {
+    "zipcode": "9102332",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "野波町（その他）"
+  },
+  "9102333": {
+    "zipcode": "9102333",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "野波町（追分）"
+  },
+  "9102334": {
+    "zipcode": "9102334",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大宮町"
+  },
+  "9102335": {
+    "zipcode": "9102335",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "縫原町"
+  },
+  "9102336": {
+    "zipcode": "9102336",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "仁位町"
+  },
+  "9102337": {
+    "zipcode": "9102337",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "薬師町（上薬師）"
+  },
+  "9102338": {
+    "zipcode": "9102338",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "薬師町（下薬師）"
+  },
+  "9102339": {
+    "zipcode": "9102339",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "薬師町（その他）"
+  },
+  "9102341": {
+    "zipcode": "9102341",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東川上町"
+  },
+  "9102342": {
+    "zipcode": "9102342",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東俣町"
+  },
+  "9102343": {
+    "zipcode": "9102343",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南西俣町"
+  },
+  "9102344": {
+    "zipcode": "9102344",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南宮地町"
+  },
+  "9102345": {
+    "zipcode": "9102345",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "間戸町"
+  },
+  "9102346": {
+    "zipcode": "9102346",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "椙谷町"
+  },
+  "9102347": {
+    "zipcode": "9102347",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "境寺町"
+  },
+  "9102348": {
+    "zipcode": "9102348",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "品ケ瀬町"
+  },
+  "9102351": {
+    "zipcode": "9102351",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "美山町"
+  },
+  "9102352": {
+    "zipcode": "9102352",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小宇坂町"
+  },
+  "9102353": {
+    "zipcode": "9102353",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小宇坂島町"
+  },
+  "9102354": {
+    "zipcode": "9102354",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東天田町"
+  },
+  "9102355": {
+    "zipcode": "9102355",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西天田町"
+  },
+  "9102356": {
+    "zipcode": "9102356",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "蔵作町"
+  },
+  "9102357": {
+    "zipcode": "9102357",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "朝谷町"
+  },
+  "9102461": {
+    "zipcode": "9102461",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南野津又町"
+  },
+  "9102462": {
+    "zipcode": "9102462",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "神当部町"
+  },
+  "9102463": {
+    "zipcode": "9102463",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "味見河内町"
+  },
+  "9102464": {
+    "zipcode": "9102464",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中手町"
+  },
+  "9102465": {
+    "zipcode": "9102465",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小当見町"
+  },
+  "9102466": {
+    "zipcode": "9102466",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西市布町"
+  },
+  "9102471": {
+    "zipcode": "9102471",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西河原町"
+  },
+  "9102472": {
+    "zipcode": "9102472",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東河原町"
+  },
+  "9102473": {
+    "zipcode": "9102473",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "横越町"
+  },
+  "9102474": {
+    "zipcode": "9102474",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "折立町"
+  },
+  "9102475": {
+    "zipcode": "9102475",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "赤谷町"
+  },
+  "9102500": {
+    "zipcode": "9102500",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "以下に掲載がない場合"
+  },
+  "9102501": {
+    "zipcode": "9102501",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "持越"
+  },
+  "9102502": {
+    "zipcode": "9102502",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "野尻"
+  },
+  "9102503": {
+    "zipcode": "9102503",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "谷口"
+  },
+  "9102504": {
+    "zipcode": "9102504",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "安善寺"
+  },
+  "9102505": {
+    "zipcode": "9102505",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "水海"
+  },
+  "9102506": {
+    "zipcode": "9102506",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "広瀬"
+  },
+  "9102507": {
+    "zipcode": "9102507",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "清水谷"
+  },
+  "9102508": {
+    "zipcode": "9102508",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "柿ケ原"
+  },
+  "9102511": {
+    "zipcode": "9102511",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "薮田"
+  },
+  "9102512": {
+    "zipcode": "9102512",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "稲荷"
+  },
+  "9102513": {
+    "zipcode": "9102513",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "寺島"
+  },
+  "9102514": {
+    "zipcode": "9102514",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "学園"
+  },
+  "9102515": {
+    "zipcode": "9102515",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "池田"
+  },
+  "9102516": {
+    "zipcode": "9102516",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "山田"
+  },
+  "9102517": {
+    "zipcode": "9102517",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "寺谷"
+  },
+  "9102521": {
+    "zipcode": "9102521",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "常安"
+  },
+  "9102522": {
+    "zipcode": "9102522",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "月ケ瀬"
+  },
+  "9102523": {
+    "zipcode": "9102523",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "志津原"
+  },
+  "9102524": {
+    "zipcode": "9102524",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "土合皿尾"
+  },
+  "9102525": {
+    "zipcode": "9102525",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "市"
+  },
+  "9102526": {
+    "zipcode": "9102526",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "上荒谷"
+  },
+  "9102527": {
+    "zipcode": "9102527",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "板垣"
+  },
+  "9102531": {
+    "zipcode": "9102531",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "東角間"
+  },
+  "9102532": {
+    "zipcode": "9102532",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "新保"
+  },
+  "9102533": {
+    "zipcode": "9102533",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "東俣"
+  },
+  "9102534": {
+    "zipcode": "9102534",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "魚見"
+  },
+  "9102535": {
+    "zipcode": "9102535",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "菅生"
+  },
+  "9102536": {
+    "zipcode": "9102536",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "西角間"
+  },
+  "9102537": {
+    "zipcode": "9102537",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "定方"
+  },
+  "9102551": {
+    "zipcode": "9102551",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "尾緩"
+  },
+  "9102552": {
+    "zipcode": "9102552",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "大本"
+  },
+  "9102553": {
+    "zipcode": "9102553",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "籠掛"
+  },
+  "9102554": {
+    "zipcode": "9102554",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "金見谷"
+  },
+  "9102555": {
+    "zipcode": "9102555",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "千代谷"
+  },
+  "9102556": {
+    "zipcode": "9102556",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "松ケ谷"
+  },
+  "9102557": {
+    "zipcode": "9102557",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "今立郡池田町",
+    "town": "小畑"
+  },
+  "9103101": {
+    "zipcode": "9103101",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "昭和新町"
+  },
+  "9103102": {
+    "zipcode": "9103102",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小尉町"
+  },
+  "9103103": {
+    "zipcode": "9103103",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三宅町"
+  },
+  "9103104": {
+    "zipcode": "9103104",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "布施田町"
+  },
+  "9103105": {
+    "zipcode": "9103105",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西中野町"
+  },
+  "9103106": {
+    "zipcode": "9103106",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "池尻町"
+  },
+  "9103107": {
+    "zipcode": "9103107",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "黒丸城町"
+  },
+  "9103111": {
+    "zipcode": "9103111",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "島山梨子町"
+  },
+  "9103112": {
+    "zipcode": "9103112",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "御所垣内町"
+  },
+  "9103113": {
+    "zipcode": "9103113",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "江上町"
+  },
+  "9103114": {
+    "zipcode": "9103114",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "剣大谷町"
+  },
+  "9103115": {
+    "zipcode": "9103115",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "仙町"
+  },
+  "9103116": {
+    "zipcode": "9103116",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "内山梨子町"
+  },
+  "9103117": {
+    "zipcode": "9103117",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浄土寺町"
+  },
+  "9103118": {
+    "zipcode": "9103118",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上野町"
+  },
+  "9103121": {
+    "zipcode": "9103121",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "佐野町"
+  },
+  "9103122": {
+    "zipcode": "9103122",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小野町"
+  },
+  "9103123": {
+    "zipcode": "9103123",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "石畠町"
+  },
+  "9103124": {
+    "zipcode": "9103124",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "田ノ頭町"
+  },
+  "9103125": {
+    "zipcode": "9103125",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "市ノ瀬町"
+  },
+  "9103126": {
+    "zipcode": "9103126",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "深坂町"
+  },
+  "9103127": {
+    "zipcode": "9103127",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中山町"
+  },
+  "9103128": {
+    "zipcode": "9103128",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "為寄町"
+  },
+  "9103131": {
+    "zipcode": "9103131",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "白方町"
+  },
+  "9103132": {
+    "zipcode": "9103132",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浜島町"
+  },
+  "9103133": {
+    "zipcode": "9103133",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "石新保町"
+  },
+  "9103134": {
+    "zipcode": "9103134",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浜別所町"
+  },
+  "9103135": {
+    "zipcode": "9103135",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "両橋屋町"
+  },
+  "9103136": {
+    "zipcode": "9103136",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "川尻町"
+  },
+  "9103137": {
+    "zipcode": "9103137",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "石橋町"
+  },
+  "9103138": {
+    "zipcode": "9103138",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "テクノポート"
+  },
+  "9103141": {
+    "zipcode": "9103141",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "砂子田町"
+  },
+  "9103142": {
+    "zipcode": "9103142",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "波寄町"
+  },
+  "9103143": {
+    "zipcode": "9103143",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "砂子坂町"
+  },
+  "9103144": {
+    "zipcode": "9103144",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "水切町"
+  },
+  "9103145": {
+    "zipcode": "9103145",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "串野町"
+  },
+  "9103146": {
+    "zipcode": "9103146",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小幡町"
+  },
+  "9103147": {
+    "zipcode": "9103147",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "木下町"
+  },
+  "9103148": {
+    "zipcode": "9103148",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "菖蒲谷町"
+  },
+  "9103251": {
+    "zipcode": "9103251",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "荒谷町"
+  },
+  "9103252": {
+    "zipcode": "9103252",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "燈豊町"
+  },
+  "9103253": {
+    "zipcode": "9103253",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大谷町"
+  },
+  "9103254": {
+    "zipcode": "9103254",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八幡町"
+  },
+  "9103255": {
+    "zipcode": "9103255",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大年町"
+  },
+  "9103256": {
+    "zipcode": "9103256",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中町"
+  },
+  "9103261": {
+    "zipcode": "9103261",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西荒井町"
+  },
+  "9103262": {
+    "zipcode": "9103262",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "一王寺町"
+  },
+  "9103263": {
+    "zipcode": "9103263",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中河内町"
+  },
+  "9103264": {
+    "zipcode": "9103264",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "木米町"
+  },
+  "9103265": {
+    "zipcode": "9103265",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "柿谷町"
+  },
+  "9103266": {
+    "zipcode": "9103266",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "東平町"
+  },
+  "9103267": {
+    "zipcode": "9103267",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "河内町"
+  },
+  "9103268": {
+    "zipcode": "9103268",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "中平町"
+  },
+  "9103371": {
+    "zipcode": "9103371",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大窪町"
+  },
+  "9103372": {
+    "zipcode": "9103372",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西二ツ屋町"
+  },
+  "9103373": {
+    "zipcode": "9103373",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西畑町"
+  },
+  "9103374": {
+    "zipcode": "9103374",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "高須町"
+  },
+  "9103375": {
+    "zipcode": "9103375",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宮郷町"
+  },
+  "9103376": {
+    "zipcode": "9103376",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "和布町"
+  },
+  "9103377": {
+    "zipcode": "9103377",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浜住町"
+  },
+  "9103378": {
+    "zipcode": "9103378",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "免鳥町"
+  },
+  "9103381": {
+    "zipcode": "9103381",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "蓑町"
+  },
+  "9103382": {
+    "zipcode": "9103382",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "松蔭町"
+  },
+  "9103383": {
+    "zipcode": "9103383",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "糸崎町"
+  },
+  "9103384": {
+    "zipcode": "9103384",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "長橋町"
+  },
+  "9103385": {
+    "zipcode": "9103385",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "北菅生町"
+  },
+  "9103386": {
+    "zipcode": "9103386",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "南菅生町"
+  },
+  "9103401": {
+    "zipcode": "9103401",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "国見町"
+  },
+  "9103402": {
+    "zipcode": "9103402",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "鮎川町"
+  },
+  "9103403": {
+    "zipcode": "9103403",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "白浜町"
+  },
+  "9103404": {
+    "zipcode": "9103404",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大丹生町"
+  },
+  "9103405": {
+    "zipcode": "9103405",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小丹生町"
+  },
+  "9103511": {
+    "zipcode": "9103511",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "白滝町"
+  },
+  "9103512": {
+    "zipcode": "9103512",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "西別所町"
+  },
+  "9103513": {
+    "zipcode": "9103513",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "宿堂町"
+  },
+  "9103514": {
+    "zipcode": "9103514",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "水谷町"
+  },
+  "9103515": {
+    "zipcode": "9103515",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大矢町"
+  },
+  "9103516": {
+    "zipcode": "9103516",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "風尾町"
+  },
+  "9103517": {
+    "zipcode": "9103517",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "畠中町"
+  },
+  "9103518": {
+    "zipcode": "9103518",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "国山町"
+  },
+  "9103521": {
+    "zipcode": "9103521",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "千合町"
+  },
+  "9103522": {
+    "zipcode": "9103522",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "謡谷町"
+  },
+  "9103523": {
+    "zipcode": "9103523",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "武周町"
+  },
+  "9103524": {
+    "zipcode": "9103524",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "別畑町"
+  },
+  "9103525": {
+    "zipcode": "9103525",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "尼ケ谷町"
+  },
+  "9103526": {
+    "zipcode": "9103526",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "二ツ屋町"
+  },
+  "9103551": {
+    "zipcode": "9103551",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大味町"
+  },
+  "9103552": {
+    "zipcode": "9103552",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "茱崎町"
+  },
+  "9103553": {
+    "zipcode": "9103553",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "蒲生町"
+  },
+  "9103554": {
+    "zipcode": "9103554",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "浜北山町"
+  },
+  "9103555": {
+    "zipcode": "9103555",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "居倉町"
+  },
+  "9103556": {
+    "zipcode": "9103556",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "赤坂町"
+  },
+  "9103557": {
+    "zipcode": "9103557",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "城有町"
+  },
+  "9103558": {
+    "zipcode": "9103558",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "八ツ俣町"
+  },
+  "9103601": {
+    "zipcode": "9103601",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "清水町"
+  },
+  "9103602": {
+    "zipcode": "9103602",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "竹生町"
+  },
+  "9103603": {
+    "zipcode": "9103603",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "片粕町"
+  },
+  "9103604": {
+    "zipcode": "9103604",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "グリーンハイツ"
+  },
+  "9103605": {
+    "zipcode": "9103605",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "朝宮町"
+  },
+  "9103606": {
+    "zipcode": "9103606",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "田尻栃谷町"
+  },
+  "9103607": {
+    "zipcode": "9103607",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "清水杉谷町"
+  },
+  "9103608": {
+    "zipcode": "9103608",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "三留町"
+  },
+  "9103611": {
+    "zipcode": "9103611",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "片山町"
+  },
+  "9103612": {
+    "zipcode": "9103612",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "清水山町"
+  },
+  "9103613": {
+    "zipcode": "9103613",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "甑谷町"
+  },
+  "9103614": {
+    "zipcode": "9103614",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "在田町"
+  },
+  "9103615": {
+    "zipcode": "9103615",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "坪谷町"
+  },
+  "9103616": {
+    "zipcode": "9103616",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "真栗町"
+  },
+  "9103617": {
+    "zipcode": "9103617",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "御油町"
+  },
+  "9103621": {
+    "zipcode": "9103621",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "小羽町"
+  },
+  "9103622": {
+    "zipcode": "9103622",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "風巻町"
+  },
+  "9103623": {
+    "zipcode": "9103623",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "島寺町"
+  },
+  "9103631": {
+    "zipcode": "9103631",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "和田町"
+  },
+  "9103632": {
+    "zipcode": "9103632",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "下天下町"
+  },
+  "9103633": {
+    "zipcode": "9103633",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "上天下町"
+  },
+  "9103634": {
+    "zipcode": "9103634",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "大森町"
+  },
+  "9103635": {
+    "zipcode": "9103635",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "志津が丘"
+  },
+  "9103636": {
+    "zipcode": "9103636",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "山内町"
+  },
+  "9103641": {
+    "zipcode": "9103641",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "平尾町"
+  },
+  "9103642": {
+    "zipcode": "9103642",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "本折町"
+  },
+  "9103643": {
+    "zipcode": "9103643",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "滝波町"
+  },
+  "9103644": {
+    "zipcode": "9103644",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "加茂町"
+  },
+  "9103645": {
+    "zipcode": "9103645",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "笹谷町"
+  },
+  "9103646": {
+    "zipcode": "9103646",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "福井市",
+    "town": "清水畑町"
+  },
+  "9104102": {
+    "zipcode": "9104102",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "芦鶴"
+  },
+  "9104103": {
+    "zipcode": "9104103",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "二面"
+  },
+  "9104104": {
+    "zipcode": "9104104",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "温泉"
+  },
+  "9104105": {
+    "zipcode": "9104105",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "舟津"
+  },
+  "9104111": {
+    "zipcode": "9104111",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "牛山"
+  },
+  "9104112": {
+    "zipcode": "9104112",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "井江葭"
+  },
+  "9104113": {
+    "zipcode": "9104113",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "横垣"
+  },
+  "9104115": {
+    "zipcode": "9104115",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "国影"
+  },
+  "9104121": {
+    "zipcode": "9104121",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "東温泉"
+  },
+  "9104122": {
+    "zipcode": "9104122",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "重義"
+  },
+  "9104123": {
+    "zipcode": "9104123",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "番田"
+  },
+  "9104124": {
+    "zipcode": "9104124",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "田中々"
+  },
+  "9104125": {
+    "zipcode": "9104125",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "堀江十楽"
+  },
+  "9104126": {
+    "zipcode": "9104126",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "布目"
+  },
+  "9104127": {
+    "zipcode": "9104127",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "西温泉"
+  },
+  "9104131": {
+    "zipcode": "9104131",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "東善寺"
+  },
+  "9104132": {
+    "zipcode": "9104132",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "谷畠"
+  },
+  "9104133": {
+    "zipcode": "9104133",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "轟木"
+  },
+  "9104134": {
+    "zipcode": "9104134",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "上番"
+  },
+  "9104137": {
+    "zipcode": "9104137",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "中番"
+  },
+  "9104138": {
+    "zipcode": "9104138",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "下番"
+  },
+  "9104141": {
+    "zipcode": "9104141",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "玉木"
+  },
+  "9104142": {
+    "zipcode": "9104142",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "河間"
+  },
+  "9104144": {
+    "zipcode": "9104144",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "中浜"
+  },
+  "9104145": {
+    "zipcode": "9104145",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "角屋"
+  },
+  "9104146": {
+    "zipcode": "9104146",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "北本堂"
+  },
+  "9104147": {
+    "zipcode": "9104147",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "宮前"
+  },
+  "9104271": {
+    "zipcode": "9104271",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "浜坂"
+  },
+  "9104272": {
+    "zipcode": "9104272",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "富津（北潟）"
+  },
+  "9104273": {
+    "zipcode": "9104273",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "赤尾"
+  },
+  "9104274": {
+    "zipcode": "9104274",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "番堂野"
+  },
+  "9104275": {
+    "zipcode": "9104275",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "城新田"
+  },
+  "9104276": {
+    "zipcode": "9104276",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "城"
+  },
+  "9104277": {
+    "zipcode": "9104277",
+    "prefectureCode": "18",
+    "prefectureNumber": 18,
+    "prefecture": "福井県",
+    "city": "あわら市",
+    "town": "波松"
+  }
+}

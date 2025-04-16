@@ -1,0 +1,66 @@
+{
+  "3970000": {
+    "zipcode": "3970000",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "以下に掲載がない場合"
+  },
+  "3970001": {
+    "zipcode": "3970001",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "福島"
+  },
+  "3970002": {
+    "zipcode": "3970002",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "新開"
+  },
+  "3970003": {
+    "zipcode": "3970003",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "新開福"
+  },
+  "3970101": {
+    "zipcode": "3970101",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "三岳"
+  },
+  "3970201": {
+    "zipcode": "3970201",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡王滝村",
+    "town": "王滝村一円"
+  },
+  "3970301": {
+    "zipcode": "3970301",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "開田高原末川"
+  },
+  "3970302": {
+    "zipcode": "3970302",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "木曽郡木曽町",
+    "town": "開田高原西野"
+  }
+}

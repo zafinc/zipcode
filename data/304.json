@@ -1,0 +1,642 @@
+{
+  "3040000": {
+    "zipcode": "3040000",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "以下に掲載がない場合"
+  },
+  "3040001": {
+    "zipcode": "3040001",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "平方"
+  },
+  "3040002": {
+    "zipcode": "3040002",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "江"
+  },
+  "3040003": {
+    "zipcode": "3040003",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "関本下"
+  },
+  "3040004": {
+    "zipcode": "3040004",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "大木"
+  },
+  "3040005": {
+    "zipcode": "3040005",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "半谷"
+  },
+  "3040006": {
+    "zipcode": "3040006",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "柴"
+  },
+  "3040007": {
+    "zipcode": "3040007",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "黒駒"
+  },
+  "3040011": {
+    "zipcode": "3040011",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "神明"
+  },
+  "3040012": {
+    "zipcode": "3040012",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "若柳"
+  },
+  "3040013": {
+    "zipcode": "3040013",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下宮"
+  },
+  "3040014": {
+    "zipcode": "3040014",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "中郷"
+  },
+  "3040015": {
+    "zipcode": "3040015",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下田"
+  },
+  "3040016": {
+    "zipcode": "3040016",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "数須"
+  },
+  "3040017": {
+    "zipcode": "3040017",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "筑波島"
+  },
+  "3040018": {
+    "zipcode": "3040018",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "平川戸"
+  },
+  "3040021": {
+    "zipcode": "3040021",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "北大宝"
+  },
+  "3040022": {
+    "zipcode": "3040022",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "大宝"
+  },
+  "3040023": {
+    "zipcode": "3040023",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "大串"
+  },
+  "3040024": {
+    "zipcode": "3040024",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "坂本新田"
+  },
+  "3040025": {
+    "zipcode": "3040025",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "大木新田"
+  },
+  "3040026": {
+    "zipcode": "3040026",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "平沼"
+  },
+  "3040027": {
+    "zipcode": "3040027",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "福田"
+  },
+  "3040028": {
+    "zipcode": "3040028",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下木戸"
+  },
+  "3040031": {
+    "zipcode": "3040031",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "高道祖"
+  },
+  "3040032": {
+    "zipcode": "3040032",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "比毛"
+  },
+  "3040033": {
+    "zipcode": "3040033",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "堀篭"
+  },
+  "3040034": {
+    "zipcode": "3040034",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "坂井"
+  },
+  "3040035": {
+    "zipcode": "3040035",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "横根"
+  },
+  "3040041": {
+    "zipcode": "3040041",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "古沢"
+  },
+  "3040042": {
+    "zipcode": "3040042",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "袋畑"
+  },
+  "3040043": {
+    "zipcode": "3040043",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "谷田部"
+  },
+  "3040044": {
+    "zipcode": "3040044",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "柳原"
+  },
+  "3040045": {
+    "zipcode": "3040045",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "山尻"
+  },
+  "3040046": {
+    "zipcode": "3040046",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "樋橋"
+  },
+  "3040047": {
+    "zipcode": "3040047",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "肘谷"
+  },
+  "3040048": {
+    "zipcode": "3040048",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "加養"
+  },
+  "3040049": {
+    "zipcode": "3040049",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "新堀"
+  },
+  "3040050": {
+    "zipcode": "3040050",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "亀崎"
+  },
+  "3040051": {
+    "zipcode": "3040051",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "小島"
+  },
+  "3040052": {
+    "zipcode": "3040052",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "二本紀"
+  },
+  "3040053": {
+    "zipcode": "3040053",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "今泉"
+  },
+  "3040054": {
+    "zipcode": "3040054",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "中居指"
+  },
+  "3040055": {
+    "zipcode": "3040055",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "砂沼新田"
+  },
+  "3040056": {
+    "zipcode": "3040056",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "長塚"
+  },
+  "3040057": {
+    "zipcode": "3040057",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "石の宮"
+  },
+  "3040061": {
+    "zipcode": "3040061",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下妻丙"
+  },
+  "3040062": {
+    "zipcode": "3040062",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下妻戊"
+  },
+  "3040063": {
+    "zipcode": "3040063",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "小野子町"
+  },
+  "3040064": {
+    "zipcode": "3040064",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "本城町"
+  },
+  "3040065": {
+    "zipcode": "3040065",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "本宿町"
+  },
+  "3040066": {
+    "zipcode": "3040066",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下妻甲"
+  },
+  "3040067": {
+    "zipcode": "3040067",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下妻乙"
+  },
+  "3040068": {
+    "zipcode": "3040068",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下妻丁"
+  },
+  "3040069": {
+    "zipcode": "3040069",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "田町"
+  },
+  "3040071": {
+    "zipcode": "3040071",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "尻手"
+  },
+  "3040072": {
+    "zipcode": "3040072",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "渋井"
+  },
+  "3040073": {
+    "zipcode": "3040073",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "桐ケ瀬"
+  },
+  "3040074": {
+    "zipcode": "3040074",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "赤須"
+  },
+  "3040075": {
+    "zipcode": "3040075",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "南原"
+  },
+  "3040076": {
+    "zipcode": "3040076",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "前河原"
+  },
+  "3040801": {
+    "zipcode": "3040801",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "大園木"
+  },
+  "3040802": {
+    "zipcode": "3040802",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "鯨"
+  },
+  "3040803": {
+    "zipcode": "3040803",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "伊古立"
+  },
+  "3040804": {
+    "zipcode": "3040804",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "長萱"
+  },
+  "3040805": {
+    "zipcode": "3040805",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "唐崎"
+  },
+  "3040806": {
+    "zipcode": "3040806",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "見田"
+  },
+  "3040811": {
+    "zipcode": "3040811",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "下栗"
+  },
+  "3040812": {
+    "zipcode": "3040812",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "田下"
+  },
+  "3040813": {
+    "zipcode": "3040813",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "本宗道"
+  },
+  "3040814": {
+    "zipcode": "3040814",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "宗道"
+  },
+  "3040815": {
+    "zipcode": "3040815",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "渋田"
+  },
+  "3040816": {
+    "zipcode": "3040816",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "原"
+  },
+  "3040817": {
+    "zipcode": "3040817",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "羽子"
+  },
+  "3040818": {
+    "zipcode": "3040818",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "鬼怒"
+  },
+  "3040819": {
+    "zipcode": "3040819",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "鎌庭"
+  },
+  "3040821": {
+    "zipcode": "3040821",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "別府"
+  },
+  "3040822": {
+    "zipcode": "3040822",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "皆葉"
+  },
+  "3040823": {
+    "zipcode": "3040823",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "五箇"
+  },
+  "3040824": {
+    "zipcode": "3040824",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "下妻市",
+    "town": "村岡"
+  }
+}

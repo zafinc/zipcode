@@ -1,0 +1,866 @@
+{
+  "7530000": {
+    "zipcode": "7530000",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "以下に掲載がない場合"
+  },
+  "7530001": {
+    "zipcode": "7530001",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "宮野上"
+  },
+  "7530011": {
+    "zipcode": "7530011",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "宮野下"
+  },
+  "7530012": {
+    "zipcode": "7530012",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "青葉台"
+  },
+  "7530015": {
+    "zipcode": "7530015",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "平野"
+  },
+  "7530016": {
+    "zipcode": "7530016",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "緑ヶ丘"
+  },
+  "7530017": {
+    "zipcode": "7530017",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "江良"
+  },
+  "7530018": {
+    "zipcode": "7530018",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "七尾台"
+  },
+  "7530021": {
+    "zipcode": "7530021",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "桜畠"
+  },
+  "7530022": {
+    "zipcode": "7530022",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "折本"
+  },
+  "7530023": {
+    "zipcode": "7530023",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "三の宮"
+  },
+  "7530024": {
+    "zipcode": "7530024",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "金古曽町"
+  },
+  "7530025": {
+    "zipcode": "7530025",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "芝崎町"
+  },
+  "7530031": {
+    "zipcode": "7530031",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "古熊"
+  },
+  "7530032": {
+    "zipcode": "7530032",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "堂の前町"
+  },
+  "7530033": {
+    "zipcode": "7530033",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大市町"
+  },
+  "7530034": {
+    "zipcode": "7530034",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "下竪小路"
+  },
+  "7530035": {
+    "zipcode": "7530035",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "上竪小路"
+  },
+  "7530036": {
+    "zipcode": "7530036",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "円政寺町"
+  },
+  "7530037": {
+    "zipcode": "7530037",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "道祖町"
+  },
+  "7530038": {
+    "zipcode": "7530038",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "石観音町"
+  },
+  "7530041": {
+    "zipcode": "7530041",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "東山"
+  },
+  "7530042": {
+    "zipcode": "7530042",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "惣太夫町"
+  },
+  "7530043": {
+    "zipcode": "7530043",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "宮島町"
+  },
+  "7530044": {
+    "zipcode": "7530044",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "鰐石町"
+  },
+  "7530045": {
+    "zipcode": "7530045",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "黄金町"
+  },
+  "7530046": {
+    "zipcode": "7530046",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "本町"
+  },
+  "7530047": {
+    "zipcode": "7530047",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "道場門前"
+  },
+  "7530048": {
+    "zipcode": "7530048",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "駅通り"
+  },
+  "7530051": {
+    "zipcode": "7530051",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "旭通り"
+  },
+  "7530052": {
+    "zipcode": "7530052",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "三和町"
+  },
+  "7530053": {
+    "zipcode": "7530053",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "松美町"
+  },
+  "7530054": {
+    "zipcode": "7530054",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "富田原町"
+  },
+  "7530055": {
+    "zipcode": "7530055",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "今井町"
+  },
+  "7530056": {
+    "zipcode": "7530056",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "湯田温泉"
+  },
+  "7530057": {
+    "zipcode": "7530057",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "前町"
+  },
+  "7530058": {
+    "zipcode": "7530058",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "下市町"
+  },
+  "7530061": {
+    "zipcode": "7530061",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "朝倉町"
+  },
+  "7530062": {
+    "zipcode": "7530062",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "荻町"
+  },
+  "7530063": {
+    "zipcode": "7530063",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "元町"
+  },
+  "7530064": {
+    "zipcode": "7530064",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "神田町"
+  },
+  "7530065": {
+    "zipcode": "7530065",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "楠木町"
+  },
+  "7530066": {
+    "zipcode": "7530066",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "泉町"
+  },
+  "7530067": {
+    "zipcode": "7530067",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "赤妻町"
+  },
+  "7530068": {
+    "zipcode": "7530068",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "錦町"
+  },
+  "7530070": {
+    "zipcode": "7530070",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "白石"
+  },
+  "7530071": {
+    "zipcode": "7530071",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "滝町"
+  },
+  "7530072": {
+    "zipcode": "7530072",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大手町"
+  },
+  "7530073": {
+    "zipcode": "7530073",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "春日町"
+  },
+  "7530074": {
+    "zipcode": "7530074",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "中央"
+  },
+  "7530075": {
+    "zipcode": "7530075",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "中園町"
+  },
+  "7530076": {
+    "zipcode": "7530076",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "泉都町"
+  },
+  "7530077": {
+    "zipcode": "7530077",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "熊野町"
+  },
+  "7530078": {
+    "zipcode": "7530078",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "緑町"
+  },
+  "7530079": {
+    "zipcode": "7530079",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "糸米"
+  },
+  "7530081": {
+    "zipcode": "7530081",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "香山町"
+  },
+  "7530082": {
+    "zipcode": "7530082",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "水の上町"
+  },
+  "7530083": {
+    "zipcode": "7530083",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "後河原"
+  },
+  "7530084": {
+    "zipcode": "7530084",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "銭湯小路"
+  },
+  "7530085": {
+    "zipcode": "7530085",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "新馬場"
+  },
+  "7530086": {
+    "zipcode": "7530086",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "中市町"
+  },
+  "7530087": {
+    "zipcode": "7530087",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "米屋町"
+  },
+  "7530088": {
+    "zipcode": "7530088",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "中河原町"
+  },
+  "7530089": {
+    "zipcode": "7530089",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "亀山町"
+  },
+  "7530091": {
+    "zipcode": "7530091",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "天花"
+  },
+  "7530092": {
+    "zipcode": "7530092",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "八幡馬場"
+  },
+  "7530093": {
+    "zipcode": "7530093",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大殿大路"
+  },
+  "7530094": {
+    "zipcode": "7530094",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "野田"
+  },
+  "7530095": {
+    "zipcode": "7530095",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "木町"
+  },
+  "7530101": {
+    "zipcode": "7530101",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "萩市",
+    "town": "佐々並"
+  },
+  "7530211": {
+    "zipcode": "7530211",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内長野"
+  },
+  "7530212": {
+    "zipcode": "7530212",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "下小鯖"
+  },
+  "7530213": {
+    "zipcode": "7530213",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "上小鯖"
+  },
+  "7530214": {
+    "zipcode": "7530214",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内御堀"
+  },
+  "7530215": {
+    "zipcode": "7530215",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内矢田"
+  },
+  "7530221": {
+    "zipcode": "7530221",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内矢田北"
+  },
+  "7530222": {
+    "zipcode": "7530222",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内矢田南"
+  },
+  "7530231": {
+    "zipcode": "7530231",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内氷上"
+  },
+  "7530241": {
+    "zipcode": "7530241",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内問田"
+  },
+  "7530242": {
+    "zipcode": "7530242",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内小京都"
+  },
+  "7530243": {
+    "zipcode": "7530243",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内姫山台"
+  },
+  "7530251": {
+    "zipcode": "7530251",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内千坊"
+  },
+  "7530252": {
+    "zipcode": "7530252",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "大内中央"
+  },
+  "7530301": {
+    "zipcode": "7530301",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "仁保上郷"
+  },
+  "7530302": {
+    "zipcode": "7530302",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "仁保中郷"
+  },
+  "7530303": {
+    "zipcode": "7530303",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "仁保下郷"
+  },
+  "7530801": {
+    "zipcode": "7530801",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "中尾"
+  },
+  "7530811": {
+    "zipcode": "7530811",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷"
+  },
+  "7530812": {
+    "zipcode": "7530812",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "宝町"
+  },
+  "7530813": {
+    "zipcode": "7530813",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷中東"
+  },
+  "7530814": {
+    "zipcode": "7530814",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷下東"
+  },
+  "7530815": {
+    "zipcode": "7530815",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "維新公園"
+  },
+  "7530816": {
+    "zipcode": "7530816",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷佐畑"
+  },
+  "7530817": {
+    "zipcode": "7530817",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷赤田"
+  },
+  "7530818": {
+    "zipcode": "7530818",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉敷上東"
+  },
+  "7530821": {
+    "zipcode": "7530821",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "葵"
+  },
+  "7530822": {
+    "zipcode": "7530822",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "周布町"
+  },
+  "7530823": {
+    "zipcode": "7530823",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "若宮町"
+  },
+  "7530824": {
+    "zipcode": "7530824",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "穂積町"
+  },
+  "7530825": {
+    "zipcode": "7530825",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "矢原町"
+  },
+  "7530826": {
+    "zipcode": "7530826",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "幸町"
+  },
+  "7530831": {
+    "zipcode": "7530831",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "平井"
+  },
+  "7530841": {
+    "zipcode": "7530841",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "吉田"
+  },
+  "7530851": {
+    "zipcode": "7530851",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "黒川"
+  },
+  "7530861": {
+    "zipcode": "7530861",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "矢原"
+  },
+  "7530871": {
+    "zipcode": "7530871",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "朝田"
+  },
+  "7530872": {
+    "zipcode": "7530872",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "山口県流通センター"
+  },
+  "7530891": {
+    "zipcode": "7530891",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "山口市",
+    "town": "上天花町"
+  }
+}

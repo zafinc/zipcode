@@ -1,0 +1,874 @@
+{
+  "3260000": {
+    "zipcode": "3260000",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "以下に掲載がない場合"
+  },
+  "3260001": {
+    "zipcode": "3260001",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "名草上町"
+  },
+  "3260002": {
+    "zipcode": "3260002",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "名草中町"
+  },
+  "3260003": {
+    "zipcode": "3260003",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "名草下町"
+  },
+  "3260004": {
+    "zipcode": "3260004",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "樺崎町"
+  },
+  "3260005": {
+    "zipcode": "3260005",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大月町"
+  },
+  "3260006": {
+    "zipcode": "3260006",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "利保町"
+  },
+  "3260007": {
+    "zipcode": "3260007",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "菅田町"
+  },
+  "3260011": {
+    "zipcode": "3260011",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大沼田町"
+  },
+  "3260012": {
+    "zipcode": "3260012",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大久保町"
+  },
+  "3260013": {
+    "zipcode": "3260013",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "川崎町"
+  },
+  "3260014": {
+    "zipcode": "3260014",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "鵤木町"
+  },
+  "3260015": {
+    "zipcode": "3260015",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "八椚町"
+  },
+  "3260016": {
+    "zipcode": "3260016",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "毛野新町"
+  },
+  "3260021": {
+    "zipcode": "3260021",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "山川町"
+  },
+  "3260022": {
+    "zipcode": "3260022",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "常見町"
+  },
+  "3260023": {
+    "zipcode": "3260023",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "猿田町"
+  },
+  "3260024": {
+    "zipcode": "3260024",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "若草町"
+  },
+  "3260025": {
+    "zipcode": "3260025",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "寿町"
+  },
+  "3260026": {
+    "zipcode": "3260026",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "常盤町"
+  },
+  "3260027": {
+    "zipcode": "3260027",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "宮北町"
+  },
+  "3260031": {
+    "zipcode": "3260031",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "末広町"
+  },
+  "3260032": {
+    "zipcode": "3260032",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "真砂町"
+  },
+  "3260033": {
+    "zipcode": "3260033",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "花園町"
+  },
+  "3260034": {
+    "zipcode": "3260034",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "久松町"
+  },
+  "3260035": {
+    "zipcode": "3260035",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "芳町"
+  },
+  "3260036": {
+    "zipcode": "3260036",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "弥生町"
+  },
+  "3260037": {
+    "zipcode": "3260037",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "富士見町"
+  },
+  "3260041": {
+    "zipcode": "3260041",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "助戸新山町"
+  },
+  "3260042": {
+    "zipcode": "3260042",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "助戸東山町"
+  },
+  "3260043": {
+    "zipcode": "3260043",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "助戸仲町"
+  },
+  "3260044": {
+    "zipcode": "3260044",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "助戸"
+  },
+  "3260045": {
+    "zipcode": "3260045",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "千歳町"
+  },
+  "3260046": {
+    "zipcode": "3260046",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "岩井町"
+  },
+  "3260047": {
+    "zipcode": "3260047",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "錦町"
+  },
+  "3260048": {
+    "zipcode": "3260048",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "助戸大橋町"
+  },
+  "3260051": {
+    "zipcode": "3260051",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大橋町"
+  },
+  "3260052": {
+    "zipcode": "3260052",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "相生町"
+  },
+  "3260053": {
+    "zipcode": "3260053",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "伊勢町"
+  },
+  "3260054": {
+    "zipcode": "3260054",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "伊勢南町"
+  },
+  "3260055": {
+    "zipcode": "3260055",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "永楽町"
+  },
+  "3260056": {
+    "zipcode": "3260056",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大町"
+  },
+  "3260057": {
+    "zipcode": "3260057",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "丸山町"
+  },
+  "3260058": {
+    "zipcode": "3260058",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "元学町"
+  },
+  "3260061": {
+    "zipcode": "3260061",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "田島町"
+  },
+  "3260062": {
+    "zipcode": "3260062",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "赤松台"
+  },
+  "3260063": {
+    "zipcode": "3260063",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "新山町"
+  },
+  "3260064": {
+    "zipcode": "3260064",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "東砂原後町"
+  },
+  "3260065": {
+    "zipcode": "3260065",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "西砂原後町"
+  },
+  "3260066": {
+    "zipcode": "3260066",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "田所町"
+  },
+  "3260067": {
+    "zipcode": "3260067",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "江川町"
+  },
+  "3260068": {
+    "zipcode": "3260068",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "月谷町"
+  },
+  "3260101": {
+    "zipcode": "3260101",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "松田町"
+  },
+  "3260102": {
+    "zipcode": "3260102",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "板倉町"
+  },
+  "3260103": {
+    "zipcode": "3260103",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "粟谷町"
+  },
+  "3260141": {
+    "zipcode": "3260141",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "小俣町"
+  },
+  "3260142": {
+    "zipcode": "3260142",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "小俣南町"
+  },
+  "3260143": {
+    "zipcode": "3260143",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "葉鹿町"
+  },
+  "3260144": {
+    "zipcode": "3260144",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "葉鹿南町"
+  },
+  "3260321": {
+    "zipcode": "3260321",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "梁田町"
+  },
+  "3260322": {
+    "zipcode": "3260322",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "野田町"
+  },
+  "3260323": {
+    "zipcode": "3260323",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "瑞穂野町"
+  },
+  "3260324": {
+    "zipcode": "3260324",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "久保田町"
+  },
+  "3260325": {
+    "zipcode": "3260325",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "高松町"
+  },
+  "3260326": {
+    "zipcode": "3260326",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "小曽根町"
+  },
+  "3260327": {
+    "zipcode": "3260327",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "羽刈町"
+  },
+  "3260328": {
+    "zipcode": "3260328",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "県町"
+  },
+  "3260331": {
+    "zipcode": "3260331",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "福富町"
+  },
+  "3260332": {
+    "zipcode": "3260332",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "福富新町"
+  },
+  "3260333": {
+    "zipcode": "3260333",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "問屋町"
+  },
+  "3260334": {
+    "zipcode": "3260334",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "下渋垂町"
+  },
+  "3260335": {
+    "zipcode": "3260335",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "上渋垂町"
+  },
+  "3260336": {
+    "zipcode": "3260336",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "百頭町"
+  },
+  "3260337": {
+    "zipcode": "3260337",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "島田町"
+  },
+  "3260338": {
+    "zipcode": "3260338",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "福居町"
+  },
+  "3260801": {
+    "zipcode": "3260801",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "有楽町"
+  },
+  "3260802": {
+    "zipcode": "3260802",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "旭町"
+  },
+  "3260803": {
+    "zipcode": "3260803",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "家富町"
+  },
+  "3260804": {
+    "zipcode": "3260804",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "雪輪町"
+  },
+  "3260805": {
+    "zipcode": "3260805",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "巴町"
+  },
+  "3260806": {
+    "zipcode": "3260806",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "柳原町"
+  },
+  "3260807": {
+    "zipcode": "3260807",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大正町"
+  },
+  "3260808": {
+    "zipcode": "3260808",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "本城"
+  },
+  "3260811": {
+    "zipcode": "3260811",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "井草町"
+  },
+  "3260812": {
+    "zipcode": "3260812",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大門通"
+  },
+  "3260813": {
+    "zipcode": "3260813",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "昌平町"
+  },
+  "3260814": {
+    "zipcode": "3260814",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "通"
+  },
+  "3260815": {
+    "zipcode": "3260815",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "栄町"
+  },
+  "3260816": {
+    "zipcode": "3260816",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "緑町"
+  },
+  "3260817": {
+    "zipcode": "3260817",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "西宮町"
+  },
+  "3260821": {
+    "zipcode": "3260821",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "南町"
+  },
+  "3260822": {
+    "zipcode": "3260822",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "田中町"
+  },
+  "3260823": {
+    "zipcode": "3260823",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "朝倉町"
+  },
+  "3260824": {
+    "zipcode": "3260824",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "八幡町"
+  },
+  "3260825": {
+    "zipcode": "3260825",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "中川町"
+  },
+  "3260826": {
+    "zipcode": "3260826",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "借宿町"
+  },
+  "3260831": {
+    "zipcode": "3260831",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "堀込町"
+  },
+  "3260832": {
+    "zipcode": "3260832",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "荒金町"
+  },
+  "3260833": {
+    "zipcode": "3260833",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "藤本町"
+  },
+  "3260834": {
+    "zipcode": "3260834",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "新宿町"
+  },
+  "3260835": {
+    "zipcode": "3260835",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "里矢場町"
+  },
+  "3260836": {
+    "zipcode": "3260836",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "南大町"
+  },
+  "3260837": {
+    "zipcode": "3260837",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "西新井町"
+  },
+  "3260841": {
+    "zipcode": "3260841",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大岩町"
+  },
+  "3260842": {
+    "zipcode": "3260842",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "今福町"
+  },
+  "3260843": {
+    "zipcode": "3260843",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "五十部町"
+  },
+  "3260844": {
+    "zipcode": "3260844",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "鹿島町"
+  },
+  "3260845": {
+    "zipcode": "3260845",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "大前町"
+  },
+  "3260846": {
+    "zipcode": "3260846",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "town": "山下町"
+  }
+}

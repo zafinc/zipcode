@@ -1,0 +1,442 @@
+{
+  "5740000": {
+    "zipcode": "5740000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "以下に掲載がない場合"
+  },
+  "5740001": {
+    "zipcode": "5740001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "学園町"
+  },
+  "5740002": {
+    "zipcode": "5740002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "錦町"
+  },
+  "5740003": {
+    "zipcode": "5740003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "明美の里町"
+  },
+  "5740004": {
+    "zipcode": "5740004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "南楠の里町"
+  },
+  "5740005": {
+    "zipcode": "5740005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "西楠の里町"
+  },
+  "5740006": {
+    "zipcode": "5740006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "中楠の里町"
+  },
+  "5740007": {
+    "zipcode": "5740007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "北楠の里町"
+  },
+  "5740008": {
+    "zipcode": "5740008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "北新町"
+  },
+  "5740011": {
+    "zipcode": "5740011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "北条"
+  },
+  "5740012": {
+    "zipcode": "5740012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "龍間"
+  },
+  "5740013": {
+    "zipcode": "5740013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "中垣内"
+  },
+  "5740014": {
+    "zipcode": "5740014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "寺川"
+  },
+  "5740015": {
+    "zipcode": "5740015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "野崎"
+  },
+  "5740016": {
+    "zipcode": "5740016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "南津の辺町"
+  },
+  "5740017": {
+    "zipcode": "5740017",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "津の辺町"
+  },
+  "5740021": {
+    "zipcode": "5740021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "平野屋新町"
+  },
+  "5740022": {
+    "zipcode": "5740022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "平野屋"
+  },
+  "5740023": {
+    "zipcode": "5740023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "南新田"
+  },
+  "5740024": {
+    "zipcode": "5740024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "泉町"
+  },
+  "5740025": {
+    "zipcode": "5740025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "御供田"
+  },
+  "5740026": {
+    "zipcode": "5740026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "住道"
+  },
+  "5740027": {
+    "zipcode": "5740027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "三住町"
+  },
+  "5740028": {
+    "zipcode": "5740028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "幸町"
+  },
+  "5740031": {
+    "zipcode": "5740031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "川中新町"
+  },
+  "5740032": {
+    "zipcode": "5740032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "栄和町"
+  },
+  "5740033": {
+    "zipcode": "5740033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "扇町"
+  },
+  "5740034": {
+    "zipcode": "5740034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "朋来"
+  },
+  "5740035": {
+    "zipcode": "5740035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "三洋町"
+  },
+  "5740036": {
+    "zipcode": "5740036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "末広町"
+  },
+  "5740037": {
+    "zipcode": "5740037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新町"
+  },
+  "5740041": {
+    "zipcode": "5740041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "浜町"
+  },
+  "5740042": {
+    "zipcode": "5740042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "大野"
+  },
+  "5740043": {
+    "zipcode": "5740043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "灰塚"
+  },
+  "5740044": {
+    "zipcode": "5740044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "諸福"
+  },
+  "5740045": {
+    "zipcode": "5740045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "太子田"
+  },
+  "5740046": {
+    "zipcode": "5740046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "赤井"
+  },
+  "5740051": {
+    "zipcode": "5740051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田境町"
+  },
+  "5740052": {
+    "zipcode": "5740052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田北町"
+  },
+  "5740053": {
+    "zipcode": "5740053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田旭町"
+  },
+  "5740054": {
+    "zipcode": "5740054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田東本町"
+  },
+  "5740055": {
+    "zipcode": "5740055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田本町"
+  },
+  "5740056": {
+    "zipcode": "5740056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田中町"
+  },
+  "5740057": {
+    "zipcode": "5740057",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "新田西町"
+  },
+  "5740061": {
+    "zipcode": "5740061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "大東町"
+  },
+  "5740062": {
+    "zipcode": "5740062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "氷野"
+  },
+  "5740063": {
+    "zipcode": "5740063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "南郷町"
+  },
+  "5740064": {
+    "zipcode": "5740064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "御領"
+  },
+  "5740071": {
+    "zipcode": "5740071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "深野北"
+  },
+  "5740072": {
+    "zipcode": "5740072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "深野"
+  },
+  "5740073": {
+    "zipcode": "5740073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "緑が丘"
+  },
+  "5740074": {
+    "zipcode": "5740074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "谷川"
+  },
+  "5740075": {
+    "zipcode": "5740075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "深野南町"
+  },
+  "5740076": {
+    "zipcode": "5740076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "曙町"
+  },
+  "5740077": {
+    "zipcode": "5740077",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "大東市",
+    "town": "三箇"
+  }
+}

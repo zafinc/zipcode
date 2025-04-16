@@ -1,0 +1,746 @@
+{
+  "4901100": {
+    "zipcode": "4901100",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "以下に掲載がない場合"
+  },
+  "4901101": {
+    "zipcode": "4901101",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "方領"
+  },
+  "4901102": {
+    "zipcode": "4901102",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "石作"
+  },
+  "4901103": {
+    "zipcode": "4901103",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "栄"
+  },
+  "4901104": {
+    "zipcode": "4901104",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "西今宿"
+  },
+  "4901105": {
+    "zipcode": "4901105",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "新居屋"
+  },
+  "4901106": {
+    "zipcode": "4901106",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "小路"
+  },
+  "4901107": {
+    "zipcode": "4901107",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "森"
+  },
+  "4901111": {
+    "zipcode": "4901111",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "甚目寺"
+  },
+  "4901112": {
+    "zipcode": "4901112",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "上萱津"
+  },
+  "4901113": {
+    "zipcode": "4901113",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "中萱津"
+  },
+  "4901114": {
+    "zipcode": "4901114",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "下萱津"
+  },
+  "4901115": {
+    "zipcode": "4901115",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "坂牧"
+  },
+  "4901116": {
+    "zipcode": "4901116",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "本郷"
+  },
+  "4901131": {
+    "zipcode": "4901131",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "長牧"
+  },
+  "4901132": {
+    "zipcode": "4901132",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "北間島"
+  },
+  "4901133": {
+    "zipcode": "4901133",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "八ツ屋"
+  },
+  "4901134": {
+    "zipcode": "4901134",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "東條"
+  },
+  "4901135": {
+    "zipcode": "4901135",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "鎌須賀"
+  },
+  "4901136": {
+    "zipcode": "4901136",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "花常"
+  },
+  "4901137": {
+    "zipcode": "4901137",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "堀之内"
+  },
+  "4901141": {
+    "zipcode": "4901141",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "馬島"
+  },
+  "4901142": {
+    "zipcode": "4901142",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "三本木"
+  },
+  "4901143": {
+    "zipcode": "4901143",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "砂子"
+  },
+  "4901144": {
+    "zipcode": "4901144",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "西條"
+  },
+  "4901145": {
+    "zipcode": "4901145",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡大治町",
+    "town": "中島"
+  },
+  "4901200": {
+    "zipcode": "4901200",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "以下に掲載がない場合"
+  },
+  "4901201": {
+    "zipcode": "4901201",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "古道"
+  },
+  "4901202": {
+    "zipcode": "4901202",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "富塚"
+  },
+  "4901203": {
+    "zipcode": "4901203",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "木折"
+  },
+  "4901204": {
+    "zipcode": "4901204",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "花長"
+  },
+  "4901205": {
+    "zipcode": "4901205",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "花正"
+  },
+  "4901206": {
+    "zipcode": "4901206",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "東溝口"
+  },
+  "4901207": {
+    "zipcode": "4901207",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "二ツ寺"
+  },
+  "4901211": {
+    "zipcode": "4901211",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "篠田"
+  },
+  "4901212": {
+    "zipcode": "4901212",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "小橋方"
+  },
+  "4901213": {
+    "zipcode": "4901213",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "乙之子"
+  },
+  "4901214": {
+    "zipcode": "4901214",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "北苅"
+  },
+  "4901221": {
+    "zipcode": "4901221",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "金岩"
+  },
+  "4901222": {
+    "zipcode": "4901222",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "木田"
+  },
+  "4901223": {
+    "zipcode": "4901223",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "森山"
+  },
+  "4901224": {
+    "zipcode": "4901224",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "丹波"
+  },
+  "4901225": {
+    "zipcode": "4901225",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "蜂須賀"
+  },
+  "4901226": {
+    "zipcode": "4901226",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "あま市",
+    "town": "中橋"
+  },
+  "4901301": {
+    "zipcode": "4901301",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町須ケ谷"
+  },
+  "4901302": {
+    "zipcode": "4901302",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町観音堂"
+  },
+  "4901303": {
+    "zipcode": "4901303",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町上三宅"
+  },
+  "4901304": {
+    "zipcode": "4901304",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町法立"
+  },
+  "4901305": {
+    "zipcode": "4901305",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町（丸渕上、丸渕下、鷲尾）"
+  },
+  "4901311": {
+    "zipcode": "4901311",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町中三宅"
+  },
+  "4901312": {
+    "zipcode": "4901312",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町下三宅"
+  },
+  "4901313": {
+    "zipcode": "4901313",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町横池"
+  },
+  "4901314": {
+    "zipcode": "4901314",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町西光坊"
+  },
+  "4901315": {
+    "zipcode": "4901315",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町平池"
+  },
+  "4901321": {
+    "zipcode": "4901321",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町東城"
+  },
+  "4901322": {
+    "zipcode": "4901322",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町（上前浪、下前浪）"
+  },
+  "4901323": {
+    "zipcode": "4901323",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "town": "平和町（光和、塩川、下起北、下起中、下起東、下起南、勝幡新田、城西、城之内、須ケ脇、那古良、平六、前平、明和、嫁振、嫁振北、嫁振東、領内）"
+  },
+  "4901400": {
+    "zipcode": "4901400",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "以下に掲載がない場合"
+  },
+  "4901401": {
+    "zipcode": "4901401",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "六條町"
+  },
+  "4901402": {
+    "zipcode": "4901402",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "五斗山"
+  },
+  "4901403": {
+    "zipcode": "4901403",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鳥ケ地町"
+  },
+  "4901404": {
+    "zipcode": "4901404",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "桴場"
+  },
+  "4901405": {
+    "zipcode": "4901405",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "神戸町"
+  },
+  "4901406": {
+    "zipcode": "4901406",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鍋平"
+  },
+  "4901407": {
+    "zipcode": "4901407",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "三百島"
+  },
+  "4901411": {
+    "zipcode": "4901411",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "善太町"
+  },
+  "4901412": {
+    "zipcode": "4901412",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "馬ケ地"
+  },
+  "4901413": {
+    "zipcode": "4901413",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "子宝町"
+  },
+  "4901414": {
+    "zipcode": "4901414",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "坂中地町"
+  },
+  "4901415": {
+    "zipcode": "4901415",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "鮫ケ地町"
+  },
+  "4901421": {
+    "zipcode": "4901421",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "上押萩町"
+  },
+  "4901422": {
+    "zipcode": "4901422",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "下押萩町"
+  },
+  "4901423": {
+    "zipcode": "4901423",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "海屋町"
+  },
+  "4901424": {
+    "zipcode": "4901424",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "亀ケ地"
+  },
+  "4901425": {
+    "zipcode": "4901425",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "東蜆"
+  },
+  "4901426": {
+    "zipcode": "4901426",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "四郎兵衛町"
+  },
+  "4901427": {
+    "zipcode": "4901427",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "西蜆"
+  },
+  "4901428": {
+    "zipcode": "4901428",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "弥富市",
+    "town": "竹田"
+  },
+  "4901431": {
+    "zipcode": "4901431",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "服岡"
+  },
+  "4901432": {
+    "zipcode": "4901432",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "三福"
+  },
+  "4901433": {
+    "zipcode": "4901433",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "渚"
+  },
+  "4901434": {
+    "zipcode": "4901434",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "松之郷"
+  },
+  "4901435": {
+    "zipcode": "4901435",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "梅之郷"
+  },
+  "4901436": {
+    "zipcode": "4901436",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "竹之郷"
+  },
+  "4901437": {
+    "zipcode": "4901437",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "元起"
+  },
+  "4901438": {
+    "zipcode": "4901438",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "大宝"
+  },
+  "4901441": {
+    "zipcode": "4901441",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "政成"
+  },
+  "4901442": {
+    "zipcode": "4901442",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "古政成"
+  },
+  "4901443": {
+    "zipcode": "4901443",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "新政成"
+  },
+  "4901444": {
+    "zipcode": "4901444",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "木場"
+  },
+  "4901445": {
+    "zipcode": "4901445",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "金岡"
+  },
+  "4901446": {
+    "zipcode": "4901446",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "東浜"
+  },
+  "4901447": {
+    "zipcode": "4901447",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "海部郡飛島村",
+    "town": "西浜"
+  }
+}

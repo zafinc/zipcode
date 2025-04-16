@@ -1,0 +1,682 @@
+{
+  "5990000": {
+    "zipcode": "5990000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "以下に掲載がない場合"
+  },
+  "5990200": {
+    "zipcode": "5990200",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "以下に掲載がない場合"
+  },
+  "5990201": {
+    "zipcode": "5990201",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "尾崎町"
+  },
+  "5990202": {
+    "zipcode": "5990202",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "下出"
+  },
+  "5990203": {
+    "zipcode": "5990203",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "黒田"
+  },
+  "5990204": {
+    "zipcode": "5990204",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "鳥取"
+  },
+  "5990205": {
+    "zipcode": "5990205",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "新町"
+  },
+  "5990211": {
+    "zipcode": "5990211",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "鳥取中"
+  },
+  "5990212": {
+    "zipcode": "5990212",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "自然田"
+  },
+  "5990213": {
+    "zipcode": "5990213",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "和泉鳥取"
+  },
+  "5990214": {
+    "zipcode": "5990214",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "山中渓"
+  },
+  "5990215": {
+    "zipcode": "5990215",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "さつき台"
+  },
+  "5990216": {
+    "zipcode": "5990216",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "緑ケ丘"
+  },
+  "5990221": {
+    "zipcode": "5990221",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "石田"
+  },
+  "5990222": {
+    "zipcode": "5990222",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "桑畑"
+  },
+  "5990223": {
+    "zipcode": "5990223",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "光陽台"
+  },
+  "5990224": {
+    "zipcode": "5990224",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "舞"
+  },
+  "5990225": {
+    "zipcode": "5990225",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "鳥取三井"
+  },
+  "5990231": {
+    "zipcode": "5990231",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "貝掛"
+  },
+  "5990232": {
+    "zipcode": "5990232",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "箱作"
+  },
+  "5990233": {
+    "zipcode": "5990233",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "南山中"
+  },
+  "5990234": {
+    "zipcode": "5990234",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "淡輪"
+  },
+  "5990235": {
+    "zipcode": "5990235",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "箱の浦"
+  },
+  "5990236": {
+    "zipcode": "5990236",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "阪南市",
+    "town": "桃の木台"
+  },
+  "5990300": {
+    "zipcode": "5990300",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "以下に掲載がない場合"
+  },
+  "5990301": {
+    "zipcode": "5990301",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "淡輪"
+  },
+  "5990302": {
+    "zipcode": "5990302",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "孝子"
+  },
+  "5990303": {
+    "zipcode": "5990303",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "深日"
+  },
+  "5990304": {
+    "zipcode": "5990304",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "望海坂"
+  },
+  "5990311": {
+    "zipcode": "5990311",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "多奈川谷川"
+  },
+  "5990312": {
+    "zipcode": "5990312",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "多奈川東畑"
+  },
+  "5990313": {
+    "zipcode": "5990313",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "多奈川西畑"
+  },
+  "5990314": {
+    "zipcode": "5990314",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "泉南郡岬町",
+    "town": "多奈川小島"
+  },
+  "5998101": {
+    "zipcode": "5998101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "八下町"
+  },
+  "5998102": {
+    "zipcode": "5998102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "石原町"
+  },
+  "5998103": {
+    "zipcode": "5998103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "菩提町"
+  },
+  "5998104": {
+    "zipcode": "5998104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "引野町"
+  },
+  "5998107": {
+    "zipcode": "5998107",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "白鷺町"
+  },
+  "5998111": {
+    "zipcode": "5998111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "日置荘北町"
+  },
+  "5998112": {
+    "zipcode": "5998112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "日置荘原寺町"
+  },
+  "5998113": {
+    "zipcode": "5998113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "日置荘田中町"
+  },
+  "5998114": {
+    "zipcode": "5998114",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "日置荘西町"
+  },
+  "5998115": {
+    "zipcode": "5998115",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "関茶屋"
+  },
+  "5998116": {
+    "zipcode": "5998116",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "野尻町"
+  },
+  "5998121": {
+    "zipcode": "5998121",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "高松"
+  },
+  "5998122": {
+    "zipcode": "5998122",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "丈六"
+  },
+  "5998123": {
+    "zipcode": "5998123",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "北野田"
+  },
+  "5998124": {
+    "zipcode": "5998124",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "南野田"
+  },
+  "5998125": {
+    "zipcode": "5998125",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "西野"
+  },
+  "5998126": {
+    "zipcode": "5998126",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "大美野"
+  },
+  "5998127": {
+    "zipcode": "5998127",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "草尾"
+  },
+  "5998128": {
+    "zipcode": "5998128",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市東区",
+    "town": "中茶屋"
+  },
+  "5998231": {
+    "zipcode": "5998231",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "学園町"
+  },
+  "5998232": {
+    "zipcode": "5998232",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "新家町"
+  },
+  "5998233": {
+    "zipcode": "5998233",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "大野芝町"
+  },
+  "5998234": {
+    "zipcode": "5998234",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "土塔町"
+  },
+  "5998235": {
+    "zipcode": "5998235",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井東町"
+  },
+  "5998236": {
+    "zipcode": "5998236",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井沢町"
+  },
+  "5998237": {
+    "zipcode": "5998237",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井水池町"
+  },
+  "5998238": {
+    "zipcode": "5998238",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "土師町"
+  },
+  "5998241": {
+    "zipcode": "5998241",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "福田"
+  },
+  "5998242": {
+    "zipcode": "5998242",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "陶器北"
+  },
+  "5998243": {
+    "zipcode": "5998243",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "見野山"
+  },
+  "5998244": {
+    "zipcode": "5998244",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "上之"
+  },
+  "5998245": {
+    "zipcode": "5998245",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "辻之"
+  },
+  "5998246": {
+    "zipcode": "5998246",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "田園"
+  },
+  "5998247": {
+    "zipcode": "5998247",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "東山"
+  },
+  "5998248": {
+    "zipcode": "5998248",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井畑山町"
+  },
+  "5998251": {
+    "zipcode": "5998251",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "平井"
+  },
+  "5998252": {
+    "zipcode": "5998252",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "楢葉"
+  },
+  "5998253": {
+    "zipcode": "5998253",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深阪"
+  },
+  "5998254": {
+    "zipcode": "5998254",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "伏尾"
+  },
+  "5998261": {
+    "zipcode": "5998261",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "堀上町"
+  },
+  "5998262": {
+    "zipcode": "5998262",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "八田北町"
+  },
+  "5998263": {
+    "zipcode": "5998263",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "八田南之町"
+  },
+  "5998264": {
+    "zipcode": "5998264",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "小阪西町"
+  },
+  "5998265": {
+    "zipcode": "5998265",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "八田西町"
+  },
+  "5998266": {
+    "zipcode": "5998266",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "毛穴町"
+  },
+  "5998267": {
+    "zipcode": "5998267",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "八田寺町（その他）"
+  },
+  "5998271": {
+    "zipcode": "5998271",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井北町"
+  },
+  "5998272": {
+    "zipcode": "5998272",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井中町"
+  },
+  "5998273": {
+    "zipcode": "5998273",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "深井清水町"
+  },
+  "5998274": {
+    "zipcode": "5998274",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "宮園町"
+  },
+  "5998275": {
+    "zipcode": "5998275",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "東八田"
+  },
+  "5998276": {
+    "zipcode": "5998276",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "堺市中区",
+    "town": "小阪"
+  }
+}

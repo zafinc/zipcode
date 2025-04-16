@@ -1,0 +1,634 @@
+{
+  "5840000": {
+    "zipcode": "5840000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "以下に掲載がない場合"
+  },
+  "5840001": {
+    "zipcode": "5840001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "梅の里"
+  },
+  "5840002": {
+    "zipcode": "5840002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "平町"
+  },
+  "5840003": {
+    "zipcode": "5840003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "喜志新家町"
+  },
+  "5840004": {
+    "zipcode": "5840004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "木戸山町"
+  },
+  "5840005": {
+    "zipcode": "5840005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "喜志町"
+  },
+  "5840006": {
+    "zipcode": "5840006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "旭ケ丘町"
+  },
+  "5840007": {
+    "zipcode": "5840007",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "南旭ケ丘町"
+  },
+  "5840008": {
+    "zipcode": "5840008",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "喜志"
+  },
+  "5840011": {
+    "zipcode": "5840011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "宮町"
+  },
+  "5840012": {
+    "zipcode": "5840012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "粟ケ池町"
+  },
+  "5840013": {
+    "zipcode": "5840013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "桜井町"
+  },
+  "5840014": {
+    "zipcode": "5840014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "川面町"
+  },
+  "5840015": {
+    "zipcode": "5840015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "西条町"
+  },
+  "5840016": {
+    "zipcode": "5840016",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "通法寺町"
+  },
+  "5840021": {
+    "zipcode": "5840021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "中野町"
+  },
+  "5840022": {
+    "zipcode": "5840022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "中野町東"
+  },
+  "5840023": {
+    "zipcode": "5840023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "若松町東"
+  },
+  "5840024": {
+    "zipcode": "5840024",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "若松町"
+  },
+  "5840025": {
+    "zipcode": "5840025",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "若松町西"
+  },
+  "5840026": {
+    "zipcode": "5840026",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "緑ケ丘町"
+  },
+  "5840027": {
+    "zipcode": "5840027",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "中野"
+  },
+  "5840028": {
+    "zipcode": "5840028",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "中野町西"
+  },
+  "5840031": {
+    "zipcode": "5840031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "寿町"
+  },
+  "5840032": {
+    "zipcode": "5840032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "常盤町"
+  },
+  "5840033": {
+    "zipcode": "5840033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "富田林町"
+  },
+  "5840034": {
+    "zipcode": "5840034",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "清水町"
+  },
+  "5840035": {
+    "zipcode": "5840035",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "谷川町"
+  },
+  "5840036": {
+    "zipcode": "5840036",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "甲田"
+  },
+  "5840037": {
+    "zipcode": "5840037",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "宮甲田町"
+  },
+  "5840038": {
+    "zipcode": "5840038",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦ケ丘町"
+  },
+  "5840039": {
+    "zipcode": "5840039",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "美山台"
+  },
+  "5840040": {
+    "zipcode": "5840040",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "かがり台"
+  },
+  "5840041": {
+    "zipcode": "5840041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "楠町"
+  },
+  "5840042": {
+    "zipcode": "5840042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "北大伴町"
+  },
+  "5840043": {
+    "zipcode": "5840043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "南大伴町"
+  },
+  "5840044": {
+    "zipcode": "5840044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "別井"
+  },
+  "5840045": {
+    "zipcode": "5840045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "山中田町"
+  },
+  "5840046": {
+    "zipcode": "5840046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "東板持町"
+  },
+  "5840047": {
+    "zipcode": "5840047",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "山手町"
+  },
+  "5840048": {
+    "zipcode": "5840048",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "西板持町"
+  },
+  "5840049": {
+    "zipcode": "5840049",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "川向町"
+  },
+  "5840051": {
+    "zipcode": "5840051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "楠風台"
+  },
+  "5840052": {
+    "zipcode": "5840052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "佐備"
+  },
+  "5840053": {
+    "zipcode": "5840053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "龍泉"
+  },
+  "5840054": {
+    "zipcode": "5840054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "甘南備"
+  },
+  "5840055": {
+    "zipcode": "5840055",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "伏見堂"
+  },
+  "5840056": {
+    "zipcode": "5840056",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "嬉"
+  },
+  "5840057": {
+    "zipcode": "5840057",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "横山"
+  },
+  "5840058": {
+    "zipcode": "5840058",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "彼方"
+  },
+  "5840061": {
+    "zipcode": "5840061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "伏山"
+  },
+  "5840062": {
+    "zipcode": "5840062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "須賀"
+  },
+  "5840063": {
+    "zipcode": "5840063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦織"
+  },
+  "5840064": {
+    "zipcode": "5840064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "不動ケ丘町"
+  },
+  "5840065": {
+    "zipcode": "5840065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "金剛伏山台"
+  },
+  "5840066": {
+    "zipcode": "5840066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦織北"
+  },
+  "5840067": {
+    "zipcode": "5840067",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦織南"
+  },
+  "5840068": {
+    "zipcode": "5840068",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦織中"
+  },
+  "5840069": {
+    "zipcode": "5840069",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "錦織東"
+  },
+  "5840070": {
+    "zipcode": "5840070",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "金剛錦織台"
+  },
+  "5840071": {
+    "zipcode": "5840071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "藤沢台"
+  },
+  "5840072": {
+    "zipcode": "5840072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "高辺台"
+  },
+  "5840073": {
+    "zipcode": "5840073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "寺池台"
+  },
+  "5840074": {
+    "zipcode": "5840074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "久野喜台"
+  },
+  "5840076": {
+    "zipcode": "5840076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "青葉丘"
+  },
+  "5840077": {
+    "zipcode": "5840077",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "新青葉丘町"
+  },
+  "5840078": {
+    "zipcode": "5840078",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "加太"
+  },
+  "5840079": {
+    "zipcode": "5840079",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "五軒家"
+  },
+  "5840081": {
+    "zipcode": "5840081",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "廿山"
+  },
+  "5840082": {
+    "zipcode": "5840082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "向陽台"
+  },
+  "5840083": {
+    "zipcode": "5840083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "小金台"
+  },
+  "5840084": {
+    "zipcode": "5840084",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "桜ケ丘町"
+  },
+  "5840085": {
+    "zipcode": "5840085",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "新家"
+  },
+  "5840086": {
+    "zipcode": "5840086",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "津々山台"
+  },
+  "5840091": {
+    "zipcode": "5840091",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "新堂"
+  },
+  "5840092": {
+    "zipcode": "5840092",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "昭和町"
+  },
+  "5840093": {
+    "zipcode": "5840093",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "本町"
+  },
+  "5840094": {
+    "zipcode": "5840094",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "富美ケ丘町"
+  },
+  "5840095": {
+    "zipcode": "5840095",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "富田林市",
+    "town": "毛人谷"
+  }
+}

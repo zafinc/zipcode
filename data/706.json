@@ -1,0 +1,370 @@
+{
+  "7060000": {
+    "zipcode": "7060000",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "以下に掲載がない場合"
+  },
+  "7060001": {
+    "zipcode": "7060001",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "田井"
+  },
+  "7060002": {
+    "zipcode": "7060002",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "築港"
+  },
+  "7060011": {
+    "zipcode": "7060011",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "宇野"
+  },
+  "7060012": {
+    "zipcode": "7060012",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "玉"
+  },
+  "7060013": {
+    "zipcode": "7060013",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "奥玉"
+  },
+  "7060014": {
+    "zipcode": "7060014",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "玉原"
+  },
+  "7060021": {
+    "zipcode": "7060021",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "和田"
+  },
+  "7060022": {
+    "zipcode": "7060022",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "向日比"
+  },
+  "7060023": {
+    "zipcode": "7060023",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "深井町"
+  },
+  "7060024": {
+    "zipcode": "7060024",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "御崎"
+  },
+  "7060025": {
+    "zipcode": "7060025",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "明神町"
+  },
+  "7060026": {
+    "zipcode": "7060026",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "羽根崎町"
+  },
+  "7060027": {
+    "zipcode": "7060027",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "日比"
+  },
+  "7060028": {
+    "zipcode": "7060028",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "渋川"
+  },
+  "7060131": {
+    "zipcode": "7060131",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "東紅陽台"
+  },
+  "7060132": {
+    "zipcode": "7060132",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "用吉"
+  },
+  "7060133": {
+    "zipcode": "7060133",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "宇藤木"
+  },
+  "7060134": {
+    "zipcode": "7060134",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "東高崎"
+  },
+  "7060141": {
+    "zipcode": "7060141",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "槌ケ原"
+  },
+  "7060142": {
+    "zipcode": "7060142",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "迫間"
+  },
+  "7060143": {
+    "zipcode": "7060143",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "木目"
+  },
+  "7060144": {
+    "zipcode": "7060144",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "小島地"
+  },
+  "7060151": {
+    "zipcode": "7060151",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "長尾"
+  },
+  "7060152": {
+    "zipcode": "7060152",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "永井"
+  },
+  "7060153": {
+    "zipcode": "7060153",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "滝"
+  },
+  "7060154": {
+    "zipcode": "7060154",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "広岡"
+  },
+  "7060221": {
+    "zipcode": "7060221",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "八浜町八浜"
+  },
+  "7060222": {
+    "zipcode": "7060222",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "八浜町見石"
+  },
+  "7060223": {
+    "zipcode": "7060223",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "八浜町波知"
+  },
+  "7060224": {
+    "zipcode": "7060224",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "八浜町大崎"
+  },
+  "7060225": {
+    "zipcode": "7060225",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "南七区"
+  },
+  "7060226": {
+    "zipcode": "7060226",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "東七区"
+  },
+  "7060301": {
+    "zipcode": "7060301",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "北方"
+  },
+  "7060302": {
+    "zipcode": "7060302",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "下山坂"
+  },
+  "7060303": {
+    "zipcode": "7060303",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "上山坂"
+  },
+  "7060304": {
+    "zipcode": "7060304",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "番田"
+  },
+  "7060305": {
+    "zipcode": "7060305",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "胸上"
+  },
+  "7060306": {
+    "zipcode": "7060306",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "石島"
+  },
+  "7060311": {
+    "zipcode": "7060311",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "梶岡"
+  },
+  "7060312": {
+    "zipcode": "7060312",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "東田井地"
+  },
+  "7060313": {
+    "zipcode": "7060313",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "西田井地"
+  },
+  "7060314": {
+    "zipcode": "7060314",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "山田"
+  },
+  "7060315": {
+    "zipcode": "7060315",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "後閑"
+  },
+  "7060316": {
+    "zipcode": "7060316",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "沼"
+  },
+  "7060317": {
+    "zipcode": "7060317",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "玉野市",
+    "town": "大薮"
+  }
+}

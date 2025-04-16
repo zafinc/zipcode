@@ -1,0 +1,1170 @@
+{
+  "9580000": {
+    "zipcode": "9580000",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "以下に掲載がない場合"
+  },
+  "9580001": {
+    "zipcode": "9580001",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "馬下"
+  },
+  "9580002": {
+    "zipcode": "9580002",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "早川"
+  },
+  "9580003": {
+    "zipcode": "9580003",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "吉浦"
+  },
+  "9580004": {
+    "zipcode": "9580004",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "柏尾"
+  },
+  "9580005": {
+    "zipcode": "9580005",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "間島"
+  },
+  "9580006": {
+    "zipcode": "9580006",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "野潟"
+  },
+  "9580007": {
+    "zipcode": "9580007",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大月"
+  },
+  "9580008": {
+    "zipcode": "9580008",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩ケ崎"
+  },
+  "9580011": {
+    "zipcode": "9580011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "滝の前"
+  },
+  "9580012": {
+    "zipcode": "9580012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大平"
+  },
+  "9580013": {
+    "zipcode": "9580013",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "羽下ケ渕"
+  },
+  "9580014": {
+    "zipcode": "9580014",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "下渡"
+  },
+  "9580021": {
+    "zipcode": "9580021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波新田町"
+  },
+  "9580022": {
+    "zipcode": "9580022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波横町"
+  },
+  "9580023": {
+    "zipcode": "9580023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波上町"
+  },
+  "9580024": {
+    "zipcode": "9580024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波中町"
+  },
+  "9580025": {
+    "zipcode": "9580025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "松波町"
+  },
+  "9580026": {
+    "zipcode": "9580026",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波浜町"
+  },
+  "9580031": {
+    "zipcode": "9580031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "学校町"
+  },
+  "9580032": {
+    "zipcode": "9580032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "松原町"
+  },
+  "9580033": {
+    "zipcode": "9580033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "緑町"
+  },
+  "9580034": {
+    "zipcode": "9580034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "松山"
+  },
+  "9580035": {
+    "zipcode": "9580035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "三面"
+  },
+  "9580036": {
+    "zipcode": "9580036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "浦田"
+  },
+  "9580037": {
+    "zipcode": "9580037",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "瀬波温泉"
+  },
+  "9580038": {
+    "zipcode": "9580038",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "浜新田"
+  },
+  "9580041": {
+    "zipcode": "9580041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船三日市"
+  },
+  "9580042": {
+    "zipcode": "9580042",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船北浜町"
+  },
+  "9580043": {
+    "zipcode": "9580043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船下大町"
+  },
+  "9580044": {
+    "zipcode": "9580044",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船上大町"
+  },
+  "9580045": {
+    "zipcode": "9580045",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船上浜町"
+  },
+  "9580046": {
+    "zipcode": "9580046",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船下浜町"
+  },
+  "9580047": {
+    "zipcode": "9580047",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船岸見寺町"
+  },
+  "9580048": {
+    "zipcode": "9580048",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船地蔵町"
+  },
+  "9580051": {
+    "zipcode": "9580051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船上町"
+  },
+  "9580052": {
+    "zipcode": "9580052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "八日市"
+  },
+  "9580053": {
+    "zipcode": "9580053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上の山"
+  },
+  "9580054": {
+    "zipcode": "9580054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船新田町"
+  },
+  "9580055": {
+    "zipcode": "9580055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船縦新町"
+  },
+  "9580056": {
+    "zipcode": "9580056",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船中新町"
+  },
+  "9580057": {
+    "zipcode": "9580057",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船横新町"
+  },
+  "9580058": {
+    "zipcode": "9580058",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩船港町"
+  },
+  "9580061": {
+    "zipcode": "9580061",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "岩船郡粟島浦村",
+    "town": "粟島浦村一円"
+  },
+  "9580201": {
+    "zipcode": "9580201",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "蒲萄"
+  },
+  "9580202": {
+    "zipcode": "9580202",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大須戸"
+  },
+  "9580203": {
+    "zipcode": "9580203",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "荒沢"
+  },
+  "9580204": {
+    "zipcode": "9580204",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小須戸"
+  },
+  "9580205": {
+    "zipcode": "9580205",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "塩野町"
+  },
+  "9580206": {
+    "zipcode": "9580206",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "松岡"
+  },
+  "9580211": {
+    "zipcode": "9580211",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "高根"
+  },
+  "9580212": {
+    "zipcode": "9580212",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "北大平"
+  },
+  "9580213": {
+    "zipcode": "9580213",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "早稲田"
+  },
+  "9580214": {
+    "zipcode": "9580214",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "板屋越"
+  },
+  "9580215": {
+    "zipcode": "9580215",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "檜原"
+  },
+  "9580221": {
+    "zipcode": "9580221",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "薦川"
+  },
+  "9580222": {
+    "zipcode": "9580222",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "猿田"
+  },
+  "9580223": {
+    "zipcode": "9580223",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "中原"
+  },
+  "9580224": {
+    "zipcode": "9580224",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "黒田"
+  },
+  "9580225": {
+    "zipcode": "9580225",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "関口"
+  },
+  "9580226": {
+    "zipcode": "9580226",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "朝日中野"
+  },
+  "9580231": {
+    "zipcode": "9580231",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "布部"
+  },
+  "9580232": {
+    "zipcode": "9580232",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "新屋"
+  },
+  "9580233": {
+    "zipcode": "9580233",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "中新保"
+  },
+  "9580234": {
+    "zipcode": "9580234",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "堀野"
+  },
+  "9580235": {
+    "zipcode": "9580235",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "石住"
+  },
+  "9580236": {
+    "zipcode": "9580236",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上中島"
+  },
+  "9580241": {
+    "zipcode": "9580241",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩崩"
+  },
+  "9580242": {
+    "zipcode": "9580242",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "茎太"
+  },
+  "9580243": {
+    "zipcode": "9580243",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "千縄"
+  },
+  "9580244": {
+    "zipcode": "9580244",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小揚"
+  },
+  "9580245": {
+    "zipcode": "9580245",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "釜杭"
+  },
+  "9580246": {
+    "zipcode": "9580246",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "笹平"
+  },
+  "9580251": {
+    "zipcode": "9580251",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "岩沢"
+  },
+  "9580252": {
+    "zipcode": "9580252",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "下新保"
+  },
+  "9580253": {
+    "zipcode": "9580253",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大場沢"
+  },
+  "9580254": {
+    "zipcode": "9580254",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "十川"
+  },
+  "9580255": {
+    "zipcode": "9580255",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "熊登"
+  },
+  "9580261": {
+    "zipcode": "9580261",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "猿沢"
+  },
+  "9580262": {
+    "zipcode": "9580262",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上野"
+  },
+  "9580263": {
+    "zipcode": "9580263",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "川端"
+  },
+  "9580264": {
+    "zipcode": "9580264",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "鵜渡路"
+  },
+  "9580265": {
+    "zipcode": "9580265",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "下中島"
+  },
+  "9580266": {
+    "zipcode": "9580266",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "宮ノ下"
+  },
+  "9580267": {
+    "zipcode": "9580267",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "寺尾"
+  },
+  "9580268": {
+    "zipcode": "9580268",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小川"
+  },
+  "9580269": {
+    "zipcode": "9580269",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "古渡路"
+  },
+  "9580270": {
+    "zipcode": "9580270",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "あけぼの"
+  },
+  "9580801": {
+    "zipcode": "9580801",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "西興屋"
+  },
+  "9580802": {
+    "zipcode": "9580802",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "四日市"
+  },
+  "9580803": {
+    "zipcode": "9580803",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "天神岡"
+  },
+  "9580804": {
+    "zipcode": "9580804",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "下山田"
+  },
+  "9580805": {
+    "zipcode": "9580805",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上山田"
+  },
+  "9580806": {
+    "zipcode": "9580806",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小谷"
+  },
+  "9580807": {
+    "zipcode": "9580807",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "日下"
+  },
+  "9580808": {
+    "zipcode": "9580808",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上相川"
+  },
+  "9580809": {
+    "zipcode": "9580809",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "下相川"
+  },
+  "9580811": {
+    "zipcode": "9580811",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "高平"
+  },
+  "9580812": {
+    "zipcode": "9580812",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大関"
+  },
+  "9580813": {
+    "zipcode": "9580813",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "鋳物師"
+  },
+  "9580814": {
+    "zipcode": "9580814",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "門前"
+  },
+  "9580815": {
+    "zipcode": "9580815",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大栗田"
+  },
+  "9580816": {
+    "zipcode": "9580816",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "赤沢"
+  },
+  "9580817": {
+    "zipcode": "9580817",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "菅沼"
+  },
+  "9580818": {
+    "zipcode": "9580818",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "袋"
+  },
+  "9580821": {
+    "zipcode": "9580821",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "山辺里"
+  },
+  "9580822": {
+    "zipcode": "9580822",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "坪根"
+  },
+  "9580823": {
+    "zipcode": "9580823",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "仲間町"
+  },
+  "9580824": {
+    "zipcode": "9580824",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "本町"
+  },
+  "9580831": {
+    "zipcode": "9580831",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "杉原"
+  },
+  "9580832": {
+    "zipcode": "9580832",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "石原"
+  },
+  "9580833": {
+    "zipcode": "9580833",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "堀片"
+  },
+  "9580834": {
+    "zipcode": "9580834",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "新町"
+  },
+  "9580835": {
+    "zipcode": "9580835",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "二之町"
+  },
+  "9580836": {
+    "zipcode": "9580836",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "羽黒口"
+  },
+  "9580837": {
+    "zipcode": "9580837",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "三之町"
+  },
+  "9580841": {
+    "zipcode": "9580841",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小町"
+  },
+  "9580842": {
+    "zipcode": "9580842",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大町"
+  },
+  "9580843": {
+    "zipcode": "9580843",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上町"
+  },
+  "9580844": {
+    "zipcode": "9580844",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "長井町"
+  },
+  "9580845": {
+    "zipcode": "9580845",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "細工町"
+  },
+  "9580846": {
+    "zipcode": "9580846",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "安良町"
+  },
+  "9580847": {
+    "zipcode": "9580847",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大工町"
+  },
+  "9580848": {
+    "zipcode": "9580848",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "小国町"
+  },
+  "9580849": {
+    "zipcode": "9580849",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "寺町"
+  },
+  "9580851": {
+    "zipcode": "9580851",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "羽黒町"
+  },
+  "9580852": {
+    "zipcode": "9580852",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "南町"
+  },
+  "9580853": {
+    "zipcode": "9580853",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "山居町"
+  },
+  "9580854": {
+    "zipcode": "9580854",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "田端町"
+  },
+  "9580855": {
+    "zipcode": "9580855",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "飯野西"
+  },
+  "9580856": {
+    "zipcode": "9580856",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "飯野桜ケ丘"
+  },
+  "9580857": {
+    "zipcode": "9580857",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "飯野"
+  },
+  "9580861": {
+    "zipcode": "9580861",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "中川原団地"
+  },
+  "9580862": {
+    "zipcode": "9580862",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "若葉町"
+  },
+  "9580863": {
+    "zipcode": "9580863",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "鍛冶町"
+  },
+  "9580864": {
+    "zipcode": "9580864",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "肴町"
+  },
+  "9580865": {
+    "zipcode": "9580865",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "幸町"
+  },
+  "9580866": {
+    "zipcode": "9580866",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "村上"
+  },
+  "9580867": {
+    "zipcode": "9580867",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "大欠"
+  },
+  "9580871": {
+    "zipcode": "9580871",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "久保多町"
+  },
+  "9580872": {
+    "zipcode": "9580872",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "片町"
+  },
+  "9580873": {
+    "zipcode": "9580873",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "上片町"
+  },
+  "9580874": {
+    "zipcode": "9580874",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "庄内町"
+  },
+  "9580875": {
+    "zipcode": "9580875",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "加賀町"
+  },
+  "9580876": {
+    "zipcode": "9580876",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "塩町"
+  },
+  "9580877": {
+    "zipcode": "9580877",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "town": "泉町"
+  }
+}

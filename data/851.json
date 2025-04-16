@@ -1,0 +1,1242 @@
+{
+  "8510101": {
+    "zipcode": "8510101",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "古賀町"
+  },
+  "8510102": {
+    "zipcode": "8510102",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "つつじが丘"
+  },
+  "8510103": {
+    "zipcode": "8510103",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "中里町"
+  },
+  "8510104": {
+    "zipcode": "8510104",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "船石町"
+  },
+  "8510111": {
+    "zipcode": "8510111",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "上戸石町"
+  },
+  "8510112": {
+    "zipcode": "8510112",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "川内町"
+  },
+  "8510113": {
+    "zipcode": "8510113",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "戸石町"
+  },
+  "8510114": {
+    "zipcode": "8510114",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "牧島町"
+  },
+  "8510115": {
+    "zipcode": "8510115",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "かき道"
+  },
+  "8510116": {
+    "zipcode": "8510116",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "東町"
+  },
+  "8510121": {
+    "zipcode": "8510121",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "宿町"
+  },
+  "8510122": {
+    "zipcode": "8510122",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "界"
+  },
+  "8510123": {
+    "zipcode": "8510123",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "網場町"
+  },
+  "8510124": {
+    "zipcode": "8510124",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "春日町"
+  },
+  "8510125": {
+    "zipcode": "8510125",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "潮見町"
+  },
+  "8510126": {
+    "zipcode": "8510126",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "芒塚町"
+  },
+  "8510131": {
+    "zipcode": "8510131",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "松原町"
+  },
+  "8510132": {
+    "zipcode": "8510132",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "鶴の尾町"
+  },
+  "8510133": {
+    "zipcode": "8510133",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "矢上町"
+  },
+  "8510134": {
+    "zipcode": "8510134",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "田中町"
+  },
+  "8510135": {
+    "zipcode": "8510135",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "現川町"
+  },
+  "8510136": {
+    "zipcode": "8510136",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "平間町"
+  },
+  "8510137": {
+    "zipcode": "8510137",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "高城台"
+  },
+  "8510241": {
+    "zipcode": "8510241",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "茂木町"
+  },
+  "8510242": {
+    "zipcode": "8510242",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "北浦町"
+  },
+  "8510243": {
+    "zipcode": "8510243",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "宮摺町"
+  },
+  "8510244": {
+    "zipcode": "8510244",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "大崎町"
+  },
+  "8510245": {
+    "zipcode": "8510245",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "千々町"
+  },
+  "8510251": {
+    "zipcode": "8510251",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "田上"
+  },
+  "8510252": {
+    "zipcode": "8510252",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "田手原町"
+  },
+  "8510253": {
+    "zipcode": "8510253",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "早坂町"
+  },
+  "8510254": {
+    "zipcode": "8510254",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "飯香浦町"
+  },
+  "8510255": {
+    "zipcode": "8510255",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "太田尾町"
+  },
+  "8510301": {
+    "zipcode": "8510301",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "深堀町"
+  },
+  "8510302": {
+    "zipcode": "8510302",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "大籠町"
+  },
+  "8510310": {
+    "zipcode": "8510310",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "香焼町"
+  },
+  "8510401": {
+    "zipcode": "8510401",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "蚊焼町"
+  },
+  "8510402": {
+    "zipcode": "8510402",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "晴海台町"
+  },
+  "8510403": {
+    "zipcode": "8510403",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "布巻町"
+  },
+  "8510404": {
+    "zipcode": "8510404",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "藤田尾町"
+  },
+  "8510405": {
+    "zipcode": "8510405",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "為石町"
+  },
+  "8510406": {
+    "zipcode": "8510406",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "椿が丘町"
+  },
+  "8510407": {
+    "zipcode": "8510407",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "川原町"
+  },
+  "8510408": {
+    "zipcode": "8510408",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "宮崎町"
+  },
+  "8510501": {
+    "zipcode": "8510501",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "黒浜町"
+  },
+  "8510502": {
+    "zipcode": "8510502",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "以下宿町"
+  },
+  "8510503": {
+    "zipcode": "8510503",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "高浜町"
+  },
+  "8510504": {
+    "zipcode": "8510504",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "南越町"
+  },
+  "8510505": {
+    "zipcode": "8510505",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "野母町"
+  },
+  "8510506": {
+    "zipcode": "8510506",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "脇岬町"
+  },
+  "8510507": {
+    "zipcode": "8510507",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "野母崎樺島町"
+  },
+  "8511121": {
+    "zipcode": "8511121",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "見崎町"
+  },
+  "8511122": {
+    "zipcode": "8511122",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "相川町"
+  },
+  "8511123": {
+    "zipcode": "8511123",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "四杖町"
+  },
+  "8511124": {
+    "zipcode": "8511124",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "牧野町"
+  },
+  "8511125": {
+    "zipcode": "8511125",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "園田町"
+  },
+  "8511131": {
+    "zipcode": "8511131",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "上浦町"
+  },
+  "8511132": {
+    "zipcode": "8511132",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "小江原"
+  },
+  "8511133": {
+    "zipcode": "8511133",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "小江町"
+  },
+  "8511134": {
+    "zipcode": "8511134",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "柿泊町"
+  },
+  "8511135": {
+    "zipcode": "8511135",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "手熊町"
+  },
+  "8511136": {
+    "zipcode": "8511136",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "向町"
+  },
+  "8511137": {
+    "zipcode": "8511137",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "式見町"
+  },
+  "8511201": {
+    "zipcode": "8511201",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "伊王島町"
+  },
+  "8511315": {
+    "zipcode": "8511315",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "高島町"
+  },
+  "8512100": {
+    "zipcode": "8512100",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "以下に掲載がない場合"
+  },
+  "8512101": {
+    "zipcode": "8512101",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "西時津郷"
+  },
+  "8512102": {
+    "zipcode": "8512102",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "浜田郷"
+  },
+  "8512103": {
+    "zipcode": "8512103",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "元村郷"
+  },
+  "8512104": {
+    "zipcode": "8512104",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "野田郷"
+  },
+  "8512105": {
+    "zipcode": "8512105",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "浦郷"
+  },
+  "8512106": {
+    "zipcode": "8512106",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "左底郷"
+  },
+  "8512107": {
+    "zipcode": "8512107",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "久留里郷"
+  },
+  "8512108": {
+    "zipcode": "8512108",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "日並郷"
+  },
+  "8512111": {
+    "zipcode": "8512111",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡時津町",
+    "town": "子々川郷"
+  },
+  "8512121": {
+    "zipcode": "8512121",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "岡郷"
+  },
+  "8512122": {
+    "zipcode": "8512122",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "本川内郷"
+  },
+  "8512123": {
+    "zipcode": "8512123",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "平木場郷"
+  },
+  "8512124": {
+    "zipcode": "8512124",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "丸田郷"
+  },
+  "8512125": {
+    "zipcode": "8512125",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "三根郷"
+  },
+  "8512126": {
+    "zipcode": "8512126",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "吉無田郷"
+  },
+  "8512127": {
+    "zipcode": "8512127",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "高田郷"
+  },
+  "8512128": {
+    "zipcode": "8512128",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "嬉里郷"
+  },
+  "8512129": {
+    "zipcode": "8512129",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "斉藤郷"
+  },
+  "8512130": {
+    "zipcode": "8512130",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "まなび野"
+  },
+  "8512131": {
+    "zipcode": "8512131",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西彼杵郡長与町",
+    "town": "北陽台"
+  },
+  "8512201": {
+    "zipcode": "8512201",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "畦町"
+  },
+  "8512202": {
+    "zipcode": "8512202",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "樫山町"
+  },
+  "8512203": {
+    "zipcode": "8512203",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "三重田町"
+  },
+  "8512204": {
+    "zipcode": "8512204",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "三重町"
+  },
+  "8512205": {
+    "zipcode": "8512205",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "松崎町"
+  },
+  "8512206": {
+    "zipcode": "8512206",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "三京町"
+  },
+  "8512207": {
+    "zipcode": "8512207",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "さくらの里"
+  },
+  "8512211": {
+    "zipcode": "8512211",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "京泊"
+  },
+  "8512212": {
+    "zipcode": "8512212",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "畝刈町"
+  },
+  "8512213": {
+    "zipcode": "8512213",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "多以良町"
+  },
+  "8512214": {
+    "zipcode": "8512214",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "鳴見町"
+  },
+  "8512215": {
+    "zipcode": "8512215",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "鳴見台"
+  },
+  "8512216": {
+    "zipcode": "8512216",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "豊洋台"
+  },
+  "8512321": {
+    "zipcode": "8512321",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "赤首町"
+  },
+  "8512322": {
+    "zipcode": "8512322",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "西出津町"
+  },
+  "8512323": {
+    "zipcode": "8512323",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "新牧野町"
+  },
+  "8512324": {
+    "zipcode": "8512324",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "上黒崎町"
+  },
+  "8512325": {
+    "zipcode": "8512325",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "永田町"
+  },
+  "8512326": {
+    "zipcode": "8512326",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "下黒崎町"
+  },
+  "8512327": {
+    "zipcode": "8512327",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "東出津町"
+  },
+  "8512401": {
+    "zipcode": "8512401",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦口福町"
+  },
+  "8512403": {
+    "zipcode": "8512403",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦江川町"
+  },
+  "8512404": {
+    "zipcode": "8512404",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦丸尾町"
+  },
+  "8512405": {
+    "zipcode": "8512405",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦向町"
+  },
+  "8512411": {
+    "zipcode": "8512411",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦扇山町"
+  },
+  "8512413": {
+    "zipcode": "8512413",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦夏井町"
+  },
+  "8512421": {
+    "zipcode": "8512421",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦北大中尾町"
+  },
+  "8512422": {
+    "zipcode": "8512422",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦上大中尾町"
+  },
+  "8512423": {
+    "zipcode": "8512423",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦下大中尾町"
+  },
+  "8512424": {
+    "zipcode": "8512424",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦上道徳町"
+  },
+  "8512425": {
+    "zipcode": "8512425",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "神浦下道徳町"
+  },
+  "8512426": {
+    "zipcode": "8512426",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "上大野町"
+  },
+  "8512427": {
+    "zipcode": "8512427",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "下大野町"
+  },
+  "8513101": {
+    "zipcode": "8513101",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "西海町"
+  },
+  "8513102": {
+    "zipcode": "8513102",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海村松町"
+  },
+  "8513103": {
+    "zipcode": "8513103",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海戸根町"
+  },
+  "8513211": {
+    "zipcode": "8513211",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海戸根原町"
+  },
+  "8513212": {
+    "zipcode": "8513212",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "長浦町"
+  },
+  "8513213": {
+    "zipcode": "8513213",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海形上町"
+  },
+  "8513214": {
+    "zipcode": "8513214",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海大平町"
+  },
+  "8513215": {
+    "zipcode": "8513215",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "town": "琴海尾戸町"
+  },
+  "8513301": {
+    "zipcode": "8513301",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町宮浦郷"
+  },
+  "8513302": {
+    "zipcode": "8513302",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町中山郷"
+  },
+  "8513303": {
+    "zipcode": "8513303",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町亀浦郷"
+  },
+  "8513304": {
+    "zipcode": "8513304",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町上岳郷"
+  },
+  "8513305": {
+    "zipcode": "8513305",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町喰場郷"
+  },
+  "8513306": {
+    "zipcode": "8513306",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町鳥加郷（川山）"
+  },
+  "8513311": {
+    "zipcode": "8513311",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町下岳郷"
+  },
+  "8513312": {
+    "zipcode": "8513312",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町白崎郷"
+  },
+  "8513313": {
+    "zipcode": "8513313",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町風早郷"
+  },
+  "8513314": {
+    "zipcode": "8513314",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町白似田郷"
+  },
+  "8513315": {
+    "zipcode": "8513315",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町平原郷"
+  },
+  "8513406": {
+    "zipcode": "8513406",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町鳥加郷（その他）"
+  },
+  "8513421": {
+    "zipcode": "8513421",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町伊ノ浦郷"
+  },
+  "8513422": {
+    "zipcode": "8513422",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町小迎郷"
+  },
+  "8513423": {
+    "zipcode": "8513423",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町八木原郷"
+  },
+  "8513424": {
+    "zipcode": "8513424",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町大串郷"
+  },
+  "8513425": {
+    "zipcode": "8513425",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西彼町平山郷"
+  },
+  "8513500": {
+    "zipcode": "8513500",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "以下に掲載がない場合"
+  },
+  "8513501": {
+    "zipcode": "8513501",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町丹納郷"
+  },
+  "8513502": {
+    "zipcode": "8513502",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町川内郷"
+  },
+  "8513503": {
+    "zipcode": "8513503",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町太田原郷"
+  },
+  "8513504": {
+    "zipcode": "8513504",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町木場郷"
+  },
+  "8513505": {
+    "zipcode": "8513505",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町太田和郷"
+  },
+  "8513506": {
+    "zipcode": "8513506",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町黒口郷"
+  },
+  "8513507": {
+    "zipcode": "8513507",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町天久保郷"
+  },
+  "8513508": {
+    "zipcode": "8513508",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町面高郷"
+  },
+  "8513509": {
+    "zipcode": "8513509",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町横瀬郷"
+  },
+  "8513511": {
+    "zipcode": "8513511",
+    "prefectureCode": "42",
+    "prefectureNumber": 42,
+    "prefecture": "長崎県",
+    "city": "西海市",
+    "town": "西海町水浦郷"
+  }
+}

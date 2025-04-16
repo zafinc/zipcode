@@ -1,0 +1,530 @@
+{
+  "4080000": {
+    "zipcode": "4080000",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "以下に掲載がない場合"
+  },
+  "4080001": {
+    "zipcode": "4080001",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町長沢"
+  },
+  "4080002": {
+    "zipcode": "4080002",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町村山北割"
+  },
+  "4080003": {
+    "zipcode": "4080003",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町東井出"
+  },
+  "4080004": {
+    "zipcode": "4080004",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町堤"
+  },
+  "4080011": {
+    "zipcode": "4080011",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町箕輪新町"
+  },
+  "4080012": {
+    "zipcode": "4080012",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町箕輪"
+  },
+  "4080013": {
+    "zipcode": "4080013",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町蔵原"
+  },
+  "4080014": {
+    "zipcode": "4080014",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町小池"
+  },
+  "4080015": {
+    "zipcode": "4080015",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町下黒澤"
+  },
+  "4080016": {
+    "zipcode": "4080016",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町上黒澤"
+  },
+  "4080017": {
+    "zipcode": "4080017",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町五町田"
+  },
+  "4080018": {
+    "zipcode": "4080018",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町村山西割"
+  },
+  "4080019": {
+    "zipcode": "4080019",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "高根町村山東割"
+  },
+  "4080021": {
+    "zipcode": "4080021",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町長坂上条"
+  },
+  "4080022": {
+    "zipcode": "4080022",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町塚川"
+  },
+  "4080023": {
+    "zipcode": "4080023",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町渋沢"
+  },
+  "4080024": {
+    "zipcode": "4080024",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町富岡"
+  },
+  "4080025": {
+    "zipcode": "4080025",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町長坂下条"
+  },
+  "4080026": {
+    "zipcode": "4080026",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町日野"
+  },
+  "4080031": {
+    "zipcode": "4080031",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町小荒間"
+  },
+  "4080032": {
+    "zipcode": "4080032",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町大井ケ森"
+  },
+  "4080033": {
+    "zipcode": "4080033",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町白井沢"
+  },
+  "4080034": {
+    "zipcode": "4080034",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町大八田"
+  },
+  "4080035": {
+    "zipcode": "4080035",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町夏秋"
+  },
+  "4080036": {
+    "zipcode": "4080036",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町中丸"
+  },
+  "4080037": {
+    "zipcode": "4080037",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "長坂町中島"
+  },
+  "4080041": {
+    "zipcode": "4080041",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "小淵沢町上笹尾"
+  },
+  "4080042": {
+    "zipcode": "4080042",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "小淵沢町松向"
+  },
+  "4080043": {
+    "zipcode": "4080043",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "小淵沢町下笹尾"
+  },
+  "4080044": {
+    "zipcode": "4080044",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "小淵沢町"
+  },
+  "4080101": {
+    "zipcode": "4080101",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町小尾"
+  },
+  "4080102": {
+    "zipcode": "4080102",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町比志"
+  },
+  "4080103": {
+    "zipcode": "4080103",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町江草"
+  },
+  "4080104": {
+    "zipcode": "4080104",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町小倉"
+  },
+  "4080105": {
+    "zipcode": "4080105",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町東向"
+  },
+  "4080111": {
+    "zipcode": "4080111",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町穴平"
+  },
+  "4080112": {
+    "zipcode": "4080112",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町若神子"
+  },
+  "4080113": {
+    "zipcode": "4080113",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町大蔵"
+  },
+  "4080114": {
+    "zipcode": "4080114",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町藤田"
+  },
+  "4080115": {
+    "zipcode": "4080115",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町大豆生田"
+  },
+  "4080116": {
+    "zipcode": "4080116",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町境之澤"
+  },
+  "4080117": {
+    "zipcode": "4080117",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "須玉町若神子新町"
+  },
+  "4080201": {
+    "zipcode": "4080201",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町浅尾"
+  },
+  "4080202": {
+    "zipcode": "4080202",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町小笠原"
+  },
+  "4080203": {
+    "zipcode": "4080203",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町三之蔵"
+  },
+  "4080204": {
+    "zipcode": "4080204",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町上手"
+  },
+  "4080205": {
+    "zipcode": "4080205",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町浅尾新田"
+  },
+  "4080206": {
+    "zipcode": "4080206",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町下神取"
+  },
+  "4080207": {
+    "zipcode": "4080207",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "明野町上神取"
+  },
+  "4080301": {
+    "zipcode": "4080301",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町三吹"
+  },
+  "4080302": {
+    "zipcode": "4080302",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町牧原"
+  },
+  "4080303": {
+    "zipcode": "4080303",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町宮脇"
+  },
+  "4080304": {
+    "zipcode": "4080304",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町新奥"
+  },
+  "4080305": {
+    "zipcode": "4080305",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町黒澤"
+  },
+  "4080306": {
+    "zipcode": "4080306",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町山高"
+  },
+  "4080307": {
+    "zipcode": "4080307",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "武川町柳澤"
+  },
+  "4080311": {
+    "zipcode": "4080311",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町花水"
+  },
+  "4080312": {
+    "zipcode": "4080312",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町台ケ原"
+  },
+  "4080313": {
+    "zipcode": "4080313",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町横手"
+  },
+  "4080314": {
+    "zipcode": "4080314",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町大坊"
+  },
+  "4080315": {
+    "zipcode": "4080315",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町白須"
+  },
+  "4080316": {
+    "zipcode": "4080316",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町鳥原"
+  },
+  "4080317": {
+    "zipcode": "4080317",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町下教来石"
+  },
+  "4080318": {
+    "zipcode": "4080318",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町上教来石"
+  },
+  "4080319": {
+    "zipcode": "4080319",
+    "prefectureCode": "19",
+    "prefectureNumber": 19,
+    "prefecture": "山梨県",
+    "city": "北杜市",
+    "town": "白州町大武川"
+  }
+}

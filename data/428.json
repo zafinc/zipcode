@@ -1,0 +1,610 @@
+{
+  "4280001": {
+    "zipcode": "4280001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "高熊"
+  },
+  "4280002": {
+    "zipcode": "4280002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "福用"
+  },
+  "4280003": {
+    "zipcode": "4280003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "神尾"
+  },
+  "4280004": {
+    "zipcode": "4280004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "横岡"
+  },
+  "4280005": {
+    "zipcode": "4280005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "横岡新田"
+  },
+  "4280006": {
+    "zipcode": "4280006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "牛尾"
+  },
+  "4280007": {
+    "zipcode": "4280007",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "島"
+  },
+  "4280008": {
+    "zipcode": "4280008",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "竹下"
+  },
+  "4280009": {
+    "zipcode": "4280009",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "大代"
+  },
+  "4280011": {
+    "zipcode": "4280011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "番生寺"
+  },
+  "4280012": {
+    "zipcode": "4280012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷代官町"
+  },
+  "4280013": {
+    "zipcode": "4280013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷東"
+  },
+  "4280014": {
+    "zipcode": "4280014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷泉町"
+  },
+  "4280015": {
+    "zipcode": "4280015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷扇町"
+  },
+  "4280016": {
+    "zipcode": "4280016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷宮崎町"
+  },
+  "4280017": {
+    "zipcode": "4280017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷栄町"
+  },
+  "4280018": {
+    "zipcode": "4280018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷根岸町"
+  },
+  "4280019": {
+    "zipcode": "4280019",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "志戸呂"
+  },
+  "4280023": {
+    "zipcode": "4280023",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷坂町"
+  },
+  "4280024": {
+    "zipcode": "4280024",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷南町"
+  },
+  "4280025": {
+    "zipcode": "4280025",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷田町"
+  },
+  "4280026": {
+    "zipcode": "4280026",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷本町"
+  },
+  "4280027": {
+    "zipcode": "4280027",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷上十五軒"
+  },
+  "4280028": {
+    "zipcode": "4280028",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷下十五軒"
+  },
+  "4280031": {
+    "zipcode": "4280031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷清水"
+  },
+  "4280032": {
+    "zipcode": "4280032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷天王町"
+  },
+  "4280033": {
+    "zipcode": "4280033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷二軒家"
+  },
+  "4280034": {
+    "zipcode": "4280034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷富士見町"
+  },
+  "4280035": {
+    "zipcode": "4280035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "切山"
+  },
+  "4280036": {
+    "zipcode": "4280036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "神谷城"
+  },
+  "4280037": {
+    "zipcode": "4280037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "菊川"
+  },
+  "4280038": {
+    "zipcode": "4280038",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "佐夜鹿"
+  },
+  "4280039": {
+    "zipcode": "4280039",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷猪土居"
+  },
+  "4280041": {
+    "zipcode": "4280041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷都町"
+  },
+  "4280042": {
+    "zipcode": "4280042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷古横町"
+  },
+  "4280043": {
+    "zipcode": "4280043",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷中町"
+  },
+  "4280044": {
+    "zipcode": "4280044",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷緑町"
+  },
+  "4280046": {
+    "zipcode": "4280046",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷金山町"
+  },
+  "4280047": {
+    "zipcode": "4280047",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷新町"
+  },
+  "4280048": {
+    "zipcode": "4280048",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "金谷城山町"
+  },
+  "4280049": {
+    "zipcode": "4280049",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "牧之原（２５０〜３４３番地「２５５、２５６、２５８、２５９、２６２、２７６、２９４〜３００、３０２〜３０４番地を除く」）"
+  },
+  "4280101": {
+    "zipcode": "4280101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町笹間渡"
+  },
+  "4280102": {
+    "zipcode": "4280102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町上河内"
+  },
+  "4280103": {
+    "zipcode": "4280103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町身成"
+  },
+  "4280104": {
+    "zipcode": "4280104",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町家山"
+  },
+  "4280105": {
+    "zipcode": "4280105",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町葛籠"
+  },
+  "4280106": {
+    "zipcode": "4280106",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町抜里"
+  },
+  "4280211": {
+    "zipcode": "4280211",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町笹間上"
+  },
+  "4280212": {
+    "zipcode": "4280212",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "town": "川根町笹間下"
+  },
+  "4280300": {
+    "zipcode": "4280300",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "以下に掲載がない場合"
+  },
+  "4280301": {
+    "zipcode": "4280301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "徳山"
+  },
+  "4280302": {
+    "zipcode": "4280302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "文沢"
+  },
+  "4280303": {
+    "zipcode": "4280303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "壱町河内"
+  },
+  "4280304": {
+    "zipcode": "4280304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "下泉"
+  },
+  "4280305": {
+    "zipcode": "4280305",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "地名"
+  },
+  "4280306": {
+    "zipcode": "4280306",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "田野口"
+  },
+  "4280311": {
+    "zipcode": "4280311",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "元藤川"
+  },
+  "4280312": {
+    "zipcode": "4280312",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "水川"
+  },
+  "4280313": {
+    "zipcode": "4280313",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "上長尾"
+  },
+  "4280314": {
+    "zipcode": "4280314",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "下長尾"
+  },
+  "4280315": {
+    "zipcode": "4280315",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "久野脇"
+  },
+  "4280401": {
+    "zipcode": "4280401",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "梅地"
+  },
+  "4280402": {
+    "zipcode": "4280402",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "犬間"
+  },
+  "4280411": {
+    "zipcode": "4280411",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "千頭"
+  },
+  "4280412": {
+    "zipcode": "4280412",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "奥泉"
+  },
+  "4280413": {
+    "zipcode": "4280413",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "桑野山"
+  },
+  "4280414": {
+    "zipcode": "4280414",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "東藤川"
+  },
+  "4280415": {
+    "zipcode": "4280415",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "上岸"
+  },
+  "4280416": {
+    "zipcode": "4280416",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "田代"
+  },
+  "4280417": {
+    "zipcode": "4280417",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "青部"
+  },
+  "4280418": {
+    "zipcode": "4280418",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "榛原郡川根本町",
+    "town": "崎平"
+  },
+  "4280501": {
+    "zipcode": "4280501",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市葵区",
+    "town": "小河内"
+  },
+  "4280502": {
+    "zipcode": "4280502",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市葵区",
+    "town": "上坂本"
+  },
+  "4280503": {
+    "zipcode": "4280503",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市葵区",
+    "town": "岩崎"
+  },
+  "4280504": {
+    "zipcode": "4280504",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市葵区",
+    "town": "井川"
+  },
+  "4280505": {
+    "zipcode": "4280505",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "静岡市葵区",
+    "town": "田代"
+  }
+}

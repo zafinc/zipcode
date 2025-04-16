@@ -1,0 +1,514 @@
+{
+  "7380000": {
+    "zipcode": "7380000",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "以下に掲載がない場合"
+  },
+  "7380001": {
+    "zipcode": "7380001",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "佐方"
+  },
+  "7380002": {
+    "zipcode": "7380002",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "山陽園"
+  },
+  "7380003": {
+    "zipcode": "7380003",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "佐方本町"
+  },
+  "7380004": {
+    "zipcode": "7380004",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "桜尾"
+  },
+  "7380005": {
+    "zipcode": "7380005",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "桜尾本町"
+  },
+  "7380006": {
+    "zipcode": "7380006",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "大東"
+  },
+  "7380007": {
+    "zipcode": "7380007",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "城内"
+  },
+  "7380011": {
+    "zipcode": "7380011",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "駅前"
+  },
+  "7380012": {
+    "zipcode": "7380012",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "天神"
+  },
+  "7380013": {
+    "zipcode": "7380013",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "廿日市"
+  },
+  "7380014": {
+    "zipcode": "7380014",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "住吉"
+  },
+  "7380015": {
+    "zipcode": "7380015",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "本町"
+  },
+  "7380016": {
+    "zipcode": "7380016",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "可愛"
+  },
+  "7380017": {
+    "zipcode": "7380017",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "須賀"
+  },
+  "7380021": {
+    "zipcode": "7380021",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "木材港北"
+  },
+  "7380022": {
+    "zipcode": "7380022",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "木材港南"
+  },
+  "7380023": {
+    "zipcode": "7380023",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "下平良"
+  },
+  "7380024": {
+    "zipcode": "7380024",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "新宮"
+  },
+  "7380025": {
+    "zipcode": "7380025",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "平良"
+  },
+  "7380026": {
+    "zipcode": "7380026",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "上平良"
+  },
+  "7380027": {
+    "zipcode": "7380027",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "平良山手"
+  },
+  "7380031": {
+    "zipcode": "7380031",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "原"
+  },
+  "7380032": {
+    "zipcode": "7380032",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "峰高"
+  },
+  "7380033": {
+    "zipcode": "7380033",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "串戸"
+  },
+  "7380034": {
+    "zipcode": "7380034",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "宮内"
+  },
+  "7380035": {
+    "zipcode": "7380035",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "宮園"
+  },
+  "7380036": {
+    "zipcode": "7380036",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "四季が丘"
+  },
+  "7380037": {
+    "zipcode": "7380037",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "宮園上"
+  },
+  "7380038": {
+    "zipcode": "7380038",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "四季が丘上"
+  },
+  "7380039": {
+    "zipcode": "7380039",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "宮内工業団地"
+  },
+  "7380041": {
+    "zipcode": "7380041",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "六本松"
+  },
+  "7380042": {
+    "zipcode": "7380042",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "地御前"
+  },
+  "7380043": {
+    "zipcode": "7380043",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "地御前北"
+  },
+  "7380051": {
+    "zipcode": "7380051",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品台北"
+  },
+  "7380052": {
+    "zipcode": "7380052",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品台東"
+  },
+  "7380053": {
+    "zipcode": "7380053",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品台"
+  },
+  "7380054": {
+    "zipcode": "7380054",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品"
+  },
+  "7380055": {
+    "zipcode": "7380055",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品台西"
+  },
+  "7380056": {
+    "zipcode": "7380056",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "阿品台山の手"
+  },
+  "7380060": {
+    "zipcode": "7380060",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "陽光台"
+  },
+  "7380201": {
+    "zipcode": "7380201",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "永原"
+  },
+  "7380202": {
+    "zipcode": "7380202",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "峠"
+  },
+  "7380203": {
+    "zipcode": "7380203",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "友田"
+  },
+  "7380204": {
+    "zipcode": "7380204",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "河津原"
+  },
+  "7380205": {
+    "zipcode": "7380205",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "玖島"
+  },
+  "7380221": {
+    "zipcode": "7380221",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "虫所山"
+  },
+  "7380222": {
+    "zipcode": "7380222",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "津田"
+  },
+  "7380223": {
+    "zipcode": "7380223",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "浅原"
+  },
+  "7380224": {
+    "zipcode": "7380224",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "栗栖"
+  },
+  "7380225": {
+    "zipcode": "7380225",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "中道"
+  },
+  "7380226": {
+    "zipcode": "7380226",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "飯山"
+  },
+  "7380281": {
+    "zipcode": "7380281",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "大野鴉ケ岡"
+  },
+  "7380282": {
+    "zipcode": "7380282",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "大野渡ノ瀬"
+  },
+  "7380301": {
+    "zipcode": "7380301",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "town": "吉和"
+  },
+  "7380511": {
+    "zipcode": "7380511",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町葛原"
+  },
+  "7380512": {
+    "zipcode": "7380512",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町白砂"
+  },
+  "7380513": {
+    "zipcode": "7380513",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町伏谷"
+  },
+  "7380514": {
+    "zipcode": "7380514",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "杉並台"
+  },
+  "7380601": {
+    "zipcode": "7380601",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町和田"
+  },
+  "7380602": {
+    "zipcode": "7380602",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町麦谷"
+  },
+  "7380603": {
+    "zipcode": "7380603",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町下"
+  },
+  "7380721": {
+    "zipcode": "7380721",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町多田"
+  },
+  "7380722": {
+    "zipcode": "7380722",
+    "prefectureCode": "34",
+    "prefectureNumber": 34,
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "town": "湯来町菅沢（その他）"
+  }
+}

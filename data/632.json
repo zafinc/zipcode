@@ -1,0 +1,826 @@
+{
+  "6320000": {
+    "zipcode": "6320000",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "以下に掲載がない場合"
+  },
+  "6320001": {
+    "zipcode": "6320001",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "中之庄町"
+  },
+  "6320002": {
+    "zipcode": "6320002",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "和爾町"
+  },
+  "6320003": {
+    "zipcode": "6320003",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "岩屋町"
+  },
+  "6320004": {
+    "zipcode": "6320004",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "櫟本町"
+  },
+  "6320005": {
+    "zipcode": "6320005",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "楢町"
+  },
+  "6320006": {
+    "zipcode": "6320006",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "蔵之庄町"
+  },
+  "6320007": {
+    "zipcode": "6320007",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "森本町"
+  },
+  "6320011": {
+    "zipcode": "6320011",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "石上町"
+  },
+  "6320012": {
+    "zipcode": "6320012",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "豊田町"
+  },
+  "6320013": {
+    "zipcode": "6320013",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "豊井町"
+  },
+  "6320014": {
+    "zipcode": "6320014",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "布留町"
+  },
+  "6320015": {
+    "zipcode": "6320015",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "三島町"
+  },
+  "6320016": {
+    "zipcode": "6320016",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "川原城町"
+  },
+  "6320017": {
+    "zipcode": "6320017",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "田部町"
+  },
+  "6320018": {
+    "zipcode": "6320018",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "別所町"
+  },
+  "6320021": {
+    "zipcode": "6320021",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "滝本町"
+  },
+  "6320022": {
+    "zipcode": "6320022",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "苣原町"
+  },
+  "6320023": {
+    "zipcode": "6320023",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "下仁興町"
+  },
+  "6320024": {
+    "zipcode": "6320024",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "上仁興町"
+  },
+  "6320025": {
+    "zipcode": "6320025",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "藤井町"
+  },
+  "6320031": {
+    "zipcode": "6320031",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "内馬場町"
+  },
+  "6320032": {
+    "zipcode": "6320032",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "杣之内町"
+  },
+  "6320033": {
+    "zipcode": "6320033",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "勾田町"
+  },
+  "6320034": {
+    "zipcode": "6320034",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "丹波市町"
+  },
+  "6320035": {
+    "zipcode": "6320035",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "守目堂町"
+  },
+  "6320036": {
+    "zipcode": "6320036",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "御経野町"
+  },
+  "6320041": {
+    "zipcode": "6320041",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "竹之内町"
+  },
+  "6320042": {
+    "zipcode": "6320042",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "萱生町"
+  },
+  "6320043": {
+    "zipcode": "6320043",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "佐保庄町"
+  },
+  "6320044": {
+    "zipcode": "6320044",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "兵庫町"
+  },
+  "6320045": {
+    "zipcode": "6320045",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "福知堂町"
+  },
+  "6320046": {
+    "zipcode": "6320046",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "三昧田町"
+  },
+  "6320047": {
+    "zipcode": "6320047",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "乙木町"
+  },
+  "6320048": {
+    "zipcode": "6320048",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "園原町"
+  },
+  "6320051": {
+    "zipcode": "6320051",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "中山町"
+  },
+  "6320052": {
+    "zipcode": "6320052",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "柳本町"
+  },
+  "6320053": {
+    "zipcode": "6320053",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "渋谷町"
+  },
+  "6320054": {
+    "zipcode": "6320054",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "檜垣町"
+  },
+  "6320055": {
+    "zipcode": "6320055",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "遠田町"
+  },
+  "6320056": {
+    "zipcode": "6320056",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "岸田町"
+  },
+  "6320057": {
+    "zipcode": "6320057",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "新泉町"
+  },
+  "6320058": {
+    "zipcode": "6320058",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "成願寺町"
+  },
+  "6320061": {
+    "zipcode": "6320061",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "永原町"
+  },
+  "6320062": {
+    "zipcode": "6320062",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "長柄町"
+  },
+  "6320063": {
+    "zipcode": "6320063",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "西長柄町"
+  },
+  "6320064": {
+    "zipcode": "6320064",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "海知町"
+  },
+  "6320065": {
+    "zipcode": "6320065",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "武蔵町"
+  },
+  "6320066": {
+    "zipcode": "6320066",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "備前町"
+  },
+  "6320067": {
+    "zipcode": "6320067",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "吉田町"
+  },
+  "6320068": {
+    "zipcode": "6320068",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "合場町"
+  },
+  "6320069": {
+    "zipcode": "6320069",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "九条町"
+  },
+  "6320071": {
+    "zipcode": "6320071",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "田井庄町"
+  },
+  "6320072": {
+    "zipcode": "6320072",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "富堂町"
+  },
+  "6320073": {
+    "zipcode": "6320073",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "田町"
+  },
+  "6320074": {
+    "zipcode": "6320074",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "東井戸堂町"
+  },
+  "6320075": {
+    "zipcode": "6320075",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "西井戸堂町"
+  },
+  "6320076": {
+    "zipcode": "6320076",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "岩室町"
+  },
+  "6320077": {
+    "zipcode": "6320077",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "平等坊町"
+  },
+  "6320078": {
+    "zipcode": "6320078",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "杉本町"
+  },
+  "6320081": {
+    "zipcode": "6320081",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "二階堂上ノ庄町"
+  },
+  "6320082": {
+    "zipcode": "6320082",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "荒蒔町"
+  },
+  "6320083": {
+    "zipcode": "6320083",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "稲葉町"
+  },
+  "6320084": {
+    "zipcode": "6320084",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "嘉幡町"
+  },
+  "6320085": {
+    "zipcode": "6320085",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "小島町"
+  },
+  "6320086": {
+    "zipcode": "6320086",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "庵治町"
+  },
+  "6320087": {
+    "zipcode": "6320087",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "二階堂南菅田町"
+  },
+  "6320088": {
+    "zipcode": "6320088",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "二階堂北菅田町"
+  },
+  "6320091": {
+    "zipcode": "6320091",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "上総町"
+  },
+  "6320092": {
+    "zipcode": "6320092",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "小田中町"
+  },
+  "6320093": {
+    "zipcode": "6320093",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "指柳町"
+  },
+  "6320094": {
+    "zipcode": "6320094",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "前栽町"
+  },
+  "6320095": {
+    "zipcode": "6320095",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "喜殿町"
+  },
+  "6320096": {
+    "zipcode": "6320096",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "小路町"
+  },
+  "6320097": {
+    "zipcode": "6320097",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "中町"
+  },
+  "6320098": {
+    "zipcode": "6320098",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "南六条町"
+  },
+  "6320101": {
+    "zipcode": "6320101",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "下深川町"
+  },
+  "6320102": {
+    "zipcode": "6320102",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "上深川町"
+  },
+  "6320103": {
+    "zipcode": "6320103",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "荻町"
+  },
+  "6320111": {
+    "zipcode": "6320111",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "小倉町"
+  },
+  "6320112": {
+    "zipcode": "6320112",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "針ヶ別所町"
+  },
+  "6320113": {
+    "zipcode": "6320113",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁馬場町"
+  },
+  "6320121": {
+    "zipcode": "6320121",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "山田町"
+  },
+  "6320122": {
+    "zipcode": "6320122",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "福住町"
+  },
+  "6320123": {
+    "zipcode": "6320123",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "town": "長滝町"
+  },
+  "6320201": {
+    "zipcode": "6320201",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生下笠間"
+  },
+  "6320202": {
+    "zipcode": "6320202",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生上笠間"
+  },
+  "6320203": {
+    "zipcode": "6320203",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生深野"
+  },
+  "6320204": {
+    "zipcode": "6320204",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生小原"
+  },
+  "6320205": {
+    "zipcode": "6320205",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生染田"
+  },
+  "6320206": {
+    "zipcode": "6320206",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生多田"
+  },
+  "6320207": {
+    "zipcode": "6320207",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "宇陀市",
+    "town": "室生無山"
+  },
+  "6320221": {
+    "zipcode": "6320221",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁白石町"
+  },
+  "6320231": {
+    "zipcode": "6320231",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁吐山町"
+  },
+  "6320232": {
+    "zipcode": "6320232",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁こぶしが丘"
+  },
+  "6320241": {
+    "zipcode": "6320241",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁南之庄町"
+  },
+  "6320242": {
+    "zipcode": "6320242",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁相河町"
+  },
+  "6320243": {
+    "zipcode": "6320243",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁小山戸町"
+  },
+  "6320244": {
+    "zipcode": "6320244",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "来迎寺町"
+  },
+  "6320245": {
+    "zipcode": "6320245",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "藺生町"
+  },
+  "6320246": {
+    "zipcode": "6320246",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁友田町"
+  },
+  "6320247": {
+    "zipcode": "6320247",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "都祁甲岡町"
+  },
+  "6320251": {
+    "zipcode": "6320251",
+    "prefectureCode": "29",
+    "prefectureNumber": 29,
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "town": "針町"
+  }
+}

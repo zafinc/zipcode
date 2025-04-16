@@ -1,0 +1,634 @@
+{
+  "8650000": {
+    "zipcode": "8650000",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "以下に掲載がない場合"
+  },
+  "8650001": {
+    "zipcode": "8650001",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "月田"
+  },
+  "8650002": {
+    "zipcode": "8650002",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "箱谷"
+  },
+  "8650003": {
+    "zipcode": "8650003",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "溝上"
+  },
+  "8650004": {
+    "zipcode": "8650004",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "青木"
+  },
+  "8650005": {
+    "zipcode": "8650005",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "玉名"
+  },
+  "8650006": {
+    "zipcode": "8650006",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "両迫間"
+  },
+  "8650007": {
+    "zipcode": "8650007",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "河崎"
+  },
+  "8650008": {
+    "zipcode": "8650008",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "石貫"
+  },
+  "8650009": {
+    "zipcode": "8650009",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "三ツ川"
+  },
+  "8650011": {
+    "zipcode": "8650011",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "上小田"
+  },
+  "8650012": {
+    "zipcode": "8650012",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "山部田"
+  },
+  "8650013": {
+    "zipcode": "8650013",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "下"
+  },
+  "8650014": {
+    "zipcode": "8650014",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "安楽寺"
+  },
+  "8650015": {
+    "zipcode": "8650015",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "亀甲"
+  },
+  "8650016": {
+    "zipcode": "8650016",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "岩崎"
+  },
+  "8650017": {
+    "zipcode": "8650017",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "川部田"
+  },
+  "8650018": {
+    "zipcode": "8650018",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "下小田"
+  },
+  "8650021": {
+    "zipcode": "8650021",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "津留"
+  },
+  "8650022": {
+    "zipcode": "8650022",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "寺田"
+  },
+  "8650023": {
+    "zipcode": "8650023",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "大倉"
+  },
+  "8650024": {
+    "zipcode": "8650024",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "永徳寺"
+  },
+  "8650025": {
+    "zipcode": "8650025",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "高瀬"
+  },
+  "8650026": {
+    "zipcode": "8650026",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "秋丸"
+  },
+  "8650027": {
+    "zipcode": "8650027",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "向津留"
+  },
+  "8650031": {
+    "zipcode": "8650031",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "田崎"
+  },
+  "8650032": {
+    "zipcode": "8650032",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "北坂門田"
+  },
+  "8650033": {
+    "zipcode": "8650033",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "中坂門田"
+  },
+  "8650034": {
+    "zipcode": "8650034",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "南坂門田"
+  },
+  "8650035": {
+    "zipcode": "8650035",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "青野"
+  },
+  "8650041": {
+    "zipcode": "8650041",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "伊倉北方"
+  },
+  "8650042": {
+    "zipcode": "8650042",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "宮原"
+  },
+  "8650043": {
+    "zipcode": "8650043",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "横田"
+  },
+  "8650044": {
+    "zipcode": "8650044",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "片諏訪"
+  },
+  "8650045": {
+    "zipcode": "8650045",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "伊倉南方"
+  },
+  "8650046": {
+    "zipcode": "8650046",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "北牟田"
+  },
+  "8650047": {
+    "zipcode": "8650047",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "川島"
+  },
+  "8650048": {
+    "zipcode": "8650048",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "小野尻"
+  },
+  "8650051": {
+    "zipcode": "8650051",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "繁根木"
+  },
+  "8650052": {
+    "zipcode": "8650052",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "松木"
+  },
+  "8650053": {
+    "zipcode": "8650053",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "千田川原"
+  },
+  "8650054": {
+    "zipcode": "8650054",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "小島"
+  },
+  "8650055": {
+    "zipcode": "8650055",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "大浜町"
+  },
+  "8650056": {
+    "zipcode": "8650056",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "滑石"
+  },
+  "8650057": {
+    "zipcode": "8650057",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "小浜"
+  },
+  "8650058": {
+    "zipcode": "8650058",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "六田"
+  },
+  "8650061": {
+    "zipcode": "8650061",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "立願寺"
+  },
+  "8650062": {
+    "zipcode": "8650062",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "富尾"
+  },
+  "8650063": {
+    "zipcode": "8650063",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "中尾"
+  },
+  "8650064": {
+    "zipcode": "8650064",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "中"
+  },
+  "8650065": {
+    "zipcode": "8650065",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "築地"
+  },
+  "8650066": {
+    "zipcode": "8650066",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "山田"
+  },
+  "8650071": {
+    "zipcode": "8650071",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "横島町大園"
+  },
+  "8650072": {
+    "zipcode": "8650072",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "横島町横島"
+  },
+  "8650073": {
+    "zipcode": "8650073",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名市",
+    "town": "横島町共栄"
+  },
+  "8650100": {
+    "zipcode": "8650100",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "以下に掲載がない場合"
+  },
+  "8650101": {
+    "zipcode": "8650101",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "江栗"
+  },
+  "8650102": {
+    "zipcode": "8650102",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "久井原"
+  },
+  "8650103": {
+    "zipcode": "8650103",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "長小田"
+  },
+  "8650104": {
+    "zipcode": "8650104",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "内田"
+  },
+  "8650111": {
+    "zipcode": "8650111",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "下津原"
+  },
+  "8650112": {
+    "zipcode": "8650112",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "大屋"
+  },
+  "8650113": {
+    "zipcode": "8650113",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "焼米"
+  },
+  "8650114": {
+    "zipcode": "8650114",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "岩尻"
+  },
+  "8650115": {
+    "zipcode": "8650115",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "久米野"
+  },
+  "8650116": {
+    "zipcode": "8650116",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "竈門"
+  },
+  "8650117": {
+    "zipcode": "8650117",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "志口永"
+  },
+  "8650121": {
+    "zipcode": "8650121",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "榎原"
+  },
+  "8650122": {
+    "zipcode": "8650122",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "高野"
+  },
+  "8650123": {
+    "zipcode": "8650123",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "米渡尾"
+  },
+  "8650124": {
+    "zipcode": "8650124",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "原口"
+  },
+  "8650125": {
+    "zipcode": "8650125",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "藤田"
+  },
+  "8650126": {
+    "zipcode": "8650126",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "前原"
+  },
+  "8650131": {
+    "zipcode": "8650131",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "用木"
+  },
+  "8650132": {
+    "zipcode": "8650132",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "萩原"
+  },
+  "8650133": {
+    "zipcode": "8650133",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "蜻浦"
+  },
+  "8650134": {
+    "zipcode": "8650134",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "日平"
+  },
+  "8650135": {
+    "zipcode": "8650135",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "瀬川"
+  },
+  "8650136": {
+    "zipcode": "8650136",
+    "prefectureCode": "43",
+    "prefectureNumber": 43,
+    "prefecture": "熊本県",
+    "city": "玉名郡和水町",
+    "town": "江田"
+  }
+}

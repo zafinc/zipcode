@@ -1,0 +1,5418 @@
+{
+  "9300001": {
+    "zipcode": "9300001",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "明輪町"
+  },
+  "9300002": {
+    "zipcode": "9300002",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新富町"
+  },
+  "9300003": {
+    "zipcode": "9300003",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桜町"
+  },
+  "9300004": {
+    "zipcode": "9300004",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桜橋通り"
+  },
+  "9300005": {
+    "zipcode": "9300005",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新桜町"
+  },
+  "9300006": {
+    "zipcode": "9300006",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新総曲輪"
+  },
+  "9300007": {
+    "zipcode": "9300007",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "宝町"
+  },
+  "9300008": {
+    "zipcode": "9300008",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "神通本町"
+  },
+  "9300009": {
+    "zipcode": "9300009",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "神通町"
+  },
+  "9300010": {
+    "zipcode": "9300010",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "稲荷元町"
+  },
+  "9300012": {
+    "zipcode": "9300012",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "稲荷町"
+  },
+  "9300014": {
+    "zipcode": "9300014",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "館出町"
+  },
+  "9300015": {
+    "zipcode": "9300015",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "於保多町"
+  },
+  "9300016": {
+    "zipcode": "9300016",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "柳町"
+  },
+  "9300017": {
+    "zipcode": "9300017",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東田地方町"
+  },
+  "9300018": {
+    "zipcode": "9300018",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "千歳町"
+  },
+  "9300019": {
+    "zipcode": "9300019",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "弥生町"
+  },
+  "9300021": {
+    "zipcode": "9300021",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "今木町"
+  },
+  "9300022": {
+    "zipcode": "9300022",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小島町"
+  },
+  "9300023": {
+    "zipcode": "9300023",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北新町"
+  },
+  "9300024": {
+    "zipcode": "9300024",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新川原町"
+  },
+  "9300025": {
+    "zipcode": "9300025",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "日之出町"
+  },
+  "9300026": {
+    "zipcode": "9300026",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "八人町"
+  },
+  "9300027": {
+    "zipcode": "9300027",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "蛯町"
+  },
+  "9300028": {
+    "zipcode": "9300028",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荒町"
+  },
+  "9300029": {
+    "zipcode": "9300029",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本町"
+  },
+  "9300031": {
+    "zipcode": "9300031",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "住吉町"
+  },
+  "9300032": {
+    "zipcode": "9300032",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "栄町"
+  },
+  "9300033": {
+    "zipcode": "9300033",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "元町"
+  },
+  "9300034": {
+    "zipcode": "9300034",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "清水元町"
+  },
+  "9300035": {
+    "zipcode": "9300035",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "清水中町"
+  },
+  "9300036": {
+    "zipcode": "9300036",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "清水町"
+  },
+  "9300037": {
+    "zipcode": "9300037",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "音羽町"
+  },
+  "9300038": {
+    "zipcode": "9300038",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "緑町"
+  },
+  "9300039": {
+    "zipcode": "9300039",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東町"
+  },
+  "9300041": {
+    "zipcode": "9300041",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "向川原町"
+  },
+  "9300042": {
+    "zipcode": "9300042",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "泉町"
+  },
+  "9300043": {
+    "zipcode": "9300043",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石倉町"
+  },
+  "9300044": {
+    "zipcode": "9300044",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中央通り"
+  },
+  "9300045": {
+    "zipcode": "9300045",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "砂町"
+  },
+  "9300046": {
+    "zipcode": "9300046",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "堤町通り"
+  },
+  "9300047": {
+    "zipcode": "9300047",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "常盤町"
+  },
+  "9300048": {
+    "zipcode": "9300048",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "白銀町"
+  },
+  "9300049": {
+    "zipcode": "9300049",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "豊川町"
+  },
+  "9300051": {
+    "zipcode": "9300051",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "室町通り"
+  },
+  "9300052": {
+    "zipcode": "9300052",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五番町"
+  },
+  "9300053": {
+    "zipcode": "9300053",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "辰巳町"
+  },
+  "9300054": {
+    "zipcode": "9300054",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "南新町"
+  },
+  "9300055": {
+    "zipcode": "9300055",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "梅沢町"
+  },
+  "9300056": {
+    "zipcode": "9300056",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "南田町"
+  },
+  "9300057": {
+    "zipcode": "9300057",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上本町"
+  },
+  "9300058": {
+    "zipcode": "9300058",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "古鍛冶町"
+  },
+  "9300059": {
+    "zipcode": "9300059",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "三番町"
+  },
+  "9300061": {
+    "zipcode": "9300061",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "一番町"
+  },
+  "9300062": {
+    "zipcode": "9300062",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西町"
+  },
+  "9300063": {
+    "zipcode": "9300063",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "太田口通り"
+  },
+  "9300064": {
+    "zipcode": "9300064",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山王町"
+  },
+  "9300065": {
+    "zipcode": "9300065",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "星井町"
+  },
+  "9300066": {
+    "zipcode": "9300066",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "千石町"
+  },
+  "9300067": {
+    "zipcode": "9300067",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "越前町"
+  },
+  "9300068": {
+    "zipcode": "9300068",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西四十物町"
+  },
+  "9300069": {
+    "zipcode": "9300069",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "旅籠町"
+  },
+  "9300071": {
+    "zipcode": "9300071",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "平吹町"
+  },
+  "9300072": {
+    "zipcode": "9300072",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桃井町"
+  },
+  "9300073": {
+    "zipcode": "9300073",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西山王町"
+  },
+  "9300074": {
+    "zipcode": "9300074",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "堀端町"
+  },
+  "9300075": {
+    "zipcode": "9300075",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "相生町"
+  },
+  "9300076": {
+    "zipcode": "9300076",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長柄町"
+  },
+  "9300077": {
+    "zipcode": "9300077",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "磯部町"
+  },
+  "9300078": {
+    "zipcode": "9300078",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "土居原町"
+  },
+  "9300081": {
+    "zipcode": "9300081",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本丸"
+  },
+  "9300082": {
+    "zipcode": "9300082",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桜木町"
+  },
+  "9300083": {
+    "zipcode": "9300083",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "総曲輪"
+  },
+  "9300084": {
+    "zipcode": "9300084",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大手町"
+  },
+  "9300085": {
+    "zipcode": "9300085",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "丸の内"
+  },
+  "9300086": {
+    "zipcode": "9300086",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "鹿島町"
+  },
+  "9300087": {
+    "zipcode": "9300087",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "安野屋町"
+  },
+  "9300088": {
+    "zipcode": "9300088",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "諏訪川原"
+  },
+  "9300089": {
+    "zipcode": "9300089",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "七軒町"
+  },
+  "9300091": {
+    "zipcode": "9300091",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "愛宕町"
+  },
+  "9300092": {
+    "zipcode": "9300092",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "安田町"
+  },
+  "9300093": {
+    "zipcode": "9300093",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "内幸町"
+  },
+  "9300094": {
+    "zipcode": "9300094",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "安住町"
+  },
+  "9300095": {
+    "zipcode": "9300095",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "舟橋南町"
+  },
+  "9300096": {
+    "zipcode": "9300096",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "舟橋北町"
+  },
+  "9300097": {
+    "zipcode": "9300097",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "芝園町"
+  },
+  "9300098": {
+    "zipcode": "9300098",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "舟橋今町"
+  },
+  "9300101": {
+    "zipcode": "9300101",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中沖"
+  },
+  "9300102": {
+    "zipcode": "9300102",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽野田"
+  },
+  "9300103": {
+    "zipcode": "9300103",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北代北部"
+  },
+  "9300104": {
+    "zipcode": "9300104",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北代新"
+  },
+  "9300105": {
+    "zipcode": "9300105",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北代藤ケ丘"
+  },
+  "9300106": {
+    "zipcode": "9300106",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "高木南"
+  },
+  "9300107": {
+    "zipcode": "9300107",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大塚北"
+  },
+  "9300108": {
+    "zipcode": "9300108",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本郷北部"
+  },
+  "9300111": {
+    "zipcode": "9300111",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長岡"
+  },
+  "9300112": {
+    "zipcode": "9300112",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "八ケ山"
+  },
+  "9300113": {
+    "zipcode": "9300113",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長岡新"
+  },
+  "9300114": {
+    "zipcode": "9300114",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "茶屋新町"
+  },
+  "9300115": {
+    "zipcode": "9300115",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "茶屋町"
+  },
+  "9300116": {
+    "zipcode": "9300116",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "追分茶屋"
+  },
+  "9300121": {
+    "zipcode": "9300121",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽苑"
+  },
+  "9300122": {
+    "zipcode": "9300122",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽新富田町"
+  },
+  "9300123": {
+    "zipcode": "9300123",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽富田町"
+  },
+  "9300124": {
+    "zipcode": "9300124",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽水上町"
+  },
+  "9300125": {
+    "zipcode": "9300125",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽つつじが丘"
+  },
+  "9300126": {
+    "zipcode": "9300126",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽東町"
+  },
+  "9300127": {
+    "zipcode": "9300127",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽丸富町"
+  },
+  "9300131": {
+    "zipcode": "9300131",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽昭和町"
+  },
+  "9300132": {
+    "zipcode": "9300132",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽姫本"
+  },
+  "9300133": {
+    "zipcode": "9300133",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽川西"
+  },
+  "9300134": {
+    "zipcode": "9300134",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽貴船巻"
+  },
+  "9300135": {
+    "zipcode": "9300135",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽中の町"
+  },
+  "9300136": {
+    "zipcode": "9300136",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽三ツ塚"
+  },
+  "9300137": {
+    "zipcode": "9300137",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽本町"
+  },
+  "9300138": {
+    "zipcode": "9300138",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "呉羽町北"
+  },
+  "9300141": {
+    "zipcode": "9300141",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "吉作新町"
+  },
+  "9300142": {
+    "zipcode": "9300142",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "吉作"
+  },
+  "9300143": {
+    "zipcode": "9300143",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西金屋"
+  },
+  "9300144": {
+    "zipcode": "9300144",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "住吉"
+  },
+  "9300151": {
+    "zipcode": "9300151",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "古沢"
+  },
+  "9300152": {
+    "zipcode": "9300152",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "杉谷"
+  },
+  "9300153": {
+    "zipcode": "9300153",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "境野新"
+  },
+  "9300154": {
+    "zipcode": "9300154",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "平岡"
+  },
+  "9300155": {
+    "zipcode": "9300155",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "三熊"
+  },
+  "9300156": {
+    "zipcode": "9300156",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山本"
+  },
+  "9300157": {
+    "zipcode": "9300157",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "開ケ丘"
+  },
+  "9300158": {
+    "zipcode": "9300158",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "池多"
+  },
+  "9300161": {
+    "zipcode": "9300161",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東老田"
+  },
+  "9300162": {
+    "zipcode": "9300162",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "花木"
+  },
+  "9300163": {
+    "zipcode": "9300163",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "栃谷"
+  },
+  "9300164": {
+    "zipcode": "9300164",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北押川"
+  },
+  "9300165": {
+    "zipcode": "9300165",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西押川"
+  },
+  "9300166": {
+    "zipcode": "9300166",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中老田"
+  },
+  "9300171": {
+    "zipcode": "9300171",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "野々上"
+  },
+  "9300172": {
+    "zipcode": "9300172",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "北二ツ屋"
+  },
+  "9300173": {
+    "zipcode": "9300173",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "野口北部"
+  },
+  "9300174": {
+    "zipcode": "9300174",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "野町"
+  },
+  "9300175": {
+    "zipcode": "9300175",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "願海寺"
+  },
+  "9300176": {
+    "zipcode": "9300176",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "願海寺新町"
+  },
+  "9300177": {
+    "zipcode": "9300177",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西二俣"
+  },
+  "9300200": {
+    "zipcode": "9300200",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "以下に掲載がない場合"
+  },
+  "9300201": {
+    "zipcode": "9300201",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "泉"
+  },
+  "9300202": {
+    "zipcode": "9300202",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "若宮"
+  },
+  "9300203": {
+    "zipcode": "9300203",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "若林"
+  },
+  "9300204": {
+    "zipcode": "9300204",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "寺田"
+  },
+  "9300205": {
+    "zipcode": "9300205",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "寺田新"
+  },
+  "9300206": {
+    "zipcode": "9300206",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "竹鼻新"
+  },
+  "9300207": {
+    "zipcode": "9300207",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "浦田新"
+  },
+  "9300208": {
+    "zipcode": "9300208",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "浦田"
+  },
+  "9300209": {
+    "zipcode": "9300209",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "寺田ことぶき町"
+  },
+  "9300211": {
+    "zipcode": "9300211",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "辻"
+  },
+  "9300212": {
+    "zipcode": "9300212",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "沢端"
+  },
+  "9300213": {
+    "zipcode": "9300213",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "野口新"
+  },
+  "9300214": {
+    "zipcode": "9300214",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "五百石"
+  },
+  "9300215": {
+    "zipcode": "9300215",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "宮成"
+  },
+  "9300216": {
+    "zipcode": "9300216",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "大窪"
+  },
+  "9300217": {
+    "zipcode": "9300217",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "野口"
+  },
+  "9300218": {
+    "zipcode": "9300218",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "二ツ塚"
+  },
+  "9300219": {
+    "zipcode": "9300219",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "田添"
+  },
+  "9300220": {
+    "zipcode": "9300220",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "前沢中央町"
+  },
+  "9300221": {
+    "zipcode": "9300221",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "前沢"
+  },
+  "9300222": {
+    "zipcode": "9300222",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "貫田"
+  },
+  "9300223": {
+    "zipcode": "9300223",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上鉾木"
+  },
+  "9300224": {
+    "zipcode": "9300224",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "西芦原"
+  },
+  "9300225": {
+    "zipcode": "9300225",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "本郷島"
+  },
+  "9300226": {
+    "zipcode": "9300226",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "道新"
+  },
+  "9300227": {
+    "zipcode": "9300227",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "草野"
+  },
+  "9300228": {
+    "zipcode": "9300228",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "手屋"
+  },
+  "9300229": {
+    "zipcode": "9300229",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "前沢新町"
+  },
+  "9300231": {
+    "zipcode": "9300231",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "坂井沢"
+  },
+  "9300232": {
+    "zipcode": "9300232",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "金剛寺"
+  },
+  "9300233": {
+    "zipcode": "9300233",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上金剛寺"
+  },
+  "9300234": {
+    "zipcode": "9300234",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下段"
+  },
+  "9300235": {
+    "zipcode": "9300235",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "榎"
+  },
+  "9300236": {
+    "zipcode": "9300236",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "新堀"
+  },
+  "9300237": {
+    "zipcode": "9300237",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "柿の木沢"
+  },
+  "9300241": {
+    "zipcode": "9300241",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "道源寺"
+  },
+  "9300242": {
+    "zipcode": "9300242",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "寺坪"
+  },
+  "9300243": {
+    "zipcode": "9300243",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "米道（その他）"
+  },
+  "9300244": {
+    "zipcode": "9300244",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "末谷口"
+  },
+  "9300245": {
+    "zipcode": "9300245",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "中山"
+  },
+  "9300246": {
+    "zipcode": "9300246",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "鋳物師沢"
+  },
+  "9300247": {
+    "zipcode": "9300247",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "末三賀"
+  },
+  "9300248": {
+    "zipcode": "9300248",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "野村"
+  },
+  "9300251": {
+    "zipcode": "9300251",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "大島"
+  },
+  "9300252": {
+    "zipcode": "9300252",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "日俣"
+  },
+  "9300253": {
+    "zipcode": "9300253",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "大窪開"
+  },
+  "9300254": {
+    "zipcode": "9300254",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "古川"
+  },
+  "9300255": {
+    "zipcode": "9300255",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "向新庄"
+  },
+  "9300256": {
+    "zipcode": "9300256",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "一本木"
+  },
+  "9300257": {
+    "zipcode": "9300257",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "川原木"
+  },
+  "9300261": {
+    "zipcode": "9300261",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "大石原"
+  },
+  "9300262": {
+    "zipcode": "9300262",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "蔵本新"
+  },
+  "9300263": {
+    "zipcode": "9300263",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "大清水"
+  },
+  "9300264": {
+    "zipcode": "9300264",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "東大森"
+  },
+  "9300265": {
+    "zipcode": "9300265",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "泊新"
+  },
+  "9300266": {
+    "zipcode": "9300266",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "三ツ塚新"
+  },
+  "9300267": {
+    "zipcode": "9300267",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "西大森"
+  },
+  "9300268": {
+    "zipcode": "9300268",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "高原八ツ屋"
+  },
+  "9300269": {
+    "zipcode": "9300269",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "半屋"
+  },
+  "9300271": {
+    "zipcode": "9300271",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "浅生"
+  },
+  "9300272": {
+    "zipcode": "9300272",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "塚越"
+  },
+  "9300273": {
+    "zipcode": "9300273",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "横沢"
+  },
+  "9300274": {
+    "zipcode": "9300274",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "五郎丸"
+  },
+  "9300275": {
+    "zipcode": "9300275",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "利田"
+  },
+  "9300276": {
+    "zipcode": "9300276",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "鉾木"
+  },
+  "9300281": {
+    "zipcode": "9300281",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "舟橋"
+  },
+  "9300282": {
+    "zipcode": "9300282",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "仏生寺"
+  },
+  "9300283": {
+    "zipcode": "9300283",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "海老江"
+  },
+  "9300284": {
+    "zipcode": "9300284",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "竹鼻"
+  },
+  "9300285": {
+    "zipcode": "9300285",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "古海老江"
+  },
+  "9300286": {
+    "zipcode": "9300286",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "東芦原"
+  },
+  "9300287": {
+    "zipcode": "9300287",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "稲荷"
+  },
+  "9300288": {
+    "zipcode": "9300288",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "国重"
+  },
+  "9300289": {
+    "zipcode": "9300289",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡舟橋村",
+    "town": "竹内"
+  },
+  "9300300": {
+    "zipcode": "9300300",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "以下に掲載がない場合"
+  },
+  "9300301": {
+    "zipcode": "9300301",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "竹鼻"
+  },
+  "9300302": {
+    "zipcode": "9300302",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "石仏"
+  },
+  "9300303": {
+    "zipcode": "9300303",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大永田"
+  },
+  "9300304": {
+    "zipcode": "9300304",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "森尻"
+  },
+  "9300305": {
+    "zipcode": "9300305",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "荒田"
+  },
+  "9300311": {
+    "zipcode": "9300311",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "弥市"
+  },
+  "9300312": {
+    "zipcode": "9300312",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "東江上"
+  },
+  "9300313": {
+    "zipcode": "9300313",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "中江上"
+  },
+  "9300314": {
+    "zipcode": "9300314",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "若杉"
+  },
+  "9300315": {
+    "zipcode": "9300315",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "若杉新"
+  },
+  "9300316": {
+    "zipcode": "9300316",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "中小泉"
+  },
+  "9300317": {
+    "zipcode": "9300317",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "江又"
+  },
+  "9300318": {
+    "zipcode": "9300318",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "江上"
+  },
+  "9300321": {
+    "zipcode": "9300321",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "天神町"
+  },
+  "9300322": {
+    "zipcode": "9300322",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "栄町"
+  },
+  "9300323": {
+    "zipcode": "9300323",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "西町"
+  },
+  "9300324": {
+    "zipcode": "9300324",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "新町"
+  },
+  "9300325": {
+    "zipcode": "9300325",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "三日市"
+  },
+  "9300326": {
+    "zipcode": "9300326",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "柳町"
+  },
+  "9300331": {
+    "zipcode": "9300331",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "旭町"
+  },
+  "9300332": {
+    "zipcode": "9300332",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "石浦町"
+  },
+  "9300333": {
+    "zipcode": "9300333",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上中町"
+  },
+  "9300334": {
+    "zipcode": "9300334",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "西中町"
+  },
+  "9300335": {
+    "zipcode": "9300335",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "幸町"
+  },
+  "9300336": {
+    "zipcode": "9300336",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "松和町"
+  },
+  "9300341": {
+    "zipcode": "9300341",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "錦町"
+  },
+  "9300342": {
+    "zipcode": "9300342",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "神明町"
+  },
+  "9300343": {
+    "zipcode": "9300343",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "東町"
+  },
+  "9300344": {
+    "zipcode": "9300344",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "森元町"
+  },
+  "9300345": {
+    "zipcode": "9300345",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "南町"
+  },
+  "9300346": {
+    "zipcode": "9300346",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "鍵町"
+  },
+  "9300347": {
+    "zipcode": "9300347",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "熊野町"
+  },
+  "9300351": {
+    "zipcode": "9300351",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "北島"
+  },
+  "9300352": {
+    "zipcode": "9300352",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上法音寺"
+  },
+  "9300353": {
+    "zipcode": "9300353",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "法音寺"
+  },
+  "9300354": {
+    "zipcode": "9300354",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大坪"
+  },
+  "9300355": {
+    "zipcode": "9300355",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "横法音寺"
+  },
+  "9300356": {
+    "zipcode": "9300356",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上正"
+  },
+  "9300357": {
+    "zipcode": "9300357",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "正印"
+  },
+  "9300358": {
+    "zipcode": "9300358",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "正印新"
+  },
+  "9300359": {
+    "zipcode": "9300359",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "四葉台"
+  },
+  "9300361": {
+    "zipcode": "9300361",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "湯上野"
+  },
+  "9300362": {
+    "zipcode": "9300362",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "稗田"
+  },
+  "9300363": {
+    "zipcode": "9300363",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "和合"
+  },
+  "9300364": {
+    "zipcode": "9300364",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "横越"
+  },
+  "9300365": {
+    "zipcode": "9300365",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "神田"
+  },
+  "9300366": {
+    "zipcode": "9300366",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "新村"
+  },
+  "9300367": {
+    "zipcode": "9300367",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "野福"
+  },
+  "9300368": {
+    "zipcode": "9300368",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "川原田"
+  },
+  "9300371": {
+    "zipcode": "9300371",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "中開発"
+  },
+  "9300372": {
+    "zipcode": "9300372",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上経田"
+  },
+  "9300373": {
+    "zipcode": "9300373",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "下経田"
+  },
+  "9300374": {
+    "zipcode": "9300374",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "相ノ木新町"
+  },
+  "9300375": {
+    "zipcode": "9300375",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上荒又"
+  },
+  "9300376": {
+    "zipcode": "9300376",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "下荒又"
+  },
+  "9300377": {
+    "zipcode": "9300377",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "新清水"
+  },
+  "9300378": {
+    "zipcode": "9300378",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "放士ケ瀬"
+  },
+  "9300379": {
+    "zipcode": "9300379",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "放士ケ瀬新"
+  },
+  "9300381": {
+    "zipcode": "9300381",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "久金"
+  },
+  "9300382": {
+    "zipcode": "9300382",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "下青出"
+  },
+  "9300383": {
+    "zipcode": "9300383",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "上条沖"
+  },
+  "9300384": {
+    "zipcode": "9300384",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "青出新"
+  },
+  "9300385": {
+    "zipcode": "9300385",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "飯坂"
+  },
+  "9300386": {
+    "zipcode": "9300386",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "中青出"
+  },
+  "9300387": {
+    "zipcode": "9300387",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "飯坂新"
+  },
+  "9300388": {
+    "zipcode": "9300388",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "久金新"
+  },
+  "9300401": {
+    "zipcode": "9300401",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "広野新"
+  },
+  "9300402": {
+    "zipcode": "9300402",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "広市新"
+  },
+  "9300403": {
+    "zipcode": "9300403",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "野開発"
+  },
+  "9300404": {
+    "zipcode": "9300404",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "三杉町"
+  },
+  "9300405": {
+    "zipcode": "9300405",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "郷柿沢"
+  },
+  "9300406": {
+    "zipcode": "9300406",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "柿沢新"
+  },
+  "9300411": {
+    "zipcode": "9300411",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "砂林開"
+  },
+  "9300412": {
+    "zipcode": "9300412",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "広野"
+  },
+  "9300413": {
+    "zipcode": "9300413",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "一の越"
+  },
+  "9300414": {
+    "zipcode": "9300414",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "永代"
+  },
+  "9300415": {
+    "zipcode": "9300415",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "松原野"
+  },
+  "9300416": {
+    "zipcode": "9300416",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "黒川"
+  },
+  "9300417": {
+    "zipcode": "9300417",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "五位尾"
+  },
+  "9300421": {
+    "zipcode": "9300421",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "片地"
+  },
+  "9300422": {
+    "zipcode": "9300422",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "眼目"
+  },
+  "9300423": {
+    "zipcode": "9300423",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "野島"
+  },
+  "9300424": {
+    "zipcode": "9300424",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "斉ノ神新"
+  },
+  "9300425": {
+    "zipcode": "9300425",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "田島野"
+  },
+  "9300431": {
+    "zipcode": "9300431",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "釈泉寺"
+  },
+  "9300432": {
+    "zipcode": "9300432",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "稲村"
+  },
+  "9300433": {
+    "zipcode": "9300433",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "中村"
+  },
+  "9300434": {
+    "zipcode": "9300434",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "下田"
+  },
+  "9300435": {
+    "zipcode": "9300435",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "折戸"
+  },
+  "9300436": {
+    "zipcode": "9300436",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "蓬沢"
+  },
+  "9300437": {
+    "zipcode": "9300437",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "伊折"
+  },
+  "9300438": {
+    "zipcode": "9300438",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "馬場島"
+  },
+  "9300441": {
+    "zipcode": "9300441",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "東種"
+  },
+  "9300442": {
+    "zipcode": "9300442",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "千石"
+  },
+  "9300443": {
+    "zipcode": "9300443",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "骨原"
+  },
+  "9300444": {
+    "zipcode": "9300444",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "西種"
+  },
+  "9300445": {
+    "zipcode": "9300445",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "水上"
+  },
+  "9300451": {
+    "zipcode": "9300451",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "極楽寺"
+  },
+  "9300452": {
+    "zipcode": "9300452",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "須山"
+  },
+  "9300453": {
+    "zipcode": "9300453",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "堤谷"
+  },
+  "9300454": {
+    "zipcode": "9300454",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "湯神子"
+  },
+  "9300455": {
+    "zipcode": "9300455",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "湯崎野"
+  },
+  "9300456": {
+    "zipcode": "9300456",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "丸山"
+  },
+  "9300457": {
+    "zipcode": "9300457",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "湯神子野"
+  },
+  "9300458": {
+    "zipcode": "9300458",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "眼目新"
+  },
+  "9300461": {
+    "zipcode": "9300461",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大松新"
+  },
+  "9300462": {
+    "zipcode": "9300462",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大松"
+  },
+  "9300463": {
+    "zipcode": "9300463",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大岩"
+  },
+  "9300464": {
+    "zipcode": "9300464",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "浅生"
+  },
+  "9300465": {
+    "zipcode": "9300465",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "大沢"
+  },
+  "9300466": {
+    "zipcode": "9300466",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "桧谷"
+  },
+  "9300467": {
+    "zipcode": "9300467",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "塩谷"
+  },
+  "9300471": {
+    "zipcode": "9300471",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "新屋"
+  },
+  "9300472": {
+    "zipcode": "9300472",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "女川"
+  },
+  "9300473": {
+    "zipcode": "9300473",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "柿沢"
+  },
+  "9300474": {
+    "zipcode": "9300474",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡上市町",
+    "town": "舘"
+  },
+  "9300801": {
+    "zipcode": "9300801",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中島"
+  },
+  "9300802": {
+    "zipcode": "9300802",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下新北町"
+  },
+  "9300803": {
+    "zipcode": "9300803",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下新本町"
+  },
+  "9300804": {
+    "zipcode": "9300804",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下新町"
+  },
+  "9300805": {
+    "zipcode": "9300805",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "湊入船町"
+  },
+  "9300806": {
+    "zipcode": "9300806",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "木場町"
+  },
+  "9300807": {
+    "zipcode": "9300807",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下新西町"
+  },
+  "9300808": {
+    "zipcode": "9300808",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下新日曹町"
+  },
+  "9300809": {
+    "zipcode": "9300809",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "興人町"
+  },
+  "9300811": {
+    "zipcode": "9300811",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "千代田町"
+  },
+  "9300812": {
+    "zipcode": "9300812",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "松若町"
+  },
+  "9300813": {
+    "zipcode": "9300813",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下赤江町"
+  },
+  "9300814": {
+    "zipcode": "9300814",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下冨居"
+  },
+  "9300815": {
+    "zipcode": "9300815",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "千成町"
+  },
+  "9300816": {
+    "zipcode": "9300816",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上赤江町"
+  },
+  "9300817": {
+    "zipcode": "9300817",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下奥井"
+  },
+  "9300818": {
+    "zipcode": "9300818",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥田町"
+  },
+  "9300819": {
+    "zipcode": "9300819",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥田本町"
+  },
+  "9300821": {
+    "zipcode": "9300821",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "飯野"
+  },
+  "9300822": {
+    "zipcode": "9300822",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新屋"
+  },
+  "9300823": {
+    "zipcode": "9300823",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新屋新町"
+  },
+  "9300824": {
+    "zipcode": "9300824",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "鶴ケ丘町"
+  },
+  "9300825": {
+    "zipcode": "9300825",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上飯野新町"
+  },
+  "9300826": {
+    "zipcode": "9300826",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上庄町"
+  },
+  "9300827": {
+    "zipcode": "9300827",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上飯野"
+  },
+  "9300830": {
+    "zipcode": "9300830",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中冨居新町"
+  },
+  "9300831": {
+    "zipcode": "9300831",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "鍋田"
+  },
+  "9300832": {
+    "zipcode": "9300832",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中冨居"
+  },
+  "9300833": {
+    "zipcode": "9300833",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "冨居栄町"
+  },
+  "9300834": {
+    "zipcode": "9300834",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "問屋町"
+  },
+  "9300835": {
+    "zipcode": "9300835",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上冨居"
+  },
+  "9300836": {
+    "zipcode": "9300836",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上冨居新町"
+  },
+  "9300837": {
+    "zipcode": "9300837",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上赤江"
+  },
+  "9300838": {
+    "zipcode": "9300838",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下赤江"
+  },
+  "9300839": {
+    "zipcode": "9300839",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新冨居"
+  },
+  "9300841": {
+    "zipcode": "9300841",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四ツ葉町"
+  },
+  "9300842": {
+    "zipcode": "9300842",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "窪新町"
+  },
+  "9300843": {
+    "zipcode": "9300843",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "窪本町"
+  },
+  "9300845": {
+    "zipcode": "9300845",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "綾田町"
+  },
+  "9300846": {
+    "zipcode": "9300846",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥井町"
+  },
+  "9300847": {
+    "zipcode": "9300847",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "曙町"
+  },
+  "9300848": {
+    "zipcode": "9300848",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "久方町"
+  },
+  "9300849": {
+    "zipcode": "9300849",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "稲荷園町"
+  },
+  "9300851": {
+    "zipcode": "9300851",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥田双葉町"
+  },
+  "9300852": {
+    "zipcode": "9300852",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥田寿町"
+  },
+  "9300853": {
+    "zipcode": "9300853",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "永楽町"
+  },
+  "9300854": {
+    "zipcode": "9300854",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "城北町"
+  },
+  "9300855": {
+    "zipcode": "9300855",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "赤江町"
+  },
+  "9300856": {
+    "zipcode": "9300856",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "牛島新町"
+  },
+  "9300857": {
+    "zipcode": "9300857",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "奥田新町"
+  },
+  "9300858": {
+    "zipcode": "9300858",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "牛島町"
+  },
+  "9300859": {
+    "zipcode": "9300859",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "牛島本町"
+  },
+  "9300861": {
+    "zipcode": "9300861",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "有沢新町"
+  },
+  "9300862": {
+    "zipcode": "9300862",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "有沢"
+  },
+  "9300863": {
+    "zipcode": "9300863",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "有明町"
+  },
+  "9300864": {
+    "zipcode": "9300864",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "羽根"
+  },
+  "9300865": {
+    "zipcode": "9300865",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "久郷"
+  },
+  "9300866": {
+    "zipcode": "9300866",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "高田"
+  },
+  "9300867": {
+    "zipcode": "9300867",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "庄高田"
+  },
+  "9300871": {
+    "zipcode": "9300871",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下野"
+  },
+  "9300872": {
+    "zipcode": "9300872",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下野新"
+  },
+  "9300873": {
+    "zipcode": "9300873",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金屋"
+  },
+  "9300874": {
+    "zipcode": "9300874",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "寺町"
+  },
+  "9300875": {
+    "zipcode": "9300875",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "寺町けや木台"
+  },
+  "9300876": {
+    "zipcode": "9300876",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "文京町"
+  },
+  "9300881": {
+    "zipcode": "9300881",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "安養坊"
+  },
+  "9300882": {
+    "zipcode": "9300882",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五艘"
+  },
+  "9300883": {
+    "zipcode": "9300883",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五福新町"
+  },
+  "9300884": {
+    "zipcode": "9300884",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五福末広町"
+  },
+  "9300885": {
+    "zipcode": "9300885",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "鵯島"
+  },
+  "9300886": {
+    "zipcode": "9300886",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "ひよどり南台"
+  },
+  "9300887": {
+    "zipcode": "9300887",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五福"
+  },
+  "9300891": {
+    "zipcode": "9300891",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石坂新"
+  },
+  "9300892": {
+    "zipcode": "9300892",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石坂"
+  },
+  "9300893": {
+    "zipcode": "9300893",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石坂東町"
+  },
+  "9300894": {
+    "zipcode": "9300894",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田刈屋新町"
+  },
+  "9300895": {
+    "zipcode": "9300895",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "駒見"
+  },
+  "9300896": {
+    "zipcode": "9300896",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "畑中"
+  },
+  "9300897": {
+    "zipcode": "9300897",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田刈屋"
+  },
+  "9300898": {
+    "zipcode": "9300898",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桜谷みどり町"
+  },
+  "9300901": {
+    "zipcode": "9300901",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "手屋"
+  },
+  "9300902": {
+    "zipcode": "9300902",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "宮成新"
+  },
+  "9300903": {
+    "zipcode": "9300903",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中野新"
+  },
+  "9300904": {
+    "zipcode": "9300904",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "一本木"
+  },
+  "9300905": {
+    "zipcode": "9300905",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "五本榎"
+  },
+  "9300906": {
+    "zipcode": "9300906",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金泉寺"
+  },
+  "9300911": {
+    "zipcode": "9300911",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本郷島"
+  },
+  "9300912": {
+    "zipcode": "9300912",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "日俣"
+  },
+  "9300913": {
+    "zipcode": "9300913",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荏原新町"
+  },
+  "9300914": {
+    "zipcode": "9300914",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荏原"
+  },
+  "9300915": {
+    "zipcode": "9300915",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荏原駅前通り"
+  },
+  "9300916": {
+    "zipcode": "9300916",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "向新庄町"
+  },
+  "9300921": {
+    "zipcode": "9300921",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中間島"
+  },
+  "9300922": {
+    "zipcode": "9300922",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大江干"
+  },
+  "9300923": {
+    "zipcode": "9300923",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "町新"
+  },
+  "9300924": {
+    "zipcode": "9300924",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新金代"
+  },
+  "9300925": {
+    "zipcode": "9300925",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "栄新町"
+  },
+  "9300926": {
+    "zipcode": "9300926",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金代"
+  },
+  "9300927": {
+    "zipcode": "9300927",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大江干新町"
+  },
+  "9300928": {
+    "zipcode": "9300928",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "富岡町"
+  },
+  "9300931": {
+    "zipcode": "9300931",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "朝日"
+  },
+  "9300932": {
+    "zipcode": "9300932",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤木新町"
+  },
+  "9300933": {
+    "zipcode": "9300933",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤木新"
+  },
+  "9300934": {
+    "zipcode": "9300934",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤の木台"
+  },
+  "9300935": {
+    "zipcode": "9300935",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤見町"
+  },
+  "9300936": {
+    "zipcode": "9300936",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤木"
+  },
+  "9300941": {
+    "zipcode": "9300941",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤木中町"
+  },
+  "9300942": {
+    "zipcode": "9300942",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤の木園町"
+  },
+  "9300943": {
+    "zipcode": "9300943",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "藤代町"
+  },
+  "9300944": {
+    "zipcode": "9300944",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "開"
+  },
+  "9300951": {
+    "zipcode": "9300951",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "経堂"
+  },
+  "9300952": {
+    "zipcode": "9300952",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "町村"
+  },
+  "9300953": {
+    "zipcode": "9300953",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "秋吉"
+  },
+  "9300954": {
+    "zipcode": "9300954",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "秋吉新町"
+  },
+  "9300955": {
+    "zipcode": "9300955",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "天正寺"
+  },
+  "9300956": {
+    "zipcode": "9300956",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "経堂新町"
+  },
+  "9300961": {
+    "zipcode": "9300961",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西長江本町"
+  },
+  "9300962": {
+    "zipcode": "9300962",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長江本町"
+  },
+  "9300963": {
+    "zipcode": "9300963",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "不二越町"
+  },
+  "9300964": {
+    "zipcode": "9300964",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東石金町"
+  },
+  "9300965": {
+    "zipcode": "9300965",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "不二越本町"
+  },
+  "9300966": {
+    "zipcode": "9300966",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石金"
+  },
+  "9300971": {
+    "zipcode": "9300971",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "双代町"
+  },
+  "9300972": {
+    "zipcode": "9300972",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長江新町"
+  },
+  "9300973": {
+    "zipcode": "9300973",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長江東町"
+  },
+  "9300974": {
+    "zipcode": "9300974",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "長江"
+  },
+  "9300975": {
+    "zipcode": "9300975",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西長江"
+  },
+  "9300981": {
+    "zipcode": "9300981",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西新庄"
+  },
+  "9300982": {
+    "zipcode": "9300982",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荒川"
+  },
+  "9300983": {
+    "zipcode": "9300983",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "常盤台"
+  },
+  "9300984": {
+    "zipcode": "9300984",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "荒川新町"
+  },
+  "9300985": {
+    "zipcode": "9300985",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田中町"
+  },
+  "9300991": {
+    "zipcode": "9300991",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄銀座"
+  },
+  "9300992": {
+    "zipcode": "9300992",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄町"
+  },
+  "9300993": {
+    "zipcode": "9300993",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新園町"
+  },
+  "9300994": {
+    "zipcode": "9300994",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄新町"
+  },
+  "9300995": {
+    "zipcode": "9300995",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄中央町"
+  },
+  "9300996": {
+    "zipcode": "9300996",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄本町"
+  },
+  "9300997": {
+    "zipcode": "9300997",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新庄北町"
+  },
+  "9301261": {
+    "zipcode": "9301261",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東福沢（津毛）"
+  },
+  "9301262": {
+    "zipcode": "9301262",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東黒牧"
+  },
+  "9301263": {
+    "zipcode": "9301263",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東黒牧（上野）"
+  },
+  "9301264": {
+    "zipcode": "9301264",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大山布目"
+  },
+  "9301265": {
+    "zipcode": "9301265",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小谷"
+  },
+  "9301266": {
+    "zipcode": "9301266",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "砂見"
+  },
+  "9301267": {
+    "zipcode": "9301267",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "砂見（芋平）"
+  },
+  "9301268": {
+    "zipcode": "9301268",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "楜ケ原"
+  },
+  "9301271": {
+    "zipcode": "9301271",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "石渕"
+  },
+  "9301272": {
+    "zipcode": "9301272",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下双嶺"
+  },
+  "9301273": {
+    "zipcode": "9301273",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小坂"
+  },
+  "9301274": {
+    "zipcode": "9301274",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大双嶺"
+  },
+  "9301275": {
+    "zipcode": "9301275",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大清水"
+  },
+  "9301276": {
+    "zipcode": "9301276",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "折谷"
+  },
+  "9301281": {
+    "zipcode": "9301281",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東福沢"
+  },
+  "9301282": {
+    "zipcode": "9301282",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "牧野"
+  },
+  "9301283": {
+    "zipcode": "9301283",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "日尾"
+  },
+  "9301284": {
+    "zipcode": "9301284",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "馬瀬"
+  },
+  "9301285": {
+    "zipcode": "9301285",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "瀬戸"
+  },
+  "9301286": {
+    "zipcode": "9301286",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小佐波"
+  },
+  "9301287": {
+    "zipcode": "9301287",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東福沢（火土呂）"
+  },
+  "9301301": {
+    "zipcode": "9301301",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "馬瀬口"
+  },
+  "9301302": {
+    "zipcode": "9301302",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "馬瀬口（殿様林）"
+  },
+  "9301303": {
+    "zipcode": "9301303",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "善名"
+  },
+  "9301304": {
+    "zipcode": "9301304",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "南大場"
+  },
+  "9301305": {
+    "zipcode": "9301305",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下番"
+  },
+  "9301311": {
+    "zipcode": "9301311",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大山北新町"
+  },
+  "9301312": {
+    "zipcode": "9301312",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上滝"
+  },
+  "9301313": {
+    "zipcode": "9301313",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中滝"
+  },
+  "9301314": {
+    "zipcode": "9301314",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "三室荒屋"
+  },
+  "9301315": {
+    "zipcode": "9301315",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中番"
+  },
+  "9301316": {
+    "zipcode": "9301316",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "三室荒屋（新栄町）"
+  },
+  "9301321": {
+    "zipcode": "9301321",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大山上野"
+  },
+  "9301322": {
+    "zipcode": "9301322",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "岡田"
+  },
+  "9301323": {
+    "zipcode": "9301323",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "東小俣"
+  },
+  "9301324": {
+    "zipcode": "9301324",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "西小俣"
+  },
+  "9301325": {
+    "zipcode": "9301325",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "文珠寺"
+  },
+  "9301326": {
+    "zipcode": "9301326",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "花崎"
+  },
+  "9301327": {
+    "zipcode": "9301327",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大栗"
+  },
+  "9301328": {
+    "zipcode": "9301328",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小原屋"
+  },
+  "9301331": {
+    "zipcode": "9301331",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田畠"
+  },
+  "9301332": {
+    "zipcode": "9301332",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "津羽見"
+  },
+  "9301333": {
+    "zipcode": "9301333",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "上大浦"
+  },
+  "9301334": {
+    "zipcode": "9301334",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中大浦"
+  },
+  "9301335": {
+    "zipcode": "9301335",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "下大浦"
+  },
+  "9301336": {
+    "zipcode": "9301336",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "桑原"
+  },
+  "9301337": {
+    "zipcode": "9301337",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田畠（風見台）"
+  },
+  "9301338": {
+    "zipcode": "9301338",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田畠（明日美野）"
+  },
+  "9301361": {
+    "zipcode": "9301361",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下田"
+  },
+  "9301362": {
+    "zipcode": "9301362",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "米道（谷内、東谷）"
+  },
+  "9301363": {
+    "zipcode": "9301363",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "栃津"
+  },
+  "9301364": {
+    "zipcode": "9301364",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "天林"
+  },
+  "9301365": {
+    "zipcode": "9301365",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "東中野新"
+  },
+  "9301366": {
+    "zipcode": "9301366",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "横江野開"
+  },
+  "9301367": {
+    "zipcode": "9301367",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "宮路"
+  },
+  "9301368": {
+    "zipcode": "9301368",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "岩峅寺"
+  },
+  "9301369": {
+    "zipcode": "9301369",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "岩峅野"
+  },
+  "9301377": {
+    "zipcode": "9301377",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "横江（立山地区）"
+  },
+  "9301401": {
+    "zipcode": "9301401",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "称名"
+  },
+  "9301402": {
+    "zipcode": "9301402",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "桂台"
+  },
+  "9301403": {
+    "zipcode": "9301403",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "ブナ坂"
+  },
+  "9301404": {
+    "zipcode": "9301404",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "藤橋"
+  },
+  "9301405": {
+    "zipcode": "9301405",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "千寿ケ原"
+  },
+  "9301406": {
+    "zipcode": "9301406",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "芦峅寺"
+  },
+  "9301407": {
+    "zipcode": "9301407",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "前谷"
+  },
+  "9301408": {
+    "zipcode": "9301408",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "千垣"
+  },
+  "9301411": {
+    "zipcode": "9301411",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "美女平"
+  },
+  "9301412": {
+    "zipcode": "9301412",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "弥陀ケ原"
+  },
+  "9301413": {
+    "zipcode": "9301413",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "天狗平"
+  },
+  "9301414": {
+    "zipcode": "9301414",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "室堂"
+  },
+  "9301415": {
+    "zipcode": "9301415",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "雷鳥沢"
+  },
+  "9301416": {
+    "zipcode": "9301416",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "剣御前"
+  },
+  "9301417": {
+    "zipcode": "9301417",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "剣沢"
+  },
+  "9301418": {
+    "zipcode": "9301418",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "立山頂上"
+  },
+  "9301451": {
+    "zipcode": "9301451",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本宮（粟巣野）"
+  },
+  "9301452": {
+    "zipcode": "9301452",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本宮（花切割）"
+  },
+  "9301453": {
+    "zipcode": "9301453",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "原（極楽坂）"
+  },
+  "9301454": {
+    "zipcode": "9301454",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "原"
+  },
+  "9301455": {
+    "zipcode": "9301455",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "本宮"
+  },
+  "9301456": {
+    "zipcode": "9301456",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "小見"
+  },
+  "9301457": {
+    "zipcode": "9301457",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "有峰（太郎平）"
+  },
+  "9301458": {
+    "zipcode": "9301458",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "有峰"
+  },
+  "9301459": {
+    "zipcode": "9301459",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "亀谷"
+  },
+  "9301461": {
+    "zipcode": "9301461",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "和田"
+  },
+  "9301462": {
+    "zipcode": "9301462",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "中地山"
+  },
+  "9301463": {
+    "zipcode": "9301463",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "水須"
+  },
+  "9301464": {
+    "zipcode": "9301464",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "才覚地"
+  },
+  "9301465": {
+    "zipcode": "9301465",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "牧"
+  },
+  "9301466": {
+    "zipcode": "9301466",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "大山松木"
+  },
+  "9302101": {
+    "zipcode": "9302101",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田中瀬"
+  },
+  "9302102": {
+    "zipcode": "9302102",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田宿坊"
+  },
+  "9302103": {
+    "zipcode": "9302103",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田宿坊（柳川）"
+  },
+  "9302104": {
+    "zipcode": "9302104",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田宿坊（沢連）"
+  },
+  "9302105": {
+    "zipcode": "9302105",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田湯"
+  },
+  "9302106": {
+    "zipcode": "9302106",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田北山"
+  },
+  "9302107": {
+    "zipcode": "9302107",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田中瀬（竹の内）"
+  },
+  "9302108": {
+    "zipcode": "9302108",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田中瀬（上中瀬）"
+  },
+  "9302111": {
+    "zipcode": "9302111",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田鎌倉"
+  },
+  "9302112": {
+    "zipcode": "9302112",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田若土"
+  },
+  "9302113": {
+    "zipcode": "9302113",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田谷"
+  },
+  "9302114": {
+    "zipcode": "9302114",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田鍋谷"
+  },
+  "9302115": {
+    "zipcode": "9302115",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田小谷"
+  },
+  "9302116": {
+    "zipcode": "9302116",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田小谷（中根）"
+  },
+  "9302117": {
+    "zipcode": "9302117",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田赤目谷"
+  },
+  "9302121": {
+    "zipcode": "9302121",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田白井谷"
+  },
+  "9302122": {
+    "zipcode": "9302122",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田小島（城山）"
+  },
+  "9302123": {
+    "zipcode": "9302123",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田小島"
+  },
+  "9302124": {
+    "zipcode": "9302124",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田中村"
+  },
+  "9302125": {
+    "zipcode": "9302125",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田今山田"
+  },
+  "9302126": {
+    "zipcode": "9302126",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田清水"
+  },
+  "9302127": {
+    "zipcode": "9302127",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田牧"
+  },
+  "9302128": {
+    "zipcode": "9302128",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山田沼又"
+  },
+  "9302201": {
+    "zipcode": "9302201",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "草島"
+  },
+  "9302202": {
+    "zipcode": "9302202",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "富浦町"
+  },
+  "9302203": {
+    "zipcode": "9302203",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "新千原崎"
+  },
+  "9302204": {
+    "zipcode": "9302204",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金山新桜ケ丘"
+  },
+  "9302205": {
+    "zipcode": "9302205",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金山新東"
+  },
+  "9302206": {
+    "zipcode": "9302206",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "金山新北"
+  },
+  "9302207": {
+    "zipcode": "9302207",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "草島新町"
+  },
+  "9302208": {
+    "zipcode": "9302208",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "古川"
+  },
+  "9302211": {
+    "zipcode": "9302211",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "宮尾"
+  },
+  "9302212": {
+    "zipcode": "9302212",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "松木新"
+  },
+  "9302213": {
+    "zipcode": "9302213",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "松木"
+  },
+  "9302214": {
+    "zipcode": "9302214",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "百塚"
+  },
+  "9302215": {
+    "zipcode": "9302215",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "山岸"
+  },
+  "9302221": {
+    "zipcode": "9302221",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "今市"
+  },
+  "9302222": {
+    "zipcode": "9302222",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "八幡"
+  },
+  "9302223": {
+    "zipcode": "9302223",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "八幡新町"
+  },
+  "9302224": {
+    "zipcode": "9302224",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "田尻南"
+  },
+  "9302225": {
+    "zipcode": "9302225",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "寺島"
+  },
+  "9302226": {
+    "zipcode": "9302226",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "八町北"
+  },
+  "9302227": {
+    "zipcode": "9302227",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "利波"
+  },
+  "9302231": {
+    "zipcode": "9302231",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目東町"
+  },
+  "9302232": {
+    "zipcode": "9302232",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目南町"
+  },
+  "9302233": {
+    "zipcode": "9302233",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目北"
+  },
+  "9302234": {
+    "zipcode": "9302234",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目緑町"
+  },
+  "9302235": {
+    "zipcode": "9302235",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目新町"
+  },
+  "9302236": {
+    "zipcode": "9302236",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "布目旭"
+  },
+  "9302237": {
+    "zipcode": "9302237",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "打出"
+  },
+  "9302238": {
+    "zipcode": "9302238",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "打出新"
+  },
+  "9302239": {
+    "zipcode": "9302239",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "つばめ野"
+  },
+  "9302241": {
+    "zipcode": "9302241",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方西岩瀬"
+  },
+  "9302242": {
+    "zipcode": "9302242",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方北窪"
+  },
+  "9302243": {
+    "zipcode": "9302243",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方荒屋"
+  },
+  "9302244": {
+    "zipcode": "9302244",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方茶園町"
+  },
+  "9302245": {
+    "zipcode": "9302245",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方江代町"
+  },
+  "9302246": {
+    "zipcode": "9302246",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方新"
+  },
+  "9302247": {
+    "zipcode": "9302247",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方新出町"
+  },
+  "9302248": {
+    "zipcode": "9302248",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方南町"
+  },
+  "9302251": {
+    "zipcode": "9302251",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方東野割町"
+  },
+  "9302252": {
+    "zipcode": "9302252",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方野割町"
+  },
+  "9302253": {
+    "zipcode": "9302253",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方田町"
+  },
+  "9302254": {
+    "zipcode": "9302254",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方神明町"
+  },
+  "9302255": {
+    "zipcode": "9302255",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方一番町"
+  },
+  "9302256": {
+    "zipcode": "9302256",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方港町"
+  },
+  "9302257": {
+    "zipcode": "9302257",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方二番町"
+  },
+  "9302258": {
+    "zipcode": "9302258",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "富山市",
+    "town": "四方恵比須町"
+  },
+  "9303201": {
+    "zipcode": "9303201",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "高原"
+  },
+  "9303202": {
+    "zipcode": "9303202",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "女川新"
+  },
+  "9303203": {
+    "zipcode": "9303203",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上福来"
+  },
+  "9303204": {
+    "zipcode": "9303204",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "東野"
+  },
+  "9303205": {
+    "zipcode": "9303205",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "福来"
+  },
+  "9303206": {
+    "zipcode": "9303206",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "竹林"
+  },
+  "9303208": {
+    "zipcode": "9303208",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下新"
+  },
+  "9303211": {
+    "zipcode": "9303211",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "日中"
+  },
+  "9303212": {
+    "zipcode": "9303212",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "柴山"
+  },
+  "9303213": {
+    "zipcode": "9303213",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "日中上野"
+  },
+  "9303214": {
+    "zipcode": "9303214",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下白岩"
+  },
+  "9303215": {
+    "zipcode": "9303215",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "石坂"
+  },
+  "9303216": {
+    "zipcode": "9303216",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "福田"
+  },
+  "9303217": {
+    "zipcode": "9303217",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "野沢"
+  },
+  "9303221": {
+    "zipcode": "9303221",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "四谷尾"
+  },
+  "9303222": {
+    "zipcode": "9303222",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "谷口"
+  },
+  "9303223": {
+    "zipcode": "9303223",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "虫谷"
+  },
+  "9303224": {
+    "zipcode": "9303224",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "白岩"
+  },
+  "9303231": {
+    "zipcode": "9303231",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "六郎谷"
+  },
+  "9303232": {
+    "zipcode": "9303232",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "目桑"
+  },
+  "9303233": {
+    "zipcode": "9303233",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "谷"
+  },
+  "9303234": {
+    "zipcode": "9303234",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "伊勢屋"
+  },
+  "9303235": {
+    "zipcode": "9303235",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "長倉"
+  },
+  "9303236": {
+    "zipcode": "9303236",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "小又"
+  },
+  "9303237": {
+    "zipcode": "9303237",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "松倉"
+  },
+  "9303238": {
+    "zipcode": "9303238",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "座主坊"
+  },
+  "9303239": {
+    "zipcode": "9303239",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "池田"
+  },
+  "9303241": {
+    "zipcode": "9303241",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下沢"
+  },
+  "9303242": {
+    "zipcode": "9303242",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "芦見"
+  },
+  "9303243": {
+    "zipcode": "9303243",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "下瀬戸"
+  },
+  "9303244": {
+    "zipcode": "9303244",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上瀬戸"
+  },
+  "9303245": {
+    "zipcode": "9303245",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上末"
+  },
+  "9303246": {
+    "zipcode": "9303246",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "中林"
+  },
+  "9303247": {
+    "zipcode": "9303247",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "瀬戸新"
+  },
+  "9303248": {
+    "zipcode": "9303248",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "新瀬戸"
+  },
+  "9303251": {
+    "zipcode": "9303251",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上中"
+  },
+  "9303252": {
+    "zipcode": "9303252",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "末上野"
+  },
+  "9303253": {
+    "zipcode": "9303253",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "長屋"
+  },
+  "9303254": {
+    "zipcode": "9303254",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "上宮"
+  },
+  "9303255": {
+    "zipcode": "9303255",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "小林"
+  },
+  "9303261": {
+    "zipcode": "9303261",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "野町"
+  },
+  "9303262": {
+    "zipcode": "9303262",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "金剛新"
+  },
+  "9303263": {
+    "zipcode": "9303263",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "渕上"
+  },
+  "9303264": {
+    "zipcode": "9303264",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "沢新"
+  },
+  "9303265": {
+    "zipcode": "9303265",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "米沢"
+  },
+  "9303266": {
+    "zipcode": "9303266",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "前沢新"
+  },
+  "9303267": {
+    "zipcode": "9303267",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "江崎"
+  },
+  "9303277": {
+    "zipcode": "9303277",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "中新川郡立山町",
+    "town": "横江（高野地区）"
+  }
+}

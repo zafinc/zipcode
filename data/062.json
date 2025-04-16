@@ -1,0 +1,442 @@
+{
+  "0620000": {
+    "zipcode": "0620000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "以下に掲載がない場合"
+  },
+  "0620001": {
+    "zipcode": "0620001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園一条"
+  },
+  "0620002": {
+    "zipcode": "0620002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園二条"
+  },
+  "0620003": {
+    "zipcode": "0620003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園三条"
+  },
+  "0620004": {
+    "zipcode": "0620004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園四条"
+  },
+  "0620005": {
+    "zipcode": "0620005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園五条"
+  },
+  "0620006": {
+    "zipcode": "0620006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園六条"
+  },
+  "0620007": {
+    "zipcode": "0620007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園七条"
+  },
+  "0620008": {
+    "zipcode": "0620008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園八条"
+  },
+  "0620009": {
+    "zipcode": "0620009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園九条"
+  },
+  "0620010": {
+    "zipcode": "0620010",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園十条"
+  },
+  "0620011": {
+    "zipcode": "0620011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園十一条"
+  },
+  "0620012": {
+    "zipcode": "0620012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "美園十二条"
+  },
+  "0620020": {
+    "zipcode": "0620020",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒中央通"
+  },
+  "0620021": {
+    "zipcode": "0620021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒西一条"
+  },
+  "0620022": {
+    "zipcode": "0620022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒西二条"
+  },
+  "0620023": {
+    "zipcode": "0620023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒西三条"
+  },
+  "0620024": {
+    "zipcode": "0620024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒西四条"
+  },
+  "0620025": {
+    "zipcode": "0620025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒西五条"
+  },
+  "0620031": {
+    "zipcode": "0620031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡一条"
+  },
+  "0620032": {
+    "zipcode": "0620032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡二条"
+  },
+  "0620033": {
+    "zipcode": "0620033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡三条"
+  },
+  "0620034": {
+    "zipcode": "0620034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡四条"
+  },
+  "0620035": {
+    "zipcode": "0620035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡五条"
+  },
+  "0620039": {
+    "zipcode": "0620039",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "西岡"
+  },
+  "0620041": {
+    "zipcode": "0620041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "福住一条"
+  },
+  "0620042": {
+    "zipcode": "0620042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "福住二条"
+  },
+  "0620043": {
+    "zipcode": "0620043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "福住三条"
+  },
+  "0620045": {
+    "zipcode": "0620045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "羊ケ丘"
+  },
+  "0620051": {
+    "zipcode": "0620051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒東一条"
+  },
+  "0620052": {
+    "zipcode": "0620052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒東二条"
+  },
+  "0620053": {
+    "zipcode": "0620053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒東三条"
+  },
+  "0620054": {
+    "zipcode": "0620054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒東四条"
+  },
+  "0620055": {
+    "zipcode": "0620055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "月寒東五条"
+  },
+  "0620901": {
+    "zipcode": "0620901",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平一条"
+  },
+  "0620902": {
+    "zipcode": "0620902",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平二条"
+  },
+  "0620903": {
+    "zipcode": "0620903",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平三条"
+  },
+  "0620904": {
+    "zipcode": "0620904",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平四条"
+  },
+  "0620905": {
+    "zipcode": "0620905",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平五条"
+  },
+  "0620906": {
+    "zipcode": "0620906",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平六条"
+  },
+  "0620907": {
+    "zipcode": "0620907",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平七条"
+  },
+  "0620908": {
+    "zipcode": "0620908",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平八条"
+  },
+  "0620909": {
+    "zipcode": "0620909",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "豊平九条"
+  },
+  "0620911": {
+    "zipcode": "0620911",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "旭町"
+  },
+  "0620912": {
+    "zipcode": "0620912",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "水車町"
+  },
+  "0620921": {
+    "zipcode": "0620921",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "中の島一条"
+  },
+  "0620922": {
+    "zipcode": "0620922",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "中の島二条"
+  },
+  "0620931": {
+    "zipcode": "0620931",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸一条"
+  },
+  "0620932": {
+    "zipcode": "0620932",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸二条"
+  },
+  "0620933": {
+    "zipcode": "0620933",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸三条"
+  },
+  "0620934": {
+    "zipcode": "0620934",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸四条"
+  },
+  "0620935": {
+    "zipcode": "0620935",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸五条"
+  },
+  "0620936": {
+    "zipcode": "0620936",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸六条"
+  },
+  "0620937": {
+    "zipcode": "0620937",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸七条"
+  },
+  "0620938": {
+    "zipcode": "0620938",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "札幌市豊平区",
+    "town": "平岸八条"
+  }
+}

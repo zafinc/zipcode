@@ -1,0 +1,970 @@
+{
+  "7400000": {
+    "zipcode": "7400000",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "玖珂郡和木町",
+    "town": "以下に掲載がない場合"
+  },
+  "7400001": {
+    "zipcode": "7400001",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "装束町"
+  },
+  "7400002": {
+    "zipcode": "7400002",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "新港町"
+  },
+  "7400003": {
+    "zipcode": "7400003",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "飯田町"
+  },
+  "7400004": {
+    "zipcode": "7400004",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "昭和町"
+  },
+  "7400011": {
+    "zipcode": "7400011",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "立石町"
+  },
+  "7400012": {
+    "zipcode": "7400012",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "元町"
+  },
+  "7400013": {
+    "zipcode": "7400013",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "桂町"
+  },
+  "7400014": {
+    "zipcode": "7400014",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "日の出町"
+  },
+  "7400015": {
+    "zipcode": "7400015",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "川口町"
+  },
+  "7400016": {
+    "zipcode": "7400016",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "三笠町"
+  },
+  "7400017": {
+    "zipcode": "7400017",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "今津町"
+  },
+  "7400018": {
+    "zipcode": "7400018",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "麻里布町"
+  },
+  "7400019": {
+    "zipcode": "7400019",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "砂山町"
+  },
+  "7400021": {
+    "zipcode": "7400021",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "室の木町"
+  },
+  "7400022": {
+    "zipcode": "7400022",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "山手町"
+  },
+  "7400023": {
+    "zipcode": "7400023",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "川下町"
+  },
+  "7400024": {
+    "zipcode": "7400024",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "旭町"
+  },
+  "7400025": {
+    "zipcode": "7400025",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "三角町"
+  },
+  "7400026": {
+    "zipcode": "7400026",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "車町"
+  },
+  "7400027": {
+    "zipcode": "7400027",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "中津町"
+  },
+  "7400028": {
+    "zipcode": "7400028",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "楠町"
+  },
+  "7400031": {
+    "zipcode": "7400031",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "門前町"
+  },
+  "7400032": {
+    "zipcode": "7400032",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "尾津町"
+  },
+  "7400033": {
+    "zipcode": "7400033",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "灘町"
+  },
+  "7400034": {
+    "zipcode": "7400034",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "南岩国町"
+  },
+  "7400035": {
+    "zipcode": "7400035",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "海土路町"
+  },
+  "7400036": {
+    "zipcode": "7400036",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "藤生町"
+  },
+  "7400037": {
+    "zipcode": "7400037",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "愛宕町"
+  },
+  "7400041": {
+    "zipcode": "7400041",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "黒磯町"
+  },
+  "7400042": {
+    "zipcode": "7400042",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "青木町"
+  },
+  "7400043": {
+    "zipcode": "7400043",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "保津町"
+  },
+  "7400044": {
+    "zipcode": "7400044",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "通津"
+  },
+  "7400045": {
+    "zipcode": "7400045",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "長野"
+  },
+  "7400051": {
+    "zipcode": "7400051",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "柱島"
+  },
+  "7400061": {
+    "zipcode": "7400061",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "玖珂郡和木町",
+    "town": "和木"
+  },
+  "7400062": {
+    "zipcode": "7400062",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "玖珂郡和木町",
+    "town": "瀬田"
+  },
+  "7400063": {
+    "zipcode": "7400063",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "玖珂郡和木町",
+    "town": "関ケ浜"
+  },
+  "7400301": {
+    "zipcode": "7400301",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "行波"
+  },
+  "7400302": {
+    "zipcode": "7400302",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "下"
+  },
+  "7400303": {
+    "zipcode": "7400303",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "杭名"
+  },
+  "7400304": {
+    "zipcode": "7400304",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "相ノ谷"
+  },
+  "7400305": {
+    "zipcode": "7400305",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "二鹿"
+  },
+  "7400306": {
+    "zipcode": "7400306",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "天尾"
+  },
+  "7400311": {
+    "zipcode": "7400311",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "瓦谷"
+  },
+  "7400312": {
+    "zipcode": "7400312",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "守内"
+  },
+  "7400313": {
+    "zipcode": "7400313",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "保木"
+  },
+  "7400314": {
+    "zipcode": "7400314",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "寺山"
+  },
+  "7400315": {
+    "zipcode": "7400315",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "近延"
+  },
+  "7400316": {
+    "zipcode": "7400316",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "行正"
+  },
+  "7400317": {
+    "zipcode": "7400317",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "上田"
+  },
+  "7400321": {
+    "zipcode": "7400321",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "入野"
+  },
+  "7400322": {
+    "zipcode": "7400322",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "廿木"
+  },
+  "7400323": {
+    "zipcode": "7400323",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "大山"
+  },
+  "7400324": {
+    "zipcode": "7400324",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "伊房"
+  },
+  "7400325": {
+    "zipcode": "7400325",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "竹安"
+  },
+  "7400326": {
+    "zipcode": "7400326",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "土生"
+  },
+  "7400327": {
+    "zipcode": "7400327",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "角"
+  },
+  "7400501": {
+    "zipcode": "7400501",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美川町小川"
+  },
+  "7400502": {
+    "zipcode": "7400502",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美川町四馬神"
+  },
+  "7400503": {
+    "zipcode": "7400503",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美川町添谷"
+  },
+  "7400504": {
+    "zipcode": "7400504",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美川町南桑"
+  },
+  "7400505": {
+    "zipcode": "7400505",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美川町根笠"
+  },
+  "7400601": {
+    "zipcode": "7400601",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "本郷町本谷"
+  },
+  "7400602": {
+    "zipcode": "7400602",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "本郷町本郷"
+  },
+  "7400603": {
+    "zipcode": "7400603",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "本郷町波野"
+  },
+  "7400604": {
+    "zipcode": "7400604",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "本郷町宇塚"
+  },
+  "7400605": {
+    "zipcode": "7400605",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "本郷町西黒沢"
+  },
+  "7400721": {
+    "zipcode": "7400721",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町大野"
+  },
+  "7400722": {
+    "zipcode": "7400722",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町中ノ瀬"
+  },
+  "7400723": {
+    "zipcode": "7400723",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町府谷"
+  },
+  "7400724": {
+    "zipcode": "7400724",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町広瀬"
+  },
+  "7400725": {
+    "zipcode": "7400725",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町野谷"
+  },
+  "7400811": {
+    "zipcode": "7400811",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町須川"
+  },
+  "7400812": {
+    "zipcode": "7400812",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町深川"
+  },
+  "7400901": {
+    "zipcode": "7400901",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町宇佐"
+  },
+  "7400902": {
+    "zipcode": "7400902",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町宇佐郷（その他）"
+  },
+  "7400903": {
+    "zipcode": "7400903",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町大原"
+  },
+  "7400904": {
+    "zipcode": "7400904",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "錦町宇佐郷（向峠）"
+  },
+  "7401201": {
+    "zipcode": "7401201",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町秋掛"
+  },
+  "7401202": {
+    "zipcode": "7401202",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町北中山"
+  },
+  "7401211": {
+    "zipcode": "7401211",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町釜ケ原"
+  },
+  "7401212": {
+    "zipcode": "7401212",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町黒沢"
+  },
+  "7401213": {
+    "zipcode": "7401213",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町岸根"
+  },
+  "7401214": {
+    "zipcode": "7401214",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町百合谷"
+  },
+  "7401215": {
+    "zipcode": "7401215",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町長谷"
+  },
+  "7401216": {
+    "zipcode": "7401216",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町日宛"
+  },
+  "7401217": {
+    "zipcode": "7401217",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町大根川"
+  },
+  "7401218": {
+    "zipcode": "7401218",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町中垣内"
+  },
+  "7401219": {
+    "zipcode": "7401219",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町瀬戸ノ内"
+  },
+  "7401221": {
+    "zipcode": "7401221",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町上駄床"
+  },
+  "7401222": {
+    "zipcode": "7401222",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町田ノ口"
+  },
+  "7401223": {
+    "zipcode": "7401223",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町滑"
+  },
+  "7401224": {
+    "zipcode": "7401224",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町佐坂"
+  },
+  "7401225": {
+    "zipcode": "7401225",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町渋前"
+  },
+  "7401231": {
+    "zipcode": "7401231",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町生見"
+  },
+  "7401232": {
+    "zipcode": "7401232",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町西畑"
+  },
+  "7401241": {
+    "zipcode": "7401241",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町阿賀"
+  },
+  "7401242": {
+    "zipcode": "7401242",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "美和町下畑"
+  },
+  "7401401": {
+    "zipcode": "7401401",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（寺迫）"
+  },
+  "7401402": {
+    "zipcode": "7401402",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（小槇）"
+  },
+  "7401403": {
+    "zipcode": "7401403",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（中倉）"
+  },
+  "7401404": {
+    "zipcode": "7401404",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（西区）"
+  },
+  "7401405": {
+    "zipcode": "7401405",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（笠塚）"
+  },
+  "7401406": {
+    "zipcode": "7401406",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（峇清）"
+  },
+  "7401407": {
+    "zipcode": "7401407",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（横道）"
+  },
+  "7401411": {
+    "zipcode": "7401411",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（清水）"
+  },
+  "7401412": {
+    "zipcode": "7401412",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（中村）"
+  },
+  "7401413": {
+    "zipcode": "7401413",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（上北）"
+  },
+  "7401424": {
+    "zipcode": "7401424",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町港"
+  },
+  "7401425": {
+    "zipcode": "7401425",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町南沖"
+  },
+  "7401426": {
+    "zipcode": "7401426",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町由宇崎"
+  },
+  "7401428": {
+    "zipcode": "7401428",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町中央"
+  },
+  "7401431": {
+    "zipcode": "7401431",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（有家）"
+  },
+  "7401432": {
+    "zipcode": "7401432",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町神東"
+  },
+  "7401441": {
+    "zipcode": "7401441",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町千鳥ケ丘"
+  },
+  "7401451": {
+    "zipcode": "7401451",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町南"
+  },
+  "7401452": {
+    "zipcode": "7401452",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（正南）"
+  },
+  "7401454": {
+    "zipcode": "7401454",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町西"
+  },
+  "7401455": {
+    "zipcode": "7401455",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町北"
+  },
+  "7401488": {
+    "zipcode": "7401488",
+    "prefectureCode": "35",
+    "prefectureNumber": 35,
+    "prefecture": "山口県",
+    "city": "岩国市",
+    "town": "由宇町（その他）"
+  }
+}

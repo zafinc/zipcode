@@ -1,0 +1,818 @@
+{
+  "3800801": {
+    "zipcode": "3800801",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "箱清水"
+  },
+  "3800802": {
+    "zipcode": "3800802",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "上松"
+  },
+  "3800803": {
+    "zipcode": "3800803",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "三輪"
+  },
+  "3800804": {
+    "zipcode": "3800804",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "荒屋"
+  },
+  "3800805": {
+    "zipcode": "3800805",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "柳町"
+  },
+  "3800806": {
+    "zipcode": "3800806",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "淀ケ橋"
+  },
+  "3800807": {
+    "zipcode": "3800807",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "横山"
+  },
+  "3800811": {
+    "zipcode": "3800811",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "東鶴賀町"
+  },
+  "3800812": {
+    "zipcode": "3800812",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（早苗町）"
+  },
+  "3800813": {
+    "zipcode": "3800813",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "緑町"
+  },
+  "3800814": {
+    "zipcode": "3800814",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "西鶴賀町"
+  },
+  "3800815": {
+    "zipcode": "3800815",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（田町）"
+  },
+  "3800816": {
+    "zipcode": "3800816",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "三輪田町"
+  },
+  "3800821": {
+    "zipcode": "3800821",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（上千歳町）"
+  },
+  "3800822": {
+    "zipcode": "3800822",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "南千歳町"
+  },
+  "3800823": {
+    "zipcode": "3800823",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "南千歳"
+  },
+  "3800824": {
+    "zipcode": "3800824",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "南石堂町"
+  },
+  "3800825": {
+    "zipcode": "3800825",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "末広町"
+  },
+  "3800826": {
+    "zipcode": "3800826",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "北石堂町"
+  },
+  "3800831": {
+    "zipcode": "3800831",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "東町"
+  },
+  "3800832": {
+    "zipcode": "3800832",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "東後町"
+  },
+  "3800833": {
+    "zipcode": "3800833",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（権堂町）"
+  },
+  "3800834": {
+    "zipcode": "3800834",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "問御所町"
+  },
+  "3800835": {
+    "zipcode": "3800835",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "新田町"
+  },
+  "3800836": {
+    "zipcode": "3800836",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "南県町"
+  },
+  "3800837": {
+    "zipcode": "3800837",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "南長野（幅下）"
+  },
+  "3800838": {
+    "zipcode": "3800838",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "県町"
+  },
+  "3800841": {
+    "zipcode": "3800841",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "大門町"
+  },
+  "3800842": {
+    "zipcode": "3800842",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "西町"
+  },
+  "3800843": {
+    "zipcode": "3800843",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "長門町"
+  },
+  "3800844": {
+    "zipcode": "3800844",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "諏訪町"
+  },
+  "3800845": {
+    "zipcode": "3800845",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "西後町"
+  },
+  "3800846": {
+    "zipcode": "3800846",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "旭町"
+  },
+  "3800847": {
+    "zipcode": "3800847",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "若松町"
+  },
+  "3800851": {
+    "zipcode": "3800851",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "元善町"
+  },
+  "3800852": {
+    "zipcode": "3800852",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "東之門町"
+  },
+  "3800853": {
+    "zipcode": "3800853",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "新町"
+  },
+  "3800854": {
+    "zipcode": "3800854",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "伊勢町"
+  },
+  "3800855": {
+    "zipcode": "3800855",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "岩石町"
+  },
+  "3800856": {
+    "zipcode": "3800856",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "横町"
+  },
+  "3800857": {
+    "zipcode": "3800857",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "西之門町"
+  },
+  "3800858": {
+    "zipcode": "3800858",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "上西之門町"
+  },
+  "3800861": {
+    "zipcode": "3800861",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "横沢町"
+  },
+  "3800862": {
+    "zipcode": "3800862",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "桜枝町"
+  },
+  "3800863": {
+    "zipcode": "3800863",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "栄町"
+  },
+  "3800864": {
+    "zipcode": "3800864",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "立町"
+  },
+  "3800865": {
+    "zipcode": "3800865",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "花咲町"
+  },
+  "3800866": {
+    "zipcode": "3800866",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "狐池"
+  },
+  "3800867": {
+    "zipcode": "3800867",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "往生地"
+  },
+  "3800871": {
+    "zipcode": "3800871",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "西長野"
+  },
+  "3800872": {
+    "zipcode": "3800872",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "妻科"
+  },
+  "3800873": {
+    "zipcode": "3800873",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "新諏訪町"
+  },
+  "3800874": {
+    "zipcode": "3800874",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "茂菅"
+  },
+  "3800875": {
+    "zipcode": "3800875",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "小鍋"
+  },
+  "3800876": {
+    "zipcode": "3800876",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "山田中"
+  },
+  "3800877": {
+    "zipcode": "3800877",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "塩生"
+  },
+  "3800881": {
+    "zipcode": "3800881",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "門沢"
+  },
+  "3800882": {
+    "zipcode": "3800882",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "富田"
+  },
+  "3800883": {
+    "zipcode": "3800883",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "泉平"
+  },
+  "3800884": {
+    "zipcode": "3800884",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鑪"
+  },
+  "3800885": {
+    "zipcode": "3800885",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "桜"
+  },
+  "3800886": {
+    "zipcode": "3800886",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "広瀬"
+  },
+  "3800887": {
+    "zipcode": "3800887",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "入山"
+  },
+  "3800888": {
+    "zipcode": "3800888",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "上ケ屋"
+  },
+  "3800901": {
+    "zipcode": "3800901",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（居町）"
+  },
+  "3800902": {
+    "zipcode": "3800902",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（中堰）"
+  },
+  "3800903": {
+    "zipcode": "3800903",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（峰村）"
+  },
+  "3800904": {
+    "zipcode": "3800904",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "七瀬中町"
+  },
+  "3800905": {
+    "zipcode": "3800905",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "七瀬南部"
+  },
+  "3800906": {
+    "zipcode": "3800906",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀（七瀬）"
+  },
+  "3800907": {
+    "zipcode": "3800907",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "鶴賀"
+  },
+  "3800911": {
+    "zipcode": "3800911",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉"
+  },
+  "3800912": {
+    "zipcode": "3800912",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉日詰"
+  },
+  "3800913": {
+    "zipcode": "3800913",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "川合新田"
+  },
+  "3800914": {
+    "zipcode": "3800914",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉母袋"
+  },
+  "3800915": {
+    "zipcode": "3800915",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉上千田"
+  },
+  "3800916": {
+    "zipcode": "3800916",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉中千田"
+  },
+  "3800917": {
+    "zipcode": "3800917",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "稲葉南俣"
+  },
+  "3800918": {
+    "zipcode": "3800918",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "アークス"
+  },
+  "3800921": {
+    "zipcode": "3800921",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "栗田"
+  },
+  "3800922": {
+    "zipcode": "3800922",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "七瀬"
+  },
+  "3800927": {
+    "zipcode": "3800927",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "栗田北中"
+  },
+  "3800928": {
+    "zipcode": "3800928",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "若里"
+  },
+  "3800934": {
+    "zipcode": "3800934",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "中御所町"
+  },
+  "3800935": {
+    "zipcode": "3800935",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "中御所"
+  },
+  "3800936": {
+    "zipcode": "3800936",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "岡田町"
+  },
+  "3800941": {
+    "zipcode": "3800941",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里"
+  },
+  "3800942": {
+    "zipcode": "3800942",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "小柴見"
+  },
+  "3800943": {
+    "zipcode": "3800943",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里差出"
+  },
+  "3800944": {
+    "zipcode": "3800944",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里米村"
+  },
+  "3800945": {
+    "zipcode": "3800945",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里杏花台"
+  },
+  "3800946": {
+    "zipcode": "3800946",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "平柴台"
+  },
+  "3800947": {
+    "zipcode": "3800947",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "平柴"
+  },
+  "3800948": {
+    "zipcode": "3800948",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "差出南"
+  },
+  "3800952": {
+    "zipcode": "3800952",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "宮沖"
+  },
+  "3800953": {
+    "zipcode": "3800953",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里犀北"
+  },
+  "3800954": {
+    "zipcode": "3800954",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里犀北団地"
+  },
+  "3800955": {
+    "zipcode": "3800955",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里西河原"
+  },
+  "3800956": {
+    "zipcode": "3800956",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里小路"
+  },
+  "3800957": {
+    "zipcode": "3800957",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里大門"
+  },
+  "3800958": {
+    "zipcode": "3800958",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "伊勢宮"
+  },
+  "3800961": {
+    "zipcode": "3800961",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "長野市",
+    "town": "安茂里小市"
+  }
+}

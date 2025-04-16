@@ -1,0 +1,978 @@
+{
+  "4360000": {
+    "zipcode": "4360000",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "以下に掲載がない場合"
+  },
+  "4360001": {
+    "zipcode": "4360001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "東山"
+  },
+  "4360002": {
+    "zipcode": "4360002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "佐夜鹿"
+  },
+  "4360003": {
+    "zipcode": "4360003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "日坂"
+  },
+  "4360004": {
+    "zipcode": "4360004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "八坂"
+  },
+  "4360005": {
+    "zipcode": "4360005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "伊達方"
+  },
+  "4360006": {
+    "zipcode": "4360006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "本所"
+  },
+  "4360007": {
+    "zipcode": "4360007",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "小原子"
+  },
+  "4360008": {
+    "zipcode": "4360008",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "千羽"
+  },
+  "4360009": {
+    "zipcode": "4360009",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "大野"
+  },
+  "4360011": {
+    "zipcode": "4360011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "満水"
+  },
+  "4360012": {
+    "zipcode": "4360012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上内田"
+  },
+  "4360013": {
+    "zipcode": "4360013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "子隣"
+  },
+  "4360014": {
+    "zipcode": "4360014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "岩井寺"
+  },
+  "4360015": {
+    "zipcode": "4360015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "和田"
+  },
+  "4360016": {
+    "zipcode": "4360016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "板沢"
+  },
+  "4360017": {
+    "zipcode": "4360017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "杉谷"
+  },
+  "4360018": {
+    "zipcode": "4360018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "葵町"
+  },
+  "4360019": {
+    "zipcode": "4360019",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "青葉台"
+  },
+  "4360020": {
+    "zipcode": "4360020",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "矢崎町"
+  },
+  "4360021": {
+    "zipcode": "4360021",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "緑ケ丘"
+  },
+  "4360022": {
+    "zipcode": "4360022",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上張"
+  },
+  "4360023": {
+    "zipcode": "4360023",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "結縁寺"
+  },
+  "4360024": {
+    "zipcode": "4360024",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "南西郷"
+  },
+  "4360025": {
+    "zipcode": "4360025",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "下俣"
+  },
+  "4360026": {
+    "zipcode": "4360026",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "下俣南"
+  },
+  "4360027": {
+    "zipcode": "4360027",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "久保"
+  },
+  "4360028": {
+    "zipcode": "4360028",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "亀の甲"
+  },
+  "4360029": {
+    "zipcode": "4360029",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "南"
+  },
+  "4360030": {
+    "zipcode": "4360030",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "杉谷南"
+  },
+  "4360031": {
+    "zipcode": "4360031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "高御所"
+  },
+  "4360032": {
+    "zipcode": "4360032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "平野"
+  },
+  "4360033": {
+    "zipcode": "4360033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "篠場"
+  },
+  "4360034": {
+    "zipcode": "4360034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "梅橋"
+  },
+  "4360035": {
+    "zipcode": "4360035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "徳泉"
+  },
+  "4360036": {
+    "zipcode": "4360036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "原川"
+  },
+  "4360037": {
+    "zipcode": "4360037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "岡津"
+  },
+  "4360038": {
+    "zipcode": "4360038",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "領家"
+  },
+  "4360039": {
+    "zipcode": "4360039",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "沢田"
+  },
+  "4360040": {
+    "zipcode": "4360040",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "菖蒲ヶ池"
+  },
+  "4360041": {
+    "zipcode": "4360041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "秋葉路"
+  },
+  "4360042": {
+    "zipcode": "4360042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "二瀬川"
+  },
+  "4360043": {
+    "zipcode": "4360043",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "大池"
+  },
+  "4360044": {
+    "zipcode": "4360044",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "清崎"
+  },
+  "4360045": {
+    "zipcode": "4360045",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "小鷹町"
+  },
+  "4360046": {
+    "zipcode": "4360046",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "中央高町"
+  },
+  "4360047": {
+    "zipcode": "4360047",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "長谷"
+  },
+  "4360048": {
+    "zipcode": "4360048",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "細田"
+  },
+  "4360049": {
+    "zipcode": "4360049",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上屋敷"
+  },
+  "4360051": {
+    "zipcode": "4360051",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "中宿"
+  },
+  "4360052": {
+    "zipcode": "4360052",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "柳町"
+  },
+  "4360053": {
+    "zipcode": "4360053",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "弥生町"
+  },
+  "4360054": {
+    "zipcode": "4360054",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "城西"
+  },
+  "4360055": {
+    "zipcode": "4360055",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "紺屋町"
+  },
+  "4360056": {
+    "zipcode": "4360056",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "中央"
+  },
+  "4360057": {
+    "zipcode": "4360057",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "十九首"
+  },
+  "4360058": {
+    "zipcode": "4360058",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "七日町"
+  },
+  "4360059": {
+    "zipcode": "4360059",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "城北"
+  },
+  "4360061": {
+    "zipcode": "4360061",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "水垂"
+  },
+  "4360062": {
+    "zipcode": "4360062",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "旭ケ丘"
+  },
+  "4360063": {
+    "zipcode": "4360063",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "北池新田"
+  },
+  "4360064": {
+    "zipcode": "4360064",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "北門"
+  },
+  "4360065": {
+    "zipcode": "4360065",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "天王町"
+  },
+  "4360066": {
+    "zipcode": "4360066",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "谷の口町"
+  },
+  "4360067": {
+    "zipcode": "4360067",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "下西郷"
+  },
+  "4360068": {
+    "zipcode": "4360068",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "御所原"
+  },
+  "4360069": {
+    "zipcode": "4360069",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "旭台"
+  },
+  "4360070": {
+    "zipcode": "4360070",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "紅葉台"
+  },
+  "4360071": {
+    "zipcode": "4360071",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "仁藤"
+  },
+  "4360072": {
+    "zipcode": "4360072",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "印内"
+  },
+  "4360073": {
+    "zipcode": "4360073",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "金城"
+  },
+  "4360074": {
+    "zipcode": "4360074",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "葛川"
+  },
+  "4360075": {
+    "zipcode": "4360075",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "仁藤町"
+  },
+  "4360076": {
+    "zipcode": "4360076",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "塩町"
+  },
+  "4360077": {
+    "zipcode": "4360077",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "駅前"
+  },
+  "4360078": {
+    "zipcode": "4360078",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "肴町"
+  },
+  "4360079": {
+    "zipcode": "4360079",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "掛川"
+  },
+  "4360081": {
+    "zipcode": "4360081",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "初馬"
+  },
+  "4360082": {
+    "zipcode": "4360082",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "淡陽"
+  },
+  "4360083": {
+    "zipcode": "4360083",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "薗ケ谷"
+  },
+  "4360084": {
+    "zipcode": "4360084",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "逆川"
+  },
+  "4360085": {
+    "zipcode": "4360085",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "成滝"
+  },
+  "4360086": {
+    "zipcode": "4360086",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "宮脇"
+  },
+  "4360087": {
+    "zipcode": "4360087",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "大多郎"
+  },
+  "4360088": {
+    "zipcode": "4360088",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "葛ケ丘"
+  },
+  "4360089": {
+    "zipcode": "4360089",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "安養寺"
+  },
+  "4360090": {
+    "zipcode": "4360090",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "光陽"
+  },
+  "4360091": {
+    "zipcode": "4360091",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "城下"
+  },
+  "4360092": {
+    "zipcode": "4360092",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "中町"
+  },
+  "4360093": {
+    "zipcode": "4360093",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "連雀"
+  },
+  "4360094": {
+    "zipcode": "4360094",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "喜町"
+  },
+  "4360101": {
+    "zipcode": "4360101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上西之谷"
+  },
+  "4360102": {
+    "zipcode": "4360102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "中西之谷"
+  },
+  "4360103": {
+    "zipcode": "4360103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "久居島"
+  },
+  "4360104": {
+    "zipcode": "4360104",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "平島"
+  },
+  "4360105": {
+    "zipcode": "4360105",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "原里"
+  },
+  "4360106": {
+    "zipcode": "4360106",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "寺島"
+  },
+  "4360111": {
+    "zipcode": "4360111",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "本郷"
+  },
+  "4360112": {
+    "zipcode": "4360112",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "細谷"
+  },
+  "4360113": {
+    "zipcode": "4360113",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "各和"
+  },
+  "4360114": {
+    "zipcode": "4360114",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "高田"
+  },
+  "4360115": {
+    "zipcode": "4360115",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "吉岡"
+  },
+  "4360116": {
+    "zipcode": "4360116",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "西山"
+  },
+  "4360117": {
+    "zipcode": "4360117",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "幡鎌"
+  },
+  "4360221": {
+    "zipcode": "4360221",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上垂木"
+  },
+  "4360222": {
+    "zipcode": "4360222",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "下垂木"
+  },
+  "4360223": {
+    "zipcode": "4360223",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "黒田"
+  },
+  "4360224": {
+    "zipcode": "4360224",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "富部"
+  },
+  "4360225": {
+    "zipcode": "4360225",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "家代"
+  },
+  "4360226": {
+    "zipcode": "4360226",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "遊家"
+  },
+  "4360227": {
+    "zipcode": "4360227",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "家代の里"
+  },
+  "4360331": {
+    "zipcode": "4360331",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "黒俣"
+  },
+  "4360332": {
+    "zipcode": "4360332",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "居尻"
+  },
+  "4360333": {
+    "zipcode": "4360333",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "丹間"
+  },
+  "4360334": {
+    "zipcode": "4360334",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "孕石"
+  },
+  "4360335": {
+    "zipcode": "4360335",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "大和田"
+  },
+  "4360336": {
+    "zipcode": "4360336",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "萩間"
+  },
+  "4360337": {
+    "zipcode": "4360337",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "炭焼"
+  },
+  "4360338": {
+    "zipcode": "4360338",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "和光"
+  },
+  "4360341": {
+    "zipcode": "4360341",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "倉真"
+  },
+  "4360342": {
+    "zipcode": "4360342",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "上西郷"
+  },
+  "4360343": {
+    "zipcode": "4360343",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "掛川市",
+    "town": "五明"
+  }
+}

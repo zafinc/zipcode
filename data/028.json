@@ -1,0 +1,5522 @@
+{
+  "0280000": {
+    "zipcode": "0280000",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "以下に掲載がない場合"
+  },
+  "0280001": {
+    "zipcode": "0280001",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "夏井町"
+  },
+  "0280011": {
+    "zipcode": "0280011",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "湊町"
+  },
+  "0280012": {
+    "zipcode": "0280012",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "新井田"
+  },
+  "0280013": {
+    "zipcode": "0280013",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "京の森"
+  },
+  "0280014": {
+    "zipcode": "0280014",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "旭町"
+  },
+  "0280015": {
+    "zipcode": "0280015",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "源道"
+  },
+  "0280021": {
+    "zipcode": "0280021",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "門前"
+  },
+  "0280022": {
+    "zipcode": "0280022",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "田屋町"
+  },
+  "0280023": {
+    "zipcode": "0280023",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "新中の橋"
+  },
+  "0280024": {
+    "zipcode": "0280024",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "栄町"
+  },
+  "0280031": {
+    "zipcode": "0280031",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "天神堂"
+  },
+  "0280032": {
+    "zipcode": "0280032",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "寺里"
+  },
+  "0280033": {
+    "zipcode": "0280033",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "畑田"
+  },
+  "0280034": {
+    "zipcode": "0280034",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "枝成沢"
+  },
+  "0280035": {
+    "zipcode": "0280035",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "沢里"
+  },
+  "0280041": {
+    "zipcode": "0280041",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "長内町"
+  },
+  "0280051": {
+    "zipcode": "0280051",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "川崎町"
+  },
+  "0280052": {
+    "zipcode": "0280052",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "本町"
+  },
+  "0280053": {
+    "zipcode": "0280053",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "田高"
+  },
+  "0280054": {
+    "zipcode": "0280054",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "柏崎"
+  },
+  "0280055": {
+    "zipcode": "0280055",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "巽町"
+  },
+  "0280056": {
+    "zipcode": "0280056",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "中町"
+  },
+  "0280061": {
+    "zipcode": "0280061",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "中央"
+  },
+  "0280062": {
+    "zipcode": "0280062",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "二十八日町"
+  },
+  "0280063": {
+    "zipcode": "0280063",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "荒町"
+  },
+  "0280064": {
+    "zipcode": "0280064",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "八日町"
+  },
+  "0280065": {
+    "zipcode": "0280065",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "十八日町"
+  },
+  "0280066": {
+    "zipcode": "0280066",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "中の橋"
+  },
+  "0280071": {
+    "zipcode": "0280071",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "小久慈町"
+  },
+  "0280081": {
+    "zipcode": "0280081",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "西の沢"
+  },
+  "0280082": {
+    "zipcode": "0280082",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "川貫"
+  },
+  "0280083": {
+    "zipcode": "0280083",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "大沢"
+  },
+  "0280091": {
+    "zipcode": "0280091",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "大川目町"
+  },
+  "0280101": {
+    "zipcode": "0280101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町北前田"
+  },
+  "0280102": {
+    "zipcode": "0280102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町北川目"
+  },
+  "0280103": {
+    "zipcode": "0280103",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町石鳩岡"
+  },
+  "0280104": {
+    "zipcode": "0280104",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町南川目"
+  },
+  "0280105": {
+    "zipcode": "0280105",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町前田"
+  },
+  "0280106": {
+    "zipcode": "0280106",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町外谷地"
+  },
+  "0280107": {
+    "zipcode": "0280107",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町北小山田"
+  },
+  "0280111": {
+    "zipcode": "0280111",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町百ノ沢"
+  },
+  "0280112": {
+    "zipcode": "0280112",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町新地"
+  },
+  "0280113": {
+    "zipcode": "0280113",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町東晴山"
+  },
+  "0280114": {
+    "zipcode": "0280114",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町土沢"
+  },
+  "0280115": {
+    "zipcode": "0280115",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町安俵"
+  },
+  "0280116": {
+    "zipcode": "0280116",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町北成島"
+  },
+  "0280121": {
+    "zipcode": "0280121",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町小友"
+  },
+  "0280122": {
+    "zipcode": "0280122",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町谷内"
+  },
+  "0280123": {
+    "zipcode": "0280123",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町田瀬"
+  },
+  "0280131": {
+    "zipcode": "0280131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町町井"
+  },
+  "0280132": {
+    "zipcode": "0280132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町舘迫"
+  },
+  "0280133": {
+    "zipcode": "0280133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町鷹巣堂"
+  },
+  "0280134": {
+    "zipcode": "0280134",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町砂子"
+  },
+  "0280135": {
+    "zipcode": "0280135",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町倉沢"
+  },
+  "0280136": {
+    "zipcode": "0280136",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町小原"
+  },
+  "0280141": {
+    "zipcode": "0280141",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町下浮田"
+  },
+  "0280142": {
+    "zipcode": "0280142",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町駒籠"
+  },
+  "0280143": {
+    "zipcode": "0280143",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町上浮田"
+  },
+  "0280144": {
+    "zipcode": "0280144",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町宮田"
+  },
+  "0280151": {
+    "zipcode": "0280151",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町落合"
+  },
+  "0280152": {
+    "zipcode": "0280152",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町毒沢"
+  },
+  "0280153": {
+    "zipcode": "0280153",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町中内"
+  },
+  "0280154": {
+    "zipcode": "0280154",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町石持"
+  },
+  "0280155": {
+    "zipcode": "0280155",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町南成島"
+  },
+  "0280156": {
+    "zipcode": "0280156",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "東和町小通"
+  },
+  "0280301": {
+    "zipcode": "0280301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "宮守町上宮守"
+  },
+  "0280302": {
+    "zipcode": "0280302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "宮守町上鱒沢"
+  },
+  "0280303": {
+    "zipcode": "0280303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "宮守町下鱒沢"
+  },
+  "0280304": {
+    "zipcode": "0280304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "宮守町下宮守"
+  },
+  "0280305": {
+    "zipcode": "0280305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "宮守町達曽部"
+  },
+  "0280481": {
+    "zipcode": "0280481",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "小友町"
+  },
+  "0280500": {
+    "zipcode": "0280500",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "以下に掲載がない場合"
+  },
+  "0280501": {
+    "zipcode": "0280501",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "青笹町糠前"
+  },
+  "0280502": {
+    "zipcode": "0280502",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "青笹町中沢"
+  },
+  "0280503": {
+    "zipcode": "0280503",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "青笹町青笹"
+  },
+  "0280511": {
+    "zipcode": "0280511",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "鶯崎町"
+  },
+  "0280512": {
+    "zipcode": "0280512",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "東上組町"
+  },
+  "0280513": {
+    "zipcode": "0280513",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "東穀町"
+  },
+  "0280514": {
+    "zipcode": "0280514",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "遠野町"
+  },
+  "0280515": {
+    "zipcode": "0280515",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "東舘町"
+  },
+  "0280516": {
+    "zipcode": "0280516",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "穀町"
+  },
+  "0280517": {
+    "zipcode": "0280517",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上組町"
+  },
+  "0280521": {
+    "zipcode": "0280521",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "材木町"
+  },
+  "0280522": {
+    "zipcode": "0280522",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "新穀町"
+  },
+  "0280523": {
+    "zipcode": "0280523",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "中央通り"
+  },
+  "0280524": {
+    "zipcode": "0280524",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "新町"
+  },
+  "0280525": {
+    "zipcode": "0280525",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "六日町"
+  },
+  "0280526": {
+    "zipcode": "0280526",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "下組町"
+  },
+  "0280527": {
+    "zipcode": "0280527",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "大工町"
+  },
+  "0280531": {
+    "zipcode": "0280531",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "綾織町新里"
+  },
+  "0280532": {
+    "zipcode": "0280532",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "綾織町下綾織"
+  },
+  "0280533": {
+    "zipcode": "0280533",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "綾織町上綾織"
+  },
+  "0280534": {
+    "zipcode": "0280534",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "綾織町みさ崎"
+  },
+  "0280541": {
+    "zipcode": "0280541",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "松崎町白岩"
+  },
+  "0280542": {
+    "zipcode": "0280542",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "早瀬町"
+  },
+  "0280543": {
+    "zipcode": "0280543",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "松崎町光興寺"
+  },
+  "0280544": {
+    "zipcode": "0280544",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "松崎町松崎"
+  },
+  "0280545": {
+    "zipcode": "0280545",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "松崎町駒木"
+  },
+  "0280551": {
+    "zipcode": "0280551",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "土淵町栃内"
+  },
+  "0280552": {
+    "zipcode": "0280552",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "土淵町山口"
+  },
+  "0280553": {
+    "zipcode": "0280553",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "土淵町柏崎"
+  },
+  "0280554": {
+    "zipcode": "0280554",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "土淵町飯豊"
+  },
+  "0280555": {
+    "zipcode": "0280555",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "土淵町土淵"
+  },
+  "0280661": {
+    "zipcode": "0280661",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "附馬牛町上附馬牛"
+  },
+  "0280662": {
+    "zipcode": "0280662",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "附馬牛町安居台"
+  },
+  "0280663": {
+    "zipcode": "0280663",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "附馬牛町下附馬牛"
+  },
+  "0280664": {
+    "zipcode": "0280664",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "附馬牛町東禅寺"
+  },
+  "0280771": {
+    "zipcode": "0280771",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町佐比内"
+  },
+  "0280772": {
+    "zipcode": "0280772",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町細越"
+  },
+  "0280773": {
+    "zipcode": "0280773",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町平野原"
+  },
+  "0280774": {
+    "zipcode": "0280774",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町来内"
+  },
+  "0280775": {
+    "zipcode": "0280775",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町平倉"
+  },
+  "0280776": {
+    "zipcode": "0280776",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "town": "上郷町板沢"
+  },
+  "0281100": {
+    "zipcode": "0281100",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "以下に掲載がない場合"
+  },
+  "0281101": {
+    "zipcode": "0281101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "吉里吉里"
+  },
+  "0281102": {
+    "zipcode": "0281102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "赤浜"
+  },
+  "0281103": {
+    "zipcode": "0281103",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "港町"
+  },
+  "0281104": {
+    "zipcode": "0281104",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "新港町"
+  },
+  "0281105": {
+    "zipcode": "0281105",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "安渡"
+  },
+  "0281111": {
+    "zipcode": "0281111",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "新町"
+  },
+  "0281112": {
+    "zipcode": "0281112",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "大町"
+  },
+  "0281113": {
+    "zipcode": "0281113",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "須賀町"
+  },
+  "0281114": {
+    "zipcode": "0281114",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "栄町"
+  },
+  "0281115": {
+    "zipcode": "0281115",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "上町"
+  },
+  "0281116": {
+    "zipcode": "0281116",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "本町"
+  },
+  "0281117": {
+    "zipcode": "0281117",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "末広町"
+  },
+  "0281121": {
+    "zipcode": "0281121",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "小鎚"
+  },
+  "0281122": {
+    "zipcode": "0281122",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "桜木町"
+  },
+  "0281131": {
+    "zipcode": "0281131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "大槌"
+  },
+  "0281132": {
+    "zipcode": "0281132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "大ケ口"
+  },
+  "0281133": {
+    "zipcode": "0281133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "上閉伊郡大槌町",
+    "town": "金沢"
+  },
+  "0281300": {
+    "zipcode": "0281300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "以下に掲載がない場合"
+  },
+  "0281301": {
+    "zipcode": "0281301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "石峠"
+  },
+  "0281302": {
+    "zipcode": "0281302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "豊間根"
+  },
+  "0281303": {
+    "zipcode": "0281303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "荒川"
+  },
+  "0281311": {
+    "zipcode": "0281311",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "大沢"
+  },
+  "0281321": {
+    "zipcode": "0281321",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "山田"
+  },
+  "0281331": {
+    "zipcode": "0281331",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "北浜町"
+  },
+  "0281332": {
+    "zipcode": "0281332",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "中央町"
+  },
+  "0281333": {
+    "zipcode": "0281333",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "後楽町"
+  },
+  "0281341": {
+    "zipcode": "0281341",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "八幡町"
+  },
+  "0281342": {
+    "zipcode": "0281342",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "川向町"
+  },
+  "0281343": {
+    "zipcode": "0281343",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "境田町"
+  },
+  "0281351": {
+    "zipcode": "0281351",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "長崎"
+  },
+  "0281352": {
+    "zipcode": "0281352",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "飯岡"
+  },
+  "0281361": {
+    "zipcode": "0281361",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "織笠"
+  },
+  "0281371": {
+    "zipcode": "0281371",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡山田町",
+    "town": "船越"
+  },
+  "0282101": {
+    "zipcode": "0282101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "茂市"
+  },
+  "0282102": {
+    "zipcode": "0282102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "蟇目"
+  },
+  "0282103": {
+    "zipcode": "0282103",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "腹帯"
+  },
+  "0282104": {
+    "zipcode": "0282104",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "刈屋"
+  },
+  "0282105": {
+    "zipcode": "0282105",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "和井内"
+  },
+  "0282231": {
+    "zipcode": "0282231",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "浅内"
+  },
+  "0282232": {
+    "zipcode": "0282232",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "大川"
+  },
+  "0282233": {
+    "zipcode": "0282233",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "釜津田（その他）"
+  },
+  "0282301": {
+    "zipcode": "0282301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "古田"
+  },
+  "0282302": {
+    "zipcode": "0282302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "川井（その他）"
+  },
+  "0282303": {
+    "zipcode": "0282303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "片巣"
+  },
+  "0282304": {
+    "zipcode": "0282304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "箱石（その他）"
+  },
+  "0282402": {
+    "zipcode": "0282402",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "川井（第９地割〜第１１地割）"
+  },
+  "0282421": {
+    "zipcode": "0282421",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "江繋"
+  },
+  "0282422": {
+    "zipcode": "0282422",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "小国"
+  },
+  "0282504": {
+    "zipcode": "0282504",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "箱石（第２地割「７０〜１３６」〜第４地割「３〜１１」）"
+  },
+  "0282511": {
+    "zipcode": "0282511",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "夏屋"
+  },
+  "0282512": {
+    "zipcode": "0282512",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "鈴久名"
+  },
+  "0282513": {
+    "zipcode": "0282513",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "川内"
+  },
+  "0282631": {
+    "zipcode": "0282631",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "区界"
+  },
+  "0282632": {
+    "zipcode": "0282632",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "門馬"
+  },
+  "0282633": {
+    "zipcode": "0282633",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "宮古市",
+    "town": "平津戸"
+  },
+  "0282711": {
+    "zipcode": "0282711",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "薮川"
+  },
+  "0283101": {
+    "zipcode": "0283101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町好地"
+  },
+  "0283102": {
+    "zipcode": "0283102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町上口"
+  },
+  "0283111": {
+    "zipcode": "0283111",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町新堀"
+  },
+  "0283121": {
+    "zipcode": "0283121",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町戸塚"
+  },
+  "0283122": {
+    "zipcode": "0283122",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町滝田"
+  },
+  "0283131": {
+    "zipcode": "0283131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町猪鼻"
+  },
+  "0283132": {
+    "zipcode": "0283132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町東中島"
+  },
+  "0283133": {
+    "zipcode": "0283133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町関口"
+  },
+  "0283141": {
+    "zipcode": "0283141",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町五大堂"
+  },
+  "0283142": {
+    "zipcode": "0283142",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町八重畑"
+  },
+  "0283151": {
+    "zipcode": "0283151",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町江曽"
+  },
+  "0283152": {
+    "zipcode": "0283152",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町南寺林"
+  },
+  "0283153": {
+    "zipcode": "0283153",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町小森林"
+  },
+  "0283161": {
+    "zipcode": "0283161",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町黒沼"
+  },
+  "0283162": {
+    "zipcode": "0283162",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町西中島"
+  },
+  "0283163": {
+    "zipcode": "0283163",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町八幡"
+  },
+  "0283171": {
+    "zipcode": "0283171",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町中寺林"
+  },
+  "0283172": {
+    "zipcode": "0283172",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町北寺林"
+  },
+  "0283181": {
+    "zipcode": "0283181",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町大興寺"
+  },
+  "0283182": {
+    "zipcode": "0283182",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町松林寺"
+  },
+  "0283183": {
+    "zipcode": "0283183",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町長谷堂"
+  },
+  "0283184": {
+    "zipcode": "0283184",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町富沢"
+  },
+  "0283185": {
+    "zipcode": "0283185",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "石鳥谷町大瀬川"
+  },
+  "0283201": {
+    "zipcode": "0283201",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大迫町内川目"
+  },
+  "0283202": {
+    "zipcode": "0283202",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大迫町外川目"
+  },
+  "0283203": {
+    "zipcode": "0283203",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大迫町大迫"
+  },
+  "0283204": {
+    "zipcode": "0283204",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "花巻市",
+    "town": "大迫町亀ケ森"
+  },
+  "0283300": {
+    "zipcode": "0283300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "以下に掲載がない場合"
+  },
+  "0283301": {
+    "zipcode": "0283301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "中島"
+  },
+  "0283302": {
+    "zipcode": "0283302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "陣ケ岡"
+  },
+  "0283303": {
+    "zipcode": "0283303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "高水寺"
+  },
+  "0283304": {
+    "zipcode": "0283304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "二日町"
+  },
+  "0283305": {
+    "zipcode": "0283305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "日詰"
+  },
+  "0283306": {
+    "zipcode": "0283306",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "日詰西"
+  },
+  "0283307": {
+    "zipcode": "0283307",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "桜町"
+  },
+  "0283308": {
+    "zipcode": "0283308",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "平沢"
+  },
+  "0283309": {
+    "zipcode": "0283309",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "北日詰"
+  },
+  "0283310": {
+    "zipcode": "0283310",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "日詰駅前"
+  },
+  "0283311": {
+    "zipcode": "0283311",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "犬渕"
+  },
+  "0283312": {
+    "zipcode": "0283312",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "犬吠森"
+  },
+  "0283313": {
+    "zipcode": "0283313",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "星山"
+  },
+  "0283314": {
+    "zipcode": "0283314",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "大巻"
+  },
+  "0283315": {
+    "zipcode": "0283315",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "彦部"
+  },
+  "0283316": {
+    "zipcode": "0283316",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "佐比内"
+  },
+  "0283317": {
+    "zipcode": "0283317",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "南日詰"
+  },
+  "0283318": {
+    "zipcode": "0283318",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "紫波中央駅前"
+  },
+  "0283321": {
+    "zipcode": "0283321",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "江柄"
+  },
+  "0283322": {
+    "zipcode": "0283322",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "栃内"
+  },
+  "0283323": {
+    "zipcode": "0283323",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "北沢"
+  },
+  "0283324": {
+    "zipcode": "0283324",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "東長岡"
+  },
+  "0283325": {
+    "zipcode": "0283325",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "草刈"
+  },
+  "0283326": {
+    "zipcode": "0283326",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "西長岡"
+  },
+  "0283441": {
+    "zipcode": "0283441",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "上平沢"
+  },
+  "0283442": {
+    "zipcode": "0283442",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "升沢"
+  },
+  "0283443": {
+    "zipcode": "0283443",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "上松本"
+  },
+  "0283444": {
+    "zipcode": "0283444",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "小屋敷"
+  },
+  "0283445": {
+    "zipcode": "0283445",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "南伝法寺"
+  },
+  "0283446": {
+    "zipcode": "0283446",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "下松本"
+  },
+  "0283447": {
+    "zipcode": "0283447",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "宮手"
+  },
+  "0283448": {
+    "zipcode": "0283448",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "吉水"
+  },
+  "0283451": {
+    "zipcode": "0283451",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "稲藤"
+  },
+  "0283452": {
+    "zipcode": "0283452",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "片寄"
+  },
+  "0283453": {
+    "zipcode": "0283453",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "土舘"
+  },
+  "0283531": {
+    "zipcode": "0283531",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "山屋"
+  },
+  "0283532": {
+    "zipcode": "0283532",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "船久保"
+  },
+  "0283533": {
+    "zipcode": "0283533",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "赤沢"
+  },
+  "0283534": {
+    "zipcode": "0283534",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "紫野"
+  },
+  "0283535": {
+    "zipcode": "0283535",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "遠山"
+  },
+  "0283536": {
+    "zipcode": "0283536",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡紫波町",
+    "town": "北田"
+  },
+  "0283600": {
+    "zipcode": "0283600",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "以下に掲載がない場合"
+  },
+  "0283601": {
+    "zipcode": "0283601",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "高田"
+  },
+  "0283602": {
+    "zipcode": "0283602",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "藤沢"
+  },
+  "0283603": {
+    "zipcode": "0283603",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "西徳田"
+  },
+  "0283604": {
+    "zipcode": "0283604",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "東徳田"
+  },
+  "0283605": {
+    "zipcode": "0283605",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "間野々"
+  },
+  "0283606": {
+    "zipcode": "0283606",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "土橋"
+  },
+  "0283607": {
+    "zipcode": "0283607",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "高水寺"
+  },
+  "0283608": {
+    "zipcode": "0283608",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "北郡山"
+  },
+  "0283609": {
+    "zipcode": "0283609",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "医大通"
+  },
+  "0283611": {
+    "zipcode": "0283611",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "赤林"
+  },
+  "0283612": {
+    "zipcode": "0283612",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "下矢次"
+  },
+  "0283613": {
+    "zipcode": "0283613",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "北矢幅"
+  },
+  "0283614": {
+    "zipcode": "0283614",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "又兵エ新田"
+  },
+  "0283615": {
+    "zipcode": "0283615",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "南矢幅"
+  },
+  "0283616": {
+    "zipcode": "0283616",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "白沢"
+  },
+  "0283617": {
+    "zipcode": "0283617",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "太田"
+  },
+  "0283618": {
+    "zipcode": "0283618",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "駅東"
+  },
+  "0283621": {
+    "zipcode": "0283621",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "広宮沢"
+  },
+  "0283622": {
+    "zipcode": "0283622",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "上矢次"
+  },
+  "0283623": {
+    "zipcode": "0283623",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "煙山"
+  },
+  "0283624": {
+    "zipcode": "0283624",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "北伝法寺"
+  },
+  "0283625": {
+    "zipcode": "0283625",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "室岡"
+  },
+  "0283626": {
+    "zipcode": "0283626",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "岩清水"
+  },
+  "0283627": {
+    "zipcode": "0283627",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "紫波郡矢巾町",
+    "town": "和味"
+  },
+  "0284121": {
+    "zipcode": "0284121",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "玉山永井"
+  },
+  "0284122": {
+    "zipcode": "0284122",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "寺林"
+  },
+  "0284123": {
+    "zipcode": "0284123",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "巻堀"
+  },
+  "0284124": {
+    "zipcode": "0284124",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "玉山馬場"
+  },
+  "0284125": {
+    "zipcode": "0284125",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "好摩"
+  },
+  "0284131": {
+    "zipcode": "0284131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "芋田"
+  },
+  "0284132": {
+    "zipcode": "0284132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "渋民"
+  },
+  "0284133": {
+    "zipcode": "0284133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "門前寺"
+  },
+  "0284134": {
+    "zipcode": "0284134",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "下田"
+  },
+  "0284135": {
+    "zipcode": "0284135",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "川崎"
+  },
+  "0284136": {
+    "zipcode": "0284136",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "town": "松内"
+  },
+  "0284211": {
+    "zipcode": "0284211",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "川口"
+  },
+  "0284300": {
+    "zipcode": "0284300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "以下に掲載がない場合"
+  },
+  "0284301": {
+    "zipcode": "0284301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "沼宮内"
+  },
+  "0284302": {
+    "zipcode": "0284302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "大坊"
+  },
+  "0284303": {
+    "zipcode": "0284303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "江刈内"
+  },
+  "0284304": {
+    "zipcode": "0284304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "子抱"
+  },
+  "0284305": {
+    "zipcode": "0284305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "久保"
+  },
+  "0284306": {
+    "zipcode": "0284306",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "御堂"
+  },
+  "0284307": {
+    "zipcode": "0284307",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "五日市"
+  },
+  "0284421": {
+    "zipcode": "0284421",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "一方井"
+  },
+  "0284422": {
+    "zipcode": "0284422",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "坊"
+  },
+  "0284423": {
+    "zipcode": "0284423",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "土川"
+  },
+  "0284424": {
+    "zipcode": "0284424",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "黒石"
+  },
+  "0284425": {
+    "zipcode": "0284425",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "葉木田"
+  },
+  "0284426": {
+    "zipcode": "0284426",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡岩手町",
+    "town": "黒内"
+  },
+  "0285102": {
+    "zipcode": "0285102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡葛巻町",
+    "town": "葛巻（第４０地割「５７番地１２５、１７６を除く」〜第４５地割）"
+  },
+  "0285131": {
+    "zipcode": "0285131",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "宇別"
+  },
+  "0285132": {
+    "zipcode": "0285132",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "小繋"
+  },
+  "0285133": {
+    "zipcode": "0285133",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "中山（その他）"
+  },
+  "0285134": {
+    "zipcode": "0285134",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "奥中山"
+  },
+  "0285221": {
+    "zipcode": "0285221",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "小鳥谷"
+  },
+  "0285222": {
+    "zipcode": "0285222",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "姉帯"
+  },
+  "0285223": {
+    "zipcode": "0285223",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "面岸"
+  },
+  "0285224": {
+    "zipcode": "0285224",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "平糠"
+  },
+  "0285233": {
+    "zipcode": "0285233",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "中山（新田１７−２、３７番地、東火行１番地）"
+  },
+  "0285300": {
+    "zipcode": "0285300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "以下に掲載がない場合"
+  },
+  "0285301": {
+    "zipcode": "0285301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "西法寺"
+  },
+  "0285302": {
+    "zipcode": "0285302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "女鹿"
+  },
+  "0285303": {
+    "zipcode": "0285303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "小友"
+  },
+  "0285304": {
+    "zipcode": "0285304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "出ル町"
+  },
+  "0285305": {
+    "zipcode": "0285305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "月舘"
+  },
+  "0285306": {
+    "zipcode": "0285306",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "中里"
+  },
+  "0285311": {
+    "zipcode": "0285311",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "高善寺"
+  },
+  "0285312": {
+    "zipcode": "0285312",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "一戸"
+  },
+  "0285313": {
+    "zipcode": "0285313",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "鳥越"
+  },
+  "0285314": {
+    "zipcode": "0285314",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "楢山"
+  },
+  "0285315": {
+    "zipcode": "0285315",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "根反"
+  },
+  "0285316": {
+    "zipcode": "0285316",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸郡一戸町",
+    "town": "岩舘"
+  },
+  "0285400": {
+    "zipcode": "0285400",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡葛巻町",
+    "town": "以下に掲載がない場合"
+  },
+  "0285401": {
+    "zipcode": "0285401",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡葛巻町",
+    "town": "田部"
+  },
+  "0285402": {
+    "zipcode": "0285402",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡葛巻町",
+    "town": "葛巻（その他）"
+  },
+  "0285403": {
+    "zipcode": "0285403",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "岩手郡葛巻町",
+    "town": "江刈"
+  },
+  "0285633": {
+    "zipcode": "0285633",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "釜津田（上栗宿、栗宿、権現）"
+  },
+  "0285641": {
+    "zipcode": "0285641",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "門"
+  },
+  "0285642": {
+    "zipcode": "0285642",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "穴沢"
+  },
+  "0285643": {
+    "zipcode": "0285643",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡岩泉町",
+    "town": "袰綿"
+  },
+  "0285702": {
+    "zipcode": "0285702",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "下斗米（外芹沢、月折、土橋）"
+  },
+  "0285711": {
+    "zipcode": "0285711",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "金田一"
+  },
+  "0285712": {
+    "zipcode": "0285712",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "野々上"
+  },
+  "0285713": {
+    "zipcode": "0285713",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "釜沢"
+  },
+  "0286100": {
+    "zipcode": "0286100",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "以下に掲載がない場合"
+  },
+  "0286101": {
+    "zipcode": "0286101",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "福岡"
+  },
+  "0286102": {
+    "zipcode": "0286102",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "下斗米（その他）"
+  },
+  "0286103": {
+    "zipcode": "0286103",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "石切所"
+  },
+  "0286104": {
+    "zipcode": "0286104",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "米沢"
+  },
+  "0286105": {
+    "zipcode": "0286105",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "堀野"
+  },
+  "0286106": {
+    "zipcode": "0286106",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "仁左平"
+  },
+  "0286107": {
+    "zipcode": "0286107",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "白鳥"
+  },
+  "0286108": {
+    "zipcode": "0286108",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "上斗米"
+  },
+  "0286221": {
+    "zipcode": "0286221",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "晴山"
+  },
+  "0286222": {
+    "zipcode": "0286222",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "山内"
+  },
+  "0286223": {
+    "zipcode": "0286223",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "狄塚"
+  },
+  "0286300": {
+    "zipcode": "0286300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "以下に掲載がない場合"
+  },
+  "0286301": {
+    "zipcode": "0286301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "上舘"
+  },
+  "0286302": {
+    "zipcode": "0286302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "軽米"
+  },
+  "0286303": {
+    "zipcode": "0286303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "高家"
+  },
+  "0286304": {
+    "zipcode": "0286304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "長倉"
+  },
+  "0286411": {
+    "zipcode": "0286411",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "小軽米"
+  },
+  "0286412": {
+    "zipcode": "0286412",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "蛇口"
+  },
+  "0286413": {
+    "zipcode": "0286413",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡軽米町",
+    "town": "円子"
+  },
+  "0286500": {
+    "zipcode": "0286500",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "以下に掲載がない場合"
+  },
+  "0286501": {
+    "zipcode": "0286501",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "荒谷"
+  },
+  "0286502": {
+    "zipcode": "0286502",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "伊保内"
+  },
+  "0286503": {
+    "zipcode": "0286503",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "小倉"
+  },
+  "0286504": {
+    "zipcode": "0286504",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "長興寺"
+  },
+  "0286505": {
+    "zipcode": "0286505",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "江刺家"
+  },
+  "0286506": {
+    "zipcode": "0286506",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "山屋"
+  },
+  "0286507": {
+    "zipcode": "0286507",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "雪屋"
+  },
+  "0286611": {
+    "zipcode": "0286611",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "山根"
+  },
+  "0286612": {
+    "zipcode": "0286612",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡九戸村",
+    "town": "戸田"
+  },
+  "0286721": {
+    "zipcode": "0286721",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "似鳥"
+  },
+  "0286722": {
+    "zipcode": "0286722",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "福田"
+  },
+  "0286723": {
+    "zipcode": "0286723",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "安比"
+  },
+  "0286724": {
+    "zipcode": "0286724",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "足沢"
+  },
+  "0286811": {
+    "zipcode": "0286811",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町手倉森"
+  },
+  "0286812": {
+    "zipcode": "0286812",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下沢"
+  },
+  "0286813": {
+    "zipcode": "0286813",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大平"
+  },
+  "0286814": {
+    "zipcode": "0286814",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町北村"
+  },
+  "0286815": {
+    "zipcode": "0286815",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町八方口"
+  },
+  "0286816": {
+    "zipcode": "0286816",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町上谷地"
+  },
+  "0286817": {
+    "zipcode": "0286817",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢大久保"
+  },
+  "0286818": {
+    "zipcode": "0286818",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町鏡田"
+  },
+  "0286819": {
+    "zipcode": "0286819",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町馬洗場"
+  },
+  "0286821": {
+    "zipcode": "0286821",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町小平"
+  },
+  "0286822": {
+    "zipcode": "0286822",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢舘"
+  },
+  "0286823": {
+    "zipcode": "0286823",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町宮沢"
+  },
+  "0286824": {
+    "zipcode": "0286824",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町西ノ沢"
+  },
+  "0286825": {
+    "zipcode": "0286825",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町長坂"
+  },
+  "0286826": {
+    "zipcode": "0286826",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町川又"
+  },
+  "0286831": {
+    "zipcode": "0286831",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢下平"
+  },
+  "0286832": {
+    "zipcode": "0286832",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢上平"
+  },
+  "0286833": {
+    "zipcode": "0286833",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢"
+  },
+  "0286834": {
+    "zipcode": "0286834",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町細田"
+  },
+  "0286835": {
+    "zipcode": "0286835",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢下モ前田"
+  },
+  "0286836": {
+    "zipcode": "0286836",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町関田"
+  },
+  "0286837": {
+    "zipcode": "0286837",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町荒屋敷"
+  },
+  "0286838": {
+    "zipcode": "0286838",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町向田"
+  },
+  "0286841": {
+    "zipcode": "0286841",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町松岡"
+  },
+  "0286842": {
+    "zipcode": "0286842",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢中前田"
+  },
+  "0286843": {
+    "zipcode": "0286843",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町堤口"
+  },
+  "0286844": {
+    "zipcode": "0286844",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町岡本前田"
+  },
+  "0286845": {
+    "zipcode": "0286845",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆沢上前田"
+  },
+  "0286846": {
+    "zipcode": "0286846",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下タ前田"
+  },
+  "0286847": {
+    "zipcode": "0286847",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町岩渕"
+  },
+  "0286848": {
+    "zipcode": "0286848",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町ウト坂"
+  },
+  "0286849": {
+    "zipcode": "0286849",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町岡本"
+  },
+  "0286851": {
+    "zipcode": "0286851",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町小池"
+  },
+  "0286852": {
+    "zipcode": "0286852",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町樋田"
+  },
+  "0286853": {
+    "zipcode": "0286853",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町サイカツ田"
+  },
+  "0286854": {
+    "zipcode": "0286854",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下前田"
+  },
+  "0286855": {
+    "zipcode": "0286855",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町浄法寺"
+  },
+  "0286856": {
+    "zipcode": "0286856",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町上外野"
+  },
+  "0286857": {
+    "zipcode": "0286857",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町合名沢"
+  },
+  "0286861": {
+    "zipcode": "0286861",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町上野"
+  },
+  "0286862": {
+    "zipcode": "0286862",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町寺ノ上"
+  },
+  "0286863": {
+    "zipcode": "0286863",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町八幡舘"
+  },
+  "0286864": {
+    "zipcode": "0286864",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町門前向"
+  },
+  "0286865": {
+    "zipcode": "0286865",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町野田"
+  },
+  "0286866": {
+    "zipcode": "0286866",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町飯近"
+  },
+  "0286867": {
+    "zipcode": "0286867",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町焼場"
+  },
+  "0286868": {
+    "zipcode": "0286868",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町長者花"
+  },
+  "0286871": {
+    "zipcode": "0286871",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町安戸"
+  },
+  "0286872": {
+    "zipcode": "0286872",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町里川目"
+  },
+  "0286873": {
+    "zipcode": "0286873",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大志田"
+  },
+  "0286874": {
+    "zipcode": "0286874",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町一反田"
+  },
+  "0286875": {
+    "zipcode": "0286875",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町舘"
+  },
+  "0286876": {
+    "zipcode": "0286876",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町田子内沢"
+  },
+  "0286877": {
+    "zipcode": "0286877",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町伊崎沢"
+  },
+  "0286878": {
+    "zipcode": "0286878",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆原"
+  },
+  "0286879": {
+    "zipcode": "0286879",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町梅ノ木"
+  },
+  "0286881": {
+    "zipcode": "0286881",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町渡ノ羽"
+  },
+  "0286882": {
+    "zipcode": "0286882",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町羽余内"
+  },
+  "0286883": {
+    "zipcode": "0286883",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町荒谷"
+  },
+  "0286884": {
+    "zipcode": "0286884",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町新山"
+  },
+  "0286885": {
+    "zipcode": "0286885",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町森越"
+  },
+  "0286901": {
+    "zipcode": "0286901",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町深堀"
+  },
+  "0286902": {
+    "zipcode": "0286902",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町明神沢"
+  },
+  "0286903": {
+    "zipcode": "0286903",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町坂本"
+  },
+  "0286904": {
+    "zipcode": "0286904",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町里代"
+  },
+  "0286905": {
+    "zipcode": "0286905",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町空久保"
+  },
+  "0286906": {
+    "zipcode": "0286906",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町上杉沢"
+  },
+  "0286907": {
+    "zipcode": "0286907",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町季ケ平"
+  },
+  "0286908": {
+    "zipcode": "0286908",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町野黒沢"
+  },
+  "0286911": {
+    "zipcode": "0286911",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町上前田"
+  },
+  "0286912": {
+    "zipcode": "0286912",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町中前田"
+  },
+  "0286913": {
+    "zipcode": "0286913",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下ノ沢"
+  },
+  "0286914": {
+    "zipcode": "0286914",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町和泉田"
+  },
+  "0286915": {
+    "zipcode": "0286915",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町霜屋敷"
+  },
+  "0286916": {
+    "zipcode": "0286916",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大清水下モ平"
+  },
+  "0286917": {
+    "zipcode": "0286917",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大清水前田"
+  },
+  "0286918": {
+    "zipcode": "0286918",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町サイカツ平"
+  },
+  "0286919": {
+    "zipcode": "0286919",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大清水荒屋"
+  },
+  "0286921": {
+    "zipcode": "0286921",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町小泉"
+  },
+  "0286922": {
+    "zipcode": "0286922",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下谷地"
+  },
+  "0286923": {
+    "zipcode": "0286923",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下村"
+  },
+  "0286924": {
+    "zipcode": "0286924",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町家ノ上"
+  },
+  "0286925": {
+    "zipcode": "0286925",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町梅田"
+  },
+  "0286926": {
+    "zipcode": "0286926",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町門崎"
+  },
+  "0286927": {
+    "zipcode": "0286927",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町湯沢"
+  },
+  "0286928": {
+    "zipcode": "0286928",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町山内"
+  },
+  "0286929": {
+    "zipcode": "0286929",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大清水空久保"
+  },
+  "0286931": {
+    "zipcode": "0286931",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町尻平"
+  },
+  "0286932": {
+    "zipcode": "0286932",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町松畑"
+  },
+  "0286933": {
+    "zipcode": "0286933",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山上野"
+  },
+  "0286934": {
+    "zipcode": "0286934",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町沢田"
+  },
+  "0286935": {
+    "zipcode": "0286935",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山下前田"
+  },
+  "0286936": {
+    "zipcode": "0286936",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町長渡路"
+  },
+  "0286937": {
+    "zipcode": "0286937",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大畑"
+  },
+  "0286938": {
+    "zipcode": "0286938",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山上平"
+  },
+  "0286939": {
+    "zipcode": "0286939",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町長流部"
+  },
+  "0286941": {
+    "zipcode": "0286941",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山中前田"
+  },
+  "0286942": {
+    "zipcode": "0286942",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山久保"
+  },
+  "0286943": {
+    "zipcode": "0286943",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町後久保"
+  },
+  "0286944": {
+    "zipcode": "0286944",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町飛鳥"
+  },
+  "0286945": {
+    "zipcode": "0286945",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町飛鳥谷地"
+  },
+  "0286946": {
+    "zipcode": "0286946",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町安比内"
+  },
+  "0286947": {
+    "zipcode": "0286947",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町安比内沢"
+  },
+  "0286948": {
+    "zipcode": "0286948",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山舘"
+  },
+  "0286949": {
+    "zipcode": "0286949",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山前田"
+  },
+  "0286951": {
+    "zipcode": "0286951",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町清水尻"
+  },
+  "0286952": {
+    "zipcode": "0286952",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町御山大久保"
+  },
+  "0286953": {
+    "zipcode": "0286953",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町木沢畑向"
+  },
+  "0286954": {
+    "zipcode": "0286954",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町早坂"
+  },
+  "0286955": {
+    "zipcode": "0286955",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町桂平"
+  },
+  "0286956": {
+    "zipcode": "0286956",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大坊"
+  },
+  "0286957": {
+    "zipcode": "0286957",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町海上田"
+  },
+  "0286958": {
+    "zipcode": "0286958",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町大手"
+  },
+  "0286961": {
+    "zipcode": "0286961",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町滝見橋"
+  },
+  "0286962": {
+    "zipcode": "0286962",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町馬場向"
+  },
+  "0286963": {
+    "zipcode": "0286963",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町小又"
+  },
+  "0286964": {
+    "zipcode": "0286964",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町沼久保"
+  },
+  "0286965": {
+    "zipcode": "0286965",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町谷地屋敷"
+  },
+  "0286966": {
+    "zipcode": "0286966",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町海上"
+  },
+  "0286967": {
+    "zipcode": "0286967",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町惣川原田"
+  },
+  "0286968": {
+    "zipcode": "0286968",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町海上前田"
+  },
+  "0286969": {
+    "zipcode": "0286969",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町端保口"
+  },
+  "0286971": {
+    "zipcode": "0286971",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町向川原"
+  },
+  "0286972": {
+    "zipcode": "0286972",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町桜田"
+  },
+  "0286973": {
+    "zipcode": "0286973",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町駒ケ嶺舘"
+  },
+  "0286974": {
+    "zipcode": "0286974",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町中畑"
+  },
+  "0286975": {
+    "zipcode": "0286975",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町田余内"
+  },
+  "0286976": {
+    "zipcode": "0286976",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町樋口"
+  },
+  "0286977": {
+    "zipcode": "0286977",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町駒ケ嶺"
+  },
+  "0286978": {
+    "zipcode": "0286978",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町駒ケ嶺前田"
+  },
+  "0286979": {
+    "zipcode": "0286979",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町駒ケ嶺野田"
+  },
+  "0286981": {
+    "zipcode": "0286981",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町五庵"
+  },
+  "0286982": {
+    "zipcode": "0286982",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町焼切"
+  },
+  "0286983": {
+    "zipcode": "0286983",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町下藤"
+  },
+  "0286984": {
+    "zipcode": "0286984",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町柿ノ木平"
+  },
+  "0286985": {
+    "zipcode": "0286985",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "二戸市",
+    "town": "浄法寺町漆畑"
+  },
+  "0287100": {
+    "zipcode": "0287100",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "以下に掲載がない場合"
+  },
+  "0287111": {
+    "zipcode": "0287111",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "大更"
+  },
+  "0287112": {
+    "zipcode": "0287112",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "田頭"
+  },
+  "0287113": {
+    "zipcode": "0287113",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "平笠"
+  },
+  "0287301": {
+    "zipcode": "0287301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "野駄"
+  },
+  "0287302": {
+    "zipcode": "0287302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "松川温泉"
+  },
+  "0287303": {
+    "zipcode": "0287303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "藤七温泉"
+  },
+  "0287304": {
+    "zipcode": "0287304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "緑ガ丘"
+  },
+  "0287305": {
+    "zipcode": "0287305",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "松尾"
+  },
+  "0287306": {
+    "zipcode": "0287306",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "安比高原"
+  },
+  "0287401": {
+    "zipcode": "0287401",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "西根寺田"
+  },
+  "0287402": {
+    "zipcode": "0287402",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "帷子"
+  },
+  "0287403": {
+    "zipcode": "0287403",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "上関"
+  },
+  "0287404": {
+    "zipcode": "0287404",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "堀切"
+  },
+  "0287405": {
+    "zipcode": "0287405",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "平舘"
+  },
+  "0287406": {
+    "zipcode": "0287406",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "荒木田"
+  },
+  "0287501": {
+    "zipcode": "0287501",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "岩木向"
+  },
+  "0287502": {
+    "zipcode": "0287502",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "上岩木"
+  },
+  "0287503": {
+    "zipcode": "0287503",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "中田"
+  },
+  "0287504": {
+    "zipcode": "0287504",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "前田"
+  },
+  "0287505": {
+    "zipcode": "0287505",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "岩屋"
+  },
+  "0287506": {
+    "zipcode": "0287506",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "安代寺田"
+  },
+  "0287511": {
+    "zipcode": "0287511",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "下の田"
+  },
+  "0287512": {
+    "zipcode": "0287512",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "山岸"
+  },
+  "0287513": {
+    "zipcode": "0287513",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "土沢"
+  },
+  "0287514": {
+    "zipcode": "0287514",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "中佐井"
+  },
+  "0287515": {
+    "zipcode": "0287515",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "古屋敷"
+  },
+  "0287516": {
+    "zipcode": "0287516",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "関沢口"
+  },
+  "0287521": {
+    "zipcode": "0287521",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "石神"
+  },
+  "0287522": {
+    "zipcode": "0287522",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "山口"
+  },
+  "0287523": {
+    "zipcode": "0287523",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "繋沢"
+  },
+  "0287524": {
+    "zipcode": "0287524",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "湯の沢"
+  },
+  "0287525": {
+    "zipcode": "0287525",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "日影"
+  },
+  "0287526": {
+    "zipcode": "0287526",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "赤子平"
+  },
+  "0287527": {
+    "zipcode": "0287527",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "川原"
+  },
+  "0287531": {
+    "zipcode": "0287531",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "上の山"
+  },
+  "0287532": {
+    "zipcode": "0287532",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小柳田"
+  },
+  "0287533": {
+    "zipcode": "0287533",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "叺田"
+  },
+  "0287534": {
+    "zipcode": "0287534",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "荒屋新町"
+  },
+  "0287535": {
+    "zipcode": "0287535",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "清水"
+  },
+  "0287536": {
+    "zipcode": "0287536",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "打田内"
+  },
+  "0287537": {
+    "zipcode": "0287537",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "曲田"
+  },
+  "0287541": {
+    "zipcode": "0287541",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "寺志田"
+  },
+  "0287542": {
+    "zipcode": "0287542",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "高畑"
+  },
+  "0287543": {
+    "zipcode": "0287543",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小屋畑"
+  },
+  "0287544": {
+    "zipcode": "0287544",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "保戸坂"
+  },
+  "0287545": {
+    "zipcode": "0287545",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "松木田"
+  },
+  "0287551": {
+    "zipcode": "0287551",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "新田"
+  },
+  "0287552": {
+    "zipcode": "0287552",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "安代寄木"
+  },
+  "0287553": {
+    "zipcode": "0287553",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "扇畑"
+  },
+  "0287554": {
+    "zipcode": "0287554",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "赤坂田"
+  },
+  "0287555": {
+    "zipcode": "0287555",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "黒沢"
+  },
+  "0287556": {
+    "zipcode": "0287556",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "星沢"
+  },
+  "0287557": {
+    "zipcode": "0287557",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "細野"
+  },
+  "0287561": {
+    "zipcode": "0287561",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "下町"
+  },
+  "0287562": {
+    "zipcode": "0287562",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "五日市"
+  },
+  "0287563": {
+    "zipcode": "0287563",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "田の沢"
+  },
+  "0287564": {
+    "zipcode": "0287564",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "谷地田"
+  },
+  "0287565": {
+    "zipcode": "0287565",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "目名市"
+  },
+  "0287566": {
+    "zipcode": "0287566",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "滝沢"
+  },
+  "0287567": {
+    "zipcode": "0287567",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "戸沢"
+  },
+  "0287601": {
+    "zipcode": "0287601",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "田沢"
+  },
+  "0287602": {
+    "zipcode": "0287602",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "丑山"
+  },
+  "0287603": {
+    "zipcode": "0287603",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "矢神"
+  },
+  "0287604": {
+    "zipcode": "0287604",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "丑山口"
+  },
+  "0287605": {
+    "zipcode": "0287605",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "鵜谷地"
+  },
+  "0287606": {
+    "zipcode": "0287606",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "姥子石"
+  },
+  "0287607": {
+    "zipcode": "0287607",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "大面平"
+  },
+  "0287608": {
+    "zipcode": "0287608",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "谷地中"
+  },
+  "0287611": {
+    "zipcode": "0287611",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "沖田表"
+  },
+  "0287612": {
+    "zipcode": "0287612",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "欠田"
+  },
+  "0287613": {
+    "zipcode": "0287613",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "亦戸川原"
+  },
+  "0287614": {
+    "zipcode": "0287614",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "石名坂下タ"
+  },
+  "0287615": {
+    "zipcode": "0287615",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "石名坂"
+  },
+  "0287616": {
+    "zipcode": "0287616",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "二タ子"
+  },
+  "0287617": {
+    "zipcode": "0287617",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "折壁"
+  },
+  "0287618": {
+    "zipcode": "0287618",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "蛇石"
+  },
+  "0287619": {
+    "zipcode": "0287619",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "相沢"
+  },
+  "0287621": {
+    "zipcode": "0287621",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "作平"
+  },
+  "0287622": {
+    "zipcode": "0287622",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "兄畑中川原"
+  },
+  "0287623": {
+    "zipcode": "0287623",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "舘市"
+  },
+  "0287624": {
+    "zipcode": "0287624",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "大又沢口"
+  },
+  "0287625": {
+    "zipcode": "0287625",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "沖ノ平"
+  },
+  "0287626": {
+    "zipcode": "0287626",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "戸鎖"
+  },
+  "0287627": {
+    "zipcode": "0287627",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "佐比内"
+  },
+  "0287628": {
+    "zipcode": "0287628",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小岩井"
+  },
+  "0287629": {
+    "zipcode": "0287629",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "白沢口"
+  },
+  "0287631": {
+    "zipcode": "0287631",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "瀬ノ沢"
+  },
+  "0287632": {
+    "zipcode": "0287632",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小原道ノ上"
+  },
+  "0287633": {
+    "zipcode": "0287633",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "日泥道ノ上"
+  },
+  "0287634": {
+    "zipcode": "0287634",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "和屋敷道ノ上"
+  },
+  "0287635": {
+    "zipcode": "0287635",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "愛の山"
+  },
+  "0287636": {
+    "zipcode": "0287636",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "和屋敷道ノ下"
+  },
+  "0287637": {
+    "zipcode": "0287637",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "日泥道ノ下"
+  },
+  "0287638": {
+    "zipcode": "0287638",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小原道ノ下"
+  },
+  "0287641": {
+    "zipcode": "0287641",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "比路平"
+  },
+  "0287642": {
+    "zipcode": "0287642",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "勝善川原"
+  },
+  "0287643": {
+    "zipcode": "0287643",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "切通"
+  },
+  "0287644": {
+    "zipcode": "0287644",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "雀長根"
+  },
+  "0287645": {
+    "zipcode": "0287645",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "下タ川原"
+  },
+  "0287651": {
+    "zipcode": "0287651",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "長者前"
+  },
+  "0287652": {
+    "zipcode": "0287652",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "根石"
+  },
+  "0287653": {
+    "zipcode": "0287653",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "平又"
+  },
+  "0287654": {
+    "zipcode": "0287654",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小峠"
+  },
+  "0287655": {
+    "zipcode": "0287655",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "馬揚沢"
+  },
+  "0287656": {
+    "zipcode": "0287656",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "左妻"
+  },
+  "0287657": {
+    "zipcode": "0287657",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "栗木田"
+  },
+  "0287661": {
+    "zipcode": "0287661",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "大沢"
+  },
+  "0287662": {
+    "zipcode": "0287662",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "杉沢"
+  },
+  "0287663": {
+    "zipcode": "0287663",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "石森"
+  },
+  "0287664": {
+    "zipcode": "0287664",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "大沢田"
+  },
+  "0287671": {
+    "zipcode": "0287671",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "馬場下"
+  },
+  "0287672": {
+    "zipcode": "0287672",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "田中下タ"
+  },
+  "0287673": {
+    "zipcode": "0287673",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "殿坂下タ"
+  },
+  "0287674": {
+    "zipcode": "0287674",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "家ノ裏"
+  },
+  "0287675": {
+    "zipcode": "0287675",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "下モ川原"
+  },
+  "0287676": {
+    "zipcode": "0287676",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "沢口"
+  },
+  "0287677": {
+    "zipcode": "0287677",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "田山"
+  },
+  "0287678": {
+    "zipcode": "0287678",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "小森"
+  },
+  "0287679": {
+    "zipcode": "0287679",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "八幡平市",
+    "town": "足深"
+  },
+  "0287801": {
+    "zipcode": "0287801",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "侍浜町"
+  },
+  "0287900": {
+    "zipcode": "0287900",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "以下に掲載がない場合"
+  },
+  "0287901": {
+    "zipcode": "0287901",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第８地割〜第１４地割（玉川、戸類家）"
+  },
+  "0287902": {
+    "zipcode": "0287902",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第４地割〜第７地割（宿戸）"
+  },
+  "0287903": {
+    "zipcode": "0287903",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第１地割〜第３地割（八木南町、八木北町）"
+  },
+  "0287904": {
+    "zipcode": "0287904",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "小子内"
+  },
+  "0287905": {
+    "zipcode": "0287905",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "有家"
+  },
+  "0287906": {
+    "zipcode": "0287906",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "中野"
+  },
+  "0287911": {
+    "zipcode": "0287911",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第３９地割〜第４５地割（角浜、伝吉）"
+  },
+  "0287912": {
+    "zipcode": "0287912",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第２６地割〜第３８地割（川尻、平内）"
+  },
+  "0287913": {
+    "zipcode": "0287913",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第２４地割〜第２５地割（緑ケ丘町、横手）"
+  },
+  "0287914": {
+    "zipcode": "0287914",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第２２地割〜第２３地割（一区、二区、三区、四区、大町、小橋、住吉町）"
+  },
+  "0287915": {
+    "zipcode": "0287915",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第１５地割〜第２１地割（鹿糠、小路合、緑町、大久保、高取）"
+  },
+  "0287916": {
+    "zipcode": "0287916",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第７１地割〜第７４地割（大谷、和座）"
+  },
+  "0287917": {
+    "zipcode": "0287917",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第５０地割〜第７０地割（大沢、城内、滝沢）"
+  },
+  "0287918": {
+    "zipcode": "0287918",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "種市第４６地割〜第４９地割（麦沢）"
+  },
+  "0288111": {
+    "zipcode": "0288111",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "宇部町"
+  },
+  "0288200": {
+    "zipcode": "0288200",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡野田村",
+    "town": "以下に掲載がない場合"
+  },
+  "0288201": {
+    "zipcode": "0288201",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡野田村",
+    "town": "野田"
+  },
+  "0288202": {
+    "zipcode": "0288202",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡野田村",
+    "town": "玉川"
+  },
+  "0288300": {
+    "zipcode": "0288300",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "以下に掲載がない場合"
+  },
+  "0288301": {
+    "zipcode": "0288301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "馬場野"
+  },
+  "0288302": {
+    "zipcode": "0288302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "堀内"
+  },
+  "0288303": {
+    "zipcode": "0288303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "沢向"
+  },
+  "0288311": {
+    "zipcode": "0288311",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "白井"
+  },
+  "0288312": {
+    "zipcode": "0288312",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "小谷地"
+  },
+  "0288313": {
+    "zipcode": "0288313",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "土取場"
+  },
+  "0288321": {
+    "zipcode": "0288321",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "野胡桃"
+  },
+  "0288322": {
+    "zipcode": "0288322",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "天拝坂"
+  },
+  "0288323": {
+    "zipcode": "0288323",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "鳥居"
+  },
+  "0288331": {
+    "zipcode": "0288331",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "宇留部"
+  },
+  "0288332": {
+    "zipcode": "0288332",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "銅屋"
+  },
+  "0288333": {
+    "zipcode": "0288333",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "羅賀"
+  },
+  "0288334": {
+    "zipcode": "0288334",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "中村"
+  },
+  "0288335": {
+    "zipcode": "0288335",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "普代"
+  },
+  "0288336": {
+    "zipcode": "0288336",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "堤"
+  },
+  "0288341": {
+    "zipcode": "0288341",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "明神"
+  },
+  "0288342": {
+    "zipcode": "0288342",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "和野山"
+  },
+  "0288343": {
+    "zipcode": "0288343",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "上の山"
+  },
+  "0288344": {
+    "zipcode": "0288344",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "中山"
+  },
+  "0288345": {
+    "zipcode": "0288345",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "太田名部"
+  },
+  "0288351": {
+    "zipcode": "0288351",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "下村"
+  },
+  "0288352": {
+    "zipcode": "0288352",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "上村"
+  },
+  "0288353": {
+    "zipcode": "0288353",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "黒崎"
+  },
+  "0288361": {
+    "zipcode": "0288361",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "北ノ股"
+  },
+  "0288362": {
+    "zipcode": "0288362",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "卯子酉"
+  },
+  "0288363": {
+    "zipcode": "0288363",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "茂市"
+  },
+  "0288364": {
+    "zipcode": "0288364",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "南股"
+  },
+  "0288365": {
+    "zipcode": "0288365",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "芦渡"
+  },
+  "0288366": {
+    "zipcode": "0288366",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "芦生"
+  },
+  "0288367": {
+    "zipcode": "0288367",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "萩牛"
+  },
+  "0288368": {
+    "zipcode": "0288368",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡普代村",
+    "town": "柏木平"
+  },
+  "0288400": {
+    "zipcode": "0288400",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "以下に掲載がない場合"
+  },
+  "0288401": {
+    "zipcode": "0288401",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "三沢"
+  },
+  "0288402": {
+    "zipcode": "0288402",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "机"
+  },
+  "0288403": {
+    "zipcode": "0288403",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "羅賀"
+  },
+  "0288404": {
+    "zipcode": "0288404",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "松前沢"
+  },
+  "0288405": {
+    "zipcode": "0288405",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "南大芦"
+  },
+  "0288406": {
+    "zipcode": "0288406",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "目名"
+  },
+  "0288407": {
+    "zipcode": "0288407",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "下閉伊郡田野畑村",
+    "town": "和野"
+  },
+  "0288521": {
+    "zipcode": "0288521",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山根町"
+  },
+  "0288601": {
+    "zipcode": "0288601",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町戸呂町"
+  },
+  "0288602": {
+    "zipcode": "0288602",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町川井"
+  },
+  "0288603": {
+    "zipcode": "0288603",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町荷軽部"
+  },
+  "0288604": {
+    "zipcode": "0288604",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町日野沢"
+  },
+  "0288605": {
+    "zipcode": "0288605",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町来内"
+  },
+  "0288711": {
+    "zipcode": "0288711",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町繋"
+  },
+  "0288712": {
+    "zipcode": "0288712",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町小国"
+  },
+  "0288713": {
+    "zipcode": "0288713",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "久慈市",
+    "town": "山形町霜畑"
+  },
+  "0288801": {
+    "zipcode": "0288801",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "上館"
+  },
+  "0288802": {
+    "zipcode": "0288802",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "大野"
+  },
+  "0288803": {
+    "zipcode": "0288803",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "阿子木"
+  },
+  "0288804": {
+    "zipcode": "0288804",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "帯島"
+  },
+  "0288805": {
+    "zipcode": "0288805",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "九戸郡洋野町",
+    "town": "水沢"
+  }
+}

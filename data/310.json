@@ -1,0 +1,706 @@
+{
+  "3100000": {
+    "zipcode": "3100000",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "以下に掲載がない場合"
+  },
+  "3100001": {
+    "zipcode": "3100001",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "上河内町"
+  },
+  "3100002": {
+    "zipcode": "3100002",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "中河内町"
+  },
+  "3100003": {
+    "zipcode": "3100003",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "柳河町"
+  },
+  "3100004": {
+    "zipcode": "3100004",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "青柳町"
+  },
+  "3100005": {
+    "zipcode": "3100005",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "水府町"
+  },
+  "3100011": {
+    "zipcode": "3100011",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "三の丸"
+  },
+  "3100012": {
+    "zipcode": "3100012",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "城東"
+  },
+  "3100013": {
+    "zipcode": "3100013",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "若宮"
+  },
+  "3100014": {
+    "zipcode": "3100014",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "若宮町"
+  },
+  "3100015": {
+    "zipcode": "3100015",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "宮町"
+  },
+  "3100021": {
+    "zipcode": "3100021",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "南町"
+  },
+  "3100022": {
+    "zipcode": "3100022",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "梅香"
+  },
+  "3100023": {
+    "zipcode": "3100023",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "下梅香"
+  },
+  "3100024": {
+    "zipcode": "3100024",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "備前町"
+  },
+  "3100025": {
+    "zipcode": "3100025",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "天王町"
+  },
+  "3100026": {
+    "zipcode": "3100026",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "泉町"
+  },
+  "3100031": {
+    "zipcode": "3100031",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "大工町"
+  },
+  "3100032": {
+    "zipcode": "3100032",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "元山町"
+  },
+  "3100033": {
+    "zipcode": "3100033",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "常磐町"
+  },
+  "3100034": {
+    "zipcode": "3100034",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "緑町"
+  },
+  "3100035": {
+    "zipcode": "3100035",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東原"
+  },
+  "3100036": {
+    "zipcode": "3100036",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "新荘"
+  },
+  "3100041": {
+    "zipcode": "3100041",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "上水戸"
+  },
+  "3100042": {
+    "zipcode": "3100042",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "自由が丘"
+  },
+  "3100043": {
+    "zipcode": "3100043",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "松が丘"
+  },
+  "3100044": {
+    "zipcode": "3100044",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "西原"
+  },
+  "3100045": {
+    "zipcode": "3100045",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "新原"
+  },
+  "3100046": {
+    "zipcode": "3100046",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "曙町"
+  },
+  "3100051": {
+    "zipcode": "3100051",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "ちとせ"
+  },
+  "3100052": {
+    "zipcode": "3100052",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "松本町"
+  },
+  "3100053": {
+    "zipcode": "3100053",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "末広町"
+  },
+  "3100054": {
+    "zipcode": "3100054",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "愛宕町"
+  },
+  "3100055": {
+    "zipcode": "3100055",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "袴塚"
+  },
+  "3100056": {
+    "zipcode": "3100056",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "文京"
+  },
+  "3100061": {
+    "zipcode": "3100061",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "北見町"
+  },
+  "3100062": {
+    "zipcode": "3100062",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "大町"
+  },
+  "3100063": {
+    "zipcode": "3100063",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "五軒町"
+  },
+  "3100064": {
+    "zipcode": "3100064",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "栄町"
+  },
+  "3100065": {
+    "zipcode": "3100065",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "八幡町"
+  },
+  "3100066": {
+    "zipcode": "3100066",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "金町"
+  },
+  "3100067": {
+    "zipcode": "3100067",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "根本"
+  },
+  "3100068": {
+    "zipcode": "3100068",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "根本町"
+  },
+  "3100801": {
+    "zipcode": "3100801",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "桜川"
+  },
+  "3100802": {
+    "zipcode": "3100802",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "柵町"
+  },
+  "3100803": {
+    "zipcode": "3100803",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "城南"
+  },
+  "3100804": {
+    "zipcode": "3100804",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "白梅"
+  },
+  "3100805": {
+    "zipcode": "3100805",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "中央"
+  },
+  "3100811": {
+    "zipcode": "3100811",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東桜川"
+  },
+  "3100812": {
+    "zipcode": "3100812",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "浜田"
+  },
+  "3100813": {
+    "zipcode": "3100813",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "浜田町"
+  },
+  "3100814": {
+    "zipcode": "3100814",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "瓦谷"
+  },
+  "3100815": {
+    "zipcode": "3100815",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "本町"
+  },
+  "3100816": {
+    "zipcode": "3100816",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "紺屋町"
+  },
+  "3100817": {
+    "zipcode": "3100817",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "柳町"
+  },
+  "3100818": {
+    "zipcode": "3100818",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東台"
+  },
+  "3100821": {
+    "zipcode": "3100821",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "中大野"
+  },
+  "3100822": {
+    "zipcode": "3100822",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "圷大野"
+  },
+  "3100823": {
+    "zipcode": "3100823",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東大野"
+  },
+  "3100824": {
+    "zipcode": "3100824",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "西大野"
+  },
+  "3100825": {
+    "zipcode": "3100825",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "谷田町"
+  },
+  "3100826": {
+    "zipcode": "3100826",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "渋井町"
+  },
+  "3100827": {
+    "zipcode": "3100827",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "吉沼町"
+  },
+  "3100831": {
+    "zipcode": "3100831",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "朝日町"
+  },
+  "3100832": {
+    "zipcode": "3100832",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "吉田"
+  },
+  "3100833": {
+    "zipcode": "3100833",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "藤柄町"
+  },
+  "3100834": {
+    "zipcode": "3100834",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "宮内町"
+  },
+  "3100835": {
+    "zipcode": "3100835",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "元台町"
+  },
+  "3100836": {
+    "zipcode": "3100836",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "元吉田町"
+  },
+  "3100841": {
+    "zipcode": "3100841",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "酒門町"
+  },
+  "3100842": {
+    "zipcode": "3100842",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "けやき台"
+  },
+  "3100843": {
+    "zipcode": "3100843",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "元石川町"
+  },
+  "3100844": {
+    "zipcode": "3100844",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "住吉町"
+  },
+  "3100845": {
+    "zipcode": "3100845",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "吉沢町"
+  },
+  "3100846": {
+    "zipcode": "3100846",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "東野町"
+  },
+  "3100847": {
+    "zipcode": "3100847",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "米沢町"
+  },
+  "3100851": {
+    "zipcode": "3100851",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "千波町"
+  },
+  "3100852": {
+    "zipcode": "3100852",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "笠原町"
+  },
+  "3100853": {
+    "zipcode": "3100853",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "平須町"
+  },
+  "3100901": {
+    "zipcode": "3100901",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "田野町"
+  },
+  "3100902": {
+    "zipcode": "3100902",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "渡里町"
+  },
+  "3100903": {
+    "zipcode": "3100903",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "堀町"
+  },
+  "3100904": {
+    "zipcode": "3100904",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "石川町"
+  },
+  "3100905": {
+    "zipcode": "3100905",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "石川"
+  },
+  "3100911": {
+    "zipcode": "3100911",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "見和"
+  },
+  "3100912": {
+    "zipcode": "3100912",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "見川"
+  },
+  "3100913": {
+    "zipcode": "3100913",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "見川町"
+  },
+  "3100914": {
+    "zipcode": "3100914",
+    "prefectureCode": "08",
+    "prefectureNumber": 8,
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "town": "小吹町"
+  }
+}

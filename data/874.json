@@ -1,0 +1,954 @@
+{
+  "8740000": {
+    "zipcode": "8740000",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "以下に掲載がない場合"
+  },
+  "8740001": {
+    "zipcode": "8740001",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "小坂"
+  },
+  "8740002": {
+    "zipcode": "8740002",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "関の江新町"
+  },
+  "8740003": {
+    "zipcode": "8740003",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "大所"
+  },
+  "8740004": {
+    "zipcode": "8740004",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "湯山"
+  },
+  "8740005": {
+    "zipcode": "8740005",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "天間"
+  },
+  "8740011": {
+    "zipcode": "8740011",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "内竈"
+  },
+  "8740012": {
+    "zipcode": "8740012",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "スパランド豊海"
+  },
+  "8740013": {
+    "zipcode": "8740013",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "古市町"
+  },
+  "8740014": {
+    "zipcode": "8740014",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "亀川浜田町"
+  },
+  "8740015": {
+    "zipcode": "8740015",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "国立"
+  },
+  "8740016": {
+    "zipcode": "8740016",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "野田"
+  },
+  "8740021": {
+    "zipcode": "8740021",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "亀川中央町"
+  },
+  "8740022": {
+    "zipcode": "8740022",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "亀川東町"
+  },
+  "8740023": {
+    "zipcode": "8740023",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上人ケ浜町"
+  },
+  "8740024": {
+    "zipcode": "8740024",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "平田町"
+  },
+  "8740025": {
+    "zipcode": "8740025",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "亀川四の湯町"
+  },
+  "8740031": {
+    "zipcode": "8740031",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "照波園町"
+  },
+  "8740032": {
+    "zipcode": "8740032",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上人本町"
+  },
+  "8740033": {
+    "zipcode": "8740033",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上人南"
+  },
+  "8740034": {
+    "zipcode": "8740034",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上人仲町"
+  },
+  "8740035": {
+    "zipcode": "8740035",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上人西"
+  },
+  "8740036": {
+    "zipcode": "8740036",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上平田町"
+  },
+  "8740037": {
+    "zipcode": "8740037",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "大観山町"
+  },
+  "8740041": {
+    "zipcode": "8740041",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "北鉄輪"
+  },
+  "8740042": {
+    "zipcode": "8740042",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鉄輪東"
+  },
+  "8740043": {
+    "zipcode": "8740043",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "井田"
+  },
+  "8740044": {
+    "zipcode": "8740044",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "風呂本"
+  },
+  "8740045": {
+    "zipcode": "8740045",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "御幸"
+  },
+  "8740046": {
+    "zipcode": "8740046",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鉄輪上"
+  },
+  "8740801": {
+    "zipcode": "8740801",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "山の口"
+  },
+  "8740802": {
+    "zipcode": "8740802",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "城島"
+  },
+  "8740803": {
+    "zipcode": "8740803",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "東山一区"
+  },
+  "8740804": {
+    "zipcode": "8740804",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "東山二区"
+  },
+  "8740805": {
+    "zipcode": "8740805",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "枝郷"
+  },
+  "8740811": {
+    "zipcode": "8740811",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "柳"
+  },
+  "8740812": {
+    "zipcode": "8740812",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "朝見"
+  },
+  "8740813": {
+    "zipcode": "8740813",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "両郡橋"
+  },
+  "8740814": {
+    "zipcode": "8740814",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "浦田"
+  },
+  "8740815": {
+    "zipcode": "8740815",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "田の口"
+  },
+  "8740816": {
+    "zipcode": "8740816",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "河内"
+  },
+  "8740817": {
+    "zipcode": "8740817",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鳥越"
+  },
+  "8740818": {
+    "zipcode": "8740818",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "山家"
+  },
+  "8740819": {
+    "zipcode": "8740819",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "赤松"
+  },
+  "8740820": {
+    "zipcode": "8740820",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "原町"
+  },
+  "8740821": {
+    "zipcode": "8740821",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "乙原"
+  },
+  "8740822": {
+    "zipcode": "8740822",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "観海寺"
+  },
+  "8740823": {
+    "zipcode": "8740823",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石本町"
+  },
+  "8740824": {
+    "zipcode": "8740824",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石板地町"
+  },
+  "8740825": {
+    "zipcode": "8740825",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石八幡町"
+  },
+  "8740826": {
+    "zipcode": "8740826",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鶴見園町"
+  },
+  "8740827": {
+    "zipcode": "8740827",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石二区"
+  },
+  "8740828": {
+    "zipcode": "8740828",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "山の手町"
+  },
+  "8740829": {
+    "zipcode": "8740829",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上原町"
+  },
+  "8740831": {
+    "zipcode": "8740831",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "堀田"
+  },
+  "8740832": {
+    "zipcode": "8740832",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石生目町"
+  },
+  "8740833": {
+    "zipcode": "8740833",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鶴見（１〜１８組）"
+  },
+  "8740834": {
+    "zipcode": "8740834",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "新別府"
+  },
+  "8740835": {
+    "zipcode": "8740835",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "実相寺"
+  },
+  "8740836": {
+    "zipcode": "8740836",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "東荘園"
+  },
+  "8740837": {
+    "zipcode": "8740837",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "荘園北町"
+  },
+  "8740838": {
+    "zipcode": "8740838",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "荘園"
+  },
+  "8740839": {
+    "zipcode": "8740839",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南立石一区"
+  },
+  "8740840": {
+    "zipcode": "8740840",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "鶴見（大字、番地）"
+  },
+  "8740841": {
+    "zipcode": "8740841",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "竹の内"
+  },
+  "8740842": {
+    "zipcode": "8740842",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "小倉町"
+  },
+  "8740843": {
+    "zipcode": "8740843",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "明礬"
+  },
+  "8740844": {
+    "zipcode": "8740844",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "火売"
+  },
+  "8740845": {
+    "zipcode": "8740845",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "北中"
+  },
+  "8740846": {
+    "zipcode": "8740846",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "朝日ケ丘町"
+  },
+  "8740847": {
+    "zipcode": "8740847",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "馬場"
+  },
+  "8740848": {
+    "zipcode": "8740848",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "大畑"
+  },
+  "8740849": {
+    "zipcode": "8740849",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "扇山"
+  },
+  "8740901": {
+    "zipcode": "8740901",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "中島町"
+  },
+  "8740902": {
+    "zipcode": "8740902",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "青山町"
+  },
+  "8740903": {
+    "zipcode": "8740903",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "野口原"
+  },
+  "8740904": {
+    "zipcode": "8740904",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南荘園町"
+  },
+  "8740905": {
+    "zipcode": "8740905",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上野口町"
+  },
+  "8740906": {
+    "zipcode": "8740906",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "天満町"
+  },
+  "8740907": {
+    "zipcode": "8740907",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "幸町"
+  },
+  "8740908": {
+    "zipcode": "8740908",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "上田の湯町"
+  },
+  "8740909": {
+    "zipcode": "8740909",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "田の湯町"
+  },
+  "8740910": {
+    "zipcode": "8740910",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "石垣西"
+  },
+  "8740911": {
+    "zipcode": "8740911",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "緑丘町"
+  },
+  "8740912": {
+    "zipcode": "8740912",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南須賀町"
+  },
+  "8740913": {
+    "zipcode": "8740913",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "春木町"
+  },
+  "8740914": {
+    "zipcode": "8740914",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "中須賀元町"
+  },
+  "8740915": {
+    "zipcode": "8740915",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "桜ケ丘"
+  },
+  "8740916": {
+    "zipcode": "8740916",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "中須賀本町"
+  },
+  "8740917": {
+    "zipcode": "8740917",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "中須賀東町"
+  },
+  "8740918": {
+    "zipcode": "8740918",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "汐見町"
+  },
+  "8740919": {
+    "zipcode": "8740919",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "石垣東"
+  },
+  "8740920": {
+    "zipcode": "8740920",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "北浜"
+  },
+  "8740921": {
+    "zipcode": "8740921",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "富士見町"
+  },
+  "8740922": {
+    "zipcode": "8740922",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "船小路町"
+  },
+  "8740923": {
+    "zipcode": "8740923",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "新港町"
+  },
+  "8740924": {
+    "zipcode": "8740924",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "餅ケ浜町"
+  },
+  "8740925": {
+    "zipcode": "8740925",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "若草町"
+  },
+  "8740926": {
+    "zipcode": "8740926",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "京町"
+  },
+  "8740927": {
+    "zipcode": "8740927",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "弓ケ浜町"
+  },
+  "8740928": {
+    "zipcode": "8740928",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "北的ケ浜町"
+  },
+  "8740929": {
+    "zipcode": "8740929",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南的ケ浜町"
+  },
+  "8740930": {
+    "zipcode": "8740930",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "光町"
+  },
+  "8740931": {
+    "zipcode": "8740931",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "西野口町"
+  },
+  "8740932": {
+    "zipcode": "8740932",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "野口中町"
+  },
+  "8740933": {
+    "zipcode": "8740933",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "野口元町"
+  },
+  "8740934": {
+    "zipcode": "8740934",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "駅前本町"
+  },
+  "8740935": {
+    "zipcode": "8740935",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "駅前町"
+  },
+  "8740936": {
+    "zipcode": "8740936",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "中央町"
+  },
+  "8740937": {
+    "zipcode": "8740937",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "秋葉町"
+  },
+  "8740938": {
+    "zipcode": "8740938",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "末広町"
+  },
+  "8740939": {
+    "zipcode": "8740939",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "立田町"
+  },
+  "8740941": {
+    "zipcode": "8740941",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "南町"
+  },
+  "8740942": {
+    "zipcode": "8740942",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "千代町"
+  },
+  "8740943": {
+    "zipcode": "8740943",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "楠町"
+  },
+  "8740944": {
+    "zipcode": "8740944",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "元町"
+  },
+  "8740945": {
+    "zipcode": "8740945",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "浜町"
+  },
+  "8740946": {
+    "zipcode": "8740946",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "松原町"
+  },
+  "8740947": {
+    "zipcode": "8740947",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "浜脇"
+  }
+}

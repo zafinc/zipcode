@@ -1,0 +1,666 @@
+{
+  "6720101": {
+    "zipcode": "6720101",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "家島町真浦"
+  },
+  "6720102": {
+    "zipcode": "6720102",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "家島町宮"
+  },
+  "6720103": {
+    "zipcode": "6720103",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "家島町坊勢"
+  },
+  "6728001": {
+    "zipcode": "6728001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "兼田"
+  },
+  "6728002": {
+    "zipcode": "6728002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "北原"
+  },
+  "6728003": {
+    "zipcode": "6728003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "奥山"
+  },
+  "6728004": {
+    "zipcode": "6728004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "継"
+  },
+  "6728011": {
+    "zipcode": "6728011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町神田"
+  },
+  "6728012": {
+    "zipcode": "6728012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町寺家"
+  },
+  "6728013": {
+    "zipcode": "6728013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町宇佐崎北"
+  },
+  "6728014": {
+    "zipcode": "6728014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "東山"
+  },
+  "6728015": {
+    "zipcode": "6728015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "八家"
+  },
+  "6728016": {
+    "zipcode": "6728016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "木場"
+  },
+  "6728017": {
+    "zipcode": "6728017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "木場十八反町"
+  },
+  "6728018": {
+    "zipcode": "6728018",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "木場前中町"
+  },
+  "6728019": {
+    "zipcode": "6728019",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "木場前七反町"
+  },
+  "6728021": {
+    "zipcode": "6728021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町宇佐崎中"
+  },
+  "6728022": {
+    "zipcode": "6728022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町宇佐崎南"
+  },
+  "6728023": {
+    "zipcode": "6728023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町"
+  },
+  "6728024": {
+    "zipcode": "6728024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "白浜町灘浜"
+  },
+  "6728025": {
+    "zipcode": "6728025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区堀川町"
+  },
+  "6728030": {
+    "zipcode": "6728030",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成植木"
+  },
+  "6728031": {
+    "zipcode": "6728031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区妻鹿"
+  },
+  "6728032": {
+    "zipcode": "6728032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区妻鹿東海町"
+  },
+  "6728033": {
+    "zipcode": "6728033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区妻鹿日田町"
+  },
+  "6728034": {
+    "zipcode": "6728034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区妻鹿常盤町"
+  },
+  "6728035": {
+    "zipcode": "6728035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区中島"
+  },
+  "6728036": {
+    "zipcode": "6728036",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区三和町"
+  },
+  "6728037": {
+    "zipcode": "6728037",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成"
+  },
+  "6728038": {
+    "zipcode": "6728038",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成鹿古"
+  },
+  "6728039": {
+    "zipcode": "6728039",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成渡場"
+  },
+  "6728040": {
+    "zipcode": "6728040",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区野田町"
+  },
+  "6728041": {
+    "zipcode": "6728041",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "三条町（２丁目）"
+  },
+  "6728043": {
+    "zipcode": "6728043",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区上野田"
+  },
+  "6728044": {
+    "zipcode": "6728044",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区下野田"
+  },
+  "6728045": {
+    "zipcode": "6728045",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区中野田"
+  },
+  "6728046": {
+    "zipcode": "6728046",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区都倉"
+  },
+  "6728047": {
+    "zipcode": "6728047",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区亀山"
+  },
+  "6728048": {
+    "zipcode": "6728048",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区三宅"
+  },
+  "6728049": {
+    "zipcode": "6728049",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "佃町"
+  },
+  "6728051": {
+    "zipcode": "6728051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区清水"
+  },
+  "6728052": {
+    "zipcode": "6728052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区玉地"
+  },
+  "6728053": {
+    "zipcode": "6728053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区栄町"
+  },
+  "6728054": {
+    "zipcode": "6728054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区東堀"
+  },
+  "6728055": {
+    "zipcode": "6728055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区宮"
+  },
+  "6728056": {
+    "zipcode": "6728056",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区御幸"
+  },
+  "6728057": {
+    "zipcode": "6728057",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区恵美酒"
+  },
+  "6728058": {
+    "zipcode": "6728058",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成中垣内"
+  },
+  "6728059": {
+    "zipcode": "6728059",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区阿成下垣内"
+  },
+  "6728061": {
+    "zipcode": "6728061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区天神"
+  },
+  "6728062": {
+    "zipcode": "6728062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区大浜"
+  },
+  "6728063": {
+    "zipcode": "6728063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区須加"
+  },
+  "6728064": {
+    "zipcode": "6728064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区細江"
+  },
+  "6728069": {
+    "zipcode": "6728069",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区加茂南"
+  },
+  "6728070": {
+    "zipcode": "6728070",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区加茂東"
+  },
+  "6728071": {
+    "zipcode": "6728071",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区構"
+  },
+  "6728072": {
+    "zipcode": "6728072",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区蓼野町"
+  },
+  "6728073": {
+    "zipcode": "6728073",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区加茂北"
+  },
+  "6728074": {
+    "zipcode": "6728074",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区加茂"
+  },
+  "6728075": {
+    "zipcode": "6728075",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区思案橋"
+  },
+  "6728076": {
+    "zipcode": "6728076",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区入船町"
+  },
+  "6728077": {
+    "zipcode": "6728077",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区粕谷新町"
+  },
+  "6728078": {
+    "zipcode": "6728078",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀"
+  },
+  "6728079": {
+    "zipcode": "6728079",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区今在家"
+  },
+  "6728080": {
+    "zipcode": "6728080",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀宮町"
+  },
+  "6728081": {
+    "zipcode": "6728081",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区高町"
+  },
+  "6728082": {
+    "zipcode": "6728082",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区付城"
+  },
+  "6728083": {
+    "zipcode": "6728083",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区城南町"
+  },
+  "6728084": {
+    "zipcode": "6728084",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀清水町"
+  },
+  "6728085": {
+    "zipcode": "6728085",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区中浜町"
+  },
+  "6728086": {
+    "zipcode": "6728086",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区西浜町"
+  },
+  "6728087": {
+    "zipcode": "6728087",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀東町"
+  },
+  "6728088": {
+    "zipcode": "6728088",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀西町"
+  },
+  "6728089": {
+    "zipcode": "6728089",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀宮台"
+  },
+  "6728090": {
+    "zipcode": "6728090",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区今在家北"
+  },
+  "6728091": {
+    "zipcode": "6728091",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀保駅前町"
+  },
+  "6728092": {
+    "zipcode": "6728092",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区英賀春日町"
+  },
+  "6728093": {
+    "zipcode": "6728093",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区矢倉町"
+  },
+  "6728094": {
+    "zipcode": "6728094",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区鎌倉町"
+  },
+  "6728095": {
+    "zipcode": "6728095",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区若宮町"
+  },
+  "6728096": {
+    "zipcode": "6728096",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区山崎台"
+  },
+  "6728097": {
+    "zipcode": "6728097",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区山崎"
+  },
+  "6728098": {
+    "zipcode": "6728098",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "town": "飾磨区富士見ケ丘町"
+  }
+}

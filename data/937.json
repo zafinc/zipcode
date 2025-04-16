@@ -1,0 +1,882 @@
+{
+  "9370000": {
+    "zipcode": "9370000",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "以下に掲載がない場合"
+  },
+  "9370001": {
+    "zipcode": "9370001",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "浜経田"
+  },
+  "9370002": {
+    "zipcode": "9370002",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "平伝寺"
+  },
+  "9370003": {
+    "zipcode": "9370003",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "持光寺"
+  },
+  "9370004": {
+    "zipcode": "9370004",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "岡経田"
+  },
+  "9370005": {
+    "zipcode": "9370005",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "天王"
+  },
+  "9370006": {
+    "zipcode": "9370006",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "経田西町"
+  },
+  "9370007": {
+    "zipcode": "9370007",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "経田中町"
+  },
+  "9370008": {
+    "zipcode": "9370008",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "東町"
+  },
+  "9370009": {
+    "zipcode": "9370009",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "寿町"
+  },
+  "9370010": {
+    "zipcode": "9370010",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "新経田"
+  },
+  "9370011": {
+    "zipcode": "9370011",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "木下新"
+  },
+  "9370012": {
+    "zipcode": "9370012",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "東尾崎"
+  },
+  "9370013": {
+    "zipcode": "9370013",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "天神野新"
+  },
+  "9370014": {
+    "zipcode": "9370014",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "青柳"
+  },
+  "9370015": {
+    "zipcode": "9370015",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "東山"
+  },
+  "9370016": {
+    "zipcode": "9370016",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "立石"
+  },
+  "9370017": {
+    "zipcode": "9370017",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "江口"
+  },
+  "9370018": {
+    "zipcode": "9370018",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "西尾崎"
+  },
+  "9370021": {
+    "zipcode": "9370021",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "蛇田"
+  },
+  "9370022": {
+    "zipcode": "9370022",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "小川寺"
+  },
+  "9370023": {
+    "zipcode": "9370023",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "長引野"
+  },
+  "9370024": {
+    "zipcode": "9370024",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "布施爪"
+  },
+  "9370025": {
+    "zipcode": "9370025",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "黒沢"
+  },
+  "9370026": {
+    "zipcode": "9370026",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大沢"
+  },
+  "9370027": {
+    "zipcode": "9370027",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "御影"
+  },
+  "9370028": {
+    "zipcode": "9370028",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "日尾"
+  },
+  "9370031": {
+    "zipcode": "9370031",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "道坂"
+  },
+  "9370032": {
+    "zipcode": "9370032",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "貝田新"
+  },
+  "9370033": {
+    "zipcode": "9370033",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "島尻"
+  },
+  "9370034": {
+    "zipcode": "9370034",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "東城"
+  },
+  "9370035": {
+    "zipcode": "9370035",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "黒谷"
+  },
+  "9370036": {
+    "zipcode": "9370036",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "山女"
+  },
+  "9370037": {
+    "zipcode": "9370037",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "東蔵"
+  },
+  "9370038": {
+    "zipcode": "9370038",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "平沢"
+  },
+  "9370039": {
+    "zipcode": "9370039",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大菅沼"
+  },
+  "9370041": {
+    "zipcode": "9370041",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "吉島"
+  },
+  "9370042": {
+    "zipcode": "9370042",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "六郎丸"
+  },
+  "9370043": {
+    "zipcode": "9370043",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "袋"
+  },
+  "9370044": {
+    "zipcode": "9370044",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "横枕"
+  },
+  "9370045": {
+    "zipcode": "9370045",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "相木"
+  },
+  "9370046": {
+    "zipcode": "9370046",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "上村木"
+  },
+  "9370047": {
+    "zipcode": "9370047",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "相木新"
+  },
+  "9370051": {
+    "zipcode": "9370051",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "駅前新町"
+  },
+  "9370052": {
+    "zipcode": "9370052",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "緑町"
+  },
+  "9370053": {
+    "zipcode": "9370053",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "村木町"
+  },
+  "9370054": {
+    "zipcode": "9370054",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "金浦町"
+  },
+  "9370055": {
+    "zipcode": "9370055",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "中央通り"
+  },
+  "9370056": {
+    "zipcode": "9370056",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "諏訪町"
+  },
+  "9370057": {
+    "zipcode": "9370057",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "港町"
+  },
+  "9370058": {
+    "zipcode": "9370058",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "火の宮町"
+  },
+  "9370059": {
+    "zipcode": "9370059",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "末広町"
+  },
+  "9370061": {
+    "zipcode": "9370061",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "仏田"
+  },
+  "9370062": {
+    "zipcode": "9370062",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "仏又"
+  },
+  "9370063": {
+    "zipcode": "9370063",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "青島"
+  },
+  "9370064": {
+    "zipcode": "9370064",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "高畠"
+  },
+  "9370065": {
+    "zipcode": "9370065",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "北中"
+  },
+  "9370066": {
+    "zipcode": "9370066",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "北鬼江"
+  },
+  "9370067": {
+    "zipcode": "9370067",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "釈迦堂"
+  },
+  "9370068": {
+    "zipcode": "9370068",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "本新町"
+  },
+  "9370801": {
+    "zipcode": "9370801",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "新金屋"
+  },
+  "9370802": {
+    "zipcode": "9370802",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "下村木町"
+  },
+  "9370803": {
+    "zipcode": "9370803",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "本江新町"
+  },
+  "9370804": {
+    "zipcode": "9370804",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "並木町"
+  },
+  "9370805": {
+    "zipcode": "9370805",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "本江"
+  },
+  "9370806": {
+    "zipcode": "9370806",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "友道"
+  },
+  "9370807": {
+    "zipcode": "9370807",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大光寺"
+  },
+  "9370811": {
+    "zipcode": "9370811",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "三田"
+  },
+  "9370812": {
+    "zipcode": "9370812",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "印田"
+  },
+  "9370813": {
+    "zipcode": "9370813",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "石垣新"
+  },
+  "9370814": {
+    "zipcode": "9370814",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "石垣"
+  },
+  "9370815": {
+    "zipcode": "9370815",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大海寺新"
+  },
+  "9370816": {
+    "zipcode": "9370816",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大海寺野"
+  },
+  "9370821": {
+    "zipcode": "9370821",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "出"
+  },
+  "9370822": {
+    "zipcode": "9370822",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "舛田"
+  },
+  "9370823": {
+    "zipcode": "9370823",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "湯上"
+  },
+  "9370824": {
+    "zipcode": "9370824",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "室田"
+  },
+  "9370825": {
+    "zipcode": "9370825",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "稗畠"
+  },
+  "9370826": {
+    "zipcode": "9370826",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "北山"
+  },
+  "9370827": {
+    "zipcode": "9370827",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "坪野"
+  },
+  "9370828": {
+    "zipcode": "9370828",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "池谷"
+  },
+  "9370831": {
+    "zipcode": "9370831",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "観音堂"
+  },
+  "9370832": {
+    "zipcode": "9370832",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "金山谷"
+  },
+  "9370833": {
+    "zipcode": "9370833",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "小菅沼"
+  },
+  "9370834": {
+    "zipcode": "9370834",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "鹿熊"
+  },
+  "9370835": {
+    "zipcode": "9370835",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "大熊"
+  },
+  "9370836": {
+    "zipcode": "9370836",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "鉢"
+  },
+  "9370837": {
+    "zipcode": "9370837",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "虎谷"
+  },
+  "9370841": {
+    "zipcode": "9370841",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "佐伯"
+  },
+  "9370842": {
+    "zipcode": "9370842",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "吉野"
+  },
+  "9370843": {
+    "zipcode": "9370843",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "上野"
+  },
+  "9370844": {
+    "zipcode": "9370844",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "下椿"
+  },
+  "9370845": {
+    "zipcode": "9370845",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "舛方"
+  },
+  "9370846": {
+    "zipcode": "9370846",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "有山"
+  },
+  "9370847": {
+    "zipcode": "9370847",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "浅生"
+  },
+  "9370851": {
+    "zipcode": "9370851",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "住吉"
+  },
+  "9370852": {
+    "zipcode": "9370852",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "慶野"
+  },
+  "9370853": {
+    "zipcode": "9370853",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "宮津"
+  },
+  "9370854": {
+    "zipcode": "9370854",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "弥源寺"
+  },
+  "9370855": {
+    "zipcode": "9370855",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "川原"
+  },
+  "9370856": {
+    "zipcode": "9370856",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "川縁"
+  },
+  "9370857": {
+    "zipcode": "9370857",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "三ケ"
+  },
+  "9370861": {
+    "zipcode": "9370861",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "鴨川町"
+  },
+  "9370862": {
+    "zipcode": "9370862",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "文化町"
+  },
+  "9370863": {
+    "zipcode": "9370863",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "新宿"
+  },
+  "9370864": {
+    "zipcode": "9370864",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "新角川"
+  },
+  "9370865": {
+    "zipcode": "9370865",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "上口"
+  },
+  "9370866": {
+    "zipcode": "9370866",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "本町"
+  },
+  "9370867": {
+    "zipcode": "9370867",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "真成寺町"
+  },
+  "9370868": {
+    "zipcode": "9370868",
+    "prefectureCode": "16",
+    "prefectureNumber": 16,
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "town": "双葉町"
+  }
+}

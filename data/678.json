@@ -1,0 +1,1274 @@
+{
+  "6780000": {
+    "zipcode": "6780000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "以下に掲載がない場合"
+  },
+  "6780001": {
+    "zipcode": "6780001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "山手"
+  },
+  "6780002": {
+    "zipcode": "6780002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "汐見台"
+  },
+  "6780003": {
+    "zipcode": "6780003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "陸"
+  },
+  "6780004": {
+    "zipcode": "6780004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "池之内"
+  },
+  "6780005": {
+    "zipcode": "6780005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "大石町"
+  },
+  "6780006": {
+    "zipcode": "6780006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "本郷町"
+  },
+  "6780007": {
+    "zipcode": "6780007",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "陸本町"
+  },
+  "6780008": {
+    "zipcode": "6780008",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "栄町"
+  },
+  "6780011": {
+    "zipcode": "6780011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波野"
+  },
+  "6780012": {
+    "zipcode": "6780012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "古池"
+  },
+  "6780021": {
+    "zipcode": "6780021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "赤坂"
+  },
+  "6780022": {
+    "zipcode": "6780022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "垣内町"
+  },
+  "6780023": {
+    "zipcode": "6780023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "向陽台"
+  },
+  "6780024": {
+    "zipcode": "6780024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "双葉"
+  },
+  "6780025": {
+    "zipcode": "6780025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "古池本町"
+  },
+  "6780031": {
+    "zipcode": "6780031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "旭"
+  },
+  "6780041": {
+    "zipcode": "6780041",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "相生（その他）"
+  },
+  "6780042": {
+    "zipcode": "6780042",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "川原町"
+  },
+  "6780043": {
+    "zipcode": "6780043",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "大谷町"
+  },
+  "6780044": {
+    "zipcode": "6780044",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "野瀬"
+  },
+  "6780051": {
+    "zipcode": "6780051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波大浜町"
+  },
+  "6780052": {
+    "zipcode": "6780052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "大島町"
+  },
+  "6780053": {
+    "zipcode": "6780053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波南本町"
+  },
+  "6780054": {
+    "zipcode": "6780054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波西本町"
+  },
+  "6780055": {
+    "zipcode": "6780055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波本町"
+  },
+  "6780056": {
+    "zipcode": "6780056",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波東本町"
+  },
+  "6780061": {
+    "zipcode": "6780061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "桜ケ丘町"
+  },
+  "6780062": {
+    "zipcode": "6780062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "千尋町"
+  },
+  "6780063": {
+    "zipcode": "6780063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "佐方"
+  },
+  "6780064": {
+    "zipcode": "6780064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "青葉台"
+  },
+  "6780065": {
+    "zipcode": "6780065",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "西谷町"
+  },
+  "6780066": {
+    "zipcode": "6780066",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "山崎町"
+  },
+  "6780067": {
+    "zipcode": "6780067",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "那波"
+  },
+  "6780071": {
+    "zipcode": "6780071",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "緑ケ丘"
+  },
+  "6780072": {
+    "zipcode": "6780072",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "竜泉町"
+  },
+  "6780073": {
+    "zipcode": "6780073",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "菅原町"
+  },
+  "6780074": {
+    "zipcode": "6780074",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "ひかりが丘"
+  },
+  "6780081": {
+    "zipcode": "6780081",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "若狭野町若狭野"
+  },
+  "6780082": {
+    "zipcode": "6780082",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "若狭野町福井"
+  },
+  "6780091": {
+    "zipcode": "6780091",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "矢野町森"
+  },
+  "6780092": {
+    "zipcode": "6780092",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "矢野町下田"
+  },
+  "6780141": {
+    "zipcode": "6780141",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "相生市",
+    "town": "相生（５１３３番地２〜５１８７番地、５３１６番地１〜５３１６番地１６７）"
+  },
+  "6780161": {
+    "zipcode": "6780161",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "中山"
+  },
+  "6780162": {
+    "zipcode": "6780162",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "周世"
+  },
+  "6780163": {
+    "zipcode": "6780163",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "高雄"
+  },
+  "6780164": {
+    "zipcode": "6780164",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "目坂"
+  },
+  "6780165": {
+    "zipcode": "6780165",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "木津"
+  },
+  "6780166": {
+    "zipcode": "6780166",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "真殿"
+  },
+  "6780171": {
+    "zipcode": "6780171",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "高野"
+  },
+  "6780172": {
+    "zipcode": "6780172",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "坂越"
+  },
+  "6780173": {
+    "zipcode": "6780173",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "浜市"
+  },
+  "6780174": {
+    "zipcode": "6780174",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "砂子"
+  },
+  "6780175": {
+    "zipcode": "6780175",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "北野中"
+  },
+  "6780176": {
+    "zipcode": "6780176",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "南野中"
+  },
+  "6780200": {
+    "zipcode": "6780200",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "以下に掲載がない場合"
+  },
+  "6780201": {
+    "zipcode": "6780201",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "塩屋"
+  },
+  "6780202": {
+    "zipcode": "6780202",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "山手町"
+  },
+  "6780203": {
+    "zipcode": "6780203",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "元町"
+  },
+  "6780204": {
+    "zipcode": "6780204",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "寿町"
+  },
+  "6780205": {
+    "zipcode": "6780205",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "大町"
+  },
+  "6780206": {
+    "zipcode": "6780206",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "宮前町"
+  },
+  "6780207": {
+    "zipcode": "6780207",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "西浜北町"
+  },
+  "6780208": {
+    "zipcode": "6780208",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "西浜町"
+  },
+  "6780211": {
+    "zipcode": "6780211",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "南宮町"
+  },
+  "6780212": {
+    "zipcode": "6780212",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "清水町"
+  },
+  "6780213": {
+    "zipcode": "6780213",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "元塩町"
+  },
+  "6780214": {
+    "zipcode": "6780214",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "朝日町"
+  },
+  "6780215": {
+    "zipcode": "6780215",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "御崎"
+  },
+  "6780216": {
+    "zipcode": "6780216",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "正保橋町"
+  },
+  "6780217": {
+    "zipcode": "6780217",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "本水尾町"
+  },
+  "6780221": {
+    "zipcode": "6780221",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "尾崎"
+  },
+  "6780222": {
+    "zipcode": "6780222",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "東浜町"
+  },
+  "6780223": {
+    "zipcode": "6780223",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "元禄橋町"
+  },
+  "6780224": {
+    "zipcode": "6780224",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "元沖町"
+  },
+  "6780225": {
+    "zipcode": "6780225",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "海浜町"
+  },
+  "6780226": {
+    "zipcode": "6780226",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "さつき町"
+  },
+  "6780227": {
+    "zipcode": "6780227",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "中浜町"
+  },
+  "6780228": {
+    "zipcode": "6780228",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "松原町"
+  },
+  "6780229": {
+    "zipcode": "6780229",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "大橋町"
+  },
+  "6780231": {
+    "zipcode": "6780231",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "細野町"
+  },
+  "6780232": {
+    "zipcode": "6780232",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "中広"
+  },
+  "6780233": {
+    "zipcode": "6780233",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "加里屋中洲"
+  },
+  "6780234": {
+    "zipcode": "6780234",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "加里屋南"
+  },
+  "6780235": {
+    "zipcode": "6780235",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "上仮屋"
+  },
+  "6780236": {
+    "zipcode": "6780236",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "上仮屋南"
+  },
+  "6780237": {
+    "zipcode": "6780237",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "上仮屋北"
+  },
+  "6780238": {
+    "zipcode": "6780238",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "農神町"
+  },
+  "6780239": {
+    "zipcode": "6780239",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "加里屋"
+  },
+  "6780241": {
+    "zipcode": "6780241",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "惣門町"
+  },
+  "6780242": {
+    "zipcode": "6780242",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "長池町"
+  },
+  "6780243": {
+    "zipcode": "6780243",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "若草町"
+  },
+  "6780244": {
+    "zipcode": "6780244",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "城西町"
+  },
+  "6780245": {
+    "zipcode": "6780245",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "三樋町"
+  },
+  "6780246": {
+    "zipcode": "6780246",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "六百目町"
+  },
+  "6780247": {
+    "zipcode": "6780247",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "平成町"
+  },
+  "6780248": {
+    "zipcode": "6780248",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "板屋町"
+  },
+  "6780249": {
+    "zipcode": "6780249",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "片浜町"
+  },
+  "6780250": {
+    "zipcode": "6780250",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "磯浜町"
+  },
+  "6780251": {
+    "zipcode": "6780251",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "西有年（湯の内）"
+  },
+  "6780252": {
+    "zipcode": "6780252",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "大津"
+  },
+  "6780253": {
+    "zipcode": "6780253",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "木生谷"
+  },
+  "6780254": {
+    "zipcode": "6780254",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "折方"
+  },
+  "6780255": {
+    "zipcode": "6780255",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "新田"
+  },
+  "6780256": {
+    "zipcode": "6780256",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "鷆和"
+  },
+  "6780257": {
+    "zipcode": "6780257",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "福浦"
+  },
+  "6780258": {
+    "zipcode": "6780258",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "古浜町"
+  },
+  "6780259": {
+    "zipcode": "6780259",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "黒崎町"
+  },
+  "6781181": {
+    "zipcode": "6781181",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "有年楢原"
+  },
+  "6781182": {
+    "zipcode": "6781182",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "有年原"
+  },
+  "6781183": {
+    "zipcode": "6781183",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "有年牟礼"
+  },
+  "6781184": {
+    "zipcode": "6781184",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "有年横尾"
+  },
+  "6781185": {
+    "zipcode": "6781185",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "東有年"
+  },
+  "6781186": {
+    "zipcode": "6781186",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂市",
+    "town": "西有年（その他）"
+  },
+  "6781200": {
+    "zipcode": "6781200",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "以下に掲載がない場合"
+  },
+  "6781201": {
+    "zipcode": "6781201",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "金出地"
+  },
+  "6781202": {
+    "zipcode": "6781202",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "野桑"
+  },
+  "6781203": {
+    "zipcode": "6781203",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "尾長谷"
+  },
+  "6781204": {
+    "zipcode": "6781204",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "大冨"
+  },
+  "6781205": {
+    "zipcode": "6781205",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "光都"
+  },
+  "6781211": {
+    "zipcode": "6781211",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "小野豆"
+  },
+  "6781212": {
+    "zipcode": "6781212",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "佐用谷"
+  },
+  "6781213": {
+    "zipcode": "6781213",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "宇野山"
+  },
+  "6781214": {
+    "zipcode": "6781214",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "休治"
+  },
+  "6781215": {
+    "zipcode": "6781215",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "正福寺"
+  },
+  "6781216": {
+    "zipcode": "6781216",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "中野"
+  },
+  "6781217": {
+    "zipcode": "6781217",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "宿"
+  },
+  "6781218": {
+    "zipcode": "6781218",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "宇治山"
+  },
+  "6781219": {
+    "zipcode": "6781219",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "奥"
+  },
+  "6781221": {
+    "zipcode": "6781221",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "神明寺"
+  },
+  "6781222": {
+    "zipcode": "6781222",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "西野山"
+  },
+  "6781223": {
+    "zipcode": "6781223",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "釜島"
+  },
+  "6781224": {
+    "zipcode": "6781224",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "與井新"
+  },
+  "6781225": {
+    "zipcode": "6781225",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "與井"
+  },
+  "6781226": {
+    "zipcode": "6781226",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "高田台"
+  },
+  "6781231": {
+    "zipcode": "6781231",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "上郡"
+  },
+  "6781232": {
+    "zipcode": "6781232",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "竹万"
+  },
+  "6781233": {
+    "zipcode": "6781233",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "大持"
+  },
+  "6781234": {
+    "zipcode": "6781234",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "駅前"
+  },
+  "6781241": {
+    "zipcode": "6781241",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "山野里"
+  },
+  "6781242": {
+    "zipcode": "6781242",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "栗原"
+  },
+  "6781243": {
+    "zipcode": "6781243",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "落地"
+  },
+  "6781244": {
+    "zipcode": "6781244",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "梨ケ原"
+  },
+  "6781251": {
+    "zipcode": "6781251",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "井上"
+  },
+  "6781252": {
+    "zipcode": "6781252",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "船坂"
+  },
+  "6781253": {
+    "zipcode": "6781253",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "別名"
+  },
+  "6781254": {
+    "zipcode": "6781254",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "高山"
+  },
+  "6781255": {
+    "zipcode": "6781255",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "行頭"
+  },
+  "6781256": {
+    "zipcode": "6781256",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "八保"
+  },
+  "6781261": {
+    "zipcode": "6781261",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "旭日"
+  },
+  "6781262": {
+    "zipcode": "6781262",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "岩木"
+  },
+  "6781271": {
+    "zipcode": "6781271",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "楠"
+  },
+  "6781272": {
+    "zipcode": "6781272",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "細野"
+  },
+  "6781273": {
+    "zipcode": "6781273",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "赤松"
+  },
+  "6781274": {
+    "zipcode": "6781274",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "柏野"
+  },
+  "6781275": {
+    "zipcode": "6781275",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "大枝"
+  },
+  "6781276": {
+    "zipcode": "6781276",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "大枝新"
+  },
+  "6781277": {
+    "zipcode": "6781277",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "苔縄"
+  },
+  "6781278": {
+    "zipcode": "6781278",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "赤穂郡上郡町",
+    "town": "河野原"
+  }
+}

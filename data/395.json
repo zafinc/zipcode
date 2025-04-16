@@ -1,0 +1,922 @@
+{
+  "3950000": {
+    "zipcode": "3950000",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "以下に掲載がない場合"
+  },
+  "3950001": {
+    "zipcode": "3950001",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "座光寺"
+  },
+  "3950002": {
+    "zipcode": "3950002",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "上郷飯沼"
+  },
+  "3950003": {
+    "zipcode": "3950003",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "上郷別府"
+  },
+  "3950004": {
+    "zipcode": "3950004",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "上郷黒田"
+  },
+  "3950011": {
+    "zipcode": "3950011",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大門町"
+  },
+  "3950012": {
+    "zipcode": "3950012",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大王路"
+  },
+  "3950013": {
+    "zipcode": "3950013",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "小伝馬町"
+  },
+  "3950014": {
+    "zipcode": "3950014",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "桜町"
+  },
+  "3950015": {
+    "zipcode": "3950015",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "江戸町"
+  },
+  "3950016": {
+    "zipcode": "3950016",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "伝馬町"
+  },
+  "3950017": {
+    "zipcode": "3950017",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "東新町"
+  },
+  "3950018": {
+    "zipcode": "3950018",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "諏訪町"
+  },
+  "3950021": {
+    "zipcode": "3950021",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "仲ノ町"
+  },
+  "3950022": {
+    "zipcode": "3950022",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "浜井町"
+  },
+  "3950023": {
+    "zipcode": "3950023",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "江戸浜町"
+  },
+  "3950024": {
+    "zipcode": "3950024",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "東栄町"
+  },
+  "3950025": {
+    "zipcode": "3950025",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "東中央通り"
+  },
+  "3950026": {
+    "zipcode": "3950026",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎西鼎"
+  },
+  "3950027": {
+    "zipcode": "3950027",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "馬場町"
+  },
+  "3950028": {
+    "zipcode": "3950028",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "長姫町"
+  },
+  "3950029": {
+    "zipcode": "3950029",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "二本松"
+  },
+  "3950031": {
+    "zipcode": "3950031",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "銀座"
+  },
+  "3950032": {
+    "zipcode": "3950032",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "主税町"
+  },
+  "3950033": {
+    "zipcode": "3950033",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "常盤町"
+  },
+  "3950034": {
+    "zipcode": "3950034",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "追手町"
+  },
+  "3950035": {
+    "zipcode": "3950035",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "水の手町"
+  },
+  "3950036": {
+    "zipcode": "3950036",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "愛宕町"
+  },
+  "3950037": {
+    "zipcode": "3950037",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "南常盤町"
+  },
+  "3950041": {
+    "zipcode": "3950041",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "中央通り"
+  },
+  "3950042": {
+    "zipcode": "3950042",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾町"
+  },
+  "3950043": {
+    "zipcode": "3950043",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "通り町"
+  },
+  "3950044": {
+    "zipcode": "3950044",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "本町"
+  },
+  "3950045": {
+    "zipcode": "3950045",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "知久町"
+  },
+  "3950046": {
+    "zipcode": "3950046",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "扇町"
+  },
+  "3950048": {
+    "zipcode": "3950048",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "滝の沢"
+  },
+  "3950051": {
+    "zipcode": "3950051",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "高羽町"
+  },
+  "3950052": {
+    "zipcode": "3950052",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "元町"
+  },
+  "3950053": {
+    "zipcode": "3950053",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大久保町"
+  },
+  "3950054": {
+    "zipcode": "3950054",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "箕瀬町"
+  },
+  "3950055": {
+    "zipcode": "3950055",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "旭町"
+  },
+  "3950056": {
+    "zipcode": "3950056",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大通"
+  },
+  "3950061": {
+    "zipcode": "3950061",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "正永町"
+  },
+  "3950062": {
+    "zipcode": "3950062",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "砂払町"
+  },
+  "3950063": {
+    "zipcode": "3950063",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場町"
+  },
+  "3950064": {
+    "zipcode": "3950064",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場仲畑"
+  },
+  "3950065": {
+    "zipcode": "3950065",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場上河原"
+  },
+  "3950066": {
+    "zipcode": "3950066",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場赤坂"
+  },
+  "3950067": {
+    "zipcode": "3950067",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場権現"
+  },
+  "3950068": {
+    "zipcode": "3950068",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大休"
+  },
+  "3950071": {
+    "zipcode": "3950071",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "今宮町"
+  },
+  "3950072": {
+    "zipcode": "3950072",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "曙町"
+  },
+  "3950073": {
+    "zipcode": "3950073",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "羽場坂町"
+  },
+  "3950074": {
+    "zipcode": "3950074",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松川町"
+  },
+  "3950075": {
+    "zipcode": "3950075",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "白山通り"
+  },
+  "3950076": {
+    "zipcode": "3950076",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "白山町"
+  },
+  "3950077": {
+    "zipcode": "3950077",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "丸山町"
+  },
+  "3950081": {
+    "zipcode": "3950081",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "宮ノ上"
+  },
+  "3950082": {
+    "zipcode": "3950082",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "宮の前"
+  },
+  "3950083": {
+    "zipcode": "3950083",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "錦町"
+  },
+  "3950084": {
+    "zipcode": "3950084",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鈴加町"
+  },
+  "3950085": {
+    "zipcode": "3950085",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "吾妻町"
+  },
+  "3950086": {
+    "zipcode": "3950086",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "東和町"
+  },
+  "3950151": {
+    "zipcode": "3950151",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "北方"
+  },
+  "3950152": {
+    "zipcode": "3950152",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "育良町"
+  },
+  "3950153": {
+    "zipcode": "3950153",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "上殿岡"
+  },
+  "3950154": {
+    "zipcode": "3950154",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "下殿岡"
+  },
+  "3950155": {
+    "zipcode": "3950155",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "三日市場"
+  },
+  "3950156": {
+    "zipcode": "3950156",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "中村"
+  },
+  "3950157": {
+    "zipcode": "3950157",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "大瀬木"
+  },
+  "3950241": {
+    "zipcode": "3950241",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "久米"
+  },
+  "3950242": {
+    "zipcode": "3950242",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "竹佐"
+  },
+  "3950243": {
+    "zipcode": "3950243",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "箱川"
+  },
+  "3950244": {
+    "zipcode": "3950244",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "山本"
+  },
+  "3950245": {
+    "zipcode": "3950245",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "山本二ツ山団地"
+  },
+  "3950300": {
+    "zipcode": "3950300",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "以下に掲載がない場合"
+  },
+  "3950301": {
+    "zipcode": "3950301",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "春日"
+  },
+  "3950302": {
+    "zipcode": "3950302",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "伍和"
+  },
+  "3950303": {
+    "zipcode": "3950303",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "駒場"
+  },
+  "3950304": {
+    "zipcode": "3950304",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "智里"
+  },
+  "3950305": {
+    "zipcode": "3950305",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "駒"
+  },
+  "3950401": {
+    "zipcode": "3950401",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "清内路"
+  },
+  "3950501": {
+    "zipcode": "3950501",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡阿智村",
+    "town": "浪合"
+  },
+  "3950601": {
+    "zipcode": "3950601",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡平谷村",
+    "town": "平谷村一円"
+  },
+  "3950701": {
+    "zipcode": "3950701",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡根羽村",
+    "town": "根羽村一円"
+  },
+  "3950801": {
+    "zipcode": "3950801",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎中平"
+  },
+  "3950802": {
+    "zipcode": "3950802",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎下茶屋"
+  },
+  "3950803": {
+    "zipcode": "3950803",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎下山"
+  },
+  "3950804": {
+    "zipcode": "3950804",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎名古熊"
+  },
+  "3950805": {
+    "zipcode": "3950805",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎一色"
+  },
+  "3950806": {
+    "zipcode": "3950806",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎上山"
+  },
+  "3950807": {
+    "zipcode": "3950807",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎切石"
+  },
+  "3950808": {
+    "zipcode": "3950808",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎上茶屋"
+  },
+  "3950811": {
+    "zipcode": "3950811",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾上溝"
+  },
+  "3950812": {
+    "zipcode": "3950812",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾代田"
+  },
+  "3950813": {
+    "zipcode": "3950813",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "毛賀"
+  },
+  "3950814": {
+    "zipcode": "3950814",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "八幡町"
+  },
+  "3950815": {
+    "zipcode": "3950815",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾常盤台"
+  },
+  "3950816": {
+    "zipcode": "3950816",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾久井"
+  },
+  "3950817": {
+    "zipcode": "3950817",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "鼎東鼎"
+  },
+  "3950821": {
+    "zipcode": "3950821",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾新井"
+  },
+  "3950822": {
+    "zipcode": "3950822",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾寺所"
+  },
+  "3950823": {
+    "zipcode": "3950823",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾明"
+  },
+  "3950824": {
+    "zipcode": "3950824",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾清水"
+  },
+  "3950825": {
+    "zipcode": "3950825",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾城"
+  },
+  "3950826": {
+    "zipcode": "3950826",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "飯田市",
+    "town": "松尾水城"
+  },
+  "3951100": {
+    "zipcode": "3951100",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "以下に掲載がない場合"
+  },
+  "3951101": {
+    "zipcode": "3951101",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "阿島"
+  },
+  "3951102": {
+    "zipcode": "3951102",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "加々須"
+  },
+  "3951103": {
+    "zipcode": "3951103",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "大島"
+  },
+  "3951104": {
+    "zipcode": "3951104",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "氏乗"
+  },
+  "3951105": {
+    "zipcode": "3951105",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "大和知"
+  },
+  "3951106": {
+    "zipcode": "3951106",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "富田"
+  },
+  "3951107": {
+    "zipcode": "3951107",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "小川"
+  },
+  "3951108": {
+    "zipcode": "3951108",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "下伊那郡喬木村",
+    "town": "伊久間"
+  }
+}

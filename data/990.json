@@ -1,0 +1,3250 @@
+{
+  "9900000": {
+    "zipcode": "9900000",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "以下に掲載がない場合"
+  },
+  "9900001": {
+    "zipcode": "9900001",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "穂積"
+  },
+  "9900002": {
+    "zipcode": "9900002",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "高原町"
+  },
+  "9900003": {
+    "zipcode": "9900003",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "早乙女"
+  },
+  "9900004": {
+    "zipcode": "9900004",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上山家町"
+  },
+  "9900005": {
+    "zipcode": "9900005",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下山家町"
+  },
+  "9900006": {
+    "zipcode": "9900006",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "山家本町"
+  },
+  "9900007": {
+    "zipcode": "9900007",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "沼の辺町"
+  },
+  "9900008": {
+    "zipcode": "9900008",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "双月新町"
+  },
+  "9900011": {
+    "zipcode": "9900011",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "妙見寺"
+  },
+  "9900012": {
+    "zipcode": "9900012",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "釈迦堂"
+  },
+  "9900013": {
+    "zipcode": "9900013",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "防原町"
+  },
+  "9900014": {
+    "zipcode": "9900014",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "滑川"
+  },
+  "9900015": {
+    "zipcode": "9900015",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "新山"
+  },
+  "9900016": {
+    "zipcode": "9900016",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "関沢"
+  },
+  "9900017": {
+    "zipcode": "9900017",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上宝沢"
+  },
+  "9900018": {
+    "zipcode": "9900018",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下宝沢"
+  },
+  "9900021": {
+    "zipcode": "9900021",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "小白川町"
+  },
+  "9900022": {
+    "zipcode": "9900022",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東山形"
+  },
+  "9900023": {
+    "zipcode": "9900023",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "松波"
+  },
+  "9900024": {
+    "zipcode": "9900024",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "あさひ町"
+  },
+  "9900025": {
+    "zipcode": "9900025",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "あこや町"
+  },
+  "9900031": {
+    "zipcode": "9900031",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "十日町"
+  },
+  "9900032": {
+    "zipcode": "9900032",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "小姓町"
+  },
+  "9900033": {
+    "zipcode": "9900033",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "諏訪町"
+  },
+  "9900034": {
+    "zipcode": "9900034",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東原町"
+  },
+  "9900035": {
+    "zipcode": "9900035",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "小荷駄町"
+  },
+  "9900036": {
+    "zipcode": "9900036",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "三日町"
+  },
+  "9900037": {
+    "zipcode": "9900037",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "八日町"
+  },
+  "9900038": {
+    "zipcode": "9900038",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "幸町"
+  },
+  "9900039": {
+    "zipcode": "9900039",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "香澄町"
+  },
+  "9900041": {
+    "zipcode": "9900041",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "緑町"
+  },
+  "9900042": {
+    "zipcode": "9900042",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "七日町"
+  },
+  "9900043": {
+    "zipcode": "9900043",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "本町"
+  },
+  "9900044": {
+    "zipcode": "9900044",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "木の実町"
+  },
+  "9900045": {
+    "zipcode": "9900045",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桜町"
+  },
+  "9900046": {
+    "zipcode": "9900046",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大手町"
+  },
+  "9900047": {
+    "zipcode": "9900047",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "旅篭町"
+  },
+  "9900051": {
+    "zipcode": "9900051",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "銅町"
+  },
+  "9900052": {
+    "zipcode": "9900052",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "円応寺町"
+  },
+  "9900053": {
+    "zipcode": "9900053",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "薬師町"
+  },
+  "9900054": {
+    "zipcode": "9900054",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "六日町"
+  },
+  "9900055": {
+    "zipcode": "9900055",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "相生町"
+  },
+  "9900056": {
+    "zipcode": "9900056",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "錦町"
+  },
+  "9900057": {
+    "zipcode": "9900057",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "宮町"
+  },
+  "9900061": {
+    "zipcode": "9900061",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "五十鈴"
+  },
+  "9900062": {
+    "zipcode": "9900062",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "鈴川町"
+  },
+  "9900063": {
+    "zipcode": "9900063",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "山家町"
+  },
+  "9900064": {
+    "zipcode": "9900064",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "和合町"
+  },
+  "9900065": {
+    "zipcode": "9900065",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "双月町"
+  },
+  "9900066": {
+    "zipcode": "9900066",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "印役町"
+  },
+  "9900067": {
+    "zipcode": "9900067",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "花楯"
+  },
+  "9900068": {
+    "zipcode": "9900068",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "泉町"
+  },
+  "9900071": {
+    "zipcode": "9900071",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "流通センター"
+  },
+  "9900072": {
+    "zipcode": "9900072",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "浜崎"
+  },
+  "9900073": {
+    "zipcode": "9900073",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大野目"
+  },
+  "9900074": {
+    "zipcode": "9900074",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "芳野"
+  },
+  "9900075": {
+    "zipcode": "9900075",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "落合町"
+  },
+  "9900076": {
+    "zipcode": "9900076",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "平久保"
+  },
+  "9900077": {
+    "zipcode": "9900077",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "栄原"
+  },
+  "9900300": {
+    "zipcode": "9900300",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "以下に掲載がない場合"
+  },
+  "9900301": {
+    "zipcode": "9900301",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "山辺"
+  },
+  "9900302": {
+    "zipcode": "9900302",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "緑ケ丘"
+  },
+  "9900303": {
+    "zipcode": "9900303",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "清水"
+  },
+  "9900311": {
+    "zipcode": "9900311",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "近江"
+  },
+  "9900312": {
+    "zipcode": "9900312",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "三河尻"
+  },
+  "9900321": {
+    "zipcode": "9900321",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "根際"
+  },
+  "9900322": {
+    "zipcode": "9900322",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "要害"
+  },
+  "9900323": {
+    "zipcode": "9900323",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "大塚"
+  },
+  "9900331": {
+    "zipcode": "9900331",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "大寺"
+  },
+  "9900332": {
+    "zipcode": "9900332",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "北垣"
+  },
+  "9900333": {
+    "zipcode": "9900333",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "杉下"
+  },
+  "9900341": {
+    "zipcode": "9900341",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "大蕨"
+  },
+  "9900342": {
+    "zipcode": "9900342",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "北山"
+  },
+  "9900351": {
+    "zipcode": "9900351",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "簗沢"
+  },
+  "9900352": {
+    "zipcode": "9900352",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "北作"
+  },
+  "9900361": {
+    "zipcode": "9900361",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡山辺町",
+    "town": "畑谷"
+  },
+  "9900400": {
+    "zipcode": "9900400",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "以下に掲載がない場合"
+  },
+  "9900401": {
+    "zipcode": "9900401",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "長崎"
+  },
+  "9900402": {
+    "zipcode": "9900402",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "いずみ"
+  },
+  "9900403": {
+    "zipcode": "9900403",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "達磨寺"
+  },
+  "9900404": {
+    "zipcode": "9900404",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "向新田"
+  },
+  "9900405": {
+    "zipcode": "9900405",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "金沢"
+  },
+  "9900406": {
+    "zipcode": "9900406",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "柳沢"
+  },
+  "9900407": {
+    "zipcode": "9900407",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "土橋"
+  },
+  "9900408": {
+    "zipcode": "9900408",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "岡"
+  },
+  "9900409": {
+    "zipcode": "9900409",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "小塩"
+  },
+  "9900411": {
+    "zipcode": "9900411",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "東村山郡中山町",
+    "town": "あおば"
+  },
+  "9900501": {
+    "zipcode": "9900501",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "宮内"
+  },
+  "9900502": {
+    "zipcode": "9900502",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "幸生"
+  },
+  "9900503": {
+    "zipcode": "9900503",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "田代"
+  },
+  "9900504": {
+    "zipcode": "9900504",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "留場"
+  },
+  "9900505": {
+    "zipcode": "9900505",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "白岩"
+  },
+  "9900511": {
+    "zipcode": "9900511",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "慈恩寺"
+  },
+  "9900512": {
+    "zipcode": "9900512",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "箕輪"
+  },
+  "9900513": {
+    "zipcode": "9900513",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "日和田"
+  },
+  "9900521": {
+    "zipcode": "9900521",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "谷沢"
+  },
+  "9900522": {
+    "zipcode": "9900522",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "清助新田"
+  },
+  "9900523": {
+    "zipcode": "9900523",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "八鍬"
+  },
+  "9900524": {
+    "zipcode": "9900524",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "高松"
+  },
+  "9900525": {
+    "zipcode": "9900525",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "米沢"
+  },
+  "9900561": {
+    "zipcode": "9900561",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "寒河江市",
+    "town": "中央工業団地（１番地）"
+  },
+  "9900700": {
+    "zipcode": "9900700",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "以下に掲載がない場合"
+  },
+  "9900701": {
+    "zipcode": "9900701",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "睦合"
+  },
+  "9900702": {
+    "zipcode": "9900702",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "海味"
+  },
+  "9900703": {
+    "zipcode": "9900703",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "間沢"
+  },
+  "9900711": {
+    "zipcode": "9900711",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "吉川"
+  },
+  "9900712": {
+    "zipcode": "9900712",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "原"
+  },
+  "9900713": {
+    "zipcode": "9900713",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "沼山"
+  },
+  "9900714": {
+    "zipcode": "9900714",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "入間"
+  },
+  "9900721": {
+    "zipcode": "9900721",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "大井沢"
+  },
+  "9900731": {
+    "zipcode": "9900731",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "月岡"
+  },
+  "9900732": {
+    "zipcode": "9900732",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "砂子関"
+  },
+  "9900733": {
+    "zipcode": "9900733",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "月山沢"
+  },
+  "9900734": {
+    "zipcode": "9900734",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "志津"
+  },
+  "9900735": {
+    "zipcode": "9900735",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "本道寺"
+  },
+  "9900741": {
+    "zipcode": "9900741",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "綱取"
+  },
+  "9900742": {
+    "zipcode": "9900742",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "水沢"
+  },
+  "9900743": {
+    "zipcode": "9900743",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡西川町",
+    "town": "岩根沢"
+  },
+  "9900801": {
+    "zipcode": "9900801",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "天神町"
+  },
+  "9900802": {
+    "zipcode": "9900802",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "見崎川原"
+  },
+  "9900803": {
+    "zipcode": "9900803",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "見崎"
+  },
+  "9900804": {
+    "zipcode": "9900804",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "七十刈"
+  },
+  "9900805": {
+    "zipcode": "9900805",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "檀野前"
+  },
+  "9900806": {
+    "zipcode": "9900806",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "藤治屋敷"
+  },
+  "9900807": {
+    "zipcode": "9900807",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "白川"
+  },
+  "9900808": {
+    "zipcode": "9900808",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "高田"
+  },
+  "9900809": {
+    "zipcode": "9900809",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下田"
+  },
+  "9900810": {
+    "zipcode": "9900810",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "馬見ケ崎"
+  },
+  "9900811": {
+    "zipcode": "9900811",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "長町"
+  },
+  "9900812": {
+    "zipcode": "9900812",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "千歳"
+  },
+  "9900813": {
+    "zipcode": "9900813",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桧町"
+  },
+  "9900814": {
+    "zipcode": "9900814",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "土樋"
+  },
+  "9900815": {
+    "zipcode": "9900815",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "樋越"
+  },
+  "9900817": {
+    "zipcode": "9900817",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "今塚"
+  },
+  "9900818": {
+    "zipcode": "9900818",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "沖町"
+  },
+  "9900819": {
+    "zipcode": "9900819",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "境田町"
+  },
+  "9900821": {
+    "zipcode": "9900821",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "北町"
+  },
+  "9900822": {
+    "zipcode": "9900822",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "北山形"
+  },
+  "9900823": {
+    "zipcode": "9900823",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下条町"
+  },
+  "9900824": {
+    "zipcode": "9900824",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "肴町"
+  },
+  "9900825": {
+    "zipcode": "9900825",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "城北町"
+  },
+  "9900826": {
+    "zipcode": "9900826",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "霞城町"
+  },
+  "9900827": {
+    "zipcode": "9900827",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "城南町"
+  },
+  "9900828": {
+    "zipcode": "9900828",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "双葉町"
+  },
+  "9900829": {
+    "zipcode": "9900829",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "五日町"
+  },
+  "9900831": {
+    "zipcode": "9900831",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西田"
+  },
+  "9900832": {
+    "zipcode": "9900832",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "城西町"
+  },
+  "9900833": {
+    "zipcode": "9900833",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "春日町"
+  },
+  "9900834": {
+    "zipcode": "9900834",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "清住町"
+  },
+  "9900835": {
+    "zipcode": "9900835",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "やよい"
+  },
+  "9900836": {
+    "zipcode": "9900836",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南石関"
+  },
+  "9900841": {
+    "zipcode": "9900841",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "飯塚口"
+  },
+  "9900842": {
+    "zipcode": "9900842",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "石関"
+  },
+  "9900843": {
+    "zipcode": "9900843",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "横道"
+  },
+  "9900844": {
+    "zipcode": "9900844",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西見田"
+  },
+  "9900845": {
+    "zipcode": "9900845",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "飯塚町"
+  },
+  "9900846": {
+    "zipcode": "9900846",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "志鎌"
+  },
+  "9900847": {
+    "zipcode": "9900847",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "砂田"
+  },
+  "9900848": {
+    "zipcode": "9900848",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "宮浦"
+  },
+  "9900849": {
+    "zipcode": "9900849",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "中沼"
+  },
+  "9900850": {
+    "zipcode": "9900850",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "くぬぎざわ西"
+  },
+  "9900851": {
+    "zipcode": "9900851",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上椹沢"
+  },
+  "9900852": {
+    "zipcode": "9900852",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "黄金"
+  },
+  "9900853": {
+    "zipcode": "9900853",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西崎"
+  },
+  "9900854": {
+    "zipcode": "9900854",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "砂塚"
+  },
+  "9900855": {
+    "zipcode": "9900855",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "千代田"
+  },
+  "9900856": {
+    "zipcode": "9900856",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "金石田"
+  },
+  "9900857": {
+    "zipcode": "9900857",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "平田"
+  },
+  "9900858": {
+    "zipcode": "9900858",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下椹沢"
+  },
+  "9900859": {
+    "zipcode": "9900859",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西原"
+  },
+  "9900860": {
+    "zipcode": "9900860",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "陣場南"
+  },
+  "9900861": {
+    "zipcode": "9900861",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "江俣"
+  },
+  "9900862": {
+    "zipcode": "9900862",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西江俣"
+  },
+  "9900863": {
+    "zipcode": "9900863",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "江南"
+  },
+  "9900864": {
+    "zipcode": "9900864",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "陣場"
+  },
+  "9900865": {
+    "zipcode": "9900865",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "馬上台"
+  },
+  "9900866": {
+    "zipcode": "9900866",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "横井"
+  },
+  "9900867": {
+    "zipcode": "9900867",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "天神台"
+  },
+  "9900868": {
+    "zipcode": "9900868",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "志戸田"
+  },
+  "9900869": {
+    "zipcode": "9900869",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東志戸田"
+  },
+  "9900870": {
+    "zipcode": "9900870",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "島"
+  },
+  "9900871": {
+    "zipcode": "9900871",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "銅谷口"
+  },
+  "9900872": {
+    "zipcode": "9900872",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "八幡前"
+  },
+  "9900874": {
+    "zipcode": "9900874",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "梅野木前"
+  },
+  "9900875": {
+    "zipcode": "9900875",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "北江俣"
+  },
+  "9900876": {
+    "zipcode": "9900876",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "行才"
+  },
+  "9900877": {
+    "zipcode": "9900877",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "内表"
+  },
+  "9900878": {
+    "zipcode": "9900878",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "内表東"
+  },
+  "9900879": {
+    "zipcode": "9900879",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南志戸田"
+  },
+  "9900881": {
+    "zipcode": "9900881",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "瀬波"
+  },
+  "9900882": {
+    "zipcode": "9900882",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "陣場新田"
+  },
+  "9900883": {
+    "zipcode": "9900883",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "吉野宿"
+  },
+  "9900884": {
+    "zipcode": "9900884",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "鮨洗"
+  },
+  "9900885": {
+    "zipcode": "9900885",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "嶋北"
+  },
+  "9900886": {
+    "zipcode": "9900886",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "嶋南"
+  },
+  "9900891": {
+    "zipcode": "9900891",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "成安"
+  },
+  "9900892": {
+    "zipcode": "9900892",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "中野"
+  },
+  "9900893": {
+    "zipcode": "9900893",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西中野"
+  },
+  "9900894": {
+    "zipcode": "9900894",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "船町"
+  },
+  "9900895": {
+    "zipcode": "9900895",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "向新田"
+  },
+  "9900896": {
+    "zipcode": "9900896",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "北田"
+  },
+  "9900897": {
+    "zipcode": "9900897",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東田"
+  },
+  "9900898": {
+    "zipcode": "9900898",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "三社"
+  },
+  "9900899": {
+    "zipcode": "9900899",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東篭野町"
+  },
+  "9901100": {
+    "zipcode": "9901100",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "以下に掲載がない場合"
+  },
+  "9901101": {
+    "zipcode": "9901101",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "左沢（その他）"
+  },
+  "9901111": {
+    "zipcode": "9901111",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "三郷丙"
+  },
+  "9901112": {
+    "zipcode": "9901112",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "三郷乙"
+  },
+  "9901113": {
+    "zipcode": "9901113",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "三郷甲"
+  },
+  "9901114": {
+    "zipcode": "9901114",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "富沢"
+  },
+  "9901121": {
+    "zipcode": "9901121",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "藤田"
+  },
+  "9901122": {
+    "zipcode": "9901122",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "小見"
+  },
+  "9901131": {
+    "zipcode": "9901131",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "荻野"
+  },
+  "9901132": {
+    "zipcode": "9901132",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "堂屋敷"
+  },
+  "9901133": {
+    "zipcode": "9901133",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "塩ノ平"
+  },
+  "9901134": {
+    "zipcode": "9901134",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "所部"
+  },
+  "9901141": {
+    "zipcode": "9901141",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "小釿"
+  },
+  "9901142": {
+    "zipcode": "9901142",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "材木"
+  },
+  "9901143": {
+    "zipcode": "9901143",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "橋上"
+  },
+  "9901144": {
+    "zipcode": "9901144",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "十八才甲"
+  },
+  "9901145": {
+    "zipcode": "9901145",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "十八才乙"
+  },
+  "9901146": {
+    "zipcode": "9901146",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "楢山"
+  },
+  "9901151": {
+    "zipcode": "9901151",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷乙"
+  },
+  "9901152": {
+    "zipcode": "9901152",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "顔好甲"
+  },
+  "9901153": {
+    "zipcode": "9901153",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "顔好乙"
+  },
+  "9901154": {
+    "zipcode": "9901154",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷甲"
+  },
+  "9901161": {
+    "zipcode": "9901161",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "原田"
+  },
+  "9901162": {
+    "zipcode": "9901162",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷己"
+  },
+  "9901163": {
+    "zipcode": "9901163",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷丁"
+  },
+  "9901164": {
+    "zipcode": "9901164",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷丙"
+  },
+  "9901165": {
+    "zipcode": "9901165",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "本郷戊"
+  },
+  "9901271": {
+    "zipcode": "9901271",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "月布"
+  },
+  "9901272": {
+    "zipcode": "9901272",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "貫見"
+  },
+  "9901273": {
+    "zipcode": "9901273",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "小清"
+  },
+  "9901274": {
+    "zipcode": "9901274",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "柳川"
+  },
+  "9901275": {
+    "zipcode": "9901275",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "沢口"
+  },
+  "9901276": {
+    "zipcode": "9901276",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡大江町",
+    "town": "黒森"
+  },
+  "9901301": {
+    "zipcode": "9901301",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "中沢"
+  },
+  "9901302": {
+    "zipcode": "9901302",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "玉ノ井"
+  },
+  "9901303": {
+    "zipcode": "9901303",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "馬神"
+  },
+  "9901304": {
+    "zipcode": "9901304",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "大谷"
+  },
+  "9901305": {
+    "zipcode": "9901305",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "大沼"
+  },
+  "9901306": {
+    "zipcode": "9901306",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "大暮山"
+  },
+  "9901400": {
+    "zipcode": "9901400",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "以下に掲載がない場合"
+  },
+  "9901411": {
+    "zipcode": "9901411",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "和合"
+  },
+  "9901412": {
+    "zipcode": "9901412",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "和合平"
+  },
+  "9901421": {
+    "zipcode": "9901421",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "古槇"
+  },
+  "9901422": {
+    "zipcode": "9901422",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "送橋"
+  },
+  "9901423": {
+    "zipcode": "9901423",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "下芦沢"
+  },
+  "9901424": {
+    "zipcode": "9901424",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "水本"
+  },
+  "9901431": {
+    "zipcode": "9901431",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "大滝"
+  },
+  "9901432": {
+    "zipcode": "9901432",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "上郷"
+  },
+  "9901433": {
+    "zipcode": "9901433",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "杉山"
+  },
+  "9901441": {
+    "zipcode": "9901441",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "新宿"
+  },
+  "9901442": {
+    "zipcode": "9901442",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "宮宿"
+  },
+  "9901443": {
+    "zipcode": "9901443",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "雪谷"
+  },
+  "9901444": {
+    "zipcode": "9901444",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "四ノ沢"
+  },
+  "9901551": {
+    "zipcode": "9901551",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "三中"
+  },
+  "9901552": {
+    "zipcode": "9901552",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "常盤"
+  },
+  "9901553": {
+    "zipcode": "9901553",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "長沼"
+  },
+  "9901561": {
+    "zipcode": "9901561",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "松程"
+  },
+  "9901562": {
+    "zipcode": "9901562",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "大船木"
+  },
+  "9901563": {
+    "zipcode": "9901563",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "今平"
+  },
+  "9901571": {
+    "zipcode": "9901571",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "石須部"
+  },
+  "9901572": {
+    "zipcode": "9901572",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "太郎"
+  },
+  "9901573": {
+    "zipcode": "9901573",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "立木"
+  },
+  "9901574": {
+    "zipcode": "9901574",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "西村山郡朝日町",
+    "town": "白倉"
+  },
+  "9902161": {
+    "zipcode": "9902161",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "漆山"
+  },
+  "9902162": {
+    "zipcode": "9902162",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "あけぼの"
+  },
+  "9902163": {
+    "zipcode": "9902163",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "伊達城"
+  },
+  "9902164": {
+    "zipcode": "9902164",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "新開"
+  },
+  "9902171": {
+    "zipcode": "9902171",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "七浦"
+  },
+  "9902172": {
+    "zipcode": "9902172",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "千手堂"
+  },
+  "9902173": {
+    "zipcode": "9902173",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "渋江"
+  },
+  "9902174": {
+    "zipcode": "9902174",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "灰塚"
+  },
+  "9902175": {
+    "zipcode": "9902175",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "中野目"
+  },
+  "9902211": {
+    "zipcode": "9902211",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "十文字"
+  },
+  "9902212": {
+    "zipcode": "9902212",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上柳"
+  },
+  "9902213": {
+    "zipcode": "9902213",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "寺西"
+  },
+  "9902214": {
+    "zipcode": "9902214",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "青柳"
+  },
+  "9902215": {
+    "zipcode": "9902215",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下柳"
+  },
+  "9902216": {
+    "zipcode": "9902216",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "千刈"
+  },
+  "9902221": {
+    "zipcode": "9902221",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "風間"
+  },
+  "9902222": {
+    "zipcode": "9902222",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "青野"
+  },
+  "9902223": {
+    "zipcode": "9902223",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "塔の前"
+  },
+  "9902224": {
+    "zipcode": "9902224",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "近田"
+  },
+  "9902225": {
+    "zipcode": "9902225",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "花岡"
+  },
+  "9902226": {
+    "zipcode": "9902226",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "西越"
+  },
+  "9902227": {
+    "zipcode": "9902227",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "千石"
+  },
+  "9902231": {
+    "zipcode": "9902231",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大森"
+  },
+  "9902232": {
+    "zipcode": "9902232",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下東山"
+  },
+  "9902233": {
+    "zipcode": "9902233",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "切畑"
+  },
+  "9902234": {
+    "zipcode": "9902234",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "こも石"
+  },
+  "9902235": {
+    "zipcode": "9902235",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "中里"
+  },
+  "9902241": {
+    "zipcode": "9902241",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上東山"
+  },
+  "9902242": {
+    "zipcode": "9902242",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "高沢"
+  },
+  "9902251": {
+    "zipcode": "9902251",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "立谷川"
+  },
+  "9902301": {
+    "zipcode": "9902301",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王温泉"
+  },
+  "9902302": {
+    "zipcode": "9902302",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王堀田"
+  },
+  "9902303": {
+    "zipcode": "9902303",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王上野"
+  },
+  "9902304": {
+    "zipcode": "9902304",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王山田"
+  },
+  "9902305": {
+    "zipcode": "9902305",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王半郷"
+  },
+  "9902306": {
+    "zipcode": "9902306",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南半郷"
+  },
+  "9902307": {
+    "zipcode": "9902307",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "表蔵王"
+  },
+  "9902308": {
+    "zipcode": "9902308",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東半郷"
+  },
+  "9902311": {
+    "zipcode": "9902311",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "黒沢"
+  },
+  "9902312": {
+    "zipcode": "9902312",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南松原"
+  },
+  "9902313": {
+    "zipcode": "9902313",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "松原"
+  },
+  "9902314": {
+    "zipcode": "9902314",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "谷柏"
+  },
+  "9902315": {
+    "zipcode": "9902315",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "津金沢"
+  },
+  "9902316": {
+    "zipcode": "9902316",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "片谷地"
+  },
+  "9902317": {
+    "zipcode": "9902317",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "みはらしの丘"
+  },
+  "9902321": {
+    "zipcode": "9902321",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桜田西"
+  },
+  "9902322": {
+    "zipcode": "9902322",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桜田南"
+  },
+  "9902323": {
+    "zipcode": "9902323",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桜田東"
+  },
+  "9902324": {
+    "zipcode": "9902324",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "青田南"
+  },
+  "9902331": {
+    "zipcode": "9902331",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "飯田西"
+  },
+  "9902332": {
+    "zipcode": "9902332",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "飯田"
+  },
+  "9902333": {
+    "zipcode": "9902333",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王飯田"
+  },
+  "9902334": {
+    "zipcode": "9902334",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王成沢"
+  },
+  "9902335": {
+    "zipcode": "9902335",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王南成沢"
+  },
+  "9902337": {
+    "zipcode": "9902337",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王西成沢"
+  },
+  "9902338": {
+    "zipcode": "9902338",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王松ケ丘"
+  },
+  "9902339": {
+    "zipcode": "9902339",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "成沢西"
+  },
+  "9902341": {
+    "zipcode": "9902341",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "柏倉"
+  },
+  "9902342": {
+    "zipcode": "9902342",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "門伝"
+  },
+  "9902343": {
+    "zipcode": "9902343",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "城森"
+  },
+  "9902344": {
+    "zipcode": "9902344",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大道端"
+  },
+  "9902345": {
+    "zipcode": "9902345",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "富神台"
+  },
+  "9902346": {
+    "zipcode": "9902346",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "高木"
+  },
+  "9902351": {
+    "zipcode": "9902351",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "鋳物町"
+  },
+  "9902352": {
+    "zipcode": "9902352",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "前明石"
+  },
+  "9902353": {
+    "zipcode": "9902353",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "明石堂"
+  },
+  "9902354": {
+    "zipcode": "9902354",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東二位田"
+  },
+  "9902355": {
+    "zipcode": "9902355",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "二位田"
+  },
+  "9902361": {
+    "zipcode": "9902361",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "百目鬼"
+  },
+  "9902362": {
+    "zipcode": "9902362",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "菅沢"
+  },
+  "9902363": {
+    "zipcode": "9902363",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "長谷堂"
+  },
+  "9902364": {
+    "zipcode": "9902364",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大師堂"
+  },
+  "9902365": {
+    "zipcode": "9902365",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "御手作"
+  },
+  "9902366": {
+    "zipcode": "9902366",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "谷地前"
+  },
+  "9902367": {
+    "zipcode": "9902367",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "すげさわの丘"
+  },
+  "9902371": {
+    "zipcode": "9902371",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "村木沢"
+  },
+  "9902372": {
+    "zipcode": "9902372",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "みのりが丘"
+  },
+  "9902373": {
+    "zipcode": "9902373",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "若木"
+  },
+  "9902374": {
+    "zipcode": "9902374",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "古館"
+  },
+  "9902375": {
+    "zipcode": "9902375",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東古館"
+  },
+  "9902376": {
+    "zipcode": "9902376",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "桜ケ丘"
+  },
+  "9902377": {
+    "zipcode": "9902377",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "藤沢川"
+  },
+  "9902378": {
+    "zipcode": "9902378",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "反町"
+  },
+  "9902381": {
+    "zipcode": "9902381",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "常明寺"
+  },
+  "9902382": {
+    "zipcode": "9902382",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "滝平"
+  },
+  "9902383": {
+    "zipcode": "9902383",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "芳沢"
+  },
+  "9902384": {
+    "zipcode": "9902384",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上反田"
+  },
+  "9902385": {
+    "zipcode": "9902385",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "下反田"
+  },
+  "9902386": {
+    "zipcode": "9902386",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "並柳"
+  },
+  "9902401": {
+    "zipcode": "9902401",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "平清水"
+  },
+  "9902402": {
+    "zipcode": "9902402",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "小立"
+  },
+  "9902403": {
+    "zipcode": "9902403",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "岩波"
+  },
+  "9902404": {
+    "zipcode": "9902404",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "八森"
+  },
+  "9902405": {
+    "zipcode": "9902405",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "土坂"
+  },
+  "9902406": {
+    "zipcode": "9902406",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "神尾"
+  },
+  "9902411": {
+    "zipcode": "9902411",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "前田町"
+  },
+  "9902412": {
+    "zipcode": "9902412",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "松山"
+  },
+  "9902413": {
+    "zipcode": "9902413",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南原町"
+  },
+  "9902414": {
+    "zipcode": "9902414",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "寿町"
+  },
+  "9902421": {
+    "zipcode": "9902421",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上桜田"
+  },
+  "9902422": {
+    "zipcode": "9902422",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "中桜田"
+  },
+  "9902423": {
+    "zipcode": "9902423",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "東青田"
+  },
+  "9902431": {
+    "zipcode": "9902431",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "松見町"
+  },
+  "9902432": {
+    "zipcode": "9902432",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "荒楯町"
+  },
+  "9902433": {
+    "zipcode": "9902433",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "鳥居ケ丘"
+  },
+  "9902434": {
+    "zipcode": "9902434",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "旭が丘"
+  },
+  "9902435": {
+    "zipcode": "9902435",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "青田"
+  },
+  "9902441": {
+    "zipcode": "9902441",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南一番町"
+  },
+  "9902442": {
+    "zipcode": "9902442",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南二番町"
+  },
+  "9902443": {
+    "zipcode": "9902443",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南三番町"
+  },
+  "9902444": {
+    "zipcode": "9902444",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南四番町"
+  },
+  "9902445": {
+    "zipcode": "9902445",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南栄町"
+  },
+  "9902446": {
+    "zipcode": "9902446",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "白山"
+  },
+  "9902447": {
+    "zipcode": "9902447",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "元木"
+  },
+  "9902451": {
+    "zipcode": "9902451",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "吉原"
+  },
+  "9902453": {
+    "zipcode": "9902453",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "若宮"
+  },
+  "9902455": {
+    "zipcode": "9902455",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "吉原南"
+  },
+  "9902461": {
+    "zipcode": "9902461",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南館"
+  },
+  "9902462": {
+    "zipcode": "9902462",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "深町"
+  },
+  "9902463": {
+    "zipcode": "9902463",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "富の中"
+  },
+  "9902464": {
+    "zipcode": "9902464",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "高堂"
+  },
+  "9902465": {
+    "zipcode": "9902465",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "南館西"
+  },
+  "9902471": {
+    "zipcode": "9902471",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "羽黒堂"
+  },
+  "9902472": {
+    "zipcode": "9902472",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "明神前"
+  },
+  "9902473": {
+    "zipcode": "9902473",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "松栄"
+  },
+  "9902474": {
+    "zipcode": "9902474",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "沼木"
+  },
+  "9902475": {
+    "zipcode": "9902475",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "木ノ目田"
+  },
+  "9902476": {
+    "zipcode": "9902476",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "飯沢"
+  },
+  "9902477": {
+    "zipcode": "9902477",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "長苗代"
+  },
+  "9902481": {
+    "zipcode": "9902481",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "あかねケ丘"
+  },
+  "9902482": {
+    "zipcode": "9902482",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "久保田"
+  },
+  "9902483": {
+    "zipcode": "9902483",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上町"
+  },
+  "9902484": {
+    "zipcode": "9902484",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "篭田"
+  },
+  "9902491": {
+    "zipcode": "9902491",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "あずま町"
+  },
+  "9902492": {
+    "zipcode": "9902492",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "鉄砲町"
+  },
+  "9902493": {
+    "zipcode": "9902493",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "美畑町"
+  },
+  "9902494": {
+    "zipcode": "9902494",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "末広町"
+  },
+  "9902495": {
+    "zipcode": "9902495",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "若葉町"
+  }
+}

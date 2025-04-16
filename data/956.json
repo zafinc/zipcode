@@ -1,0 +1,802 @@
+{
+  "9560000": {
+    "zipcode": "9560000",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "以下に掲載がない場合"
+  },
+  "9560001": {
+    "zipcode": "9560001",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "覚路津"
+  },
+  "9560002": {
+    "zipcode": "9560002",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "市之瀬"
+  },
+  "9560003": {
+    "zipcode": "9560003",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "長割"
+  },
+  "9560004": {
+    "zipcode": "9560004",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "大鹿"
+  },
+  "9560005": {
+    "zipcode": "9560005",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "栗宮"
+  },
+  "9560006": {
+    "zipcode": "9560006",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小戸上組"
+  },
+  "9560007": {
+    "zipcode": "9560007",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小戸下組"
+  },
+  "9560011": {
+    "zipcode": "9560011",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "車場"
+  },
+  "9560012": {
+    "zipcode": "9560012",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "荻野町"
+  },
+  "9560013": {
+    "zipcode": "9560013",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "田島"
+  },
+  "9560014": {
+    "zipcode": "9560014",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "福島"
+  },
+  "9560015": {
+    "zipcode": "9560015",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "川口"
+  },
+  "9560016": {
+    "zipcode": "9560016",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "こがね町"
+  },
+  "9560017": {
+    "zipcode": "9560017",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "あおば通"
+  },
+  "9560021": {
+    "zipcode": "9560021",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "北上新田"
+  },
+  "9560022": {
+    "zipcode": "9560022",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "さつき野"
+  },
+  "9560023": {
+    "zipcode": "9560023",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "美幸町"
+  },
+  "9560024": {
+    "zipcode": "9560024",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "山谷町"
+  },
+  "9560025": {
+    "zipcode": "9560025",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "古田"
+  },
+  "9560026": {
+    "zipcode": "9560026",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "北潟"
+  },
+  "9560027": {
+    "zipcode": "9560027",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "美善"
+  },
+  "9560031": {
+    "zipcode": "9560031",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新津"
+  },
+  "9560032": {
+    "zipcode": "9560032",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "南町"
+  },
+  "9560033": {
+    "zipcode": "9560033",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新栄町"
+  },
+  "9560034": {
+    "zipcode": "9560034",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新津緑町"
+  },
+  "9560035": {
+    "zipcode": "9560035",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "程島"
+  },
+  "9560036": {
+    "zipcode": "9560036",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "中村"
+  },
+  "9560037": {
+    "zipcode": "9560037",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "西古津"
+  },
+  "9560041": {
+    "zipcode": "9560041",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小屋場"
+  },
+  "9560043": {
+    "zipcode": "9560043",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "梅ノ木"
+  },
+  "9560044": {
+    "zipcode": "9560044",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "浦興野"
+  },
+  "9560045": {
+    "zipcode": "9560045",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "子成場"
+  },
+  "9560046": {
+    "zipcode": "9560046",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "出戸"
+  },
+  "9560051": {
+    "zipcode": "9560051",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "三枚潟"
+  },
+  "9560052": {
+    "zipcode": "9560052",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "三津屋"
+  },
+  "9560053": {
+    "zipcode": "9560053",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "野方"
+  },
+  "9560054": {
+    "zipcode": "9560054",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "大秋"
+  },
+  "9560055": {
+    "zipcode": "9560055",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "川根"
+  },
+  "9560056": {
+    "zipcode": "9560056",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "蕨曽根"
+  },
+  "9560057": {
+    "zipcode": "9560057",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新津四ツ興野"
+  },
+  "9560101": {
+    "zipcode": "9560101",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小須戸"
+  },
+  "9560111": {
+    "zipcode": "9560111",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "竜玄"
+  },
+  "9560112": {
+    "zipcode": "9560112",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新保"
+  },
+  "9560113": {
+    "zipcode": "9560113",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "矢代田"
+  },
+  "9560114": {
+    "zipcode": "9560114",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "天ヶ沢"
+  },
+  "9560115": {
+    "zipcode": "9560115",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "鎌倉"
+  },
+  "9560116": {
+    "zipcode": "9560116",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "舟戸"
+  },
+  "9560117": {
+    "zipcode": "9560117",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "松ヶ丘"
+  },
+  "9560121": {
+    "zipcode": "9560121",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "横川浜"
+  },
+  "9560122": {
+    "zipcode": "9560122",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小向"
+  },
+  "9560123": {
+    "zipcode": "9560123",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "水田"
+  },
+  "9560801": {
+    "zipcode": "9560801",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "大蔵"
+  },
+  "9560802": {
+    "zipcode": "9560802",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "七日町"
+  },
+  "9560803": {
+    "zipcode": "9560803",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "結"
+  },
+  "9560804": {
+    "zipcode": "9560804",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "荻島"
+  },
+  "9560805": {
+    "zipcode": "9560805",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "中野"
+  },
+  "9560806": {
+    "zipcode": "9560806",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "みそら野"
+  },
+  "9560811": {
+    "zipcode": "9560811",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "満願寺"
+  },
+  "9560812": {
+    "zipcode": "9560812",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "中新田"
+  },
+  "9560813": {
+    "zipcode": "9560813",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "大安寺"
+  },
+  "9560814": {
+    "zipcode": "9560814",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "東金沢"
+  },
+  "9560815": {
+    "zipcode": "9560815",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新金沢町"
+  },
+  "9560816": {
+    "zipcode": "9560816",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新津東町"
+  },
+  "9560817": {
+    "zipcode": "9560817",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "古田ノ内大野開"
+  },
+  "9560818": {
+    "zipcode": "9560818",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "西金沢"
+  },
+  "9560821": {
+    "zipcode": "9560821",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "六郷"
+  },
+  "9560822": {
+    "zipcode": "9560822",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新郷屋"
+  },
+  "9560823": {
+    "zipcode": "9560823",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "金屋"
+  },
+  "9560824": {
+    "zipcode": "9560824",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "市新"
+  },
+  "9560825": {
+    "zipcode": "9560825",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "下新"
+  },
+  "9560826": {
+    "zipcode": "9560826",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "岡田"
+  },
+  "9560827": {
+    "zipcode": "9560827",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "大関"
+  },
+  "9560828": {
+    "zipcode": "9560828",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "北"
+  },
+  "9560831": {
+    "zipcode": "9560831",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "中沢町"
+  },
+  "9560832": {
+    "zipcode": "9560832",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "秋葉"
+  },
+  "9560833": {
+    "zipcode": "9560833",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "草水町"
+  },
+  "9560834": {
+    "zipcode": "9560834",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "小口"
+  },
+  "9560835": {
+    "zipcode": "9560835",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "朝日"
+  },
+  "9560836": {
+    "zipcode": "9560836",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "田家"
+  },
+  "9560837": {
+    "zipcode": "9560837",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "吉岡町"
+  },
+  "9560841": {
+    "zipcode": "9560841",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "東島"
+  },
+  "9560842": {
+    "zipcode": "9560842",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "西島"
+  },
+  "9560843": {
+    "zipcode": "9560843",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "割町"
+  },
+  "9560844": {
+    "zipcode": "9560844",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "塩谷"
+  },
+  "9560845": {
+    "zipcode": "9560845",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "金津"
+  },
+  "9560846": {
+    "zipcode": "9560846",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "蒲ヶ沢"
+  },
+  "9560847": {
+    "zipcode": "9560847",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "古津"
+  },
+  "9560851": {
+    "zipcode": "9560851",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "金沢町"
+  },
+  "9560852": {
+    "zipcode": "9560852",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "柄目木"
+  },
+  "9560853": {
+    "zipcode": "9560853",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "飯柳"
+  },
+  "9560854": {
+    "zipcode": "9560854",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "滝谷町"
+  },
+  "9560855": {
+    "zipcode": "9560855",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "滝谷本町"
+  },
+  "9560861": {
+    "zipcode": "9560861",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "北上"
+  },
+  "9560862": {
+    "zipcode": "9560862",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新町"
+  },
+  "9560863": {
+    "zipcode": "9560863",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "日宝町"
+  },
+  "9560864": {
+    "zipcode": "9560864",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "新津本町"
+  },
+  "9560865": {
+    "zipcode": "9560865",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "善道町"
+  },
+  "9560866": {
+    "zipcode": "9560866",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "下興野町"
+  },
+  "9560867": {
+    "zipcode": "9560867",
+    "prefectureCode": "15",
+    "prefectureNumber": 15,
+    "prefecture": "新潟県",
+    "city": "新潟市秋葉区",
+    "town": "下興野"
+  }
+}

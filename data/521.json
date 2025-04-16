@@ -1,0 +1,1234 @@
+{
+  "5210000": {
+    "zipcode": "5210000",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "以下に掲載がない場合"
+  },
+  "5210001": {
+    "zipcode": "5210001",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "朝妻筑摩"
+  },
+  "5210002": {
+    "zipcode": "5210002",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "上多良"
+  },
+  "5210003": {
+    "zipcode": "5210003",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "入江"
+  },
+  "5210004": {
+    "zipcode": "5210004",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "磯"
+  },
+  "5210011": {
+    "zipcode": "5210011",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "中多良"
+  },
+  "5210012": {
+    "zipcode": "5210012",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "米原"
+  },
+  "5210013": {
+    "zipcode": "5210013",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "梅ケ原"
+  },
+  "5210014": {
+    "zipcode": "5210014",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "梅ケ原栄"
+  },
+  "5210015": {
+    "zipcode": "5210015",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "米原西"
+  },
+  "5210016": {
+    "zipcode": "5210016",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "下多良"
+  },
+  "5210021": {
+    "zipcode": "5210021",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "河南"
+  },
+  "5210022": {
+    "zipcode": "5210022",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "樋口"
+  },
+  "5210023": {
+    "zipcode": "5210023",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "三吉"
+  },
+  "5210024": {
+    "zipcode": "5210024",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "西坂"
+  },
+  "5210025": {
+    "zipcode": "5210025",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "番場"
+  },
+  "5210031": {
+    "zipcode": "5210031",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "一色"
+  },
+  "5210032": {
+    "zipcode": "5210032",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "枝折"
+  },
+  "5210033": {
+    "zipcode": "5210033",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "上丹生"
+  },
+  "5210034": {
+    "zipcode": "5210034",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "下丹生"
+  },
+  "5210035": {
+    "zipcode": "5210035",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "醒井"
+  },
+  "5210061": {
+    "zipcode": "5210061",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "長沢"
+  },
+  "5210062": {
+    "zipcode": "5210062",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "宇賀野"
+  },
+  "5210063": {
+    "zipcode": "5210063",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "飯"
+  },
+  "5210064": {
+    "zipcode": "5210064",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "世継"
+  },
+  "5210071": {
+    "zipcode": "5210071",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "舟崎"
+  },
+  "5210072": {
+    "zipcode": "5210072",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "顔戸"
+  },
+  "5210073": {
+    "zipcode": "5210073",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "箕浦"
+  },
+  "5210074": {
+    "zipcode": "5210074",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "高溝"
+  },
+  "5210081": {
+    "zipcode": "5210081",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "多和田"
+  },
+  "5210082": {
+    "zipcode": "5210082",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "能登瀬"
+  },
+  "5210083": {
+    "zipcode": "5210083",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "新庄"
+  },
+  "5210084": {
+    "zipcode": "5210084",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "日光寺"
+  },
+  "5210091": {
+    "zipcode": "5210091",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "岩脇"
+  },
+  "5210092": {
+    "zipcode": "5210092",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "西円寺"
+  },
+  "5210093": {
+    "zipcode": "5210093",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "寺倉"
+  },
+  "5210201": {
+    "zipcode": "5210201",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "長久寺"
+  },
+  "5210202": {
+    "zipcode": "5210202",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "柏原"
+  },
+  "5210203": {
+    "zipcode": "5210203",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "清滝"
+  },
+  "5210211": {
+    "zipcode": "5210211",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "梓河内"
+  },
+  "5210212": {
+    "zipcode": "5210212",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "本郷"
+  },
+  "5210213": {
+    "zipcode": "5210213",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "堂谷"
+  },
+  "5210214": {
+    "zipcode": "5210214",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "大鹿"
+  },
+  "5210215": {
+    "zipcode": "5210215",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "山室"
+  },
+  "5210216": {
+    "zipcode": "5210216",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "菅江"
+  },
+  "5210217": {
+    "zipcode": "5210217",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "北方"
+  },
+  "5210218": {
+    "zipcode": "5210218",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "志賀谷"
+  },
+  "5210219": {
+    "zipcode": "5210219",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "加勢野"
+  },
+  "5210221": {
+    "zipcode": "5210221",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "池下"
+  },
+  "5210222": {
+    "zipcode": "5210222",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "天満"
+  },
+  "5210223": {
+    "zipcode": "5210223",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "本市場"
+  },
+  "5210224": {
+    "zipcode": "5210224",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "夫馬"
+  },
+  "5210225": {
+    "zipcode": "5210225",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "市場"
+  },
+  "5210226": {
+    "zipcode": "5210226",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "朝日"
+  },
+  "5210227": {
+    "zipcode": "5210227",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "烏脇"
+  },
+  "5210231": {
+    "zipcode": "5210231",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "村居田"
+  },
+  "5210232": {
+    "zipcode": "5210232",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "坂口"
+  },
+  "5210233": {
+    "zipcode": "5210233",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "野一色"
+  },
+  "5210234": {
+    "zipcode": "5210234",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "井之口"
+  },
+  "5210235": {
+    "zipcode": "5210235",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "小田"
+  },
+  "5210236": {
+    "zipcode": "5210236",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "間田"
+  },
+  "5210241": {
+    "zipcode": "5210241",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "西山"
+  },
+  "5210242": {
+    "zipcode": "5210242",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "長岡"
+  },
+  "5210243": {
+    "zipcode": "5210243",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "万願寺"
+  },
+  "5210244": {
+    "zipcode": "5210244",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "大野木"
+  },
+  "5210245": {
+    "zipcode": "5210245",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "須川"
+  },
+  "5210301": {
+    "zipcode": "5210301",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "甲津原"
+  },
+  "5210302": {
+    "zipcode": "5210302",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "曲谷"
+  },
+  "5210303": {
+    "zipcode": "5210303",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "甲賀"
+  },
+  "5210304": {
+    "zipcode": "5210304",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "吉槻"
+  },
+  "5210305": {
+    "zipcode": "5210305",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "上板並"
+  },
+  "5210306": {
+    "zipcode": "5210306",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "下板並"
+  },
+  "5210307": {
+    "zipcode": "5210307",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "大久保"
+  },
+  "5210308": {
+    "zipcode": "5210308",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "小泉"
+  },
+  "5210311": {
+    "zipcode": "5210311",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "伊吹"
+  },
+  "5210312": {
+    "zipcode": "5210312",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "上野"
+  },
+  "5210313": {
+    "zipcode": "5210313",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "弥高"
+  },
+  "5210314": {
+    "zipcode": "5210314",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "春照"
+  },
+  "5210321": {
+    "zipcode": "5210321",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "高番"
+  },
+  "5210322": {
+    "zipcode": "5210322",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "杉沢"
+  },
+  "5210323": {
+    "zipcode": "5210323",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "村木"
+  },
+  "5210324": {
+    "zipcode": "5210324",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "大清水"
+  },
+  "5210325": {
+    "zipcode": "5210325",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "藤川"
+  },
+  "5210326": {
+    "zipcode": "5210326",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "寺林"
+  },
+  "5210327": {
+    "zipcode": "5210327",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "米原市",
+    "town": "上平寺"
+  },
+  "5211101": {
+    "zipcode": "5211101",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "石寺町"
+  },
+  "5211102": {
+    "zipcode": "5211102",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "下岡部町"
+  },
+  "5211103": {
+    "zipcode": "5211103",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "上岡部町"
+  },
+  "5211104": {
+    "zipcode": "5211104",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "出路町"
+  },
+  "5211105": {
+    "zipcode": "5211105",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "田原町"
+  },
+  "5211111": {
+    "zipcode": "5211111",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "稲里町"
+  },
+  "5211112": {
+    "zipcode": "5211112",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "金沢町"
+  },
+  "5211113": {
+    "zipcode": "5211113",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "稲部町"
+  },
+  "5211114": {
+    "zipcode": "5211114",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "彦富町"
+  },
+  "5211115": {
+    "zipcode": "5211115",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "金田町"
+  },
+  "5211121": {
+    "zipcode": "5211121",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "海瀬町"
+  },
+  "5211122": {
+    "zipcode": "5211122",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "三津町"
+  },
+  "5211123": {
+    "zipcode": "5211123",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "肥田町"
+  },
+  "5211124": {
+    "zipcode": "5211124",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "野良田町"
+  },
+  "5211125": {
+    "zipcode": "5211125",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "稲枝町"
+  },
+  "5211126": {
+    "zipcode": "5211126",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "服部町"
+  },
+  "5211131": {
+    "zipcode": "5211131",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "上稲葉町"
+  },
+  "5211132": {
+    "zipcode": "5211132",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "下稲葉町"
+  },
+  "5211133": {
+    "zipcode": "5211133",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "本庄町"
+  },
+  "5211134": {
+    "zipcode": "5211134",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "田附町"
+  },
+  "5211135": {
+    "zipcode": "5211135",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "新海町"
+  },
+  "5211136": {
+    "zipcode": "5211136",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "新海浜"
+  },
+  "5211141": {
+    "zipcode": "5211141",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "甲崎町"
+  },
+  "5211142": {
+    "zipcode": "5211142",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "下西川町"
+  },
+  "5211143": {
+    "zipcode": "5211143",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "上西川町"
+  },
+  "5211144": {
+    "zipcode": "5211144",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "普光寺町"
+  },
+  "5211145": {
+    "zipcode": "5211145",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "南三ツ谷町"
+  },
+  "5211146": {
+    "zipcode": "5211146",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "柳川町"
+  },
+  "5211147": {
+    "zipcode": "5211147",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "彦根市",
+    "town": "薩摩町"
+  },
+  "5211201": {
+    "zipcode": "5211201",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "新宮町"
+  },
+  "5211202": {
+    "zipcode": "5211202",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "阿弥陀堂町"
+  },
+  "5211203": {
+    "zipcode": "5211203",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "川南町"
+  },
+  "5211204": {
+    "zipcode": "5211204",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "小川町"
+  },
+  "5211205": {
+    "zipcode": "5211205",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "躰光寺町"
+  },
+  "5211211": {
+    "zipcode": "5211211",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "今町"
+  },
+  "5211212": {
+    "zipcode": "5211212",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "種町"
+  },
+  "5211213": {
+    "zipcode": "5211213",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "神郷町"
+  },
+  "5211214": {
+    "zipcode": "5211214",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "長勝寺町"
+  },
+  "5211215": {
+    "zipcode": "5211215",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "佐生町"
+  },
+  "5211221": {
+    "zipcode": "5211221",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "垣見町"
+  },
+  "5211222": {
+    "zipcode": "5211222",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "佐野町"
+  },
+  "5211223": {
+    "zipcode": "5211223",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "猪子町"
+  },
+  "5211224": {
+    "zipcode": "5211224",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "林町"
+  },
+  "5211225": {
+    "zipcode": "5211225",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "山路町"
+  },
+  "5211231": {
+    "zipcode": "5211231",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "能登川町"
+  },
+  "5211232": {
+    "zipcode": "5211232",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "北須田町"
+  },
+  "5211233": {
+    "zipcode": "5211233",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "南須田町"
+  },
+  "5211234": {
+    "zipcode": "5211234",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "きぬがさ町"
+  },
+  "5211235": {
+    "zipcode": "5211235",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "伊庭町"
+  },
+  "5211241": {
+    "zipcode": "5211241",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "乙女浜町"
+  },
+  "5211242": {
+    "zipcode": "5211242",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "福堂町"
+  },
+  "5211243": {
+    "zipcode": "5211243",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "栗見新田町"
+  },
+  "5211244": {
+    "zipcode": "5211244",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "大中町"
+  },
+  "5211245": {
+    "zipcode": "5211245",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "town": "栗見出在家町"
+  },
+  "5211301": {
+    "zipcode": "5211301",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町大中"
+  },
+  "5211311": {
+    "zipcode": "5211311",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町下豊浦"
+  },
+  "5211321": {
+    "zipcode": "5211321",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町桑実寺"
+  },
+  "5211322": {
+    "zipcode": "5211322",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町宮津"
+  },
+  "5211331": {
+    "zipcode": "5211331",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町石寺"
+  },
+  "5211332": {
+    "zipcode": "5211332",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町東老蘇"
+  },
+  "5211333": {
+    "zipcode": "5211333",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町内野"
+  },
+  "5211334": {
+    "zipcode": "5211334",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町西老蘇"
+  },
+  "5211341": {
+    "zipcode": "5211341",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町上豊浦"
+  },
+  "5211342": {
+    "zipcode": "5211342",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町上出"
+  },
+  "5211343": {
+    "zipcode": "5211343",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町小中"
+  },
+  "5211344": {
+    "zipcode": "5211344",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町中屋"
+  },
+  "5211345": {
+    "zipcode": "5211345",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町慈恩寺"
+  },
+  "5211346": {
+    "zipcode": "5211346",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町香庄"
+  },
+  "5211351": {
+    "zipcode": "5211351",
+    "prefectureCode": "25",
+    "prefectureNumber": 25,
+    "prefecture": "滋賀県",
+    "city": "近江八幡市",
+    "town": "安土町常楽寺"
+  }
+}

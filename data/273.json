@@ -1,0 +1,666 @@
+{
+  "2730000": {
+    "zipcode": "2730000",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "以下に掲載がない場合"
+  },
+  "2730001": {
+    "zipcode": "2730001",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "市場"
+  },
+  "2730002": {
+    "zipcode": "2730002",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "東船橋"
+  },
+  "2730003": {
+    "zipcode": "2730003",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "宮本"
+  },
+  "2730004": {
+    "zipcode": "2730004",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "南本町"
+  },
+  "2730005": {
+    "zipcode": "2730005",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "本町"
+  },
+  "2730011": {
+    "zipcode": "2730011",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "湊町"
+  },
+  "2730012": {
+    "zipcode": "2730012",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "浜町"
+  },
+  "2730013": {
+    "zipcode": "2730013",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "若松"
+  },
+  "2730014": {
+    "zipcode": "2730014",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "高瀬町"
+  },
+  "2730015": {
+    "zipcode": "2730015",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "日の出"
+  },
+  "2730016": {
+    "zipcode": "2730016",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "潮見町"
+  },
+  "2730017": {
+    "zipcode": "2730017",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "西浦"
+  },
+  "2730018": {
+    "zipcode": "2730018",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "栄町"
+  },
+  "2730021": {
+    "zipcode": "2730021",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "海神"
+  },
+  "2730022": {
+    "zipcode": "2730022",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "海神町"
+  },
+  "2730023": {
+    "zipcode": "2730023",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "南海神"
+  },
+  "2730024": {
+    "zipcode": "2730024",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "海神町南"
+  },
+  "2730025": {
+    "zipcode": "2730025",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "印内町"
+  },
+  "2730026": {
+    "zipcode": "2730026",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "山野町"
+  },
+  "2730027": {
+    "zipcode": "2730027",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "海神町西"
+  },
+  "2730028": {
+    "zipcode": "2730028",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "海神町東"
+  },
+  "2730031": {
+    "zipcode": "2730031",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "西船"
+  },
+  "2730032": {
+    "zipcode": "2730032",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "葛飾町"
+  },
+  "2730033": {
+    "zipcode": "2730033",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "本郷町"
+  },
+  "2730034": {
+    "zipcode": "2730034",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "二子町"
+  },
+  "2730035": {
+    "zipcode": "2730035",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "本中山"
+  },
+  "2730036": {
+    "zipcode": "2730036",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "東中山"
+  },
+  "2730037": {
+    "zipcode": "2730037",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "古作"
+  },
+  "2730038": {
+    "zipcode": "2730038",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "古作町"
+  },
+  "2730039": {
+    "zipcode": "2730039",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "印内"
+  },
+  "2730041": {
+    "zipcode": "2730041",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "旭町"
+  },
+  "2730042": {
+    "zipcode": "2730042",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "前貝塚町"
+  },
+  "2730043": {
+    "zipcode": "2730043",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "行田町"
+  },
+  "2730044": {
+    "zipcode": "2730044",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "行田"
+  },
+  "2730045": {
+    "zipcode": "2730045",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "山手"
+  },
+  "2730046": {
+    "zipcode": "2730046",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "上山町"
+  },
+  "2730047": {
+    "zipcode": "2730047",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "藤原"
+  },
+  "2730048": {
+    "zipcode": "2730048",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "丸山"
+  },
+  "2730100": {
+    "zipcode": "2730100",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "以下に掲載がない場合"
+  },
+  "2730101": {
+    "zipcode": "2730101",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "富岡"
+  },
+  "2730102": {
+    "zipcode": "2730102",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "右京塚"
+  },
+  "2730103": {
+    "zipcode": "2730103",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "丸山"
+  },
+  "2730104": {
+    "zipcode": "2730104",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "東鎌ケ谷"
+  },
+  "2730105": {
+    "zipcode": "2730105",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "鎌ケ谷"
+  },
+  "2730106": {
+    "zipcode": "2730106",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "南鎌ケ谷"
+  },
+  "2730107": {
+    "zipcode": "2730107",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "新鎌ケ谷"
+  },
+  "2730111": {
+    "zipcode": "2730111",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "北中沢"
+  },
+  "2730112": {
+    "zipcode": "2730112",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "東中沢"
+  },
+  "2730113": {
+    "zipcode": "2730113",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "道野辺中央"
+  },
+  "2730114": {
+    "zipcode": "2730114",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "道野辺"
+  },
+  "2730115": {
+    "zipcode": "2730115",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "東道野辺"
+  },
+  "2730116": {
+    "zipcode": "2730116",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "馬込沢"
+  },
+  "2730117": {
+    "zipcode": "2730117",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "西道野辺"
+  },
+  "2730118": {
+    "zipcode": "2730118",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "中沢"
+  },
+  "2730119": {
+    "zipcode": "2730119",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "中沢新町"
+  },
+  "2730121": {
+    "zipcode": "2730121",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "初富"
+  },
+  "2730122": {
+    "zipcode": "2730122",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "東初富"
+  },
+  "2730123": {
+    "zipcode": "2730123",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "南初富"
+  },
+  "2730124": {
+    "zipcode": "2730124",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "中央"
+  },
+  "2730125": {
+    "zipcode": "2730125",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "初富本町"
+  },
+  "2730126": {
+    "zipcode": "2730126",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "北初富"
+  },
+  "2730127": {
+    "zipcode": "2730127",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "串崎新田"
+  },
+  "2730128": {
+    "zipcode": "2730128",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "くぬぎ山"
+  },
+  "2730131": {
+    "zipcode": "2730131",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "軽井沢"
+  },
+  "2730132": {
+    "zipcode": "2730132",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "粟野"
+  },
+  "2730133": {
+    "zipcode": "2730133",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "南佐津間"
+  },
+  "2730134": {
+    "zipcode": "2730134",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "西佐津間"
+  },
+  "2730135": {
+    "zipcode": "2730135",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "中佐津間"
+  },
+  "2730136": {
+    "zipcode": "2730136",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "佐津間"
+  },
+  "2730137": {
+    "zipcode": "2730137",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "鎌ケ谷市",
+    "town": "道野辺本町"
+  },
+  "2730851": {
+    "zipcode": "2730851",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "馬込町"
+  },
+  "2730852": {
+    "zipcode": "2730852",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "金杉台"
+  },
+  "2730853": {
+    "zipcode": "2730853",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "金杉"
+  },
+  "2730854": {
+    "zipcode": "2730854",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "金杉町"
+  },
+  "2730855": {
+    "zipcode": "2730855",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "馬込西"
+  },
+  "2730861": {
+    "zipcode": "2730861",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "米ケ崎町"
+  },
+  "2730862": {
+    "zipcode": "2730862",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "駿河台"
+  },
+  "2730863": {
+    "zipcode": "2730863",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "東町"
+  },
+  "2730864": {
+    "zipcode": "2730864",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "北本町"
+  },
+  "2730865": {
+    "zipcode": "2730865",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "夏見"
+  },
+  "2730866": {
+    "zipcode": "2730866",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "夏見台"
+  },
+  "2730867": {
+    "zipcode": "2730867",
+    "prefectureCode": "12",
+    "prefectureNumber": 12,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "town": "夏見町"
+  }
+}

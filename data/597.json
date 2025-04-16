@@ -1,0 +1,442 @@
+{
+  "5970000": {
+    "zipcode": "5970000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "以下に掲載がない場合"
+  },
+  "5970001": {
+    "zipcode": "5970001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "近木町"
+  },
+  "5970002": {
+    "zipcode": "5970002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "新町"
+  },
+  "5970003": {
+    "zipcode": "5970003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "中町"
+  },
+  "5970004": {
+    "zipcode": "5970004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "西町"
+  },
+  "5970005": {
+    "zipcode": "5970005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "南町"
+  },
+  "5970011": {
+    "zipcode": "5970011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "北町"
+  },
+  "5970012": {
+    "zipcode": "5970012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "津田"
+  },
+  "5970013": {
+    "zipcode": "5970013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "津田北町"
+  },
+  "5970014": {
+    "zipcode": "5970014",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "津田南町"
+  },
+  "5970015": {
+    "zipcode": "5970015",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "堀"
+  },
+  "5970021": {
+    "zipcode": "5970021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "小瀬"
+  },
+  "5970022": {
+    "zipcode": "5970022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "新井"
+  },
+  "5970023": {
+    "zipcode": "5970023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "福田"
+  },
+  "5970031": {
+    "zipcode": "5970031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "久保"
+  },
+  "5970032": {
+    "zipcode": "5970032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "永吉"
+  },
+  "5970033": {
+    "zipcode": "5970033",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "半田"
+  },
+  "5970041": {
+    "zipcode": "5970041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "清児"
+  },
+  "5970042": {
+    "zipcode": "5970042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "名越"
+  },
+  "5970043": {
+    "zipcode": "5970043",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "橋本"
+  },
+  "5970044": {
+    "zipcode": "5970044",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "森"
+  },
+  "5970045": {
+    "zipcode": "5970045",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "三ツ松（５９６、８９４−１、９１５−４、９２５、９２７−２、９３２−４、９３４〜９６８、１０１３−１、１４６４番地）"
+  },
+  "5970046": {
+    "zipcode": "5970046",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "東山"
+  },
+  "5970051": {
+    "zipcode": "5970051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "王子"
+  },
+  "5970052": {
+    "zipcode": "5970052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "窪田"
+  },
+  "5970053": {
+    "zipcode": "5970053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "地蔵堂（その他）"
+  },
+  "5970054": {
+    "zipcode": "5970054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "堤"
+  },
+  "5970061": {
+    "zipcode": "5970061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "浦田"
+  },
+  "5970062": {
+    "zipcode": "5970062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "澤"
+  },
+  "5970063": {
+    "zipcode": "5970063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "二色港町"
+  },
+  "5970071": {
+    "zipcode": "5970071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "加神"
+  },
+  "5970072": {
+    "zipcode": "5970072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "畠中（その他）"
+  },
+  "5970073": {
+    "zipcode": "5970073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "脇浜"
+  },
+  "5970074": {
+    "zipcode": "5970074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "加治"
+  },
+  "5970075": {
+    "zipcode": "5970075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "神前"
+  },
+  "5970081": {
+    "zipcode": "5970081",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "麻生中"
+  },
+  "5970082": {
+    "zipcode": "5970082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "石才"
+  },
+  "5970083": {
+    "zipcode": "5970083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "海塚"
+  },
+  "5970084": {
+    "zipcode": "5970084",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "鳥羽"
+  },
+  "5970085": {
+    "zipcode": "5970085",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "東"
+  },
+  "5970091": {
+    "zipcode": "5970091",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "二色"
+  },
+  "5970092": {
+    "zipcode": "5970092",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "二色北町"
+  },
+  "5970093": {
+    "zipcode": "5970093",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "二色中町"
+  },
+  "5970094": {
+    "zipcode": "5970094",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "二色南町"
+  },
+  "5970095": {
+    "zipcode": "5970095",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "港"
+  },
+  "5970101": {
+    "zipcode": "5970101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "三ケ山"
+  },
+  "5970102": {
+    "zipcode": "5970102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "木積"
+  },
+  "5970103": {
+    "zipcode": "5970103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "馬場"
+  },
+  "5970104": {
+    "zipcode": "5970104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "水間"
+  },
+  "5970105": {
+    "zipcode": "5970105",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "三ツ松（その他）"
+  },
+  "5970106": {
+    "zipcode": "5970106",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "畠中（６３２−１、６３３、６４２−３）"
+  },
+  "5970107": {
+    "zipcode": "5970107",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "地蔵堂（６１１、６９５、７３２、６７５）"
+  },
+  "5970111": {
+    "zipcode": "5970111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "蕎原"
+  },
+  "5970112": {
+    "zipcode": "5970112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "大川"
+  },
+  "5970113": {
+    "zipcode": "5970113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "貝塚市",
+    "town": "秬谷"
+  }
+}

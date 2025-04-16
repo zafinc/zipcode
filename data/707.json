@@ -1,0 +1,778 @@
+{
+  "7070000": {
+    "zipcode": "7070000",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "以下に掲載がない場合"
+  },
+  "7070001": {
+    "zipcode": "7070001",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "上相"
+  },
+  "7070002": {
+    "zipcode": "7070002",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "中尾"
+  },
+  "7070003": {
+    "zipcode": "7070003",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "明見"
+  },
+  "7070004": {
+    "zipcode": "7070004",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "入田"
+  },
+  "7070005": {
+    "zipcode": "7070005",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "大井が丘"
+  },
+  "7070011": {
+    "zipcode": "7070011",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "和田"
+  },
+  "7070012": {
+    "zipcode": "7070012",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "田殿"
+  },
+  "7070013": {
+    "zipcode": "7070013",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "吉"
+  },
+  "7070014": {
+    "zipcode": "7070014",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "北山"
+  },
+  "7070015": {
+    "zipcode": "7070015",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "豊国原"
+  },
+  "7070016": {
+    "zipcode": "7070016",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "下香山"
+  },
+  "7070017": {
+    "zipcode": "7070017",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "美来"
+  },
+  "7070021": {
+    "zipcode": "7070021",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "楢原中"
+  },
+  "7070022": {
+    "zipcode": "7070022",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "楢原上"
+  },
+  "7070023": {
+    "zipcode": "7070023",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "平福"
+  },
+  "7070024": {
+    "zipcode": "7070024",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "楢原下"
+  },
+  "7070025": {
+    "zipcode": "7070025",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "栄町"
+  },
+  "7070031": {
+    "zipcode": "7070031",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "山口"
+  },
+  "7070032": {
+    "zipcode": "7070032",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "山外野"
+  },
+  "7070033": {
+    "zipcode": "7070033",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "大原"
+  },
+  "7070034": {
+    "zipcode": "7070034",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "猪臥"
+  },
+  "7070035": {
+    "zipcode": "7070035",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "平田"
+  },
+  "7070036": {
+    "zipcode": "7070036",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "北原"
+  },
+  "7070037": {
+    "zipcode": "7070037",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "友野"
+  },
+  "7070041": {
+    "zipcode": "7070041",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "林野"
+  },
+  "7070042": {
+    "zipcode": "7070042",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "朽木"
+  },
+  "7070043": {
+    "zipcode": "7070043",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "海内"
+  },
+  "7070044": {
+    "zipcode": "7070044",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "海田"
+  },
+  "7070045": {
+    "zipcode": "7070045",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "巨勢"
+  },
+  "7070046": {
+    "zipcode": "7070046",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "三倉田"
+  },
+  "7070051": {
+    "zipcode": "7070051",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "稲穂"
+  },
+  "7070052": {
+    "zipcode": "7070052",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "位田"
+  },
+  "7070053": {
+    "zipcode": "7070053",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "安蘇"
+  },
+  "7070054": {
+    "zipcode": "7070054",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "岩見田"
+  },
+  "7070055": {
+    "zipcode": "7070055",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "金原"
+  },
+  "7070056": {
+    "zipcode": "7070056",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "長内"
+  },
+  "7070057": {
+    "zipcode": "7070057",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "則平"
+  },
+  "7070061": {
+    "zipcode": "7070061",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "中山"
+  },
+  "7070062": {
+    "zipcode": "7070062",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "湯郷"
+  },
+  "7070063": {
+    "zipcode": "7070063",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "北坂"
+  },
+  "7070064": {
+    "zipcode": "7070064",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "殿所"
+  },
+  "7070065": {
+    "zipcode": "7070065",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "青木"
+  },
+  "7070066": {
+    "zipcode": "7070066",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "下大谷"
+  },
+  "7070067": {
+    "zipcode": "7070067",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "奥大谷"
+  },
+  "7070111": {
+    "zipcode": "7070111",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "久賀"
+  },
+  "7070112": {
+    "zipcode": "7070112",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "余野"
+  },
+  "7070113": {
+    "zipcode": "7070113",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "真加部"
+  },
+  "7070121": {
+    "zipcode": "7070121",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "長谷内"
+  },
+  "7070122": {
+    "zipcode": "7070122",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "馬形"
+  },
+  "7070123": {
+    "zipcode": "7070123",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "宗掛"
+  },
+  "7070124": {
+    "zipcode": "7070124",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "大町"
+  },
+  "7070131": {
+    "zipcode": "7070131",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "河内"
+  },
+  "7070132": {
+    "zipcode": "7070132",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "小畑"
+  },
+  "7070133": {
+    "zipcode": "7070133",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "杉原"
+  },
+  "7070134": {
+    "zipcode": "7070134",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "矢田"
+  },
+  "7070201": {
+    "zipcode": "7070201",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "梶並"
+  },
+  "7070202": {
+    "zipcode": "7070202",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "楮"
+  },
+  "7070203": {
+    "zipcode": "7070203",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "真殿"
+  },
+  "7070204": {
+    "zipcode": "7070204",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "右手"
+  },
+  "7070205": {
+    "zipcode": "7070205",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "東谷上"
+  },
+  "7070206": {
+    "zipcode": "7070206",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "東谷下"
+  },
+  "7070401": {
+    "zipcode": "7070401",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "後山"
+  },
+  "7070402": {
+    "zipcode": "7070402",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "中谷"
+  },
+  "7070403": {
+    "zipcode": "7070403",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "東青野"
+  },
+  "7070404": {
+    "zipcode": "7070404",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "太田"
+  },
+  "7070405": {
+    "zipcode": "7070405",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "野原"
+  },
+  "7070406": {
+    "zipcode": "7070406",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "東吉田"
+  },
+  "7070407": {
+    "zipcode": "7070407",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "川東"
+  },
+  "7070411": {
+    "zipcode": "7070411",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "江ノ原"
+  },
+  "7070412": {
+    "zipcode": "7070412",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "古町"
+  },
+  "7070413": {
+    "zipcode": "7070413",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "中町"
+  },
+  "7070414": {
+    "zipcode": "7070414",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "西町"
+  },
+  "7070415": {
+    "zipcode": "7070415",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "宮本"
+  },
+  "7070416": {
+    "zipcode": "7070416",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "今岡"
+  },
+  "7070417": {
+    "zipcode": "7070417",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "下町"
+  },
+  "7070421": {
+    "zipcode": "7070421",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "川上"
+  },
+  "7070422": {
+    "zipcode": "7070422",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "笹岡"
+  },
+  "7070423": {
+    "zipcode": "7070423",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "小原田"
+  },
+  "7070424": {
+    "zipcode": "7070424",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "野形"
+  },
+  "7070425": {
+    "zipcode": "7070425",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "下庄町"
+  },
+  "7070426": {
+    "zipcode": "7070426",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "桂坪"
+  },
+  "7070427": {
+    "zipcode": "7070427",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "滝"
+  },
+  "7070431": {
+    "zipcode": "7070431",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "田井"
+  },
+  "7070432": {
+    "zipcode": "7070432",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "赤田"
+  },
+  "7070433": {
+    "zipcode": "7070433",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "立石"
+  },
+  "7070434": {
+    "zipcode": "7070434",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "壬生"
+  },
+  "7070435": {
+    "zipcode": "7070435",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "沢田"
+  },
+  "7070436": {
+    "zipcode": "7070436",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "川戸"
+  },
+  "7070437": {
+    "zipcode": "7070437",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "美作市",
+    "town": "粟野"
+  },
+  "7070500": {
+    "zipcode": "7070500",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "以下に掲載がない場合"
+  },
+  "7070501": {
+    "zipcode": "7070501",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "大茅"
+  },
+  "7070502": {
+    "zipcode": "7070502",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "坂根"
+  },
+  "7070503": {
+    "zipcode": "7070503",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "影石"
+  },
+  "7070504": {
+    "zipcode": "7070504",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "長尾"
+  },
+  "7070505": {
+    "zipcode": "7070505",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "筏津"
+  },
+  "7070506": {
+    "zipcode": "7070506",
+    "prefectureCode": "33",
+    "prefectureNumber": 33,
+    "prefecture": "岡山県",
+    "city": "英田郡西粟倉村",
+    "town": "知社"
+  }
+}

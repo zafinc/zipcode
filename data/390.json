@@ -1,0 +1,778 @@
+{
+  "3900221": {
+    "zipcode": "3900221",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "里山辺"
+  },
+  "3900222": {
+    "zipcode": "3900222",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "入山辺"
+  },
+  "3900301": {
+    "zipcode": "3900301",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "稲倉"
+  },
+  "3900302": {
+    "zipcode": "3900302",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "三才山"
+  },
+  "3900303": {
+    "zipcode": "3900303",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "浅間温泉"
+  },
+  "3900304": {
+    "zipcode": "3900304",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "大村"
+  },
+  "3900305": {
+    "zipcode": "3900305",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "惣社"
+  },
+  "3900306": {
+    "zipcode": "3900306",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "南浅間"
+  },
+  "3900311": {
+    "zipcode": "3900311",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "水汲"
+  },
+  "3900312": {
+    "zipcode": "3900312",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "岡田松岡"
+  },
+  "3900313": {
+    "zipcode": "3900313",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "岡田下岡田"
+  },
+  "3900314": {
+    "zipcode": "3900314",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "岡田伊深"
+  },
+  "3900315": {
+    "zipcode": "3900315",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "岡田町"
+  },
+  "3900316": {
+    "zipcode": "3900316",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "原"
+  },
+  "3900317": {
+    "zipcode": "3900317",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "洞"
+  },
+  "3900801": {
+    "zipcode": "3900801",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "美須々"
+  },
+  "3900802": {
+    "zipcode": "3900802",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "旭"
+  },
+  "3900803": {
+    "zipcode": "3900803",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "元町"
+  },
+  "3900804": {
+    "zipcode": "3900804",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "横田"
+  },
+  "3900805": {
+    "zipcode": "3900805",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "清水"
+  },
+  "3900806": {
+    "zipcode": "3900806",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "女鳥羽"
+  },
+  "3900807": {
+    "zipcode": "3900807",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "城東"
+  },
+  "3900811": {
+    "zipcode": "3900811",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "中央"
+  },
+  "3900812": {
+    "zipcode": "3900812",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "県"
+  },
+  "3900813": {
+    "zipcode": "3900813",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "埋橋"
+  },
+  "3900814": {
+    "zipcode": "3900814",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "本庄"
+  },
+  "3900815": {
+    "zipcode": "3900815",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "深志"
+  },
+  "3900816": {
+    "zipcode": "3900816",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "中条"
+  },
+  "3900817": {
+    "zipcode": "3900817",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "巾上"
+  },
+  "3900821": {
+    "zipcode": "3900821",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "筑摩"
+  },
+  "3900822": {
+    "zipcode": "3900822",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "神田"
+  },
+  "3900823": {
+    "zipcode": "3900823",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "中山"
+  },
+  "3900824": {
+    "zipcode": "3900824",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "中山台"
+  },
+  "3900825": {
+    "zipcode": "3900825",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "並柳"
+  },
+  "3900826": {
+    "zipcode": "3900826",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "出川町"
+  },
+  "3900827": {
+    "zipcode": "3900827",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "出川"
+  },
+  "3900828": {
+    "zipcode": "3900828",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "庄内"
+  },
+  "3900831": {
+    "zipcode": "3900831",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "井川城"
+  },
+  "3900832": {
+    "zipcode": "3900832",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "南松本"
+  },
+  "3900833": {
+    "zipcode": "3900833",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "双葉"
+  },
+  "3900834": {
+    "zipcode": "3900834",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "高宮中"
+  },
+  "3900835": {
+    "zipcode": "3900835",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "高宮東"
+  },
+  "3900836": {
+    "zipcode": "3900836",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "高宮北"
+  },
+  "3900837": {
+    "zipcode": "3900837",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "鎌田"
+  },
+  "3900841": {
+    "zipcode": "3900841",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "渚"
+  },
+  "3900842": {
+    "zipcode": "3900842",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "征矢野"
+  },
+  "3900843": {
+    "zipcode": "3900843",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "高宮南"
+  },
+  "3900844": {
+    "zipcode": "3900844",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "高宮西"
+  },
+  "3900845": {
+    "zipcode": "3900845",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "石芝（１、２丁目）"
+  },
+  "3900846": {
+    "zipcode": "3900846",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "南原"
+  },
+  "3900847": {
+    "zipcode": "3900847",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "笹部"
+  },
+  "3900848": {
+    "zipcode": "3900848",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "両島"
+  },
+  "3900851": {
+    "zipcode": "3900851",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "島内（１〜９８１９、９８２２、９８３１〜９８６３番地）"
+  },
+  "3900852": {
+    "zipcode": "3900852",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "島立"
+  },
+  "3900861": {
+    "zipcode": "3900861",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "蟻ケ崎"
+  },
+  "3900862": {
+    "zipcode": "3900862",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "宮渕"
+  },
+  "3900863": {
+    "zipcode": "3900863",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "白板"
+  },
+  "3900864": {
+    "zipcode": "3900864",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "宮渕本村"
+  },
+  "3900865": {
+    "zipcode": "3900865",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "新橋"
+  },
+  "3900866": {
+    "zipcode": "3900866",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "城山"
+  },
+  "3900867": {
+    "zipcode": "3900867",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "蟻ケ崎台"
+  },
+  "3900871": {
+    "zipcode": "3900871",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "桐"
+  },
+  "3900872": {
+    "zipcode": "3900872",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "北深志"
+  },
+  "3900873": {
+    "zipcode": "3900873",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "丸の内"
+  },
+  "3900874": {
+    "zipcode": "3900874",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "大手"
+  },
+  "3900875": {
+    "zipcode": "3900875",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "城西"
+  },
+  "3900876": {
+    "zipcode": "3900876",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "開智"
+  },
+  "3900877": {
+    "zipcode": "3900877",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "沢村"
+  },
+  "3901100": {
+    "zipcode": "3901100",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡朝日村",
+    "town": "以下に掲載がない場合"
+  },
+  "3901101": {
+    "zipcode": "3901101",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡朝日村",
+    "town": "西洗馬"
+  },
+  "3901102": {
+    "zipcode": "3901102",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡朝日村",
+    "town": "小野沢"
+  },
+  "3901103": {
+    "zipcode": "3901103",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡朝日村",
+    "town": "針尾"
+  },
+  "3901104": {
+    "zipcode": "3901104",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡朝日村",
+    "town": "古見"
+  },
+  "3901131": {
+    "zipcode": "3901131",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "今井"
+  },
+  "3901132": {
+    "zipcode": "3901132",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "空港東"
+  },
+  "3901241": {
+    "zipcode": "3901241",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "新村"
+  },
+  "3901242": {
+    "zipcode": "3901242",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "和田"
+  },
+  "3901243": {
+    "zipcode": "3901243",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "神林"
+  },
+  "3901301": {
+    "zipcode": "3901301",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "東筑摩郡山形村",
+    "town": "山形村一円"
+  },
+  "3901401": {
+    "zipcode": "3901401",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "波田"
+  },
+  "3901501": {
+    "zipcode": "3901501",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（大野田）"
+  },
+  "3901502": {
+    "zipcode": "3901502",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（島々）"
+  },
+  "3901503": {
+    "zipcode": "3901503",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（橋場）"
+  },
+  "3901504": {
+    "zipcode": "3901504",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（稲核）"
+  },
+  "3901506": {
+    "zipcode": "3901506",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（番所）"
+  },
+  "3901507": {
+    "zipcode": "3901507",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（宮の原）"
+  },
+  "3901511": {
+    "zipcode": "3901511",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（千石平）"
+  },
+  "3901512": {
+    "zipcode": "3901512",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（楢ノ木）"
+  },
+  "3901513": {
+    "zipcode": "3901513",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（鈴蘭）"
+  },
+  "3901514": {
+    "zipcode": "3901514",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（沢渡）"
+  },
+  "3901515": {
+    "zipcode": "3901515",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（白骨）"
+  },
+  "3901516": {
+    "zipcode": "3901516",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（上高地）"
+  },
+  "3901520": {
+    "zipcode": "3901520",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "安曇（その他）"
+  },
+  "3901611": {
+    "zipcode": "3901611",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "奈川"
+  },
+  "3901701": {
+    "zipcode": "3901701",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "梓川倭"
+  },
+  "3901702": {
+    "zipcode": "3901702",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "梓川梓"
+  },
+  "3901703": {
+    "zipcode": "3901703",
+    "prefectureCode": "20",
+    "prefectureNumber": 20,
+    "prefecture": "長野県",
+    "city": "松本市",
+    "town": "梓川上野"
+  }
+}

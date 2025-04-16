@@ -1,0 +1,602 @@
+{
+  "5940000": {
+    "zipcode": "5940000",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "以下に掲載がない場合"
+  },
+  "5940001": {
+    "zipcode": "5940001",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "舞町"
+  },
+  "5940002": {
+    "zipcode": "5940002",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "上町"
+  },
+  "5940003": {
+    "zipcode": "5940003",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "太町"
+  },
+  "5940004": {
+    "zipcode": "5940004",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "王子町"
+  },
+  "5940005": {
+    "zipcode": "5940005",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "幸"
+  },
+  "5940006": {
+    "zipcode": "5940006",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "尾井町"
+  },
+  "5940011": {
+    "zipcode": "5940011",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "上代町"
+  },
+  "5940012": {
+    "zipcode": "5940012",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "小野町"
+  },
+  "5940013": {
+    "zipcode": "5940013",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "鶴山台"
+  },
+  "5940021": {
+    "zipcode": "5940021",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "山荘町"
+  },
+  "5940022": {
+    "zipcode": "5940022",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "黒鳥町"
+  },
+  "5940023": {
+    "zipcode": "5940023",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "伯太町"
+  },
+  "5940031": {
+    "zipcode": "5940031",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "伏屋町"
+  },
+  "5940032": {
+    "zipcode": "5940032",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "池田下町"
+  },
+  "5940041": {
+    "zipcode": "5940041",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "いぶき野"
+  },
+  "5940042": {
+    "zipcode": "5940042",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "箕形町"
+  },
+  "5940051": {
+    "zipcode": "5940051",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "東阪本町"
+  },
+  "5940052": {
+    "zipcode": "5940052",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "阪本町"
+  },
+  "5940053": {
+    "zipcode": "5940053",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "芦部町"
+  },
+  "5940054": {
+    "zipcode": "5940054",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "一条院町"
+  },
+  "5940061": {
+    "zipcode": "5940061",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "弥生町"
+  },
+  "5940062": {
+    "zipcode": "5940062",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "寺田町"
+  },
+  "5940063": {
+    "zipcode": "5940063",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "今福町"
+  },
+  "5940064": {
+    "zipcode": "5940064",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "寺門町"
+  },
+  "5940065": {
+    "zipcode": "5940065",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "観音寺町"
+  },
+  "5940066": {
+    "zipcode": "5940066",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "桑原町"
+  },
+  "5940071": {
+    "zipcode": "5940071",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "府中町"
+  },
+  "5940072": {
+    "zipcode": "5940072",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "井ノ口町"
+  },
+  "5940073": {
+    "zipcode": "5940073",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "和気町"
+  },
+  "5940074": {
+    "zipcode": "5940074",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "小田町"
+  },
+  "5940075": {
+    "zipcode": "5940075",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "繁和町"
+  },
+  "5940076": {
+    "zipcode": "5940076",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "肥子町"
+  },
+  "5940081": {
+    "zipcode": "5940081",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "葛の葉町"
+  },
+  "5940082": {
+    "zipcode": "5940082",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "富秋町"
+  },
+  "5940083": {
+    "zipcode": "5940083",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "池上町"
+  },
+  "5941101": {
+    "zipcode": "5941101",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "室堂町"
+  },
+  "5941102": {
+    "zipcode": "5941102",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "和田町"
+  },
+  "5941103": {
+    "zipcode": "5941103",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "浦田町"
+  },
+  "5941104": {
+    "zipcode": "5941104",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "万町"
+  },
+  "5941105": {
+    "zipcode": "5941105",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "のぞみ野"
+  },
+  "5941106": {
+    "zipcode": "5941106",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "はつが野"
+  },
+  "5941111": {
+    "zipcode": "5941111",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "光明台"
+  },
+  "5941112": {
+    "zipcode": "5941112",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "三林町"
+  },
+  "5941113": {
+    "zipcode": "5941113",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "黒石町"
+  },
+  "5941114": {
+    "zipcode": "5941114",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "国分町"
+  },
+  "5941115": {
+    "zipcode": "5941115",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "平井町"
+  },
+  "5941116": {
+    "zipcode": "5941116",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "納花町"
+  },
+  "5941117": {
+    "zipcode": "5941117",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "鍛治屋町"
+  },
+  "5941118": {
+    "zipcode": "5941118",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "みずき台"
+  },
+  "5941121": {
+    "zipcode": "5941121",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "下宮町"
+  },
+  "5941122": {
+    "zipcode": "5941122",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "北田中町"
+  },
+  "5941123": {
+    "zipcode": "5941123",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "福瀬町"
+  },
+  "5941124": {
+    "zipcode": "5941124",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "南面利町"
+  },
+  "5941125": {
+    "zipcode": "5941125",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "善正町"
+  },
+  "5941126": {
+    "zipcode": "5941126",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "九鬼町"
+  },
+  "5941127": {
+    "zipcode": "5941127",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "小野田町"
+  },
+  "5941128": {
+    "zipcode": "5941128",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "岡町"
+  },
+  "5941131": {
+    "zipcode": "5941131",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "槇尾山町"
+  },
+  "5941132": {
+    "zipcode": "5941132",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "父鬼町"
+  },
+  "5941133": {
+    "zipcode": "5941133",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "春木川町"
+  },
+  "5941134": {
+    "zipcode": "5941134",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "大野町"
+  },
+  "5941135": {
+    "zipcode": "5941135",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "坪井町"
+  },
+  "5941136": {
+    "zipcode": "5941136",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "仏並町"
+  },
+  "5941141": {
+    "zipcode": "5941141",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "春木町"
+  },
+  "5941142": {
+    "zipcode": "5941142",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "久井町"
+  },
+  "5941143": {
+    "zipcode": "5941143",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "若樫町"
+  },
+  "5941144": {
+    "zipcode": "5941144",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "テクノステージ"
+  },
+  "5941151": {
+    "zipcode": "5941151",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "唐国町"
+  },
+  "5941152": {
+    "zipcode": "5941152",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "まなび野"
+  },
+  "5941153": {
+    "zipcode": "5941153",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "青葉台"
+  },
+  "5941154": {
+    "zipcode": "5941154",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "松尾寺町"
+  },
+  "5941155": {
+    "zipcode": "5941155",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "緑ケ丘"
+  },
+  "5941156": {
+    "zipcode": "5941156",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "内田町"
+  },
+  "5941157": {
+    "zipcode": "5941157",
+    "prefectureCode": "27",
+    "prefectureNumber": 27,
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "town": "あゆみ野"
+  }
+}

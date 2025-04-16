@@ -1,0 +1,954 @@
+{
+  "6650000": {
+    "zipcode": "6650000",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "以下に掲載がない場合"
+  },
+  "6650001": {
+    "zipcode": "6650001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "長寿ガ丘"
+  },
+  "6650002": {
+    "zipcode": "6650002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "月見山"
+  },
+  "6650003": {
+    "zipcode": "6650003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "湯本町"
+  },
+  "6650004": {
+    "zipcode": "6650004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "梅野町"
+  },
+  "6650005": {
+    "zipcode": "6650005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "武庫山"
+  },
+  "6650006": {
+    "zipcode": "6650006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "紅葉ガ丘"
+  },
+  "6650007": {
+    "zipcode": "6650007",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "伊孑志（武庫山）"
+  },
+  "6650011": {
+    "zipcode": "6650011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "南口"
+  },
+  "6650012": {
+    "zipcode": "6650012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "寿楽荘"
+  },
+  "6650013": {
+    "zipcode": "6650013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "宝梅"
+  },
+  "6650014": {
+    "zipcode": "6650014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "青葉台"
+  },
+  "6650015": {
+    "zipcode": "6650015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "光ガ丘"
+  },
+  "6650016": {
+    "zipcode": "6650016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "宝松苑"
+  },
+  "6650017": {
+    "zipcode": "6650017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "小林西山"
+  },
+  "6650021": {
+    "zipcode": "6650021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中州"
+  },
+  "6650022": {
+    "zipcode": "6650022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "野上"
+  },
+  "6650023": {
+    "zipcode": "6650023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "蔵人"
+  },
+  "6650024": {
+    "zipcode": "6650024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "逆瀬台"
+  },
+  "6650025": {
+    "zipcode": "6650025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "ゆずり葉台"
+  },
+  "6650031": {
+    "zipcode": "6650031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "末広町"
+  },
+  "6650032": {
+    "zipcode": "6650032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "東洋町"
+  },
+  "6650033": {
+    "zipcode": "6650033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "伊孑志"
+  },
+  "6650034": {
+    "zipcode": "6650034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "小林"
+  },
+  "6650035": {
+    "zipcode": "6650035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "逆瀬川"
+  },
+  "6650041": {
+    "zipcode": "6650041",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "御所の前町"
+  },
+  "6650042": {
+    "zipcode": "6650042",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "美幸町"
+  },
+  "6650043": {
+    "zipcode": "6650043",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "高松町"
+  },
+  "6650044": {
+    "zipcode": "6650044",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "末成町"
+  },
+  "6650045": {
+    "zipcode": "6650045",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "光明町"
+  },
+  "6650046": {
+    "zipcode": "6650046",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "福井町"
+  },
+  "6650047": {
+    "zipcode": "6650047",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "亀井町"
+  },
+  "6650051": {
+    "zipcode": "6650051",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "高司"
+  },
+  "6650052": {
+    "zipcode": "6650052",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "新明和町"
+  },
+  "6650053": {
+    "zipcode": "6650053",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "駒の町"
+  },
+  "6650054": {
+    "zipcode": "6650054",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "鹿塩"
+  },
+  "6650055": {
+    "zipcode": "6650055",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "大成町"
+  },
+  "6650056": {
+    "zipcode": "6650056",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中野町"
+  },
+  "6650057": {
+    "zipcode": "6650057",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "大吹町"
+  },
+  "6650061": {
+    "zipcode": "6650061",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川北"
+  },
+  "6650062": {
+    "zipcode": "6650062",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川高台"
+  },
+  "6650063": {
+    "zipcode": "6650063",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川高丸"
+  },
+  "6650064": {
+    "zipcode": "6650064",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川うぐいす台"
+  },
+  "6650065": {
+    "zipcode": "6650065",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川旭ガ丘"
+  },
+  "6650066": {
+    "zipcode": "6650066",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川団地"
+  },
+  "6650067": {
+    "zipcode": "6650067",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川月見ガ丘"
+  },
+  "6650068": {
+    "zipcode": "6650068",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川清風台"
+  },
+  "6650071": {
+    "zipcode": "6650071",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "社町"
+  },
+  "6650072": {
+    "zipcode": "6650072",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "千種"
+  },
+  "6650073": {
+    "zipcode": "6650073",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "塔の町"
+  },
+  "6650074": {
+    "zipcode": "6650074",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川台"
+  },
+  "6650075": {
+    "zipcode": "6650075",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "仁川宮西町"
+  },
+  "6650076": {
+    "zipcode": "6650076",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "谷口町"
+  },
+  "6650801": {
+    "zipcode": "6650801",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "花屋敷松ガ丘"
+  },
+  "6650802": {
+    "zipcode": "6650802",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "花屋敷荘園"
+  },
+  "6650803": {
+    "zipcode": "6650803",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "花屋敷つつじガ丘"
+  },
+  "6650804": {
+    "zipcode": "6650804",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "雲雀丘山手"
+  },
+  "6650805": {
+    "zipcode": "6650805",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "雲雀丘"
+  },
+  "6650806": {
+    "zipcode": "6650806",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "ふじガ丘"
+  },
+  "6650807": {
+    "zipcode": "6650807",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "長尾台"
+  },
+  "6650808": {
+    "zipcode": "6650808",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "切畑（長尾山「その他」）"
+  },
+  "6650811": {
+    "zipcode": "6650811",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "南ひばりガ丘"
+  },
+  "6650812": {
+    "zipcode": "6650812",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "口谷東"
+  },
+  "6650813": {
+    "zipcode": "6650813",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "口谷西"
+  },
+  "6650814": {
+    "zipcode": "6650814",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本野里"
+  },
+  "6650815": {
+    "zipcode": "6650815",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本丸橋"
+  },
+  "6650816": {
+    "zipcode": "6650816",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "平井"
+  },
+  "6650817": {
+    "zipcode": "6650817",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "平井山荘"
+  },
+  "6650821": {
+    "zipcode": "6650821",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "安倉北"
+  },
+  "6650822": {
+    "zipcode": "6650822",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "安倉中"
+  },
+  "6650823": {
+    "zipcode": "6650823",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "安倉南"
+  },
+  "6650824": {
+    "zipcode": "6650824",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "金井町"
+  },
+  "6650825": {
+    "zipcode": "6650825",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "安倉西"
+  },
+  "6650826": {
+    "zipcode": "6650826",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "弥生町"
+  },
+  "6650827": {
+    "zipcode": "6650827",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "小浜"
+  },
+  "6650831": {
+    "zipcode": "6650831",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "米谷"
+  },
+  "6650832": {
+    "zipcode": "6650832",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "向月町"
+  },
+  "6650833": {
+    "zipcode": "6650833",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "鶴の荘"
+  },
+  "6650834": {
+    "zipcode": "6650834",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "美座"
+  },
+  "6650835": {
+    "zipcode": "6650835",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "旭町"
+  },
+  "6650836": {
+    "zipcode": "6650836",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "清荒神"
+  },
+  "6650837": {
+    "zipcode": "6650837",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "米谷清"
+  },
+  "6650841": {
+    "zipcode": "6650841",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "御殿山"
+  },
+  "6650842": {
+    "zipcode": "6650842",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "川面"
+  },
+  "6650843": {
+    "zipcode": "6650843",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "宮の町"
+  },
+  "6650844": {
+    "zipcode": "6650844",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "武庫川町"
+  },
+  "6650845": {
+    "zipcode": "6650845",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "栄町"
+  },
+  "6650846": {
+    "zipcode": "6650846",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "桜ガ丘"
+  },
+  "6650847": {
+    "zipcode": "6650847",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "すみれガ丘"
+  },
+  "6650848": {
+    "zipcode": "6650848",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "川面（長尾山）"
+  },
+  "6650851": {
+    "zipcode": "6650851",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "泉ガ丘"
+  },
+  "6650852": {
+    "zipcode": "6650852",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布"
+  },
+  "6650853": {
+    "zipcode": "6650853",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布ガ丘"
+  },
+  "6650854": {
+    "zipcode": "6650854",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布山手町"
+  },
+  "6650855": {
+    "zipcode": "6650855",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布きよしガ丘"
+  },
+  "6650856": {
+    "zipcode": "6650856",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布自由ガ丘"
+  },
+  "6650861": {
+    "zipcode": "6650861",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中山寺"
+  },
+  "6650862": {
+    "zipcode": "6650862",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "今里町"
+  },
+  "6650863": {
+    "zipcode": "6650863",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "三笠町"
+  },
+  "6650864": {
+    "zipcode": "6650864",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "泉町"
+  },
+  "6650865": {
+    "zipcode": "6650865",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "寿町"
+  },
+  "6650866": {
+    "zipcode": "6650866",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "星の荘"
+  },
+  "6650867": {
+    "zipcode": "6650867",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "売布東の町"
+  },
+  "6650868": {
+    "zipcode": "6650868",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中山荘園"
+  },
+  "6650871": {
+    "zipcode": "6650871",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中山五月台"
+  },
+  "6650872": {
+    "zipcode": "6650872",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中筋（平井）"
+  },
+  "6650873": {
+    "zipcode": "6650873",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "長尾町"
+  },
+  "6650874": {
+    "zipcode": "6650874",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中筋"
+  },
+  "6650875": {
+    "zipcode": "6650875",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中筋山手"
+  },
+  "6650876": {
+    "zipcode": "6650876",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中山台"
+  },
+  "6650877": {
+    "zipcode": "6650877",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "中山桜台"
+  },
+  "6650881": {
+    "zipcode": "6650881",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本東"
+  },
+  "6650882": {
+    "zipcode": "6650882",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本南"
+  },
+  "6650883": {
+    "zipcode": "6650883",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本中"
+  },
+  "6650884": {
+    "zipcode": "6650884",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本西"
+  },
+  "6650885": {
+    "zipcode": "6650885",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山本台"
+  },
+  "6650886": {
+    "zipcode": "6650886",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山手台西"
+  },
+  "6650887": {
+    "zipcode": "6650887",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "宝塚市",
+    "town": "山手台東"
+  },
+  "6650891": {
+    "zipcode": "6650891",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "川西市",
+    "town": "満願寺町"
+  }
+}

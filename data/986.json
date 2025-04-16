@@ -1,0 +1,2306 @@
+{
+  "9860000": {
+    "zipcode": "9860000",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "以下に掲載がない場合"
+  },
+  "9860001": {
+    "zipcode": "9860001",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "水沼"
+  },
+  "9860002": {
+    "zipcode": "9860002",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "真野"
+  },
+  "9860003": {
+    "zipcode": "9860003",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "井内"
+  },
+  "9860004": {
+    "zipcode": "9860004",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新栄"
+  },
+  "9860005": {
+    "zipcode": "9860005",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大瓜"
+  },
+  "9860006": {
+    "zipcode": "9860006",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "高木"
+  },
+  "9860011": {
+    "zipcode": "9860011",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "湊"
+  },
+  "9860013": {
+    "zipcode": "9860013",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鹿妻本町"
+  },
+  "9860015": {
+    "zipcode": "9860015",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "吉野町"
+  },
+  "9860016": {
+    "zipcode": "9860016",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "八幡町"
+  },
+  "9860017": {
+    "zipcode": "9860017",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "不動町"
+  },
+  "9860020": {
+    "zipcode": "9860020",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "湊東"
+  },
+  "9860021": {
+    "zipcode": "9860021",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "緑町"
+  },
+  "9860022": {
+    "zipcode": "9860022",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "魚町"
+  },
+  "9860023": {
+    "zipcode": "9860023",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "田代浜"
+  },
+  "9860024": {
+    "zipcode": "9860024",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "川口町"
+  },
+  "9860025": {
+    "zipcode": "9860025",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "湊町"
+  },
+  "9860026": {
+    "zipcode": "9860026",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大門町"
+  },
+  "9860027": {
+    "zipcode": "9860027",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "明神町"
+  },
+  "9860028": {
+    "zipcode": "9860028",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "松並"
+  },
+  "9860029": {
+    "zipcode": "9860029",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "湊西"
+  },
+  "9860031": {
+    "zipcode": "9860031",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "南境"
+  },
+  "9860032": {
+    "zipcode": "9860032",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "開成"
+  },
+  "9860033": {
+    "zipcode": "9860033",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "美園"
+  },
+  "9860041": {
+    "zipcode": "9860041",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "伊原津"
+  },
+  "9860042": {
+    "zipcode": "9860042",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鹿妻南"
+  },
+  "9860043": {
+    "zipcode": "9860043",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鹿妻北"
+  },
+  "9860101": {
+    "zipcode": "9860101",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "相野谷"
+  },
+  "9860102": {
+    "zipcode": "9860102",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "成田"
+  },
+  "9860103": {
+    "zipcode": "9860103",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中島"
+  },
+  "9860104": {
+    "zipcode": "9860104",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "皿貝"
+  },
+  "9860105": {
+    "zipcode": "9860105",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中野"
+  },
+  "9860106": {
+    "zipcode": "9860106",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "馬鞍"
+  },
+  "9860111": {
+    "zipcode": "9860111",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "釜谷"
+  },
+  "9860112": {
+    "zipcode": "9860112",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "長面"
+  },
+  "9860113": {
+    "zipcode": "9860113",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "尾ノ崎"
+  },
+  "9860114": {
+    "zipcode": "9860114",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "針岡"
+  },
+  "9860115": {
+    "zipcode": "9860115",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "福地"
+  },
+  "9860121": {
+    "zipcode": "9860121",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大森"
+  },
+  "9860122": {
+    "zipcode": "9860122",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "東福田"
+  },
+  "9860123": {
+    "zipcode": "9860123",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北境"
+  },
+  "9860124": {
+    "zipcode": "9860124",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "三輪田"
+  },
+  "9860131": {
+    "zipcode": "9860131",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "飯野"
+  },
+  "9860132": {
+    "zipcode": "9860132",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "小船越"
+  },
+  "9860133": {
+    "zipcode": "9860133",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "二子"
+  },
+  "9860201": {
+    "zipcode": "9860201",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北上町十三浜"
+  },
+  "9860202": {
+    "zipcode": "9860202",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北上町橋浦"
+  },
+  "9860203": {
+    "zipcode": "9860203",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北上町長尾"
+  },
+  "9860204": {
+    "zipcode": "9860204",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "北上町女川"
+  },
+  "9860301": {
+    "zipcode": "9860301",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町脇谷"
+  },
+  "9860302": {
+    "zipcode": "9860302",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町倉埣"
+  },
+  "9860303": {
+    "zipcode": "9860303",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町永井"
+  },
+  "9860304": {
+    "zipcode": "9860304",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町樫崎"
+  },
+  "9860305": {
+    "zipcode": "9860305",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町牛田"
+  },
+  "9860311": {
+    "zipcode": "9860311",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町太田"
+  },
+  "9860312": {
+    "zipcode": "9860312",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町城内"
+  },
+  "9860313": {
+    "zipcode": "9860313",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町中津山"
+  },
+  "9860314": {
+    "zipcode": "9860314",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町寺崎"
+  },
+  "9860321": {
+    "zipcode": "9860321",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町新田"
+  },
+  "9860322": {
+    "zipcode": "9860322",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町給人町"
+  },
+  "9860323": {
+    "zipcode": "9860323",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町神取"
+  },
+  "9860324": {
+    "zipcode": "9860324",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃生町高須賀"
+  },
+  "9860401": {
+    "zipcode": "9860401",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "津山町柳津"
+  },
+  "9860402": {
+    "zipcode": "9860402",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "登米市",
+    "town": "津山町横山"
+  },
+  "9860700": {
+    "zipcode": "9860700",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "以下に掲載がない場合"
+  },
+  "9860701": {
+    "zipcode": "9860701",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川西田"
+  },
+  "9860702": {
+    "zipcode": "9860702",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川細浦"
+  },
+  "9860703": {
+    "zipcode": "9860703",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川蛇王"
+  },
+  "9860704": {
+    "zipcode": "9860704",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川森山"
+  },
+  "9860705": {
+    "zipcode": "9860705",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川阿曽"
+  },
+  "9860706": {
+    "zipcode": "9860706",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川清水浜"
+  },
+  "9860707": {
+    "zipcode": "9860707",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川荒坂"
+  },
+  "9860708": {
+    "zipcode": "9860708",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川松井田"
+  },
+  "9860709": {
+    "zipcode": "9860709",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川内井田"
+  },
+  "9860711": {
+    "zipcode": "9860711",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川権現"
+  },
+  "9860712": {
+    "zipcode": "9860712",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川北の又"
+  },
+  "9860713": {
+    "zipcode": "9860713",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川平貝"
+  },
+  "9860714": {
+    "zipcode": "9860714",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川蒲の沢"
+  },
+  "9860715": {
+    "zipcode": "9860715",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川深田"
+  },
+  "9860716": {
+    "zipcode": "9860716",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川平磯"
+  },
+  "9860717": {
+    "zipcode": "9860717",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川袖浜"
+  },
+  "9860718": {
+    "zipcode": "9860718",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大畑"
+  },
+  "9860721": {
+    "zipcode": "9860721",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川米広"
+  },
+  "9860722": {
+    "zipcode": "9860722",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大上坊"
+  },
+  "9860723": {
+    "zipcode": "9860723",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川立沢"
+  },
+  "9860724": {
+    "zipcode": "9860724",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川平井田"
+  },
+  "9860725": {
+    "zipcode": "9860725",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川沼田"
+  },
+  "9860726": {
+    "zipcode": "9860726",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川磯の沢"
+  },
+  "9860727": {
+    "zipcode": "9860727",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川新井田"
+  },
+  "9860728": {
+    "zipcode": "9860728",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川天王山"
+  },
+  "9860729": {
+    "zipcode": "9860729",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川天王前"
+  },
+  "9860731": {
+    "zipcode": "9860731",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大森"
+  },
+  "9860732": {
+    "zipcode": "9860732",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大森町"
+  },
+  "9860733": {
+    "zipcode": "9860733",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川旭ケ浦"
+  },
+  "9860741": {
+    "zipcode": "9860741",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川十日町"
+  },
+  "9860742": {
+    "zipcode": "9860742",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川本浜町"
+  },
+  "9860743": {
+    "zipcode": "9860743",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川南町"
+  },
+  "9860751": {
+    "zipcode": "9860751",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川上の山"
+  },
+  "9860752": {
+    "zipcode": "9860752",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川五日町"
+  },
+  "9860753": {
+    "zipcode": "9860753",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川城場"
+  },
+  "9860754": {
+    "zipcode": "9860754",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川助作"
+  },
+  "9860761": {
+    "zipcode": "9860761",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川廻館前"
+  },
+  "9860762": {
+    "zipcode": "9860762",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川塩入"
+  },
+  "9860763": {
+    "zipcode": "9860763",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川汐見町"
+  },
+  "9860764": {
+    "zipcode": "9860764",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大久保"
+  },
+  "9860765": {
+    "zipcode": "9860765",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川林"
+  },
+  "9860766": {
+    "zipcode": "9860766",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川黒崎"
+  },
+  "9860767": {
+    "zipcode": "9860767",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川中瀬町"
+  },
+  "9860768": {
+    "zipcode": "9860768",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川御前下"
+  },
+  "9860771": {
+    "zipcode": "9860771",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川大沢"
+  },
+  "9860772": {
+    "zipcode": "9860772",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川秋目川"
+  },
+  "9860773": {
+    "zipcode": "9860773",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川熊田"
+  },
+  "9860774": {
+    "zipcode": "9860774",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川小森"
+  },
+  "9860775": {
+    "zipcode": "9860775",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川廻館"
+  },
+  "9860776": {
+    "zipcode": "9860776",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川竹川原"
+  },
+  "9860777": {
+    "zipcode": "9860777",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川上保呂毛"
+  },
+  "9860778": {
+    "zipcode": "9860778",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川下保呂毛"
+  },
+  "9860779": {
+    "zipcode": "9860779",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "志津川田尻畑"
+  },
+  "9860781": {
+    "zipcode": "9860781",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "戸倉"
+  },
+  "9860782": {
+    "zipcode": "9860782",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "本吉郡南三陸町",
+    "town": "入谷"
+  },
+  "9860801": {
+    "zipcode": "9860801",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "水明北"
+  },
+  "9860802": {
+    "zipcode": "9860802",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "水明南"
+  },
+  "9860803": {
+    "zipcode": "9860803",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "水押"
+  },
+  "9860805": {
+    "zipcode": "9860805",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大橋"
+  },
+  "9860806": {
+    "zipcode": "9860806",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "開北"
+  },
+  "9860811": {
+    "zipcode": "9860811",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "元倉"
+  },
+  "9860812": {
+    "zipcode": "9860812",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "東中里"
+  },
+  "9860813": {
+    "zipcode": "9860813",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "駅前北通り"
+  },
+  "9860814": {
+    "zipcode": "9860814",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "南中里"
+  },
+  "9860815": {
+    "zipcode": "9860815",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中里"
+  },
+  "9860821": {
+    "zipcode": "9860821",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "住吉町"
+  },
+  "9860822": {
+    "zipcode": "9860822",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中央"
+  },
+  "9860823": {
+    "zipcode": "9860823",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中瀬"
+  },
+  "9860824": {
+    "zipcode": "9860824",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "立町"
+  },
+  "9860825": {
+    "zipcode": "9860825",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "穀町"
+  },
+  "9860826": {
+    "zipcode": "9860826",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鋳銭場"
+  },
+  "9860827": {
+    "zipcode": "9860827",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "千石町"
+  },
+  "9860828": {
+    "zipcode": "9860828",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "旭町"
+  },
+  "9860831": {
+    "zipcode": "9860831",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "羽黒町"
+  },
+  "9860832": {
+    "zipcode": "9860832",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "泉町"
+  },
+  "9860833": {
+    "zipcode": "9860833",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "日和が丘"
+  },
+  "9860834": {
+    "zipcode": "9860834",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "門脇町"
+  },
+  "9860835": {
+    "zipcode": "9860835",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "南浜町"
+  },
+  "9860836": {
+    "zipcode": "9860836",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "南光町"
+  },
+  "9860837": {
+    "zipcode": "9860837",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "宜山町"
+  },
+  "9860838": {
+    "zipcode": "9860838",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大手町"
+  },
+  "9860841": {
+    "zipcode": "9860841",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雲雀野町"
+  },
+  "9860842": {
+    "zipcode": "9860842",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "潮見町"
+  },
+  "9860843": {
+    "zipcode": "9860843",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "西浜町"
+  },
+  "9860844": {
+    "zipcode": "9860844",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "重吉町"
+  },
+  "9860845": {
+    "zipcode": "9860845",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中島町"
+  },
+  "9860846": {
+    "zipcode": "9860846",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "三河町"
+  },
+  "9860847": {
+    "zipcode": "9860847",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中浦"
+  },
+  "9860848": {
+    "zipcode": "9860848",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新館"
+  },
+  "9860849": {
+    "zipcode": "9860849",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "中屋敷"
+  },
+  "9860850": {
+    "zipcode": "9860850",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "あゆみ野"
+  },
+  "9860851": {
+    "zipcode": "9860851",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "貞山"
+  },
+  "9860852": {
+    "zipcode": "9860852",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "南谷地"
+  },
+  "9860853": {
+    "zipcode": "9860853",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "門脇"
+  },
+  "9860854": {
+    "zipcode": "9860854",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大街道北"
+  },
+  "9860855": {
+    "zipcode": "9860855",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大街道東"
+  },
+  "9860856": {
+    "zipcode": "9860856",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大街道南"
+  },
+  "9860857": {
+    "zipcode": "9860857",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "築山"
+  },
+  "9860858": {
+    "zipcode": "9860858",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "三ツ股"
+  },
+  "9860859": {
+    "zipcode": "9860859",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大街道西"
+  },
+  "9860860": {
+    "zipcode": "9860860",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "のぞみ野"
+  },
+  "9860861": {
+    "zipcode": "9860861",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "蛇田"
+  },
+  "9860862": {
+    "zipcode": "9860862",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "あけぼの"
+  },
+  "9860863": {
+    "zipcode": "9860863",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "向陽町"
+  },
+  "9860864": {
+    "zipcode": "9860864",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新境町"
+  },
+  "9860865": {
+    "zipcode": "9860865",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "丸井戸"
+  },
+  "9860866": {
+    "zipcode": "9860866",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "茜平"
+  },
+  "9860867": {
+    "zipcode": "9860867",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "わかば"
+  },
+  "9860868": {
+    "zipcode": "9860868",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "恵み野"
+  },
+  "9860869": {
+    "zipcode": "9860869",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "あけぼの北"
+  },
+  "9860871": {
+    "zipcode": "9860871",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "清水町"
+  },
+  "9860872": {
+    "zipcode": "9860872",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "田道町"
+  },
+  "9860873": {
+    "zipcode": "9860873",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "山下町"
+  },
+  "9860874": {
+    "zipcode": "9860874",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "双葉町"
+  },
+  "9860875": {
+    "zipcode": "9860875",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "末広町"
+  },
+  "9860876": {
+    "zipcode": "9860876",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "西山町"
+  },
+  "9860877": {
+    "zipcode": "9860877",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "錦町"
+  },
+  "9860878": {
+    "zipcode": "9860878",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新橋"
+  },
+  "9860881": {
+    "zipcode": "9860881",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "明神南"
+  },
+  "9860882": {
+    "zipcode": "9860882",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "浦屋敷南"
+  },
+  "9860883": {
+    "zipcode": "9860883",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新館南"
+  },
+  "9861111": {
+    "zipcode": "9861111",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鹿又"
+  },
+  "9861301": {
+    "zipcode": "9861301",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町船越"
+  },
+  "9861302": {
+    "zipcode": "9861302",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町大浜"
+  },
+  "9861303": {
+    "zipcode": "9861303",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町立浜"
+  },
+  "9861304": {
+    "zipcode": "9861304",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町名振"
+  },
+  "9861311": {
+    "zipcode": "9861311",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町大須"
+  },
+  "9861312": {
+    "zipcode": "9861312",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町熊沢"
+  },
+  "9861313": {
+    "zipcode": "9861313",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町桑浜"
+  },
+  "9861321": {
+    "zipcode": "9861321",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町水浜"
+  },
+  "9861322": {
+    "zipcode": "9861322",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町分浜"
+  },
+  "9861331": {
+    "zipcode": "9861331",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町明神"
+  },
+  "9861332": {
+    "zipcode": "9861332",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町小島"
+  },
+  "9861333": {
+    "zipcode": "9861333",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町雄勝"
+  },
+  "9861334": {
+    "zipcode": "9861334",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町伊勢畑"
+  },
+  "9861335": {
+    "zipcode": "9861335",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町下雄勝"
+  },
+  "9861336": {
+    "zipcode": "9861336",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "雄勝町上雄勝"
+  },
+  "9862101": {
+    "zipcode": "9862101",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "沼津"
+  },
+  "9862102": {
+    "zipcode": "9862102",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "沢田"
+  },
+  "9862103": {
+    "zipcode": "9862103",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "流留"
+  },
+  "9862104": {
+    "zipcode": "9862104",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "垂水町"
+  },
+  "9862105": {
+    "zipcode": "9862105",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新成"
+  },
+  "9862111": {
+    "zipcode": "9862111",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "三和町"
+  },
+  "9862112": {
+    "zipcode": "9862112",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "後生橋"
+  },
+  "9862113": {
+    "zipcode": "9862113",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "宇田川町"
+  },
+  "9862114": {
+    "zipcode": "9862114",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "塩富町"
+  },
+  "9862115": {
+    "zipcode": "9862115",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "万石町"
+  },
+  "9862116": {
+    "zipcode": "9862116",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "小竹浜"
+  },
+  "9862121": {
+    "zipcode": "9862121",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "渡波町"
+  },
+  "9862122": {
+    "zipcode": "9862122",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "幸町"
+  },
+  "9862123": {
+    "zipcode": "9862123",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "伊勢町"
+  },
+  "9862131": {
+    "zipcode": "9862131",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "浜松町"
+  },
+  "9862132": {
+    "zipcode": "9862132",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大宮町"
+  },
+  "9862133": {
+    "zipcode": "9862133",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "長浜町"
+  },
+  "9862134": {
+    "zipcode": "9862134",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "松原町"
+  },
+  "9862135": {
+    "zipcode": "9862135",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "渡波"
+  },
+  "9862136": {
+    "zipcode": "9862136",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "根岸"
+  },
+  "9862137": {
+    "zipcode": "9862137",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "さくら町"
+  },
+  "9862200": {
+    "zipcode": "9862200",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "以下に掲載がない場合"
+  },
+  "9862201": {
+    "zipcode": "9862201",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "指ケ浜"
+  },
+  "9862202": {
+    "zipcode": "9862202",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "尾浦"
+  },
+  "9862203": {
+    "zipcode": "9862203",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "竹浦"
+  },
+  "9862204": {
+    "zipcode": "9862204",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "桐ケ崎"
+  },
+  "9862205": {
+    "zipcode": "9862205",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "御前浜"
+  },
+  "9862211": {
+    "zipcode": "9862211",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "出島"
+  },
+  "9862212": {
+    "zipcode": "9862212",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "江島"
+  },
+  "9862221": {
+    "zipcode": "9862221",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "塚浜"
+  },
+  "9862222": {
+    "zipcode": "9862222",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "飯子浜"
+  },
+  "9862223": {
+    "zipcode": "9862223",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "野々浜"
+  },
+  "9862224": {
+    "zipcode": "9862224",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "大石原浜"
+  },
+  "9862225": {
+    "zipcode": "9862225",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "横浦"
+  },
+  "9862226": {
+    "zipcode": "9862226",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "高白浜"
+  },
+  "9862231": {
+    "zipcode": "9862231",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "浦宿浜"
+  },
+  "9862232": {
+    "zipcode": "9862232",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "針浜"
+  },
+  "9862240": {
+    "zipcode": "9862240",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "大道"
+  },
+  "9862242": {
+    "zipcode": "9862242",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "小乗浜"
+  },
+  "9862243": {
+    "zipcode": "9862243",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "鷲神浜"
+  },
+  "9862244": {
+    "zipcode": "9862244",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "桜ケ丘"
+  },
+  "9862246": {
+    "zipcode": "9862246",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "黄金"
+  },
+  "9862247": {
+    "zipcode": "9862247",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "鷲神"
+  },
+  "9862248": {
+    "zipcode": "9862248",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "小乗"
+  },
+  "9862249": {
+    "zipcode": "9862249",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "内山"
+  },
+  "9862251": {
+    "zipcode": "9862251",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "旭が丘"
+  },
+  "9862261": {
+    "zipcode": "9862261",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "女川浜"
+  },
+  "9862262": {
+    "zipcode": "9862262",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "清水"
+  },
+  "9862263": {
+    "zipcode": "9862263",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "伊勢"
+  },
+  "9862264": {
+    "zipcode": "9862264",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "海岸通り"
+  },
+  "9862265": {
+    "zipcode": "9862265",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "女川"
+  },
+  "9862266": {
+    "zipcode": "9862266",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "大原"
+  },
+  "9862281": {
+    "zipcode": "9862281",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "石浜"
+  },
+  "9862282": {
+    "zipcode": "9862282",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "宮ケ崎"
+  },
+  "9862283": {
+    "zipcode": "9862283",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "牡鹿郡女川町",
+    "town": "市場通り"
+  },
+  "9862341": {
+    "zipcode": "9862341",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "荻浜"
+  },
+  "9862342": {
+    "zipcode": "9862342",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "小積浜"
+  },
+  "9862343": {
+    "zipcode": "9862343",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "福貴浦"
+  },
+  "9862344": {
+    "zipcode": "9862344",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鹿立"
+  },
+  "9862345": {
+    "zipcode": "9862345",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "狐崎浜"
+  },
+  "9862346": {
+    "zipcode": "9862346",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "竹浜"
+  },
+  "9862347": {
+    "zipcode": "9862347",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "牧浜"
+  },
+  "9862351": {
+    "zipcode": "9862351",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "侍浜"
+  },
+  "9862352": {
+    "zipcode": "9862352",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "月浦"
+  },
+  "9862353": {
+    "zipcode": "9862353",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "桃浦"
+  },
+  "9862354": {
+    "zipcode": "9862354",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "蛤浜"
+  },
+  "9862355": {
+    "zipcode": "9862355",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "折浜"
+  },
+  "9862401": {
+    "zipcode": "9862401",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "泊浜"
+  },
+  "9862402": {
+    "zipcode": "9862402",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "谷川浜"
+  },
+  "9862403": {
+    "zipcode": "9862403",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鮫浦"
+  },
+  "9862404": {
+    "zipcode": "9862404",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "寄磯浜"
+  },
+  "9862405": {
+    "zipcode": "9862405",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大谷川浜"
+  },
+  "9862406": {
+    "zipcode": "9862406",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "前網浜"
+  },
+  "9862411": {
+    "zipcode": "9862411",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "給分浜"
+  },
+  "9862412": {
+    "zipcode": "9862412",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "大原浜"
+  },
+  "9862413": {
+    "zipcode": "9862413",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "清水田浜"
+  },
+  "9862414": {
+    "zipcode": "9862414",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "小網倉浜"
+  },
+  "9862415": {
+    "zipcode": "9862415",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "小渕浜"
+  },
+  "9862521": {
+    "zipcode": "9862521",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "新山浜"
+  },
+  "9862522": {
+    "zipcode": "9862522",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鮎川大町"
+  },
+  "9862523": {
+    "zipcode": "9862523",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鮎川浜"
+  },
+  "9862524": {
+    "zipcode": "9862524",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "鮎川浜丁"
+  },
+  "9862525": {
+    "zipcode": "9862525",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "長渡浜"
+  },
+  "9862526": {
+    "zipcode": "9862526",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "網地浜"
+  },
+  "9862527": {
+    "zipcode": "9862527",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "town": "十八成浜"
+  }
+}

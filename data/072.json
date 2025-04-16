@@ -1,0 +1,722 @@
+{
+  "0720000": {
+    "zipcode": "0720000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "以下に掲載がない場合"
+  },
+  "0720001": {
+    "zipcode": "0720001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "大通東一条北"
+  },
+  "0720002": {
+    "zipcode": "0720002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東一条北"
+  },
+  "0720003": {
+    "zipcode": "0720003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東二条北"
+  },
+  "0720004": {
+    "zipcode": "0720004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東三条北"
+  },
+  "0720005": {
+    "zipcode": "0720005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東四条北"
+  },
+  "0720006": {
+    "zipcode": "0720006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東五条北"
+  },
+  "0720007": {
+    "zipcode": "0720007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東六条北"
+  },
+  "0720008": {
+    "zipcode": "0720008",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "癸巳町奔美唄"
+  },
+  "0720009": {
+    "zipcode": "0720009",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "癸巳町"
+  },
+  "0720011": {
+    "zipcode": "0720011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "大通東一条南"
+  },
+  "0720012": {
+    "zipcode": "0720012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東一条南"
+  },
+  "0720013": {
+    "zipcode": "0720013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東二条南"
+  },
+  "0720014": {
+    "zipcode": "0720014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東三条南"
+  },
+  "0720015": {
+    "zipcode": "0720015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東四条南"
+  },
+  "0720016": {
+    "zipcode": "0720016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東五条南"
+  },
+  "0720017": {
+    "zipcode": "0720017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東六条南"
+  },
+  "0720021": {
+    "zipcode": "0720021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "大通西一条北"
+  },
+  "0720022": {
+    "zipcode": "0720022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西一条北"
+  },
+  "0720023": {
+    "zipcode": "0720023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "大通西一条南"
+  },
+  "0720024": {
+    "zipcode": "0720024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西一条南"
+  },
+  "0720025": {
+    "zipcode": "0720025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西二条南"
+  },
+  "0720026": {
+    "zipcode": "0720026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西三条南"
+  },
+  "0720027": {
+    "zipcode": "0720027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西四条南"
+  },
+  "0720028": {
+    "zipcode": "0720028",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西五条南"
+  },
+  "0720031": {
+    "zipcode": "0720031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西二条北"
+  },
+  "0720032": {
+    "zipcode": "0720032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西三条北"
+  },
+  "0720033": {
+    "zipcode": "0720033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西四条北"
+  },
+  "0720034": {
+    "zipcode": "0720034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西五条北"
+  },
+  "0720035": {
+    "zipcode": "0720035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "沼の内町中央"
+  },
+  "0720036": {
+    "zipcode": "0720036",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "沼の内町南"
+  },
+  "0720037": {
+    "zipcode": "0720037",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "沼の内町北"
+  },
+  "0720038": {
+    "zipcode": "0720038",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "沼の内町西"
+  },
+  "0720041": {
+    "zipcode": "0720041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "進徳町東"
+  },
+  "0720042": {
+    "zipcode": "0720042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "進徳町"
+  },
+  "0720043": {
+    "zipcode": "0720043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "進徳町西"
+  },
+  "0720044": {
+    "zipcode": "0720044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "一心町"
+  },
+  "0720045": {
+    "zipcode": "0720045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "開発町南"
+  },
+  "0720046": {
+    "zipcode": "0720046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "開発町北"
+  },
+  "0720047": {
+    "zipcode": "0720047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "開発町親和"
+  },
+  "0720051": {
+    "zipcode": "0720051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "上美唄町"
+  },
+  "0720052": {
+    "zipcode": "0720052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "上美唄町東"
+  },
+  "0720053": {
+    "zipcode": "0720053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "上美唄町中央"
+  },
+  "0720054": {
+    "zipcode": "0720054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "上美唄町沼の端"
+  },
+  "0720055": {
+    "zipcode": "0720055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西美唄町元村"
+  },
+  "0720056": {
+    "zipcode": "0720056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西美唄町山形"
+  },
+  "0720057": {
+    "zipcode": "0720057",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西美唄町大曲"
+  },
+  "0720058": {
+    "zipcode": "0720058",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西美唄町富樫"
+  },
+  "0720059": {
+    "zipcode": "0720059",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "西美唄町元村美富"
+  },
+  "0720801": {
+    "zipcode": "0720801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東七条北"
+  },
+  "0720802": {
+    "zipcode": "0720802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東八条北"
+  },
+  "0720803": {
+    "zipcode": "0720803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明一条"
+  },
+  "0720804": {
+    "zipcode": "0720804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明二条"
+  },
+  "0720805": {
+    "zipcode": "0720805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明三条"
+  },
+  "0720806": {
+    "zipcode": "0720806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明四条"
+  },
+  "0720807": {
+    "zipcode": "0720807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明五条"
+  },
+  "0720808": {
+    "zipcode": "0720808",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東明町"
+  },
+  "0720811": {
+    "zipcode": "0720811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東七条南"
+  },
+  "0720812": {
+    "zipcode": "0720812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "東八条南"
+  },
+  "0720813": {
+    "zipcode": "0720813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町旭町"
+  },
+  "0720814": {
+    "zipcode": "0720814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町山の手"
+  },
+  "0720815": {
+    "zipcode": "0720815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町南町"
+  },
+  "0720816": {
+    "zipcode": "0720816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町仲町"
+  },
+  "0720817": {
+    "zipcode": "0720817",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町北町"
+  },
+  "0720818": {
+    "zipcode": "0720818",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町中央通り"
+  },
+  "0720819": {
+    "zipcode": "0720819",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "共練町西"
+  },
+  "0720821": {
+    "zipcode": "0720821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町上"
+  },
+  "0720822": {
+    "zipcode": "0720822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町大通り"
+  },
+  "0720823": {
+    "zipcode": "0720823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町下"
+  },
+  "0720824": {
+    "zipcode": "0720824",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町新富町"
+  },
+  "0720825": {
+    "zipcode": "0720825",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町桜井町"
+  },
+  "0720826": {
+    "zipcode": "0720826",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町栄町南"
+  },
+  "0720827": {
+    "zipcode": "0720827",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町栄町北"
+  },
+  "0720828": {
+    "zipcode": "0720828",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "南美唄町西町"
+  },
+  "0720831": {
+    "zipcode": "0720831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "落合町栄町"
+  },
+  "0720832": {
+    "zipcode": "0720832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "落合町本町"
+  },
+  "0720833": {
+    "zipcode": "0720833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "落合町緑が丘"
+  },
+  "0720834": {
+    "zipcode": "0720834",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "落合町住吉"
+  },
+  "0720835": {
+    "zipcode": "0720835",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "落合町入初"
+  },
+  "0720841": {
+    "zipcode": "0720841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "盤の沢町滝の上"
+  },
+  "0720842": {
+    "zipcode": "0720842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "盤の沢町本町"
+  },
+  "0720843": {
+    "zipcode": "0720843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "盤の沢町高台"
+  },
+  "0720844": {
+    "zipcode": "0720844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "盤の沢町桜が丘"
+  },
+  "0720851": {
+    "zipcode": "0720851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町一条"
+  },
+  "0720852": {
+    "zipcode": "0720852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町二条"
+  },
+  "0720853": {
+    "zipcode": "0720853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町三条"
+  },
+  "0720854": {
+    "zipcode": "0720854",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町四条"
+  },
+  "0720855": {
+    "zipcode": "0720855",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町公園通り"
+  },
+  "0720856": {
+    "zipcode": "0720856",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町新町"
+  },
+  "0720857": {
+    "zipcode": "0720857",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "美唄市",
+    "town": "我路町菊水"
+  }
+}

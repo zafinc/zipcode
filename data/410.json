@@ -1,0 +1,2730 @@
+{
+  "4100000": {
+    "zipcode": "4100000",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "以下に掲載がない場合"
+  },
+  "4100001": {
+    "zipcode": "4100001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "足高"
+  },
+  "4100002": {
+    "zipcode": "4100002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東沢田"
+  },
+  "4100003": {
+    "zipcode": "4100003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "新沢田町"
+  },
+  "4100004": {
+    "zipcode": "4100004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "本田町"
+  },
+  "4100005": {
+    "zipcode": "4100005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "双葉町"
+  },
+  "4100006": {
+    "zipcode": "4100006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "中沢田"
+  },
+  "4100007": {
+    "zipcode": "4100007",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西沢田"
+  },
+  "4100011": {
+    "zipcode": "4100011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "岡宮"
+  },
+  "4100012": {
+    "zipcode": "4100012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "岡一色"
+  },
+  "4100013": {
+    "zipcode": "4100013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東熊堂"
+  },
+  "4100014": {
+    "zipcode": "4100014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "松沢町"
+  },
+  "4100015": {
+    "zipcode": "4100015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "駿河台"
+  },
+  "4100016": {
+    "zipcode": "4100016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "高砂町"
+  },
+  "4100017": {
+    "zipcode": "4100017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "高尾台"
+  },
+  "4100018": {
+    "zipcode": "4100018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "豊町"
+  },
+  "4100021": {
+    "zipcode": "4100021",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "小林台"
+  },
+  "4100022": {
+    "zipcode": "4100022",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大岡"
+  },
+  "4100031": {
+    "zipcode": "4100031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "三枚橋"
+  },
+  "4100032": {
+    "zipcode": "4100032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "日の出町"
+  },
+  "4100033": {
+    "zipcode": "4100033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "杉崎町"
+  },
+  "4100034": {
+    "zipcode": "4100034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "富士見町"
+  },
+  "4100035": {
+    "zipcode": "4100035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "山王台"
+  },
+  "4100036": {
+    "zipcode": "4100036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "平町"
+  },
+  "4100037": {
+    "zipcode": "4100037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "三枚橋町"
+  },
+  "4100038": {
+    "zipcode": "4100038",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "三芳町"
+  },
+  "4100041": {
+    "zipcode": "4100041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "筒井町"
+  },
+  "4100042": {
+    "zipcode": "4100042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "神田町"
+  },
+  "4100043": {
+    "zipcode": "4100043",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "柳町"
+  },
+  "4100044": {
+    "zipcode": "4100044",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "五月町"
+  },
+  "4100045": {
+    "zipcode": "4100045",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "泉町"
+  },
+  "4100046": {
+    "zipcode": "4100046",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "米山町"
+  },
+  "4100047": {
+    "zipcode": "4100047",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "庄栄町"
+  },
+  "4100048": {
+    "zipcode": "4100048",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "新宿町"
+  },
+  "4100049": {
+    "zipcode": "4100049",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "江原町"
+  },
+  "4100051": {
+    "zipcode": "4100051",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西熊堂"
+  },
+  "4100052": {
+    "zipcode": "4100052",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "沢田町"
+  },
+  "4100053": {
+    "zipcode": "4100053",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "寿町"
+  },
+  "4100054": {
+    "zipcode": "4100054",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "北高島町"
+  },
+  "4100055": {
+    "zipcode": "4100055",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "高島本町"
+  },
+  "4100056": {
+    "zipcode": "4100056",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "高島町"
+  },
+  "4100057": {
+    "zipcode": "4100057",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "高沢町"
+  },
+  "4100058": {
+    "zipcode": "4100058",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "沼北町"
+  },
+  "4100059": {
+    "zipcode": "4100059",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "若葉町"
+  },
+  "4100061": {
+    "zipcode": "4100061",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "北園町"
+  },
+  "4100062": {
+    "zipcode": "4100062",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "宮前町"
+  },
+  "4100063": {
+    "zipcode": "4100063",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "緑ケ丘"
+  },
+  "4100064": {
+    "zipcode": "4100064",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "共栄町"
+  },
+  "4100065": {
+    "zipcode": "4100065",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "花園町"
+  },
+  "4100101": {
+    "zipcode": "4100101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "多比"
+  },
+  "4100102": {
+    "zipcode": "4100102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "口野"
+  },
+  "4100103": {
+    "zipcode": "4100103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "江浦"
+  },
+  "4100104": {
+    "zipcode": "4100104",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "獅子浜"
+  },
+  "4100105": {
+    "zipcode": "4100105",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "馬込"
+  },
+  "4100106": {
+    "zipcode": "4100106",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "志下"
+  },
+  "4100221": {
+    "zipcode": "4100221",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "内浦重寺"
+  },
+  "4100222": {
+    "zipcode": "4100222",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "内浦小海"
+  },
+  "4100223": {
+    "zipcode": "4100223",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "内浦三津"
+  },
+  "4100224": {
+    "zipcode": "4100224",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "内浦長浜"
+  },
+  "4100225": {
+    "zipcode": "4100225",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "内浦重須"
+  },
+  "4100231": {
+    "zipcode": "4100231",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦木負"
+  },
+  "4100232": {
+    "zipcode": "4100232",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦河内"
+  },
+  "4100233": {
+    "zipcode": "4100233",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦久連"
+  },
+  "4100234": {
+    "zipcode": "4100234",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦平沢"
+  },
+  "4100235": {
+    "zipcode": "4100235",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦立保"
+  },
+  "4100241": {
+    "zipcode": "4100241",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦古宇"
+  },
+  "4100242": {
+    "zipcode": "4100242",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦足保"
+  },
+  "4100243": {
+    "zipcode": "4100243",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦久料"
+  },
+  "4100244": {
+    "zipcode": "4100244",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西浦大瀬"
+  },
+  "4100301": {
+    "zipcode": "4100301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "宮本"
+  },
+  "4100302": {
+    "zipcode": "4100302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東椎路"
+  },
+  "4100303": {
+    "zipcode": "4100303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西椎路"
+  },
+  "4100304": {
+    "zipcode": "4100304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東原"
+  },
+  "4100305": {
+    "zipcode": "4100305",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "鳥谷"
+  },
+  "4100306": {
+    "zipcode": "4100306",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大塚"
+  },
+  "4100307": {
+    "zipcode": "4100307",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "青野"
+  },
+  "4100308": {
+    "zipcode": "4100308",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "柳沢"
+  },
+  "4100309": {
+    "zipcode": "4100309",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "根古屋"
+  },
+  "4100311": {
+    "zipcode": "4100311",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "原町中"
+  },
+  "4100312": {
+    "zipcode": "4100312",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "原"
+  },
+  "4100313": {
+    "zipcode": "4100313",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西添町"
+  },
+  "4100314": {
+    "zipcode": "4100314",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "一本松"
+  },
+  "4100315": {
+    "zipcode": "4100315",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "桃里"
+  },
+  "4100316": {
+    "zipcode": "4100316",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "植田"
+  },
+  "4100317": {
+    "zipcode": "4100317",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "石川"
+  },
+  "4100318": {
+    "zipcode": "4100318",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "平沼"
+  },
+  "4100319": {
+    "zipcode": "4100319",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "井出"
+  },
+  "4100321": {
+    "zipcode": "4100321",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西野"
+  },
+  "4100801": {
+    "zipcode": "4100801",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大手町"
+  },
+  "4100802": {
+    "zipcode": "4100802",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "上土町"
+  },
+  "4100803": {
+    "zipcode": "4100803",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "添地町"
+  },
+  "4100804": {
+    "zipcode": "4100804",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西条町"
+  },
+  "4100805": {
+    "zipcode": "4100805",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "白銀町"
+  },
+  "4100806": {
+    "zipcode": "4100806",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "丸子町"
+  },
+  "4100807": {
+    "zipcode": "4100807",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "錦町"
+  },
+  "4100811": {
+    "zipcode": "4100811",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "中瀬町"
+  },
+  "4100812": {
+    "zipcode": "4100812",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "山ケ下町"
+  },
+  "4100813": {
+    "zipcode": "4100813",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "上香貫"
+  },
+  "4100814": {
+    "zipcode": "4100814",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "玉江町"
+  },
+  "4100815": {
+    "zipcode": "4100815",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "南本郷町"
+  },
+  "4100816": {
+    "zipcode": "4100816",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "住吉町"
+  },
+  "4100817": {
+    "zipcode": "4100817",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "本郷町"
+  },
+  "4100818": {
+    "zipcode": "4100818",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "中原町"
+  },
+  "4100819": {
+    "zipcode": "4100819",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "黒瀬町"
+  },
+  "4100821": {
+    "zipcode": "4100821",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大平"
+  },
+  "4100822": {
+    "zipcode": "4100822",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "下香貫"
+  },
+  "4100823": {
+    "zipcode": "4100823",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "我入道"
+  },
+  "4100824": {
+    "zipcode": "4100824",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "香貫が丘"
+  },
+  "4100831": {
+    "zipcode": "4100831",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "市場町"
+  },
+  "4100832": {
+    "zipcode": "4100832",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "御幸町"
+  },
+  "4100833": {
+    "zipcode": "4100833",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "三園町"
+  },
+  "4100834": {
+    "zipcode": "4100834",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "槇島町"
+  },
+  "4100835": {
+    "zipcode": "4100835",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西島町"
+  },
+  "4100836": {
+    "zipcode": "4100836",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "吉田町"
+  },
+  "4100841": {
+    "zipcode": "4100841",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "下河原町"
+  },
+  "4100842": {
+    "zipcode": "4100842",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "蛇松町"
+  },
+  "4100843": {
+    "zipcode": "4100843",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "蓼原町"
+  },
+  "4100844": {
+    "zipcode": "4100844",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "春日町"
+  },
+  "4100845": {
+    "zipcode": "4100845",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本港町"
+  },
+  "4100846": {
+    "zipcode": "4100846",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本東町"
+  },
+  "4100847": {
+    "zipcode": "4100847",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本中町"
+  },
+  "4100848": {
+    "zipcode": "4100848",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本西町"
+  },
+  "4100849": {
+    "zipcode": "4100849",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本郷林"
+  },
+  "4100851": {
+    "zipcode": "4100851",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "宮町"
+  },
+  "4100852": {
+    "zipcode": "4100852",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "旭町"
+  },
+  "4100853": {
+    "zipcode": "4100853",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "常盤町"
+  },
+  "4100854": {
+    "zipcode": "4100854",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本常盤町"
+  },
+  "4100855": {
+    "zipcode": "4100855",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "千本緑町"
+  },
+  "4100861": {
+    "zipcode": "4100861",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "真砂町"
+  },
+  "4100862": {
+    "zipcode": "4100862",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "幸町"
+  },
+  "4100863": {
+    "zipcode": "4100863",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "下一丁田"
+  },
+  "4100864": {
+    "zipcode": "4100864",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "松下"
+  },
+  "4100865": {
+    "zipcode": "4100865",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東間門"
+  },
+  "4100866": {
+    "zipcode": "4100866",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "市道"
+  },
+  "4100867": {
+    "zipcode": "4100867",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "松下七反田"
+  },
+  "4100868": {
+    "zipcode": "4100868",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "下小路町"
+  },
+  "4100871": {
+    "zipcode": "4100871",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "西間門"
+  },
+  "4100872": {
+    "zipcode": "4100872",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "小諏訪"
+  },
+  "4100873": {
+    "zipcode": "4100873",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大諏訪"
+  },
+  "4100874": {
+    "zipcode": "4100874",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "松長"
+  },
+  "4100875": {
+    "zipcode": "4100875",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "今沢"
+  },
+  "4100876": {
+    "zipcode": "4100876",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "北今沢"
+  },
+  "4100881": {
+    "zipcode": "4100881",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "八幡町"
+  },
+  "4100882": {
+    "zipcode": "4100882",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "町方町"
+  },
+  "4100883": {
+    "zipcode": "4100883",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "大門町"
+  },
+  "4100884": {
+    "zipcode": "4100884",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "本町"
+  },
+  "4100885": {
+    "zipcode": "4100885",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "下本町"
+  },
+  "4100886": {
+    "zipcode": "4100886",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "浅間町"
+  },
+  "4100887": {
+    "zipcode": "4100887",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "東宮後町"
+  },
+  "4100888": {
+    "zipcode": "4100888",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "末広町"
+  },
+  "4100891": {
+    "zipcode": "4100891",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "通横町"
+  },
+  "4100892": {
+    "zipcode": "4100892",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "魚町"
+  },
+  "4100893": {
+    "zipcode": "4100893",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "くまだか町"
+  },
+  "4100894": {
+    "zipcode": "4100894",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "仲町"
+  },
+  "4100895": {
+    "zipcode": "4100895",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "新町"
+  },
+  "4101100": {
+    "zipcode": "4101100",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "以下に掲載がない場合"
+  },
+  "4101101": {
+    "zipcode": "4101101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "岩波"
+  },
+  "4101102": {
+    "zipcode": "4101102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "深良"
+  },
+  "4101103": {
+    "zipcode": "4101103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "葛山"
+  },
+  "4101104": {
+    "zipcode": "4101104",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "今里"
+  },
+  "4101105": {
+    "zipcode": "4101105",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "下和田"
+  },
+  "4101106": {
+    "zipcode": "4101106",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "金沢"
+  },
+  "4101107": {
+    "zipcode": "4101107",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "御宿"
+  },
+  "4101108": {
+    "zipcode": "4101108",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "上ケ田"
+  },
+  "4101109": {
+    "zipcode": "4101109",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "呼子"
+  },
+  "4101111": {
+    "zipcode": "4101111",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "久根"
+  },
+  "4101112": {
+    "zipcode": "4101112",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "公文名"
+  },
+  "4101113": {
+    "zipcode": "4101113",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "稲荷"
+  },
+  "4101114": {
+    "zipcode": "4101114",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "大畑"
+  },
+  "4101115": {
+    "zipcode": "4101115",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "千福が丘"
+  },
+  "4101116": {
+    "zipcode": "4101116",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "千福"
+  },
+  "4101117": {
+    "zipcode": "4101117",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "石脇"
+  },
+  "4101118": {
+    "zipcode": "4101118",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "佐野"
+  },
+  "4101121": {
+    "zipcode": "4101121",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "茶畑"
+  },
+  "4101122": {
+    "zipcode": "4101122",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "麦塚"
+  },
+  "4101123": {
+    "zipcode": "4101123",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "伊豆島田"
+  },
+  "4101124": {
+    "zipcode": "4101124",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "水窪"
+  },
+  "4101125": {
+    "zipcode": "4101125",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "富沢"
+  },
+  "4101126": {
+    "zipcode": "4101126",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "桃園"
+  },
+  "4101127": {
+    "zipcode": "4101127",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "平松"
+  },
+  "4101128": {
+    "zipcode": "4101128",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "二ツ屋"
+  },
+  "4101231": {
+    "zipcode": "4101231",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "town": "須山"
+  },
+  "4101300": {
+    "zipcode": "4101300",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "以下に掲載がない場合"
+  },
+  "4101301": {
+    "zipcode": "4101301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "柳島"
+  },
+  "4101302": {
+    "zipcode": "4101302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "中島"
+  },
+  "4101303": {
+    "zipcode": "4101303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "生土"
+  },
+  "4101304": {
+    "zipcode": "4101304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "藤曲"
+  },
+  "4101305": {
+    "zipcode": "4101305",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "湯船"
+  },
+  "4101306": {
+    "zipcode": "4101306",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "上野"
+  },
+  "4101307": {
+    "zipcode": "4101307",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "中日向"
+  },
+  "4101308": {
+    "zipcode": "4101308",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "大御神"
+  },
+  "4101311": {
+    "zipcode": "4101311",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "小山"
+  },
+  "4101312": {
+    "zipcode": "4101312",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "菅沼"
+  },
+  "4101313": {
+    "zipcode": "4101313",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "竹之下"
+  },
+  "4101314": {
+    "zipcode": "4101314",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "新柴"
+  },
+  "4101315": {
+    "zipcode": "4101315",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "桑木"
+  },
+  "4101316": {
+    "zipcode": "4101316",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "下古城"
+  },
+  "4101317": {
+    "zipcode": "4101317",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "大胡田"
+  },
+  "4101321": {
+    "zipcode": "4101321",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "阿多野"
+  },
+  "4101322": {
+    "zipcode": "4101322",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "吉久保"
+  },
+  "4101323": {
+    "zipcode": "4101323",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "上古城"
+  },
+  "4101324": {
+    "zipcode": "4101324",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "下小林"
+  },
+  "4101325": {
+    "zipcode": "4101325",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "一色"
+  },
+  "4101326": {
+    "zipcode": "4101326",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "用沢"
+  },
+  "4101327": {
+    "zipcode": "4101327",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "棚頭"
+  },
+  "4101431": {
+    "zipcode": "4101431",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "須走"
+  },
+  "4101432": {
+    "zipcode": "4101432",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "駿東郡小山町",
+    "town": "自衛隊富士学校"
+  },
+  "4102101": {
+    "zipcode": "4102101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "小松ケ原"
+  },
+  "4102102": {
+    "zipcode": "4102102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "富士見ニュータウン"
+  },
+  "4102103": {
+    "zipcode": "4102103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "エメラルドタウン"
+  },
+  "4102111": {
+    "zipcode": "4102111",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "立花台"
+  },
+  "4102112": {
+    "zipcode": "4102112",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "内中"
+  },
+  "4102113": {
+    "zipcode": "4102113",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "中"
+  },
+  "4102114": {
+    "zipcode": "4102114",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "南條"
+  },
+  "4102121": {
+    "zipcode": "4102121",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "中條"
+  },
+  "4102122": {
+    "zipcode": "4102122",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "寺家"
+  },
+  "4102123": {
+    "zipcode": "4102123",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "四日町"
+  },
+  "4102124": {
+    "zipcode": "4102124",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "原木"
+  },
+  "4102131": {
+    "zipcode": "4102131",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "長崎"
+  },
+  "4102132": {
+    "zipcode": "4102132",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "奈古谷"
+  },
+  "4102133": {
+    "zipcode": "4102133",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "韮山多田"
+  },
+  "4102141": {
+    "zipcode": "4102141",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "韮山山木"
+  },
+  "4102142": {
+    "zipcode": "4102142",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "韮山金谷"
+  },
+  "4102143": {
+    "zipcode": "4102143",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "韮山韮山"
+  },
+  "4102144": {
+    "zipcode": "4102144",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "韮山土手和田"
+  },
+  "4102200": {
+    "zipcode": "4102200",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "以下に掲載がない場合"
+  },
+  "4102201": {
+    "zipcode": "4102201",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "古奈"
+  },
+  "4102202": {
+    "zipcode": "4102202",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "天野"
+  },
+  "4102203": {
+    "zipcode": "4102203",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "小坂"
+  },
+  "4102204": {
+    "zipcode": "4102204",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "墹之上"
+  },
+  "4102205": {
+    "zipcode": "4102205",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "富士見"
+  },
+  "4102211": {
+    "zipcode": "4102211",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "長岡"
+  },
+  "4102212": {
+    "zipcode": "4102212",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "長瀬"
+  },
+  "4102213": {
+    "zipcode": "4102213",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "戸沢"
+  },
+  "4102214": {
+    "zipcode": "4102214",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "花坂"
+  },
+  "4102221": {
+    "zipcode": "4102221",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "南江間"
+  },
+  "4102223": {
+    "zipcode": "4102223",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "北江間"
+  },
+  "4102301": {
+    "zipcode": "4102301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "田中山"
+  },
+  "4102302": {
+    "zipcode": "4102302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "宗光寺"
+  },
+  "4102303": {
+    "zipcode": "4102303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "立花"
+  },
+  "4102304": {
+    "zipcode": "4102304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "宗光寺（星和）"
+  },
+  "4102311": {
+    "zipcode": "4102311",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "浮橋"
+  },
+  "4102312": {
+    "zipcode": "4102312",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "長者原"
+  },
+  "4102313": {
+    "zipcode": "4102313",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "田原野"
+  },
+  "4102314": {
+    "zipcode": "4102314",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "下畑"
+  },
+  "4102315": {
+    "zipcode": "4102315",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "田京"
+  },
+  "4102316": {
+    "zipcode": "4102316",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "御門"
+  },
+  "4102317": {
+    "zipcode": "4102317",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "守木"
+  },
+  "4102318": {
+    "zipcode": "4102318",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "白山堂"
+  },
+  "4102321": {
+    "zipcode": "4102321",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "三福"
+  },
+  "4102322": {
+    "zipcode": "4102322",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "吉田"
+  },
+  "4102323": {
+    "zipcode": "4102323",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "大仁"
+  },
+  "4102324": {
+    "zipcode": "4102324",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "中島"
+  },
+  "4102325": {
+    "zipcode": "4102325",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆の国市",
+    "town": "神島"
+  },
+  "4102400": {
+    "zipcode": "4102400",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "以下に掲載がない場合"
+  },
+  "4102401": {
+    "zipcode": "4102401",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "牧之郷"
+  },
+  "4102402": {
+    "zipcode": "4102402",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "大野"
+  },
+  "4102403": {
+    "zipcode": "4102403",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "年川"
+  },
+  "4102404": {
+    "zipcode": "4102404",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "田代"
+  },
+  "4102405": {
+    "zipcode": "4102405",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "加殿"
+  },
+  "4102406": {
+    "zipcode": "4102406",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "日向"
+  },
+  "4102407": {
+    "zipcode": "4102407",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "柏久保"
+  },
+  "4102411": {
+    "zipcode": "4102411",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "熊坂"
+  },
+  "4102412": {
+    "zipcode": "4102412",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "瓜生野"
+  },
+  "4102413": {
+    "zipcode": "4102413",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "小立野"
+  },
+  "4102414": {
+    "zipcode": "4102414",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "本立野"
+  },
+  "4102415": {
+    "zipcode": "4102415",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "大平"
+  },
+  "4102416": {
+    "zipcode": "4102416",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "修善寺"
+  },
+  "4102417": {
+    "zipcode": "4102417",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "大沢"
+  },
+  "4102418": {
+    "zipcode": "4102418",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "堀切"
+  },
+  "4102501": {
+    "zipcode": "4102501",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "下白岩"
+  },
+  "4102502": {
+    "zipcode": "4102502",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "上白岩"
+  },
+  "4102503": {
+    "zipcode": "4102503",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "城"
+  },
+  "4102504": {
+    "zipcode": "4102504",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "関野"
+  },
+  "4102505": {
+    "zipcode": "4102505",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "八幡"
+  },
+  "4102506": {
+    "zipcode": "4102506",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "徳永"
+  },
+  "4102507": {
+    "zipcode": "4102507",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "冷川"
+  },
+  "4102508": {
+    "zipcode": "4102508",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "柳瀬"
+  },
+  "4102509": {
+    "zipcode": "4102509",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "梅木"
+  },
+  "4102511": {
+    "zipcode": "4102511",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "宮上"
+  },
+  "4102512": {
+    "zipcode": "4102512",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "中原戸"
+  },
+  "4102513": {
+    "zipcode": "4102513",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "菅引"
+  },
+  "4102514": {
+    "zipcode": "4102514",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "原保"
+  },
+  "4102515": {
+    "zipcode": "4102515",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "地蔵堂"
+  },
+  "4102516": {
+    "zipcode": "4102516",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "筏場"
+  },
+  "4102517": {
+    "zipcode": "4102517",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "貴僧坊"
+  },
+  "4102518": {
+    "zipcode": "4102518",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "姫之湯"
+  },
+  "4102519": {
+    "zipcode": "4102519",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "戸倉野"
+  },
+  "4103201": {
+    "zipcode": "4103201",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "佐野"
+  },
+  "4103202": {
+    "zipcode": "4103202",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "雲金"
+  },
+  "4103203": {
+    "zipcode": "4103203",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "矢熊"
+  },
+  "4103204": {
+    "zipcode": "4103204",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "田沢"
+  },
+  "4103205": {
+    "zipcode": "4103205",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "市山"
+  },
+  "4103206": {
+    "zipcode": "4103206",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "湯ケ島"
+  },
+  "4103207": {
+    "zipcode": "4103207",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "持越"
+  },
+  "4103208": {
+    "zipcode": "4103208",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "吉奈"
+  },
+  "4103209": {
+    "zipcode": "4103209",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "門野原"
+  },
+  "4103211": {
+    "zipcode": "4103211",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "松ケ瀬"
+  },
+  "4103212": {
+    "zipcode": "4103212",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "本柿木"
+  },
+  "4103213": {
+    "zipcode": "4103213",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "青羽根"
+  },
+  "4103214": {
+    "zipcode": "4103214",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "下船原"
+  },
+  "4103215": {
+    "zipcode": "4103215",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "月ケ瀬"
+  },
+  "4103216": {
+    "zipcode": "4103216",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "上船原"
+  },
+  "4103217": {
+    "zipcode": "4103217",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "大平柿木"
+  },
+  "4103301": {
+    "zipcode": "4103301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "小土肥"
+  },
+  "4103302": {
+    "zipcode": "4103302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "土肥"
+  },
+  "4103303": {
+    "zipcode": "4103303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "八木沢"
+  },
+  "4103304": {
+    "zipcode": "4103304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊豆市",
+    "town": "小下田"
+  },
+  "4103401": {
+    "zipcode": "4103401",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "井田"
+  },
+  "4103402": {
+    "zipcode": "4103402",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "town": "戸田"
+  },
+  "4103500": {
+    "zipcode": "4103500",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "以下に掲載がない場合"
+  },
+  "4103501": {
+    "zipcode": "4103501",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "宇久須"
+  },
+  "4103502": {
+    "zipcode": "4103502",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "安良里"
+  },
+  "4103511": {
+    "zipcode": "4103511",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "大沢里"
+  },
+  "4103512": {
+    "zipcode": "4103512",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "一色"
+  },
+  "4103513": {
+    "zipcode": "4103513",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "中"
+  },
+  "4103514": {
+    "zipcode": "4103514",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "仁科"
+  },
+  "4103515": {
+    "zipcode": "4103515",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡西伊豆町",
+    "town": "田子"
+  },
+  "4103600": {
+    "zipcode": "4103600",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "以下に掲載がない場合"
+  },
+  "4103601": {
+    "zipcode": "4103601",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "池代"
+  },
+  "4103602": {
+    "zipcode": "4103602",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "小杉原"
+  },
+  "4103603": {
+    "zipcode": "4103603",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "明伏"
+  },
+  "4103604": {
+    "zipcode": "4103604",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "大沢"
+  },
+  "4103605": {
+    "zipcode": "4103605",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "峰輪"
+  },
+  "4103606": {
+    "zipcode": "4103606",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "船田"
+  },
+  "4103607": {
+    "zipcode": "4103607",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "門野"
+  },
+  "4103611": {
+    "zipcode": "4103611",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "松崎"
+  },
+  "4103612": {
+    "zipcode": "4103612",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "宮内"
+  },
+  "4103613": {
+    "zipcode": "4103613",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "岩科北側"
+  },
+  "4103614": {
+    "zipcode": "4103614",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "岩科南側"
+  },
+  "4103615": {
+    "zipcode": "4103615",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "雲見"
+  },
+  "4103616": {
+    "zipcode": "4103616",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "石部"
+  },
+  "4103617": {
+    "zipcode": "4103617",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "岩地"
+  },
+  "4103618": {
+    "zipcode": "4103618",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "道部"
+  },
+  "4103621": {
+    "zipcode": "4103621",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "吉田"
+  },
+  "4103622": {
+    "zipcode": "4103622",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "南郷"
+  },
+  "4103623": {
+    "zipcode": "4103623",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "伏倉"
+  },
+  "4103624": {
+    "zipcode": "4103624",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "江奈"
+  },
+  "4103625": {
+    "zipcode": "4103625",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "桜田"
+  },
+  "4103626": {
+    "zipcode": "4103626",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "那賀"
+  },
+  "4103627": {
+    "zipcode": "4103627",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡松崎町",
+    "town": "建久寺"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "9830000": {
+    "zipcode": "9830000",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "以下に掲載がない場合"
+  },
+  "9830001": {
+    "zipcode": "9830001",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "港（１〜４丁目）"
+  },
+  "9830002": {
+    "zipcode": "9830002",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "蒲生"
+  },
+  "9830003": {
+    "zipcode": "9830003",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "岡田"
+  },
+  "9830004": {
+    "zipcode": "9830004",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "岡田西町"
+  },
+  "9830005": {
+    "zipcode": "9830005",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "福室"
+  },
+  "9830006": {
+    "zipcode": "9830006",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "白鳥"
+  },
+  "9830007": {
+    "zipcode": "9830007",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "仙台港北"
+  },
+  "9830011": {
+    "zipcode": "9830011",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "栄"
+  },
+  "9830012": {
+    "zipcode": "9830012",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "出花"
+  },
+  "9830013": {
+    "zipcode": "9830013",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "中野"
+  },
+  "9830014": {
+    "zipcode": "9830014",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "高砂"
+  },
+  "9830021": {
+    "zipcode": "9830021",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "田子"
+  },
+  "9830023": {
+    "zipcode": "9830023",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "福田町"
+  },
+  "9830024": {
+    "zipcode": "9830024",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鶴巻"
+  },
+  "9830025": {
+    "zipcode": "9830025",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "福田町南"
+  },
+  "9830026": {
+    "zipcode": "9830026",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "田子西"
+  },
+  "9830031": {
+    "zipcode": "9830031",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小鶴"
+  },
+  "9830032": {
+    "zipcode": "9830032",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "仙石"
+  },
+  "9830033": {
+    "zipcode": "9830033",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "福住町"
+  },
+  "9830034": {
+    "zipcode": "9830034",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "扇町"
+  },
+  "9830035": {
+    "zipcode": "9830035",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "日の出町"
+  },
+  "9830036": {
+    "zipcode": "9830036",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "原町苦竹"
+  },
+  "9830037": {
+    "zipcode": "9830037",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "平成"
+  },
+  "9830038": {
+    "zipcode": "9830038",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "新田"
+  },
+  "9830039": {
+    "zipcode": "9830039",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "新田東"
+  },
+  "9830041": {
+    "zipcode": "9830041",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "南目館"
+  },
+  "9830042": {
+    "zipcode": "9830042",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "東宮城野"
+  },
+  "9830043": {
+    "zipcode": "9830043",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "萩野町"
+  },
+  "9830044": {
+    "zipcode": "9830044",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "宮千代"
+  },
+  "9830045": {
+    "zipcode": "9830045",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "宮城野"
+  },
+  "9830046": {
+    "zipcode": "9830046",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "西宮城野"
+  },
+  "9830047": {
+    "zipcode": "9830047",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "銀杏町"
+  },
+  "9830803": {
+    "zipcode": "9830803",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原（１〜３丁目）"
+  },
+  "9830811": {
+    "zipcode": "9830811",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原清水沼通"
+  },
+  "9830812": {
+    "zipcode": "9830812",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原弓ノ町"
+  },
+  "9830813": {
+    "zipcode": "9830813",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原牛小屋丁"
+  },
+  "9830814": {
+    "zipcode": "9830814",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原大行院丁"
+  },
+  "9830815": {
+    "zipcode": "9830815",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原広丁"
+  },
+  "9830816": {
+    "zipcode": "9830816",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原金剛院丁"
+  },
+  "9830817": {
+    "zipcode": "9830817",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "小田原山本丁"
+  },
+  "9830821": {
+    "zipcode": "9830821",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "岩切"
+  },
+  "9830822": {
+    "zipcode": "9830822",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "燕沢東"
+  },
+  "9830823": {
+    "zipcode": "9830823",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "燕沢"
+  },
+  "9830824": {
+    "zipcode": "9830824",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鶴ケ谷"
+  },
+  "9830825": {
+    "zipcode": "9830825",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鶴ケ谷北"
+  },
+  "9830826": {
+    "zipcode": "9830826",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鶴ケ谷東"
+  },
+  "9830827": {
+    "zipcode": "9830827",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "神谷沢"
+  },
+  "9830828": {
+    "zipcode": "9830828",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "岩切分台"
+  },
+  "9830831": {
+    "zipcode": "9830831",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "自由ケ丘"
+  },
+  "9830832": {
+    "zipcode": "9830832",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "安養寺"
+  },
+  "9830833": {
+    "zipcode": "9830833",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "東仙台"
+  },
+  "9830834": {
+    "zipcode": "9830834",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "松岡町"
+  },
+  "9830835": {
+    "zipcode": "9830835",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "大梶"
+  },
+  "9830836": {
+    "zipcode": "9830836",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "幸町"
+  },
+  "9830837": {
+    "zipcode": "9830837",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "枡江"
+  },
+  "9830838": {
+    "zipcode": "9830838",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "二の森"
+  },
+  "9830839": {
+    "zipcode": "9830839",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "蟹沢"
+  },
+  "9830841": {
+    "zipcode": "9830841",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "原町"
+  },
+  "9830842": {
+    "zipcode": "9830842",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "五輪"
+  },
+  "9830843": {
+    "zipcode": "9830843",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "二十人町通"
+  },
+  "9830844": {
+    "zipcode": "9830844",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "原町南目"
+  },
+  "9830845": {
+    "zipcode": "9830845",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "清水沼"
+  },
+  "9830851": {
+    "zipcode": "9830851",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "榴ケ岡"
+  },
+  "9830852": {
+    "zipcode": "9830852",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "榴岡"
+  },
+  "9830853": {
+    "zipcode": "9830853",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "東六番丁"
+  },
+  "9830861": {
+    "zipcode": "9830861",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鉄砲町"
+  },
+  "9830862": {
+    "zipcode": "9830862",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "二十人町"
+  },
+  "9830863": {
+    "zipcode": "9830863",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "車町"
+  },
+  "9830864": {
+    "zipcode": "9830864",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "名掛丁"
+  },
+  "9830865": {
+    "zipcode": "9830865",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "元寺小路"
+  },
+  "9830866": {
+    "zipcode": "9830866",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "花京院通"
+  },
+  "9830867": {
+    "zipcode": "9830867",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鉄砲町東"
+  },
+  "9830868": {
+    "zipcode": "9830868",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鉄砲町中"
+  },
+  "9830869": {
+    "zipcode": "9830869",
+    "prefectureCode": "04",
+    "prefectureNumber": 4,
+    "prefecture": "宮城県",
+    "city": "仙台市宮城野区",
+    "town": "鉄砲町西"
+  }
+}

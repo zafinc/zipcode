@@ -1,0 +1,450 @@
+{
+  "4780000": {
+    "zipcode": "4780000",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "以下に掲載がない場合"
+  },
+  "4780001": {
+    "zipcode": "4780001",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "八幡"
+  },
+  "4780002": {
+    "zipcode": "4780002",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "平野"
+  },
+  "4780003": {
+    "zipcode": "4780003",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "寺本台"
+  },
+  "4780004": {
+    "zipcode": "4780004",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "伊賀坂"
+  },
+  "4780005": {
+    "zipcode": "4780005",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "阿原"
+  },
+  "4780006": {
+    "zipcode": "4780006",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "三反田"
+  },
+  "4780011": {
+    "zipcode": "4780011",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "原"
+  },
+  "4780012": {
+    "zipcode": "4780012",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "巽が丘"
+  },
+  "4780013": {
+    "zipcode": "4780013",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南巽が丘"
+  },
+  "4780014": {
+    "zipcode": "4780014",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "西巽が丘"
+  },
+  "4780015": {
+    "zipcode": "4780015",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "佐布里"
+  },
+  "4780016": {
+    "zipcode": "4780016",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "梅が丘"
+  },
+  "4780017": {
+    "zipcode": "4780017",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新知"
+  },
+  "4780018": {
+    "zipcode": "4780018",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "佐布里台"
+  },
+  "4780021": {
+    "zipcode": "4780021",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "岡田"
+  },
+  "4780022": {
+    "zipcode": "4780022",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "大興寺"
+  },
+  "4780023": {
+    "zipcode": "4780023",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南粕谷東坂"
+  },
+  "4780024": {
+    "zipcode": "4780024",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南粕谷"
+  },
+  "4780025": {
+    "zipcode": "4780025",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南粕谷本町"
+  },
+  "4780026": {
+    "zipcode": "4780026",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南粕谷新海"
+  },
+  "4780027": {
+    "zipcode": "4780027",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新広見"
+  },
+  "4780028": {
+    "zipcode": "4780028",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "岡田緑が丘"
+  },
+  "4780031": {
+    "zipcode": "4780031",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "旭"
+  },
+  "4780032": {
+    "zipcode": "4780032",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "金沢"
+  },
+  "4780033": {
+    "zipcode": "4780033",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "神田"
+  },
+  "4780034": {
+    "zipcode": "4780034",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "旭南"
+  },
+  "4780035": {
+    "zipcode": "4780035",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "大草"
+  },
+  "4780036": {
+    "zipcode": "4780036",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新舞子"
+  },
+  "4780037": {
+    "zipcode": "4780037",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新舞子東町"
+  },
+  "4780041": {
+    "zipcode": "4780041",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "日長"
+  },
+  "4780042": {
+    "zipcode": "4780042",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "長浦"
+  },
+  "4780043": {
+    "zipcode": "4780043",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "日長台"
+  },
+  "4780044": {
+    "zipcode": "4780044",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "旭桃台"
+  },
+  "4780045": {
+    "zipcode": "4780045",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南浜町"
+  },
+  "4780046": {
+    "zipcode": "4780046",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "北浜町"
+  },
+  "4780047": {
+    "zipcode": "4780047",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "緑町"
+  },
+  "4780051": {
+    "zipcode": "4780051",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "朝倉町"
+  },
+  "4780052": {
+    "zipcode": "4780052",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "八幡新町"
+  },
+  "4780053": {
+    "zipcode": "4780053",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "清水が丘"
+  },
+  "4780054": {
+    "zipcode": "4780054",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "つつじが丘"
+  },
+  "4780055": {
+    "zipcode": "4780055",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "にしの台"
+  },
+  "4780056": {
+    "zipcode": "4780056",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "南谷"
+  },
+  "4780057": {
+    "zipcode": "4780057",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "吹込"
+  },
+  "4780058": {
+    "zipcode": "4780058",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "上り戸"
+  },
+  "4780059": {
+    "zipcode": "4780059",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新長根"
+  },
+  "4780060": {
+    "zipcode": "4780060",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "山屋敷"
+  },
+  "4780061": {
+    "zipcode": "4780061",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "東大僧"
+  },
+  "4780062": {
+    "zipcode": "4780062",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "岡田美里町"
+  },
+  "4780063": {
+    "zipcode": "4780063",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "寺本新町"
+  },
+  "4780064": {
+    "zipcode": "4780064",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新知台"
+  },
+  "4780065": {
+    "zipcode": "4780065",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新知東町"
+  },
+  "4780066": {
+    "zipcode": "4780066",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新知西町"
+  },
+  "4780067": {
+    "zipcode": "4780067",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "大僧"
+  },
+  "4780068": {
+    "zipcode": "4780068",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "中原"
+  },
+  "4780069": {
+    "zipcode": "4780069",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "知多市",
+    "town": "新刀池"
+  }
+}

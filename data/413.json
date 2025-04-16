@@ -1,0 +1,626 @@
+{
+  "4130000": {
+    "zipcode": "4130000",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "以下に掲載がない場合"
+  },
+  "4130001": {
+    "zipcode": "4130001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "泉"
+  },
+  "4130002": {
+    "zipcode": "4130002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "伊豆山"
+  },
+  "4130003": {
+    "zipcode": "4130003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "海光町"
+  },
+  "4130004": {
+    "zipcode": "4130004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "初島"
+  },
+  "4130005": {
+    "zipcode": "4130005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "春日町"
+  },
+  "4130006": {
+    "zipcode": "4130006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "桃山町"
+  },
+  "4130011": {
+    "zipcode": "4130011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "田原本町"
+  },
+  "4130012": {
+    "zipcode": "4130012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "東海岸町"
+  },
+  "4130013": {
+    "zipcode": "4130013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "銀座町"
+  },
+  "4130014": {
+    "zipcode": "4130014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "渚町"
+  },
+  "4130015": {
+    "zipcode": "4130015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "中央町"
+  },
+  "4130016": {
+    "zipcode": "4130016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "水口町"
+  },
+  "4130017": {
+    "zipcode": "4130017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "福道町"
+  },
+  "4130018": {
+    "zipcode": "4130018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "上宿町"
+  },
+  "4130019": {
+    "zipcode": "4130019",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "咲見町"
+  },
+  "4130021": {
+    "zipcode": "4130021",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "清水町"
+  },
+  "4130022": {
+    "zipcode": "4130022",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "昭和町"
+  },
+  "4130023": {
+    "zipcode": "4130023",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "和田浜南町"
+  },
+  "4130024": {
+    "zipcode": "4130024",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "和田町"
+  },
+  "4130025": {
+    "zipcode": "4130025",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "桜木町"
+  },
+  "4130026": {
+    "zipcode": "4130026",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "梅花町"
+  },
+  "4130027": {
+    "zipcode": "4130027",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "紅葉ガ丘町"
+  },
+  "4130028": {
+    "zipcode": "4130028",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "桜町"
+  },
+  "4130029": {
+    "zipcode": "4130029",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "小嵐町"
+  },
+  "4130031": {
+    "zipcode": "4130031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "林ガ丘町"
+  },
+  "4130032": {
+    "zipcode": "4130032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "梅園町"
+  },
+  "4130033": {
+    "zipcode": "4130033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "熱海"
+  },
+  "4130034": {
+    "zipcode": "4130034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "西山町"
+  },
+  "4130035": {
+    "zipcode": "4130035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "緑ガ丘町"
+  },
+  "4130036": {
+    "zipcode": "4130036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "日金町"
+  },
+  "4130037": {
+    "zipcode": "4130037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "笹良ケ台町"
+  },
+  "4130038": {
+    "zipcode": "4130038",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "西熱海町"
+  },
+  "4130039": {
+    "zipcode": "4130039",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "相の原町"
+  },
+  "4130041": {
+    "zipcode": "4130041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "青葉町"
+  },
+  "4130042": {
+    "zipcode": "4130042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "山手町"
+  },
+  "4130101": {
+    "zipcode": "4130101",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "上多賀"
+  },
+  "4130102": {
+    "zipcode": "4130102",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "下多賀"
+  },
+  "4130103": {
+    "zipcode": "4130103",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "town": "網代"
+  },
+  "4130111": {
+    "zipcode": "4130111",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "グリーンヒル別荘地"
+  },
+  "4130231": {
+    "zipcode": "4130231",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "富戸"
+  },
+  "4130232": {
+    "zipcode": "4130232",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "八幡野"
+  },
+  "4130233": {
+    "zipcode": "4130233",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "赤沢"
+  },
+  "4130234": {
+    "zipcode": "4130234",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "池"
+  },
+  "4130235": {
+    "zipcode": "4130235",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "town": "大室高原"
+  },
+  "4130300": {
+    "zipcode": "4130300",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "以下に掲載がない場合"
+  },
+  "4130301": {
+    "zipcode": "4130301",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "大川"
+  },
+  "4130302": {
+    "zipcode": "4130302",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "北川"
+  },
+  "4130303": {
+    "zipcode": "4130303",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "片瀬"
+  },
+  "4130304": {
+    "zipcode": "4130304",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "白田"
+  },
+  "4130411": {
+    "zipcode": "4130411",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡東伊豆町",
+    "town": "稲取"
+  },
+  "4130500": {
+    "zipcode": "4130500",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "以下に掲載がない場合"
+  },
+  "4130501": {
+    "zipcode": "4130501",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "梨本"
+  },
+  "4130502": {
+    "zipcode": "4130502",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "川津筏場"
+  },
+  "4130503": {
+    "zipcode": "4130503",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "見高"
+  },
+  "4130504": {
+    "zipcode": "4130504",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "田中"
+  },
+  "4130505": {
+    "zipcode": "4130505",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "沢田"
+  },
+  "4130506": {
+    "zipcode": "4130506",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "下佐ケ野"
+  },
+  "4130507": {
+    "zipcode": "4130507",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "湯ケ野"
+  },
+  "4130508": {
+    "zipcode": "4130508",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "小鍋"
+  },
+  "4130509": {
+    "zipcode": "4130509",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "大鍋"
+  },
+  "4130511": {
+    "zipcode": "4130511",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "峰"
+  },
+  "4130512": {
+    "zipcode": "4130512",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "笹原"
+  },
+  "4130513": {
+    "zipcode": "4130513",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "浜"
+  },
+  "4130514": {
+    "zipcode": "4130514",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "縄地"
+  },
+  "4130515": {
+    "zipcode": "4130515",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "谷津"
+  },
+  "4130516": {
+    "zipcode": "4130516",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "賀茂郡河津町",
+    "town": "逆川"
+  },
+  "4130701": {
+    "zipcode": "4130701",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "落合"
+  },
+  "4130702": {
+    "zipcode": "4130702",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "堀之内"
+  },
+  "4130703": {
+    "zipcode": "4130703",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "荒増"
+  },
+  "4130704": {
+    "zipcode": "4130704",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "椎原"
+  },
+  "4130705": {
+    "zipcode": "4130705",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "箕作"
+  },
+  "4130711": {
+    "zipcode": "4130711",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "相玉"
+  },
+  "4130712": {
+    "zipcode": "4130712",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "横川"
+  },
+  "4130713": {
+    "zipcode": "4130713",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "加増野"
+  },
+  "4130714": {
+    "zipcode": "4130714",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "北湯ケ野"
+  },
+  "4130715": {
+    "zipcode": "4130715",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "宇土金"
+  },
+  "4130716": {
+    "zipcode": "4130716",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "下田市",
+    "town": "須原"
+  }
+}

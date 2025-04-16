@@ -1,0 +1,490 @@
+{
+  "7820000": {
+    "zipcode": "7820000",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "以下に掲載がない場合"
+  },
+  "7820001": {
+    "zipcode": "7820001",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町杉田"
+  },
+  "7820002": {
+    "zipcode": "7820002",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町船谷"
+  },
+  "7820003": {
+    "zipcode": "7820003",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町宮ノ口"
+  },
+  "7820004": {
+    "zipcode": "7820004",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町間"
+  },
+  "7820005": {
+    "zipcode": "7820005",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町逆川"
+  },
+  "7820006": {
+    "zipcode": "7820006",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町影山"
+  },
+  "7820007": {
+    "zipcode": "7820007",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町林田"
+  },
+  "7820008": {
+    "zipcode": "7820008",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町佐古薮"
+  },
+  "7820009": {
+    "zipcode": "7820009",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町神母ノ木"
+  },
+  "7820010": {
+    "zipcode": "7820010",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町テクノパーク"
+  },
+  "7820011": {
+    "zipcode": "7820011",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町山田島"
+  },
+  "7820012": {
+    "zipcode": "7820012",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町加茂"
+  },
+  "7820013": {
+    "zipcode": "7820013",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町町田"
+  },
+  "7820014": {
+    "zipcode": "7820014",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町小田島"
+  },
+  "7820015": {
+    "zipcode": "7820015",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町下ノ村"
+  },
+  "7820016": {
+    "zipcode": "7820016",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町山田（小島、八王子、原）"
+  },
+  "7820017": {
+    "zipcode": "7820017",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町岩積"
+  },
+  "7820018": {
+    "zipcode": "7820018",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町戸板島"
+  },
+  "7820019": {
+    "zipcode": "7820019",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町中野"
+  },
+  "7820021": {
+    "zipcode": "7820021",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町岩次"
+  },
+  "7820022": {
+    "zipcode": "7820022",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町京田（立石）"
+  },
+  "7820023": {
+    "zipcode": "7820023",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町京田（その他）"
+  },
+  "7820024": {
+    "zipcode": "7820024",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町神通寺"
+  },
+  "7820025": {
+    "zipcode": "7820025",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町松本"
+  },
+  "7820031": {
+    "zipcode": "7820031",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町東本町"
+  },
+  "7820032": {
+    "zipcode": "7820032",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町西本町"
+  },
+  "7820033": {
+    "zipcode": "7820033",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町旭町"
+  },
+  "7820034": {
+    "zipcode": "7820034",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町宝町"
+  },
+  "7820035": {
+    "zipcode": "7820035",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町百石町"
+  },
+  "7820036": {
+    "zipcode": "7820036",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（古町）"
+  },
+  "7820037": {
+    "zipcode": "7820037",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町宮前町"
+  },
+  "7820038": {
+    "zipcode": "7820038",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町秦山町"
+  },
+  "7820039": {
+    "zipcode": "7820039",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町栄町"
+  },
+  "7820041": {
+    "zipcode": "7820041",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（北本町）"
+  },
+  "7820042": {
+    "zipcode": "7820042",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（前山）"
+  },
+  "7820043": {
+    "zipcode": "7820043",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（北組西）"
+  },
+  "7820044": {
+    "zipcode": "7820044",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（中組）"
+  },
+  "7820045": {
+    "zipcode": "7820045",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（黒土）"
+  },
+  "7820046": {
+    "zipcode": "7820046",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（南組）"
+  },
+  "7820047": {
+    "zipcode": "7820047",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町（その他）"
+  },
+  "7820051": {
+    "zipcode": "7820051",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町楠目（油石、前行、談議所、中村、平田、伏原、予岳）"
+  },
+  "7820054": {
+    "zipcode": "7820054",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町植"
+  },
+  "7820055": {
+    "zipcode": "7820055",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町須江"
+  },
+  "7820056": {
+    "zipcode": "7820056",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町上改田"
+  },
+  "7820057": {
+    "zipcode": "7820057",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町久次"
+  },
+  "7820058": {
+    "zipcode": "7820058",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町新改"
+  },
+  "7820059": {
+    "zipcode": "7820059",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町入野"
+  },
+  "7820061": {
+    "zipcode": "7820061",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町曽我部川"
+  },
+  "7820062": {
+    "zipcode": "7820062",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町平山（その他）"
+  },
+  "7820063": {
+    "zipcode": "7820063",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町東川"
+  },
+  "7820064": {
+    "zipcode": "7820064",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町大法寺"
+  },
+  "7820071": {
+    "zipcode": "7820071",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町佐竹"
+  },
+  "7820072": {
+    "zipcode": "7820072",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町有谷"
+  },
+  "7820073": {
+    "zipcode": "7820073",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町中後入"
+  },
+  "7820074": {
+    "zipcode": "7820074",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町大後入"
+  },
+  "7820075": {
+    "zipcode": "7820075",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町西後入"
+  },
+  "7820076": {
+    "zipcode": "7820076",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町本村"
+  },
+  "7820077": {
+    "zipcode": "7820077",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町佐野（仁井田）"
+  },
+  "7820078": {
+    "zipcode": "7820078",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町大平"
+  },
+  "7820079": {
+    "zipcode": "7820079",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "土佐山田町佐野（その他）"
+  }
+}

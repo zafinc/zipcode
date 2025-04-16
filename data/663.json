@@ -1,0 +1,874 @@
+{
+  "6638001": {
+    "zipcode": "6638001",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "田近野町"
+  },
+  "6638002": {
+    "zipcode": "6638002",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "一里山町"
+  },
+  "6638003": {
+    "zipcode": "6638003",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上大市"
+  },
+  "6638004": {
+    "zipcode": "6638004",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "下大市東町"
+  },
+  "6638005": {
+    "zipcode": "6638005",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "下大市西町"
+  },
+  "6638006": {
+    "zipcode": "6638006",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "段上町"
+  },
+  "6638011": {
+    "zipcode": "6638011",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "樋ノ口町"
+  },
+  "6638012": {
+    "zipcode": "6638012",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "堤町"
+  },
+  "6638013": {
+    "zipcode": "6638013",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "門前町"
+  },
+  "6638014": {
+    "zipcode": "6638014",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "林田町"
+  },
+  "6638015": {
+    "zipcode": "6638015",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "野間町"
+  },
+  "6638016": {
+    "zipcode": "6638016",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "若山町"
+  },
+  "6638017": {
+    "zipcode": "6638017",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "大島町"
+  },
+  "6638021": {
+    "zipcode": "6638021",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上之町"
+  },
+  "6638022": {
+    "zipcode": "6638022",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "日野町"
+  },
+  "6638023": {
+    "zipcode": "6638023",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "大森町"
+  },
+  "6638024": {
+    "zipcode": "6638024",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "薬師町"
+  },
+  "6638025": {
+    "zipcode": "6638025",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "荒木町"
+  },
+  "6638031": {
+    "zipcode": "6638031",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "伏原町"
+  },
+  "6638032": {
+    "zipcode": "6638032",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "高木西町"
+  },
+  "6638033": {
+    "zipcode": "6638033",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "高木東町"
+  },
+  "6638034": {
+    "zipcode": "6638034",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "長田町"
+  },
+  "6638035": {
+    "zipcode": "6638035",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "北口町"
+  },
+  "6638101": {
+    "zipcode": "6638101",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "松山町"
+  },
+  "6638102": {
+    "zipcode": "6638102",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "松並町"
+  },
+  "6638103": {
+    "zipcode": "6638103",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "熊野町"
+  },
+  "6638104": {
+    "zipcode": "6638104",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "天道町"
+  },
+  "6638105": {
+    "zipcode": "6638105",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "中島町"
+  },
+  "6638106": {
+    "zipcode": "6638106",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "大屋町"
+  },
+  "6638107": {
+    "zipcode": "6638107",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "瓦林町"
+  },
+  "6638111": {
+    "zipcode": "6638111",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "二見町"
+  },
+  "6638112": {
+    "zipcode": "6638112",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園口北町"
+  },
+  "6638113": {
+    "zipcode": "6638113",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園口"
+  },
+  "6638114": {
+    "zipcode": "6638114",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上甲子園"
+  },
+  "6638121": {
+    "zipcode": "6638121",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "戸崎町"
+  },
+  "6638122": {
+    "zipcode": "6638122",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小曽根町"
+  },
+  "6638123": {
+    "zipcode": "6638123",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小松東町"
+  },
+  "6638124": {
+    "zipcode": "6638124",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小松南町"
+  },
+  "6638125": {
+    "zipcode": "6638125",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小松西町"
+  },
+  "6638126": {
+    "zipcode": "6638126",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小松北町"
+  },
+  "6638127": {
+    "zipcode": "6638127",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "小松町"
+  },
+  "6638131": {
+    "zipcode": "6638131",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "武庫川町"
+  },
+  "6638132": {
+    "zipcode": "6638132",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "東鳴尾町"
+  },
+  "6638133": {
+    "zipcode": "6638133",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上田東町"
+  },
+  "6638134": {
+    "zipcode": "6638134",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上田中町"
+  },
+  "6638135": {
+    "zipcode": "6638135",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上田西町"
+  },
+  "6638136": {
+    "zipcode": "6638136",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "笠屋町"
+  },
+  "6638137": {
+    "zipcode": "6638137",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "池開町"
+  },
+  "6638141": {
+    "zipcode": "6638141",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "高須町"
+  },
+  "6638142": {
+    "zipcode": "6638142",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "鳴尾浜"
+  },
+  "6638143": {
+    "zipcode": "6638143",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "枝川町"
+  },
+  "6638151": {
+    "zipcode": "6638151",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園洲鳥町"
+  },
+  "6638152": {
+    "zipcode": "6638152",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園町"
+  },
+  "6638153": {
+    "zipcode": "6638153",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "南甲子園"
+  },
+  "6638154": {
+    "zipcode": "6638154",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "浜甲子園"
+  },
+  "6638155": {
+    "zipcode": "6638155",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園浜"
+  },
+  "6638156": {
+    "zipcode": "6638156",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園網引町"
+  },
+  "6638161": {
+    "zipcode": "6638161",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園春風町"
+  },
+  "6638162": {
+    "zipcode": "6638162",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園砂田町"
+  },
+  "6638163": {
+    "zipcode": "6638163",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園三保町"
+  },
+  "6638164": {
+    "zipcode": "6638164",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園六石町"
+  },
+  "6638165": {
+    "zipcode": "6638165",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園浦風町"
+  },
+  "6638166": {
+    "zipcode": "6638166",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園高潮町"
+  },
+  "6638167": {
+    "zipcode": "6638167",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園浜田町"
+  },
+  "6638171": {
+    "zipcode": "6638171",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園一番町"
+  },
+  "6638172": {
+    "zipcode": "6638172",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園二番町"
+  },
+  "6638173": {
+    "zipcode": "6638173",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園三番町"
+  },
+  "6638174": {
+    "zipcode": "6638174",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園四番町"
+  },
+  "6638175": {
+    "zipcode": "6638175",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園五番町"
+  },
+  "6638176": {
+    "zipcode": "6638176",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園六番町"
+  },
+  "6638177": {
+    "zipcode": "6638177",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園七番町"
+  },
+  "6638178": {
+    "zipcode": "6638178",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園八番町"
+  },
+  "6638179": {
+    "zipcode": "6638179",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "甲子園九番町"
+  },
+  "6638181": {
+    "zipcode": "6638181",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "若草町"
+  },
+  "6638182": {
+    "zipcode": "6638182",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "学文殿町"
+  },
+  "6638183": {
+    "zipcode": "6638183",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "里中町"
+  },
+  "6638184": {
+    "zipcode": "6638184",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "鳴尾町"
+  },
+  "6638185": {
+    "zipcode": "6638185",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "古川町"
+  },
+  "6638186": {
+    "zipcode": "6638186",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "上鳴尾町"
+  },
+  "6638187": {
+    "zipcode": "6638187",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "花園町"
+  },
+  "6638201": {
+    "zipcode": "6638201",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "田代町"
+  },
+  "6638202": {
+    "zipcode": "6638202",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "高畑町"
+  },
+  "6638203": {
+    "zipcode": "6638203",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "深津町"
+  },
+  "6638204": {
+    "zipcode": "6638204",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "高松町"
+  },
+  "6638211": {
+    "zipcode": "6638211",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津山中町"
+  },
+  "6638212": {
+    "zipcode": "6638212",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津野田町"
+  },
+  "6638213": {
+    "zipcode": "6638213",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津上野町"
+  },
+  "6638214": {
+    "zipcode": "6638214",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津曙町"
+  },
+  "6638215": {
+    "zipcode": "6638215",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津水波町"
+  },
+  "6638221": {
+    "zipcode": "6638221",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津大東町"
+  },
+  "6638222": {
+    "zipcode": "6638222",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津久寿川町"
+  },
+  "6638223": {
+    "zipcode": "6638223",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津巽町"
+  },
+  "6638224": {
+    "zipcode": "6638224",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津真砂町"
+  },
+  "6638225": {
+    "zipcode": "6638225",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津西浜町"
+  },
+  "6638226": {
+    "zipcode": "6638226",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津港町"
+  },
+  "6638227": {
+    "zipcode": "6638227",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津出在家町"
+  },
+  "6638228": {
+    "zipcode": "6638228",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津二葉町"
+  },
+  "6638229": {
+    "zipcode": "6638229",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "今津社前町"
+  },
+  "6638231": {
+    "zipcode": "6638231",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門西口町"
+  },
+  "6638232": {
+    "zipcode": "6638232",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門宝津町"
+  },
+  "6638233": {
+    "zipcode": "6638233",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門川町"
+  },
+  "6638234": {
+    "zipcode": "6638234",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門住江町"
+  },
+  "6638241": {
+    "zipcode": "6638241",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門大塚町"
+  },
+  "6638242": {
+    "zipcode": "6638242",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門飯田町"
+  },
+  "6638243": {
+    "zipcode": "6638243",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門大箇町"
+  },
+  "6638244": {
+    "zipcode": "6638244",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門綾羽町"
+  },
+  "6638245": {
+    "zipcode": "6638245",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門呉羽町"
+  },
+  "6638246": {
+    "zipcode": "6638246",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門仁辺町"
+  },
+  "6638247": {
+    "zipcode": "6638247",
+    "prefectureCode": "28",
+    "prefectureNumber": 28,
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "town": "津門稲荷町"
+  }
+}

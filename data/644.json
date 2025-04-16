@@ -1,0 +1,522 @@
+{
+  "6440000": {
+    "zipcode": "6440000",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "以下に掲載がない場合"
+  },
+  "6440001": {
+    "zipcode": "6440001",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "御坊"
+  },
+  "6440002": {
+    "zipcode": "6440002",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "薗"
+  },
+  "6440003": {
+    "zipcode": "6440003",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "島"
+  },
+  "6440004": {
+    "zipcode": "6440004",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "名屋"
+  },
+  "6440005": {
+    "zipcode": "6440005",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "名屋町"
+  },
+  "6440011": {
+    "zipcode": "6440011",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "湯川町財部"
+  },
+  "6440012": {
+    "zipcode": "6440012",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "湯川町小松原"
+  },
+  "6440013": {
+    "zipcode": "6440013",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "湯川町丸山"
+  },
+  "6440014": {
+    "zipcode": "6440014",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "湯川町富安"
+  },
+  "6440015": {
+    "zipcode": "6440015",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "荊木"
+  },
+  "6440021": {
+    "zipcode": "6440021",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "名田町楠井"
+  },
+  "6440022": {
+    "zipcode": "6440022",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "名田町上野"
+  },
+  "6440023": {
+    "zipcode": "6440023",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "名田町野島"
+  },
+  "6440024": {
+    "zipcode": "6440024",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "塩屋町南塩屋"
+  },
+  "6440025": {
+    "zipcode": "6440025",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "塩屋町北塩屋"
+  },
+  "6440031": {
+    "zipcode": "6440031",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "野口"
+  },
+  "6440032": {
+    "zipcode": "6440032",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "岩内"
+  },
+  "6440033": {
+    "zipcode": "6440033",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "熊野"
+  },
+  "6440034": {
+    "zipcode": "6440034",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "御坊市",
+    "town": "明神川"
+  },
+  "6440041": {
+    "zipcode": "6440041",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "田井"
+  },
+  "6440042": {
+    "zipcode": "6440042",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "浜ノ瀬"
+  },
+  "6440043": {
+    "zipcode": "6440043",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "吉原"
+  },
+  "6440044": {
+    "zipcode": "6440044",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "和田"
+  },
+  "6440045": {
+    "zipcode": "6440045",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡美浜町",
+    "town": "三尾"
+  },
+  "6440201": {
+    "zipcode": "6440201",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "川又"
+  },
+  "6440202": {
+    "zipcode": "6440202",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "上洞"
+  },
+  "6440211": {
+    "zipcode": "6440211",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "高串"
+  },
+  "6440212": {
+    "zipcode": "6440212",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "田ノ垣内"
+  },
+  "6440213": {
+    "zipcode": "6440213",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "西神ノ川"
+  },
+  "6440214": {
+    "zipcode": "6440214",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "小原"
+  },
+  "6440215": {
+    "zipcode": "6440215",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "皆瀬川"
+  },
+  "6440216": {
+    "zipcode": "6440216",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "崎ノ原"
+  },
+  "6440217": {
+    "zipcode": "6440217",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "丹生"
+  },
+  "6440218": {
+    "zipcode": "6440218",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡印南町",
+    "town": "松原"
+  },
+  "6441101": {
+    "zipcode": "6441101",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "藤野川"
+  },
+  "6441111": {
+    "zipcode": "6441111",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "船津"
+  },
+  "6441121": {
+    "zipcode": "6441121",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "西原"
+  },
+  "6441122": {
+    "zipcode": "6441122",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "高津尾"
+  },
+  "6441123": {
+    "zipcode": "6441123",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "高津尾川"
+  },
+  "6441131": {
+    "zipcode": "6441131",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "三十井川"
+  },
+  "6441132": {
+    "zipcode": "6441132",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "姉子"
+  },
+  "6441133": {
+    "zipcode": "6441133",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "原日浦"
+  },
+  "6441134": {
+    "zipcode": "6441134",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "三十木"
+  },
+  "6441141": {
+    "zipcode": "6441141",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "上田原"
+  },
+  "6441142": {
+    "zipcode": "6441142",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "下田原"
+  },
+  "6441143": {
+    "zipcode": "6441143",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "小釜本"
+  },
+  "6441151": {
+    "zipcode": "6441151",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "田尻"
+  },
+  "6441152": {
+    "zipcode": "6441152",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "三佐"
+  },
+  "6441161": {
+    "zipcode": "6441161",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "坂野川"
+  },
+  "6441162": {
+    "zipcode": "6441162",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "老星"
+  },
+  "6441163": {
+    "zipcode": "6441163",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "大又"
+  },
+  "6441164": {
+    "zipcode": "6441164",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "佐井"
+  },
+  "6441201": {
+    "zipcode": "6441201",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "川原河"
+  },
+  "6441211": {
+    "zipcode": "6441211",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "弥谷"
+  },
+  "6441212": {
+    "zipcode": "6441212",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "皆瀬"
+  },
+  "6441213": {
+    "zipcode": "6441213",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "愛川"
+  },
+  "6441214": {
+    "zipcode": "6441214",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "上初湯川"
+  },
+  "6441221": {
+    "zipcode": "6441221",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "寒川"
+  },
+  "6441222": {
+    "zipcode": "6441222",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "串本"
+  },
+  "6441231": {
+    "zipcode": "6441231",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "初湯川"
+  },
+  "6441241": {
+    "zipcode": "6441241",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "滝頭"
+  },
+  "6441242": {
+    "zipcode": "6441242",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "熊野川"
+  },
+  "6441243": {
+    "zipcode": "6441243",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "浅間"
+  },
+  "6441244": {
+    "zipcode": "6441244",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "town": "上越方"
+  }
+}

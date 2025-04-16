@@ -1,0 +1,650 @@
+{
+  "3280000": {
+    "zipcode": "3280000",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "以下に掲載がない場合"
+  },
+  "3280001": {
+    "zipcode": "3280001",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "柳原町"
+  },
+  "3280002": {
+    "zipcode": "3280002",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "惣社町"
+  },
+  "3280003": {
+    "zipcode": "3280003",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大光寺町"
+  },
+  "3280004": {
+    "zipcode": "3280004",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "田村町"
+  },
+  "3280005": {
+    "zipcode": "3280005",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "寄居町"
+  },
+  "3280006": {
+    "zipcode": "3280006",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "国府町"
+  },
+  "3280007": {
+    "zipcode": "3280007",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大塚町"
+  },
+  "3280011": {
+    "zipcode": "3280011",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大宮町"
+  },
+  "3280012": {
+    "zipcode": "3280012",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "平柳町"
+  },
+  "3280013": {
+    "zipcode": "3280013",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "昭和町"
+  },
+  "3280014": {
+    "zipcode": "3280014",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "泉町"
+  },
+  "3280015": {
+    "zipcode": "3280015",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "万町"
+  },
+  "3280016": {
+    "zipcode": "3280016",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "入舟町"
+  },
+  "3280017": {
+    "zipcode": "3280017",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "錦町"
+  },
+  "3280021": {
+    "zipcode": "3280021",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "久保田町"
+  },
+  "3280022": {
+    "zipcode": "3280022",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "宮田町"
+  },
+  "3280023": {
+    "zipcode": "3280023",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "高谷町"
+  },
+  "3280024": {
+    "zipcode": "3280024",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "樋ノ口町"
+  },
+  "3280025": {
+    "zipcode": "3280025",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "仲仕上町"
+  },
+  "3280026": {
+    "zipcode": "3280026",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "藤田町"
+  },
+  "3280027": {
+    "zipcode": "3280027",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "今泉町"
+  },
+  "3280031": {
+    "zipcode": "3280031",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "日ノ出町"
+  },
+  "3280032": {
+    "zipcode": "3280032",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "神田町"
+  },
+  "3280033": {
+    "zipcode": "3280033",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "城内町"
+  },
+  "3280034": {
+    "zipcode": "3280034",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "本町"
+  },
+  "3280035": {
+    "zipcode": "3280035",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "旭町"
+  },
+  "3280036": {
+    "zipcode": "3280036",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "室町"
+  },
+  "3280037": {
+    "zipcode": "3280037",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "倭町"
+  },
+  "3280041": {
+    "zipcode": "3280041",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "河合町"
+  },
+  "3280042": {
+    "zipcode": "3280042",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "沼和田町"
+  },
+  "3280043": {
+    "zipcode": "3280043",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "境町"
+  },
+  "3280044": {
+    "zipcode": "3280044",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "富士見町"
+  },
+  "3280045": {
+    "zipcode": "3280045",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "湊町"
+  },
+  "3280051": {
+    "zipcode": "3280051",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "柳橋町"
+  },
+  "3280052": {
+    "zipcode": "3280052",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "祝町"
+  },
+  "3280053": {
+    "zipcode": "3280053",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "片柳町"
+  },
+  "3280054": {
+    "zipcode": "3280054",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "平井町"
+  },
+  "3280061": {
+    "zipcode": "3280061",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "新井町"
+  },
+  "3280062": {
+    "zipcode": "3280062",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "泉川町"
+  },
+  "3280063": {
+    "zipcode": "3280063",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "岩出町"
+  },
+  "3280064": {
+    "zipcode": "3280064",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "志鳥町"
+  },
+  "3280065": {
+    "zipcode": "3280065",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "小野口町"
+  },
+  "3280066": {
+    "zipcode": "3280066",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "柏倉町"
+  },
+  "3280067": {
+    "zipcode": "3280067",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "皆川城内町"
+  },
+  "3280068": {
+    "zipcode": "3280068",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大皆川町"
+  },
+  "3280071": {
+    "zipcode": "3280071",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大町"
+  },
+  "3280072": {
+    "zipcode": "3280072",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "嘉右衛門町"
+  },
+  "3280073": {
+    "zipcode": "3280073",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "小平町"
+  },
+  "3280074": {
+    "zipcode": "3280074",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "薗部町"
+  },
+  "3280075": {
+    "zipcode": "3280075",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "箱森町"
+  },
+  "3280101": {
+    "zipcode": "3280101",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町大柿"
+  },
+  "3280102": {
+    "zipcode": "3280102",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町富張"
+  },
+  "3280103": {
+    "zipcode": "3280103",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町原宿"
+  },
+  "3280104": {
+    "zipcode": "3280104",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町木"
+  },
+  "3280105": {
+    "zipcode": "3280105",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町臼久保"
+  },
+  "3280106": {
+    "zipcode": "3280106",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町大橋"
+  },
+  "3280107": {
+    "zipcode": "3280107",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町深沢"
+  },
+  "3280111": {
+    "zipcode": "3280111",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町家中"
+  },
+  "3280112": {
+    "zipcode": "3280112",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町平川"
+  },
+  "3280113": {
+    "zipcode": "3280113",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町合戦場"
+  },
+  "3280114": {
+    "zipcode": "3280114",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "都賀町升塚"
+  },
+  "3280121": {
+    "zipcode": "3280121",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "細堀町"
+  },
+  "3280122": {
+    "zipcode": "3280122",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "木野地町"
+  },
+  "3280123": {
+    "zipcode": "3280123",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "川原田町"
+  },
+  "3280124": {
+    "zipcode": "3280124",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "野中町"
+  },
+  "3280125": {
+    "zipcode": "3280125",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "吹上町"
+  },
+  "3280131": {
+    "zipcode": "3280131",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "梓町"
+  },
+  "3280132": {
+    "zipcode": "3280132",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "仲方町"
+  },
+  "3280133": {
+    "zipcode": "3280133",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大森町"
+  },
+  "3280134": {
+    "zipcode": "3280134",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "宮町"
+  },
+  "3280135": {
+    "zipcode": "3280135",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "千塚町"
+  },
+  "3280201": {
+    "zipcode": "3280201",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "星野町"
+  },
+  "3280202": {
+    "zipcode": "3280202",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "大久保町"
+  },
+  "3280203": {
+    "zipcode": "3280203",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "尻内町"
+  },
+  "3280204": {
+    "zipcode": "3280204",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "梅沢町"
+  },
+  "3280205": {
+    "zipcode": "3280205",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "鍋山町"
+  },
+  "3280206": {
+    "zipcode": "3280206",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "town": "出流町"
+  },
+  "3280211": {
+    "zipcode": "3280211",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "鹿沼市",
+    "town": "上永野"
+  },
+  "3280212": {
+    "zipcode": "3280212",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "鹿沼市",
+    "town": "下永野"
+  },
+  "3280221": {
+    "zipcode": "3280221",
+    "prefectureCode": "09",
+    "prefectureNumber": 9,
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "town": "仙波町（坂東、松ケ坂）"
+  }
+}

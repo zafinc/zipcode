@@ -1,0 +1,4890 @@
+{
+  "7810010": {
+    "zipcode": "7810010",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野"
+  },
+  "7810011": {
+    "zipcode": "7810011",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野北町"
+  },
+  "7810012": {
+    "zipcode": "7810012",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野東町"
+  },
+  "7810013": {
+    "zipcode": "7810013",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野中町"
+  },
+  "7810014": {
+    "zipcode": "7810014",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野南町"
+  },
+  "7810015": {
+    "zipcode": "7810015",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "薊野西町"
+  },
+  "7810073": {
+    "zipcode": "7810073",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "北金田"
+  },
+  "7810074": {
+    "zipcode": "7810074",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南金田"
+  },
+  "7810081": {
+    "zipcode": "7810081",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "北川添"
+  },
+  "7810082": {
+    "zipcode": "7810082",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南川添"
+  },
+  "7810083": {
+    "zipcode": "7810083",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "北御座"
+  },
+  "7810084": {
+    "zipcode": "7810084",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南御座"
+  },
+  "7810085": {
+    "zipcode": "7810085",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "札場"
+  },
+  "7810086": {
+    "zipcode": "7810086",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "海老ノ丸"
+  },
+  "7810087": {
+    "zipcode": "7810087",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南久保"
+  },
+  "7810088": {
+    "zipcode": "7810088",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "北久保"
+  },
+  "7810111": {
+    "zipcode": "7810111",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "池"
+  },
+  "7810112": {
+    "zipcode": "7810112",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "仁井田"
+  },
+  "7810113": {
+    "zipcode": "7810113",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "種崎"
+  },
+  "7810114": {
+    "zipcode": "7810114",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "十津"
+  },
+  "7810240": {
+    "zipcode": "7810240",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "横浜"
+  },
+  "7810241": {
+    "zipcode": "7810241",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "横浜新町"
+  },
+  "7810242": {
+    "zipcode": "7810242",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "横浜西町"
+  },
+  "7810243": {
+    "zipcode": "7810243",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "横浜東町"
+  },
+  "7810244": {
+    "zipcode": "7810244",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "横浜南町"
+  },
+  "7810245": {
+    "zipcode": "7810245",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "長浜蒔絵台"
+  },
+  "7810250": {
+    "zipcode": "7810250",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "瀬戸"
+  },
+  "7810251": {
+    "zipcode": "7810251",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "瀬戸西町"
+  },
+  "7810252": {
+    "zipcode": "7810252",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "瀬戸東町"
+  },
+  "7810253": {
+    "zipcode": "7810253",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "瀬戸南町"
+  },
+  "7810261": {
+    "zipcode": "7810261",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "御畳瀬"
+  },
+  "7810262": {
+    "zipcode": "7810262",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "浦戸"
+  },
+  "7810270": {
+    "zipcode": "7810270",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "長浜"
+  },
+  "7810271": {
+    "zipcode": "7810271",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "長浜宮田"
+  },
+  "7810301": {
+    "zipcode": "7810301",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町弘岡上"
+  },
+  "7810302": {
+    "zipcode": "7810302",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町弘岡中"
+  },
+  "7810303": {
+    "zipcode": "7810303",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町弘岡下"
+  },
+  "7810304": {
+    "zipcode": "7810304",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町西分"
+  },
+  "7810311": {
+    "zipcode": "7810311",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町芳原"
+  },
+  "7810312": {
+    "zipcode": "7810312",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町平和"
+  },
+  "7810313": {
+    "zipcode": "7810313",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町内ノ谷"
+  },
+  "7810314": {
+    "zipcode": "7810314",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町南ケ丘"
+  },
+  "7810315": {
+    "zipcode": "7810315",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町東諸木"
+  },
+  "7810316": {
+    "zipcode": "7810316",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町西諸木"
+  },
+  "7810321": {
+    "zipcode": "7810321",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町秋山"
+  },
+  "7810322": {
+    "zipcode": "7810322",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町甲殿"
+  },
+  "7810323": {
+    "zipcode": "7810323",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町仁ノ"
+  },
+  "7810324": {
+    "zipcode": "7810324",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町西畑"
+  },
+  "7810325": {
+    "zipcode": "7810325",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "春野町森山"
+  },
+  "7810801": {
+    "zipcode": "7810801",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "小倉町"
+  },
+  "7810802": {
+    "zipcode": "7810802",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "丸池町"
+  },
+  "7810803": {
+    "zipcode": "7810803",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "弥生町"
+  },
+  "7810804": {
+    "zipcode": "7810804",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "日の出町"
+  },
+  "7810805": {
+    "zipcode": "7810805",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "東雲町"
+  },
+  "7810806": {
+    "zipcode": "7810806",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "知寄町"
+  },
+  "7810811": {
+    "zipcode": "7810811",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "弘化台"
+  },
+  "7810812": {
+    "zipcode": "7810812",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "若松町"
+  },
+  "7810813": {
+    "zipcode": "7810813",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "青柳町"
+  },
+  "7810814": {
+    "zipcode": "7810814",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "稲荷町"
+  },
+  "7810815": {
+    "zipcode": "7810815",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "二葉町"
+  },
+  "7810831": {
+    "zipcode": "7810831",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "中の島"
+  },
+  "7810832": {
+    "zipcode": "7810832",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "九反田"
+  },
+  "7811100": {
+    "zipcode": "7811100",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "以下に掲載がない場合"
+  },
+  "7811101": {
+    "zipcode": "7811101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "高岡町甲"
+  },
+  "7811102": {
+    "zipcode": "7811102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "高岡町乙"
+  },
+  "7811103": {
+    "zipcode": "7811103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "高岡町丙"
+  },
+  "7811104": {
+    "zipcode": "7811104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "高岡町丁"
+  },
+  "7811105": {
+    "zipcode": "7811105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "蓮池"
+  },
+  "7811111": {
+    "zipcode": "7811111",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "北地"
+  },
+  "7811112": {
+    "zipcode": "7811112",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "福田"
+  },
+  "7811113": {
+    "zipcode": "7811113",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "甲原"
+  },
+  "7811114": {
+    "zipcode": "7811114",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "谷地"
+  },
+  "7811121": {
+    "zipcode": "7811121",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "東鴨地"
+  },
+  "7811122": {
+    "zipcode": "7811122",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "本村"
+  },
+  "7811123": {
+    "zipcode": "7811123",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "西鴨地"
+  },
+  "7811124": {
+    "zipcode": "7811124",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宮ノ内"
+  },
+  "7811125": {
+    "zipcode": "7811125",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "積善寺"
+  },
+  "7811131": {
+    "zipcode": "7811131",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "永野"
+  },
+  "7811132": {
+    "zipcode": "7811132",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "市野々"
+  },
+  "7811133": {
+    "zipcode": "7811133",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "鷹ノ巣"
+  },
+  "7811134": {
+    "zipcode": "7811134",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "家俊"
+  },
+  "7811135": {
+    "zipcode": "7811135",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "太郎丸"
+  },
+  "7811136": {
+    "zipcode": "7811136",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "浅井"
+  },
+  "7811141": {
+    "zipcode": "7811141",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "岩戸"
+  },
+  "7811142": {
+    "zipcode": "7811142",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "出間"
+  },
+  "7811143": {
+    "zipcode": "7811143",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "波介"
+  },
+  "7811151": {
+    "zipcode": "7811151",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "中島"
+  },
+  "7811152": {
+    "zipcode": "7811152",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "用石"
+  },
+  "7811153": {
+    "zipcode": "7811153",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "塚地"
+  },
+  "7811154": {
+    "zipcode": "7811154",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "新居"
+  },
+  "7811161": {
+    "zipcode": "7811161",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宇佐町宇佐"
+  },
+  "7811162": {
+    "zipcode": "7811162",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宇佐町渭浜"
+  },
+  "7811163": {
+    "zipcode": "7811163",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宇佐町福島"
+  },
+  "7811164": {
+    "zipcode": "7811164",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宇佐町井尻"
+  },
+  "7811165": {
+    "zipcode": "7811165",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐市",
+    "town": "宇佐町竜"
+  },
+  "7811300": {
+    "zipcode": "7811300",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "以下に掲載がない場合"
+  },
+  "7811301": {
+    "zipcode": "7811301",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "越知甲"
+  },
+  "7811302": {
+    "zipcode": "7811302",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "越知乙"
+  },
+  "7811303": {
+    "zipcode": "7811303",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "越知丙"
+  },
+  "7811304": {
+    "zipcode": "7811304",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "越知丁"
+  },
+  "7811305": {
+    "zipcode": "7811305",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "野老山"
+  },
+  "7811306": {
+    "zipcode": "7811306",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "山室"
+  },
+  "7811307": {
+    "zipcode": "7811307",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "柴尾"
+  },
+  "7811308": {
+    "zipcode": "7811308",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "宮地"
+  },
+  "7811311": {
+    "zipcode": "7811311",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "今成"
+  },
+  "7811312": {
+    "zipcode": "7811312",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "横畠南"
+  },
+  "7811313": {
+    "zipcode": "7811313",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "横畠東"
+  },
+  "7811314": {
+    "zipcode": "7811314",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "横畠中"
+  },
+  "7811315": {
+    "zipcode": "7811315",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "横畠北"
+  },
+  "7811321": {
+    "zipcode": "7811321",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "鎌井田本村"
+  },
+  "7811322": {
+    "zipcode": "7811322",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "鎌井田桑薮"
+  },
+  "7811323": {
+    "zipcode": "7811323",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "鎌井田日ノ浦"
+  },
+  "7811324": {
+    "zipcode": "7811324",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "鎌井田清助"
+  },
+  "7811325": {
+    "zipcode": "7811325",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "浅尾"
+  },
+  "7811326": {
+    "zipcode": "7811326",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "片岡"
+  },
+  "7811327": {
+    "zipcode": "7811327",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "黒瀬"
+  },
+  "7811328": {
+    "zipcode": "7811328",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "南片岡"
+  },
+  "7811331": {
+    "zipcode": "7811331",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "五味"
+  },
+  "7811332": {
+    "zipcode": "7811332",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "中大平"
+  },
+  "7811333": {
+    "zipcode": "7811333",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "大平"
+  },
+  "7811334": {
+    "zipcode": "7811334",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "桐見川"
+  },
+  "7811335": {
+    "zipcode": "7811335",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "長者"
+  },
+  "7811336": {
+    "zipcode": "7811336",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "南ノ川"
+  },
+  "7811337": {
+    "zipcode": "7811337",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "佐之国"
+  },
+  "7811338": {
+    "zipcode": "7811338",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡越知町",
+    "town": "峰"
+  },
+  "7811500": {
+    "zipcode": "7811500",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "以下に掲載がない場合"
+  },
+  "7811501": {
+    "zipcode": "7811501",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大崎"
+  },
+  "7811502": {
+    "zipcode": "7811502",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "川口"
+  },
+  "7811503": {
+    "zipcode": "7811503",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "橘谷"
+  },
+  "7811504": {
+    "zipcode": "7811504",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "藤ノ野"
+  },
+  "7811505": {
+    "zipcode": "7811505",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "桜"
+  },
+  "7811506": {
+    "zipcode": "7811506",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "鹿森"
+  },
+  "7811511": {
+    "zipcode": "7811511",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "寺村"
+  },
+  "7811512": {
+    "zipcode": "7811512",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "岩戸"
+  },
+  "7811513": {
+    "zipcode": "7811513",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "峯岩戸"
+  },
+  "7811514": {
+    "zipcode": "7811514",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大板"
+  },
+  "7811515": {
+    "zipcode": "7811515",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "蕨谷"
+  },
+  "7811516": {
+    "zipcode": "7811516",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "中村"
+  },
+  "7811517": {
+    "zipcode": "7811517",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "葛原"
+  },
+  "7811518": {
+    "zipcode": "7811518",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "加枝"
+  },
+  "7811520": {
+    "zipcode": "7811520",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大蕨"
+  },
+  "7811521": {
+    "zipcode": "7811521",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "本村"
+  },
+  "7811522": {
+    "zipcode": "7811522",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "田村"
+  },
+  "7811523": {
+    "zipcode": "7811523",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "宗津"
+  },
+  "7811524": {
+    "zipcode": "7811524",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "長屋"
+  },
+  "7811531": {
+    "zipcode": "7811531",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "久喜"
+  },
+  "7811532": {
+    "zipcode": "7811532",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "相能"
+  },
+  "7811533": {
+    "zipcode": "7811533",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "引地"
+  },
+  "7811534": {
+    "zipcode": "7811534",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "遅越"
+  },
+  "7811535": {
+    "zipcode": "7811535",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "二子野"
+  },
+  "7811601": {
+    "zipcode": "7811601",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大平"
+  },
+  "7811602": {
+    "zipcode": "7811602",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "楮原"
+  },
+  "7811603": {
+    "zipcode": "7811603",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "日浦"
+  },
+  "7811604": {
+    "zipcode": "7811604",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "見ノ越"
+  },
+  "7811605": {
+    "zipcode": "7811605",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "川内谷"
+  },
+  "7811606": {
+    "zipcode": "7811606",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "土居（甲・乙）"
+  },
+  "7811607": {
+    "zipcode": "7811607",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "北浦"
+  },
+  "7811608": {
+    "zipcode": "7811608",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "坂本"
+  },
+  "7811609": {
+    "zipcode": "7811609",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "寄合"
+  },
+  "7811610": {
+    "zipcode": "7811610",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "竹ノ谷"
+  },
+  "7811611": {
+    "zipcode": "7811611",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "岩丸"
+  },
+  "7811612": {
+    "zipcode": "7811612",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "池川大渡"
+  },
+  "7811613": {
+    "zipcode": "7811613",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "明戸岩"
+  },
+  "7811614": {
+    "zipcode": "7811614",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大西"
+  },
+  "7811615": {
+    "zipcode": "7811615",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "岩柄"
+  },
+  "7811616": {
+    "zipcode": "7811616",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "百川内"
+  },
+  "7811617": {
+    "zipcode": "7811617",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大野"
+  },
+  "7811618": {
+    "zipcode": "7811618",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "椿山"
+  },
+  "7811619": {
+    "zipcode": "7811619",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "用居甲（出丸、舟形、用居）"
+  },
+  "7811620": {
+    "zipcode": "7811620",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "用居乙（瓜生野、折尾、桧谷）"
+  },
+  "7811621": {
+    "zipcode": "7811621",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "入江谷"
+  },
+  "7811622": {
+    "zipcode": "7811622",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "成川"
+  },
+  "7811623": {
+    "zipcode": "7811623",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "余能"
+  },
+  "7811624": {
+    "zipcode": "7811624",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "土居（その他）"
+  },
+  "7811625": {
+    "zipcode": "7811625",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "吉ケ成"
+  },
+  "7811626": {
+    "zipcode": "7811626",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "坪井川"
+  },
+  "7811627": {
+    "zipcode": "7811627",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "宮ケ平"
+  },
+  "7811628": {
+    "zipcode": "7811628",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大屋"
+  },
+  "7811741": {
+    "zipcode": "7811741",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "名野川"
+  },
+  "7811742": {
+    "zipcode": "7811742",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "竹屋敷"
+  },
+  "7811743": {
+    "zipcode": "7811743",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "崎ノ山"
+  },
+  "7811744": {
+    "zipcode": "7811744",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "名野川大平"
+  },
+  "7811745": {
+    "zipcode": "7811745",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "下北川"
+  },
+  "7811746": {
+    "zipcode": "7811746",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "北川"
+  },
+  "7811751": {
+    "zipcode": "7811751",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大渡"
+  },
+  "7811752": {
+    "zipcode": "7811752",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "峠ノ越"
+  },
+  "7811753": {
+    "zipcode": "7811753",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "潰溜"
+  },
+  "7811754": {
+    "zipcode": "7811754",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "北"
+  },
+  "7811755": {
+    "zipcode": "7811755",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "森山"
+  },
+  "7811756": {
+    "zipcode": "7811756",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大尾"
+  },
+  "7811757": {
+    "zipcode": "7811757",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "鷲ノ巣"
+  },
+  "7811758": {
+    "zipcode": "7811758",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "橘"
+  },
+  "7811761": {
+    "zipcode": "7811761",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "二ノ滝"
+  },
+  "7811762": {
+    "zipcode": "7811762",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "下名野川"
+  },
+  "7811763": {
+    "zipcode": "7811763",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "中"
+  },
+  "7811764": {
+    "zipcode": "7811764",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "長坂"
+  },
+  "7811765": {
+    "zipcode": "7811765",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "津江"
+  },
+  "7811766": {
+    "zipcode": "7811766",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "上名野川"
+  },
+  "7811801": {
+    "zipcode": "7811801",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "森"
+  },
+  "7811802": {
+    "zipcode": "7811802",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "高瀬"
+  },
+  "7811803": {
+    "zipcode": "7811803",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "別枝"
+  },
+  "7811804": {
+    "zipcode": "7811804",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "川渡"
+  },
+  "7811911": {
+    "zipcode": "7811911",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "長者乙"
+  },
+  "7811912": {
+    "zipcode": "7811912",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "長者丁"
+  },
+  "7811913": {
+    "zipcode": "7811913",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "長者丙"
+  },
+  "7811914": {
+    "zipcode": "7811914",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "泉"
+  },
+  "7811915": {
+    "zipcode": "7811915",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡仁淀川町",
+    "town": "大植"
+  },
+  "7812100": {
+    "zipcode": "7812100",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "以下に掲載がない場合"
+  },
+  "7812101": {
+    "zipcode": "7812101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "大国町"
+  },
+  "7812102": {
+    "zipcode": "7812102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "公園町"
+  },
+  "7812103": {
+    "zipcode": "7812103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "幸町"
+  },
+  "7812104": {
+    "zipcode": "7812104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "藤町"
+  },
+  "7812105": {
+    "zipcode": "7812105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "新町"
+  },
+  "7812106": {
+    "zipcode": "7812106",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "駅南町"
+  },
+  "7812107": {
+    "zipcode": "7812107",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "駅前町"
+  },
+  "7812108": {
+    "zipcode": "7812108",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "駅東町"
+  },
+  "7812110": {
+    "zipcode": "7812110",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "いの町の次に番地がくる場合"
+  },
+  "7812111": {
+    "zipcode": "7812111",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "羽根町"
+  },
+  "7812112": {
+    "zipcode": "7812112",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "西町"
+  },
+  "7812113": {
+    "zipcode": "7812113",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "元町"
+  },
+  "7812114": {
+    "zipcode": "7812114",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "加茂町"
+  },
+  "7812115": {
+    "zipcode": "7812115",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "旭町"
+  },
+  "7812116": {
+    "zipcode": "7812116",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "柳町"
+  },
+  "7812117": {
+    "zipcode": "7812117",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "内野東町"
+  },
+  "7812118": {
+    "zipcode": "7812118",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "内野南町"
+  },
+  "7812119": {
+    "zipcode": "7812119",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "内野北町"
+  },
+  "7812120": {
+    "zipcode": "7812120",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "枝川"
+  },
+  "7812121": {
+    "zipcode": "7812121",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "池の内"
+  },
+  "7812122": {
+    "zipcode": "7812122",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "天王北"
+  },
+  "7812123": {
+    "zipcode": "7812123",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "天王南"
+  },
+  "7812124": {
+    "zipcode": "7812124",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "八田"
+  },
+  "7812126": {
+    "zipcode": "7812126",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "大内"
+  },
+  "7812127": {
+    "zipcode": "7812127",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "鎌田"
+  },
+  "7812128": {
+    "zipcode": "7812128",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "波川"
+  },
+  "7812131": {
+    "zipcode": "7812131",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "槇"
+  },
+  "7812132": {
+    "zipcode": "7812132",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "成山"
+  },
+  "7812133": {
+    "zipcode": "7812133",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "加田"
+  },
+  "7812134": {
+    "zipcode": "7812134",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "神谷"
+  },
+  "7812135": {
+    "zipcode": "7812135",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小野"
+  },
+  "7812136": {
+    "zipcode": "7812136",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "鹿敷"
+  },
+  "7812141": {
+    "zipcode": "7812141",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "勝賀瀬"
+  },
+  "7812142": {
+    "zipcode": "7812142",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "中追"
+  },
+  "7812143": {
+    "zipcode": "7812143",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "楠瀬"
+  },
+  "7812144": {
+    "zipcode": "7812144",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "柳瀬本村"
+  },
+  "7812145": {
+    "zipcode": "7812145",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "柳瀬石見"
+  },
+  "7812146": {
+    "zipcode": "7812146",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "柳瀬上分"
+  },
+  "7812151": {
+    "zipcode": "7812151",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "下分"
+  },
+  "7812152": {
+    "zipcode": "7812152",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "沖名"
+  },
+  "7812153": {
+    "zipcode": "7812153",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "本郷"
+  },
+  "7812154": {
+    "zipcode": "7812154",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "岩目地"
+  },
+  "7812155": {
+    "zipcode": "7812155",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "九頭"
+  },
+  "7812161": {
+    "zipcode": "7812161",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "柱谷"
+  },
+  "7812162": {
+    "zipcode": "7812162",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "名越屋"
+  },
+  "7812163": {
+    "zipcode": "7812163",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "大花"
+  },
+  "7812164": {
+    "zipcode": "7812164",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "本村"
+  },
+  "7812165": {
+    "zipcode": "7812165",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "宮ノ谷"
+  },
+  "7812166": {
+    "zipcode": "7812166",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "長畑"
+  },
+  "7812167": {
+    "zipcode": "7812167",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高岡郡日高村",
+    "town": "鴨地"
+  },
+  "7812321": {
+    "zipcode": "7812321",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小川東津賀才"
+  },
+  "7812322": {
+    "zipcode": "7812322",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小川西津賀才"
+  },
+  "7812323": {
+    "zipcode": "7812323",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小川樅ノ木山"
+  },
+  "7812324": {
+    "zipcode": "7812324",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小川新別"
+  },
+  "7812325": {
+    "zipcode": "7812325",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "小川柳野"
+  },
+  "7812331": {
+    "zipcode": "7812331",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "下八川甲"
+  },
+  "7812332": {
+    "zipcode": "7812332",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "下八川乙"
+  },
+  "7812333": {
+    "zipcode": "7812333",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "下八川丙"
+  },
+  "7812334": {
+    "zipcode": "7812334",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "下八川丁"
+  },
+  "7812335": {
+    "zipcode": "7812335",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "下八川十田"
+  },
+  "7812401": {
+    "zipcode": "7812401",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "上八川甲（枝川、大久保、木ノ瀬、土居、西川、本郷、柚ノ木野）"
+  },
+  "7812402": {
+    "zipcode": "7812402",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "上八川丙（柿薮、小申田、津賀谷、寺野、古江、連行）"
+  },
+  "7812511": {
+    "zipcode": "7812511",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "清水上分（伊守川、川窪、敷槇、土居、程野）"
+  },
+  "7812512": {
+    "zipcode": "7812512",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "清水下分（馬路、大野、川口、日比原、槇川、松ノ木）"
+  },
+  "7812601": {
+    "zipcode": "7812601",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "長沢"
+  },
+  "7812602": {
+    "zipcode": "7812602",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "戸中"
+  },
+  "7812603": {
+    "zipcode": "7812603",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "大森"
+  },
+  "7812604": {
+    "zipcode": "7812604",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "越裏門"
+  },
+  "7812605": {
+    "zipcode": "7812605",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "寺川"
+  },
+  "7812611": {
+    "zipcode": "7812611",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "脇ノ山"
+  },
+  "7812612": {
+    "zipcode": "7812612",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "高薮"
+  },
+  "7812613": {
+    "zipcode": "7812613",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "足谷"
+  },
+  "7812614": {
+    "zipcode": "7812614",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "葛原"
+  },
+  "7812615": {
+    "zipcode": "7812615",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "桑瀬"
+  },
+  "7812616": {
+    "zipcode": "7812616",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "吾川郡いの町",
+    "town": "中野川"
+  },
+  "7813101": {
+    "zipcode": "7813101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡大河内"
+  },
+  "7813102": {
+    "zipcode": "7813102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡小浜"
+  },
+  "7813103": {
+    "zipcode": "7813103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡大利"
+  },
+  "7813104": {
+    "zipcode": "7813104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡今井"
+  },
+  "7813105": {
+    "zipcode": "7813105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡草峰"
+  },
+  "7813106": {
+    "zipcode": "7813106",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡白岩"
+  },
+  "7813107": {
+    "zipcode": "7813107",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡狩山"
+  },
+  "7813108": {
+    "zipcode": "7813108",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡吉原"
+  },
+  "7813111": {
+    "zipcode": "7813111",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡的渕"
+  },
+  "7813112": {
+    "zipcode": "7813112",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡去坂"
+  },
+  "7813113": {
+    "zipcode": "7813113",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡竹奈路"
+  },
+  "7813114": {
+    "zipcode": "7813114",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡敷ノ山"
+  },
+  "7813115": {
+    "zipcode": "7813115",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡柿ノ又"
+  },
+  "7813121": {
+    "zipcode": "7813121",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡横矢"
+  },
+  "7813122": {
+    "zipcode": "7813122",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡増原"
+  },
+  "7813123": {
+    "zipcode": "7813123",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡葛山"
+  },
+  "7813124": {
+    "zipcode": "7813124",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡梅ノ木"
+  },
+  "7813125": {
+    "zipcode": "7813125",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "鏡小山"
+  },
+  "7813201": {
+    "zipcode": "7813201",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山"
+  },
+  "7813202": {
+    "zipcode": "7813202",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山都網"
+  },
+  "7813203": {
+    "zipcode": "7813203",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山弘瀬"
+  },
+  "7813211": {
+    "zipcode": "7813211",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山高川"
+  },
+  "7813212": {
+    "zipcode": "7813212",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山梶谷"
+  },
+  "7813213": {
+    "zipcode": "7813213",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山西川"
+  },
+  "7813214": {
+    "zipcode": "7813214",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山菖蒲"
+  },
+  "7813221": {
+    "zipcode": "7813221",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山桑尾"
+  },
+  "7813222": {
+    "zipcode": "7813222",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山東川"
+  },
+  "7813223": {
+    "zipcode": "7813223",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土佐山中切"
+  },
+  "7813331": {
+    "zipcode": "7813331",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "地蔵寺"
+  },
+  "7813332": {
+    "zipcode": "7813332",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "栗木"
+  },
+  "7813333": {
+    "zipcode": "7813333",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "東石原"
+  },
+  "7813334": {
+    "zipcode": "7813334",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "西石原"
+  },
+  "7813335": {
+    "zipcode": "7813335",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "有間"
+  },
+  "7813336": {
+    "zipcode": "7813336",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "芥川"
+  },
+  "7813337": {
+    "zipcode": "7813337",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "瀬戸"
+  },
+  "7813400": {
+    "zipcode": "7813400",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "以下に掲載がない場合"
+  },
+  "7813401": {
+    "zipcode": "7813401",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "土居"
+  },
+  "7813402": {
+    "zipcode": "7813402",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "境"
+  },
+  "7813403": {
+    "zipcode": "7813403",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "宮古野"
+  },
+  "7813404": {
+    "zipcode": "7813404",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "溜井"
+  },
+  "7813405": {
+    "zipcode": "7813405",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "南泉"
+  },
+  "7813406": {
+    "zipcode": "7813406",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "高須"
+  },
+  "7813407": {
+    "zipcode": "7813407",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "樫山"
+  },
+  "7813408": {
+    "zipcode": "7813408",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "相川"
+  },
+  "7813409": {
+    "zipcode": "7813409",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "和田"
+  },
+  "7813521": {
+    "zipcode": "7813521",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "田井"
+  },
+  "7813522": {
+    "zipcode": "7813522",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "大渕"
+  },
+  "7813523": {
+    "zipcode": "7813523",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "古味"
+  },
+  "7813524": {
+    "zipcode": "7813524",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "井尻"
+  },
+  "7813525": {
+    "zipcode": "7813525",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "下川"
+  },
+  "7813526": {
+    "zipcode": "7813526",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "上津川"
+  },
+  "7813600": {
+    "zipcode": "7813600",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "以下に掲載がない場合"
+  },
+  "7813601": {
+    "zipcode": "7813601",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "本山"
+  },
+  "7813602": {
+    "zipcode": "7813602",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "大石"
+  },
+  "7813603": {
+    "zipcode": "7813603",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "吉延"
+  },
+  "7813604": {
+    "zipcode": "7813604",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "井窪"
+  },
+  "7813605": {
+    "zipcode": "7813605",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "下津野"
+  },
+  "7813606": {
+    "zipcode": "7813606",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "高角"
+  },
+  "7813607": {
+    "zipcode": "7813607",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "古田"
+  },
+  "7813608": {
+    "zipcode": "7813608",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "木能津"
+  },
+  "7813609": {
+    "zipcode": "7813609",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "助藤"
+  },
+  "7813610": {
+    "zipcode": "7813610",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "下関"
+  },
+  "7813611": {
+    "zipcode": "7813611",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "上関甲"
+  },
+  "7813612": {
+    "zipcode": "7813612",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "上関乙"
+  },
+  "7813613": {
+    "zipcode": "7813613",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "北山甲"
+  },
+  "7813614": {
+    "zipcode": "7813614",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "北山乙"
+  },
+  "7813615": {
+    "zipcode": "7813615",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "北山丙"
+  },
+  "7813617": {
+    "zipcode": "7813617",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "寺家"
+  },
+  "7813618": {
+    "zipcode": "7813618",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "吉野"
+  },
+  "7813619": {
+    "zipcode": "7813619",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "立野"
+  },
+  "7813620": {
+    "zipcode": "7813620",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "坂本"
+  },
+  "7813621": {
+    "zipcode": "7813621",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "屋所"
+  },
+  "7813622": {
+    "zipcode": "7813622",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "沢ケ内"
+  },
+  "7813623": {
+    "zipcode": "7813623",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "瓜生野"
+  },
+  "7813624": {
+    "zipcode": "7813624",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "長岡郡本山町",
+    "town": "七戸"
+  },
+  "7813700": {
+    "zipcode": "7813700",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "以下に掲載がない場合"
+  },
+  "7813701": {
+    "zipcode": "7813701",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "船戸（その他）"
+  },
+  "7813702": {
+    "zipcode": "7813702",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "船戸（桃ケ谷）"
+  },
+  "7813703": {
+    "zipcode": "7813703",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "小松"
+  },
+  "7813704": {
+    "zipcode": "7813704",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "朝谷"
+  },
+  "7813705": {
+    "zipcode": "7813705",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "大北川"
+  },
+  "7813711": {
+    "zipcode": "7813711",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "高野"
+  },
+  "7813712": {
+    "zipcode": "7813712",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "川崎"
+  },
+  "7813713": {
+    "zipcode": "7813713",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "井野川"
+  },
+  "7813714": {
+    "zipcode": "7813714",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "大平"
+  },
+  "7813715": {
+    "zipcode": "7813715",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "小麦畝"
+  },
+  "7813716": {
+    "zipcode": "7813716",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "小北川"
+  },
+  "7813717": {
+    "zipcode": "7813717",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "大薮"
+  },
+  "7813721": {
+    "zipcode": "7813721",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "中切"
+  },
+  "7813722": {
+    "zipcode": "7813722",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "下小南川"
+  },
+  "7813723": {
+    "zipcode": "7813723",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "上小南川"
+  },
+  "7813724": {
+    "zipcode": "7813724",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "南野山"
+  },
+  "7813725": {
+    "zipcode": "7813725",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡大川村",
+    "town": "下切"
+  },
+  "7813741": {
+    "zipcode": "7813741",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "柚ノ木"
+  },
+  "7813742": {
+    "zipcode": "7813742",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "土佐郡土佐町",
+    "town": "南川"
+  },
+  "7814201": {
+    "zipcode": "7814201",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町永瀬"
+  },
+  "7814202": {
+    "zipcode": "7814202",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町蕨野"
+  },
+  "7814203": {
+    "zipcode": "7814203",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町白石"
+  },
+  "7814204": {
+    "zipcode": "7814204",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町根須"
+  },
+  "7814205": {
+    "zipcode": "7814205",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町吉野"
+  },
+  "7814206": {
+    "zipcode": "7814206",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町小川"
+  },
+  "7814207": {
+    "zipcode": "7814207",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町西川乙"
+  },
+  "7814208": {
+    "zipcode": "7814208",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町西川甲"
+  },
+  "7814211": {
+    "zipcode": "7814211",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町韮生野"
+  },
+  "7814212": {
+    "zipcode": "7814212",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町美良布"
+  },
+  "7814213": {
+    "zipcode": "7814213",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町下野尻"
+  },
+  "7814214": {
+    "zipcode": "7814214",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町太郎丸"
+  },
+  "7814215": {
+    "zipcode": "7814215",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町岩改"
+  },
+  "7814216": {
+    "zipcode": "7814216",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町萩野"
+  },
+  "7814217": {
+    "zipcode": "7814217",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町橋川野"
+  },
+  "7814221": {
+    "zipcode": "7814221",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町白川"
+  },
+  "7814222": {
+    "zipcode": "7814222",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町五百蔵"
+  },
+  "7814223": {
+    "zipcode": "7814223",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町有川"
+  },
+  "7814224": {
+    "zipcode": "7814224",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町有瀬"
+  },
+  "7814225": {
+    "zipcode": "7814225",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町西峯"
+  },
+  "7814226": {
+    "zipcode": "7814226",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町河野"
+  },
+  "7814227": {
+    "zipcode": "7814227",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町川ノ内"
+  },
+  "7814231": {
+    "zipcode": "7814231",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町日ノ御子"
+  },
+  "7814232": {
+    "zipcode": "7814232",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町谷相"
+  },
+  "7814233": {
+    "zipcode": "7814233",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町中谷"
+  },
+  "7814234": {
+    "zipcode": "7814234",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町横谷"
+  },
+  "7814235": {
+    "zipcode": "7814235",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町朴ノ木"
+  },
+  "7814236": {
+    "zipcode": "7814236",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町永野"
+  },
+  "7814241": {
+    "zipcode": "7814241",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町大井平"
+  },
+  "7814242": {
+    "zipcode": "7814242",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町大束"
+  },
+  "7814243": {
+    "zipcode": "7814243",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町梅久保"
+  },
+  "7814244": {
+    "zipcode": "7814244",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町日浦込"
+  },
+  "7814245": {
+    "zipcode": "7814245",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町清爪"
+  },
+  "7814246": {
+    "zipcode": "7814246",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町日比原"
+  },
+  "7814247": {
+    "zipcode": "7814247",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "香北町猪野々"
+  },
+  "7814401": {
+    "zipcode": "7814401",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町大栃"
+  },
+  "7814402": {
+    "zipcode": "7814402",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町山崎（その他）"
+  },
+  "7814403": {
+    "zipcode": "7814403",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町押谷"
+  },
+  "7814404": {
+    "zipcode": "7814404",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町小浜"
+  },
+  "7814405": {
+    "zipcode": "7814405",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町根木屋"
+  },
+  "7814406": {
+    "zipcode": "7814406",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町仙頭"
+  },
+  "7814411": {
+    "zipcode": "7814411",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町中谷川"
+  },
+  "7814412": {
+    "zipcode": "7814412",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町拓"
+  },
+  "7814413": {
+    "zipcode": "7814413",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町庄谷相"
+  },
+  "7814414": {
+    "zipcode": "7814414",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町頓定"
+  },
+  "7814415": {
+    "zipcode": "7814415",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町舞川"
+  },
+  "7814521": {
+    "zipcode": "7814521",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町安丸"
+  },
+  "7814522": {
+    "zipcode": "7814522",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町黒代"
+  },
+  "7814523": {
+    "zipcode": "7814523",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町神池"
+  },
+  "7814524": {
+    "zipcode": "7814524",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町楮佐古"
+  },
+  "7814525": {
+    "zipcode": "7814525",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町柳瀬"
+  },
+  "7814526": {
+    "zipcode": "7814526",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町五王堂"
+  },
+  "7814527": {
+    "zipcode": "7814527",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町南池"
+  },
+  "7814528": {
+    "zipcode": "7814528",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町大西"
+  },
+  "7814529": {
+    "zipcode": "7814529",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町中上"
+  },
+  "7814530": {
+    "zipcode": "7814530",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町笹"
+  },
+  "7814531": {
+    "zipcode": "7814531",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町久保"
+  },
+  "7814641": {
+    "zipcode": "7814641",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町岡ノ内"
+  },
+  "7814642": {
+    "zipcode": "7814642",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町別役"
+  },
+  "7814643": {
+    "zipcode": "7814643",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町市宇"
+  },
+  "7814644": {
+    "zipcode": "7814644",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町別府"
+  },
+  "7814645": {
+    "zipcode": "7814645",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香美市",
+    "town": "物部町山崎（桑ノ川）"
+  },
+  "7815101": {
+    "zipcode": "7815101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "布師田"
+  },
+  "7815102": {
+    "zipcode": "7815102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "大津甲"
+  },
+  "7815103": {
+    "zipcode": "7815103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "大津乙"
+  },
+  "7815104": {
+    "zipcode": "7815104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "介良（その他）"
+  },
+  "7815105": {
+    "zipcode": "7815105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "介良甲"
+  },
+  "7815106": {
+    "zipcode": "7815106",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "介良乙"
+  },
+  "7815107": {
+    "zipcode": "7815107",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "介良丙"
+  },
+  "7815108": {
+    "zipcode": "7815108",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "潮見台"
+  },
+  "7815200": {
+    "zipcode": "7815200",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "以下に掲載がない場合"
+  },
+  "7815201": {
+    "zipcode": "7815201",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町本村"
+  },
+  "7815202": {
+    "zipcode": "7815202",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町兎田"
+  },
+  "7815203": {
+    "zipcode": "7815203",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町中山田"
+  },
+  "7815204": {
+    "zipcode": "7815204",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町新宮"
+  },
+  "7815205": {
+    "zipcode": "7815205",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町みどり野東"
+  },
+  "7815206": {
+    "zipcode": "7815206",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町みどり野"
+  },
+  "7815211": {
+    "zipcode": "7815211",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町中ノ村"
+  },
+  "7815212": {
+    "zipcode": "7815212",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町土居"
+  },
+  "7815213": {
+    "zipcode": "7815213",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町東野"
+  },
+  "7815221": {
+    "zipcode": "7815221",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町父養寺"
+  },
+  "7815222": {
+    "zipcode": "7815222",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町母代寺"
+  },
+  "7815223": {
+    "zipcode": "7815223",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町西佐古"
+  },
+  "7815224": {
+    "zipcode": "7815224",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町東佐古"
+  },
+  "7815231": {
+    "zipcode": "7815231",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町深渕"
+  },
+  "7815232": {
+    "zipcode": "7815232",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町西野"
+  },
+  "7815233": {
+    "zipcode": "7815233",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町大谷"
+  },
+  "7815234": {
+    "zipcode": "7815234",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町上岡"
+  },
+  "7815235": {
+    "zipcode": "7815235",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "野市町下井"
+  },
+  "7815241": {
+    "zipcode": "7815241",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "吉川町吉原"
+  },
+  "7815242": {
+    "zipcode": "7815242",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "吉川町古川"
+  },
+  "7815310": {
+    "zipcode": "7815310",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "赤岡町"
+  },
+  "7815331": {
+    "zipcode": "7815331",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町岸本"
+  },
+  "7815332": {
+    "zipcode": "7815332",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町徳王子"
+  },
+  "7815451": {
+    "zipcode": "7815451",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町上分"
+  },
+  "7815452": {
+    "zipcode": "7815452",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町下分"
+  },
+  "7815453": {
+    "zipcode": "7815453",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町山北"
+  },
+  "7815454": {
+    "zipcode": "7815454",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町口西川"
+  },
+  "7815455": {
+    "zipcode": "7815455",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町中西川"
+  },
+  "7815461": {
+    "zipcode": "7815461",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町福万"
+  },
+  "7815462": {
+    "zipcode": "7815462",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町山川"
+  },
+  "7815463": {
+    "zipcode": "7815463",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町末延"
+  },
+  "7815464": {
+    "zipcode": "7815464",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町末清"
+  },
+  "7815465": {
+    "zipcode": "7815465",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町正延"
+  },
+  "7815466": {
+    "zipcode": "7815466",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町別役"
+  },
+  "7815467": {
+    "zipcode": "7815467",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町奥西川"
+  },
+  "7815468": {
+    "zipcode": "7815468",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町撫川"
+  },
+  "7815469": {
+    "zipcode": "7815469",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "香我美町舞川"
+  },
+  "7815601": {
+    "zipcode": "7815601",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町坪井"
+  },
+  "7815602": {
+    "zipcode": "7815602",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町千切"
+  },
+  "7815603": {
+    "zipcode": "7815603",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町西山"
+  },
+  "7815604": {
+    "zipcode": "7815604",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町出口"
+  },
+  "7815605": {
+    "zipcode": "7815605",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町十ノ木"
+  },
+  "7815606": {
+    "zipcode": "7815606",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町上夜須"
+  },
+  "7815611": {
+    "zipcode": "7815611",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町夜須川"
+  },
+  "7815612": {
+    "zipcode": "7815612",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町細川"
+  },
+  "7815613": {
+    "zipcode": "7815613",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町国光"
+  },
+  "7815614": {
+    "zipcode": "7815614",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町羽尾"
+  },
+  "7815615": {
+    "zipcode": "7815615",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町沢谷"
+  },
+  "7815616": {
+    "zipcode": "7815616",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町仲木屋"
+  },
+  "7815621": {
+    "zipcode": "7815621",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町手結"
+  },
+  "7815622": {
+    "zipcode": "7815622",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "香南市",
+    "town": "夜須町手結山"
+  },
+  "7815700": {
+    "zipcode": "7815700",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "以下に掲載がない場合"
+  },
+  "7815701": {
+    "zipcode": "7815701",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "和食甲"
+  },
+  "7815702": {
+    "zipcode": "7815702",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "和食乙"
+  },
+  "7815703": {
+    "zipcode": "7815703",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "西分甲"
+  },
+  "7815704": {
+    "zipcode": "7815704",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "西分乙"
+  },
+  "7815705": {
+    "zipcode": "7815705",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "馬ノ上"
+  },
+  "7815706": {
+    "zipcode": "7815706",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "道家"
+  },
+  "7815707": {
+    "zipcode": "7815707",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "国光"
+  },
+  "7815708": {
+    "zipcode": "7815708",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡芸西村",
+    "town": "久重"
+  },
+  "7816200": {
+    "zipcode": "7816200",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡馬路村",
+    "town": "以下に掲載がない場合"
+  },
+  "7816201": {
+    "zipcode": "7816201",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡馬路村",
+    "town": "馬路"
+  },
+  "7816202": {
+    "zipcode": "7816202",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡馬路村",
+    "town": "魚梁瀬"
+  },
+  "7816400": {
+    "zipcode": "7816400",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "以下に掲載がない場合"
+  },
+  "7816401": {
+    "zipcode": "7816401",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡奈半利町",
+    "town": "甲"
+  },
+  "7816402": {
+    "zipcode": "7816402",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡奈半利町",
+    "town": "乙"
+  },
+  "7816403": {
+    "zipcode": "7816403",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡奈半利町",
+    "town": "丙"
+  },
+  "7816410": {
+    "zipcode": "7816410",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡田野町",
+    "town": "田野町一円"
+  },
+  "7816421": {
+    "zipcode": "7816421",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "安田"
+  },
+  "7816422": {
+    "zipcode": "7816422",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "唐浜"
+  },
+  "7816423": {
+    "zipcode": "7816423",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "西島"
+  },
+  "7816424": {
+    "zipcode": "7816424",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "隆見"
+  },
+  "7816425": {
+    "zipcode": "7816425",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "東島"
+  },
+  "7816426": {
+    "zipcode": "7816426",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "間下"
+  },
+  "7816427": {
+    "zipcode": "7816427",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "内京坊"
+  },
+  "7816430": {
+    "zipcode": "7816430",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "正弘"
+  },
+  "7816431": {
+    "zipcode": "7816431",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "別所"
+  },
+  "7816432": {
+    "zipcode": "7816432",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "西ノ川"
+  },
+  "7816433": {
+    "zipcode": "7816433",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "中ノ川"
+  },
+  "7816434": {
+    "zipcode": "7816434",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "与床"
+  },
+  "7816435": {
+    "zipcode": "7816435",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "船倉"
+  },
+  "7816436": {
+    "zipcode": "7816436",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "瀬切"
+  },
+  "7816437": {
+    "zipcode": "7816437",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "中里"
+  },
+  "7816438": {
+    "zipcode": "7816438",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "小川"
+  },
+  "7816439": {
+    "zipcode": "7816439",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡安田町",
+    "town": "日々入"
+  },
+  "7816441": {
+    "zipcode": "7816441",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "野友甲"
+  },
+  "7816442": {
+    "zipcode": "7816442",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "野友乙"
+  },
+  "7816443": {
+    "zipcode": "7816443",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "加茂"
+  },
+  "7816444": {
+    "zipcode": "7816444",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "野川"
+  },
+  "7816445": {
+    "zipcode": "7816445",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "長山"
+  },
+  "7816446": {
+    "zipcode": "7816446",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "西谷"
+  },
+  "7816447": {
+    "zipcode": "7816447",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "木積"
+  },
+  "7816448": {
+    "zipcode": "7816448",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "宗ノ上"
+  },
+  "7816449": {
+    "zipcode": "7816449",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "柏木"
+  },
+  "7816450": {
+    "zipcode": "7816450",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "和田"
+  },
+  "7816451": {
+    "zipcode": "7816451",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "小島"
+  },
+  "7816452": {
+    "zipcode": "7816452",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "平鍋"
+  },
+  "7816453": {
+    "zipcode": "7816453",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "二タ又"
+  },
+  "7816454": {
+    "zipcode": "7816454",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "島"
+  },
+  "7816455": {
+    "zipcode": "7816455",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "久江ノ上"
+  },
+  "7816456": {
+    "zipcode": "7816456",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "久木"
+  },
+  "7816457": {
+    "zipcode": "7816457",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "弘瀬"
+  },
+  "7816458": {
+    "zipcode": "7816458",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "安倉"
+  },
+  "7816459": {
+    "zipcode": "7816459",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "菅ノ上"
+  },
+  "7816460": {
+    "zipcode": "7816460",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡北川村",
+    "town": "竹屋敷"
+  },
+  "7816741": {
+    "zipcode": "7816741",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "羽根町甲"
+  },
+  "7816742": {
+    "zipcode": "7816742",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "羽根町乙"
+  },
+  "7816831": {
+    "zipcode": "7816831",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "吉良川町乙"
+  },
+  "7816832": {
+    "zipcode": "7816832",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "吉良川町甲"
+  },
+  "7816833": {
+    "zipcode": "7816833",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "吉良川町丙"
+  },
+  "7817100": {
+    "zipcode": "7817100",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "以下に掲載がない場合"
+  },
+  "7817101": {
+    "zipcode": "7817101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "室戸岬町"
+  },
+  "7817102": {
+    "zipcode": "7817102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "室津"
+  },
+  "7817103": {
+    "zipcode": "7817103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "浮津"
+  },
+  "7817104": {
+    "zipcode": "7817104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "浮津一番町"
+  },
+  "7817105": {
+    "zipcode": "7817105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "浮津二番町"
+  },
+  "7817106": {
+    "zipcode": "7817106",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "浮津三番町"
+  },
+  "7817107": {
+    "zipcode": "7817107",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "元甲"
+  },
+  "7817108": {
+    "zipcode": "7817108",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "元乙"
+  },
+  "7817109": {
+    "zipcode": "7817109",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "領家"
+  },
+  "7817220": {
+    "zipcode": "7817220",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "室戸市",
+    "town": "佐喜浜町"
+  },
+  "7817300": {
+    "zipcode": "7817300",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "以下に掲載がない場合"
+  },
+  "7817301": {
+    "zipcode": "7817301",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "野根丙"
+  },
+  "7817302": {
+    "zipcode": "7817302",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "野根甲"
+  },
+  "7817303": {
+    "zipcode": "7817303",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "野根丁"
+  },
+  "7817304": {
+    "zipcode": "7817304",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "野根乙"
+  },
+  "7817411": {
+    "zipcode": "7817411",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "甲浦"
+  },
+  "7817412": {
+    "zipcode": "7817412",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "河内"
+  },
+  "7817413": {
+    "zipcode": "7817413",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "白浜"
+  },
+  "7817414": {
+    "zipcode": "7817414",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "安芸郡東洋町",
+    "town": "生見"
+  },
+  "7818001": {
+    "zipcode": "7818001",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "土居町"
+  },
+  "7818002": {
+    "zipcode": "7818002",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "役知町"
+  },
+  "7818003": {
+    "zipcode": "7818003",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "北新田町"
+  },
+  "7818004": {
+    "zipcode": "7818004",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "新田町"
+  },
+  "7818005": {
+    "zipcode": "7818005",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南新田町"
+  },
+  "7818006": {
+    "zipcode": "7818006",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "萩町"
+  },
+  "7818007": {
+    "zipcode": "7818007",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "仲田町"
+  },
+  "7818008": {
+    "zipcode": "7818008",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "潮新町"
+  },
+  "7818010": {
+    "zipcode": "7818010",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "桟橋通"
+  },
+  "7818016": {
+    "zipcode": "7818016",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "南ノ丸町"
+  },
+  "7818101": {
+    "zipcode": "7818101",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須砂地"
+  },
+  "7818102": {
+    "zipcode": "7818102",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須本町"
+  },
+  "7818103": {
+    "zipcode": "7818103",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須新木"
+  },
+  "7818104": {
+    "zipcode": "7818104",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須（丁目）"
+  },
+  "7818105": {
+    "zipcode": "7818105",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須東町"
+  },
+  "7818111": {
+    "zipcode": "7818111",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須大島"
+  },
+  "7818112": {
+    "zipcode": "7818112",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須大谷"
+  },
+  "7818113": {
+    "zipcode": "7818113",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須絶海"
+  },
+  "7818114": {
+    "zipcode": "7818114",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須西町"
+  },
+  "7818121": {
+    "zipcode": "7818121",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "葛島"
+  },
+  "7818122": {
+    "zipcode": "7818122",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須新町"
+  },
+  "7818123": {
+    "zipcode": "7818123",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "高須"
+  },
+  "7818124": {
+    "zipcode": "7818124",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "屋頭"
+  },
+  "7818125": {
+    "zipcode": "7818125",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "五台山"
+  },
+  "7818126": {
+    "zipcode": "7818126",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "吸江"
+  },
+  "7818130": {
+    "zipcode": "7818130",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮"
+  },
+  "7818131": {
+    "zipcode": "7818131",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮しなね"
+  },
+  "7818132": {
+    "zipcode": "7818132",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮東町"
+  },
+  "7818133": {
+    "zipcode": "7818133",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮徳谷"
+  },
+  "7818134": {
+    "zipcode": "7818134",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮中町"
+  },
+  "7818135": {
+    "zipcode": "7818135",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮南町"
+  },
+  "7818136": {
+    "zipcode": "7818136",
+    "prefectureCode": "39",
+    "prefectureNumber": 39,
+    "prefecture": "高知県",
+    "city": "高知市",
+    "town": "一宮西町"
+  }
+}

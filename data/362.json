@@ -1,0 +1,618 @@
+{
+  "3620000": {
+    "zipcode": "3620000",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "以下に掲載がない場合"
+  },
+  "3620001": {
+    "zipcode": "3620001",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上"
+  },
+  "3620002": {
+    "zipcode": "3620002",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "南"
+  },
+  "3620003": {
+    "zipcode": "3620003",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "菅谷"
+  },
+  "3620004": {
+    "zipcode": "3620004",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "須ケ谷"
+  },
+  "3620005": {
+    "zipcode": "3620005",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "西門前"
+  },
+  "3620006": {
+    "zipcode": "3620006",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "錦町"
+  },
+  "3620007": {
+    "zipcode": "3620007",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "久保"
+  },
+  "3620008": {
+    "zipcode": "3620008",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上平中央"
+  },
+  "3620011": {
+    "zipcode": "3620011",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "平塚"
+  },
+  "3620012": {
+    "zipcode": "3620012",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上尾宿"
+  },
+  "3620013": {
+    "zipcode": "3620013",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上尾村"
+  },
+  "3620014": {
+    "zipcode": "3620014",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "本町"
+  },
+  "3620015": {
+    "zipcode": "3620015",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "緑丘"
+  },
+  "3620016": {
+    "zipcode": "3620016",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "原新町"
+  },
+  "3620017": {
+    "zipcode": "3620017",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "二ツ宮"
+  },
+  "3620021": {
+    "zipcode": "3620021",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "原市"
+  },
+  "3620022": {
+    "zipcode": "3620022",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "瓦葺"
+  },
+  "3620023": {
+    "zipcode": "3620023",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "原市中"
+  },
+  "3620024": {
+    "zipcode": "3620024",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "五番町"
+  },
+  "3620025": {
+    "zipcode": "3620025",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上尾下"
+  },
+  "3620026": {
+    "zipcode": "3620026",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "原市北"
+  },
+  "3620031": {
+    "zipcode": "3620031",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "東町"
+  },
+  "3620032": {
+    "zipcode": "3620032",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "日の出"
+  },
+  "3620033": {
+    "zipcode": "3620033",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "栄町"
+  },
+  "3620034": {
+    "zipcode": "3620034",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "愛宕"
+  },
+  "3620035": {
+    "zipcode": "3620035",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "仲町"
+  },
+  "3620036": {
+    "zipcode": "3620036",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "宮本町"
+  },
+  "3620037": {
+    "zipcode": "3620037",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上町"
+  },
+  "3620041": {
+    "zipcode": "3620041",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "富士見"
+  },
+  "3620042": {
+    "zipcode": "3620042",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "谷津"
+  },
+  "3620043": {
+    "zipcode": "3620043",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "西宮下"
+  },
+  "3620044": {
+    "zipcode": "3620044",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "大谷本郷"
+  },
+  "3620045": {
+    "zipcode": "3620045",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "向山"
+  },
+  "3620046": {
+    "zipcode": "3620046",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "壱丁目"
+  },
+  "3620047": {
+    "zipcode": "3620047",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "今泉"
+  },
+  "3620048": {
+    "zipcode": "3620048",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "川"
+  },
+  "3620049": {
+    "zipcode": "3620049",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "東今泉"
+  },
+  "3620051": {
+    "zipcode": "3620051",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "地頭方"
+  },
+  "3620052": {
+    "zipcode": "3620052",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "中新井"
+  },
+  "3620053": {
+    "zipcode": "3620053",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "戸崎"
+  },
+  "3620054": {
+    "zipcode": "3620054",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "堤崎"
+  },
+  "3620055": {
+    "zipcode": "3620055",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "平方領々家"
+  },
+  "3620056": {
+    "zipcode": "3620056",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上野本郷"
+  },
+  "3620057": {
+    "zipcode": "3620057",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "西貝塚"
+  },
+  "3620058": {
+    "zipcode": "3620058",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "上野"
+  },
+  "3620059": {
+    "zipcode": "3620059",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "平方"
+  },
+  "3620061": {
+    "zipcode": "3620061",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "藤波"
+  },
+  "3620062": {
+    "zipcode": "3620062",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "泉台"
+  },
+  "3620063": {
+    "zipcode": "3620063",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "小泉"
+  },
+  "3620064": {
+    "zipcode": "3620064",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "小敷谷"
+  },
+  "3620065": {
+    "zipcode": "3620065",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "畔吉"
+  },
+  "3620066": {
+    "zipcode": "3620066",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "領家"
+  },
+  "3620067": {
+    "zipcode": "3620067",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "中分"
+  },
+  "3620071": {
+    "zipcode": "3620071",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "井戸木"
+  },
+  "3620072": {
+    "zipcode": "3620072",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "中妻"
+  },
+  "3620073": {
+    "zipcode": "3620073",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "浅間台"
+  },
+  "3620074": {
+    "zipcode": "3620074",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "春日"
+  },
+  "3620075": {
+    "zipcode": "3620075",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "柏座"
+  },
+  "3620076": {
+    "zipcode": "3620076",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "弁財"
+  },
+  "3620081": {
+    "zipcode": "3620081",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "壱丁目北"
+  },
+  "3620082": {
+    "zipcode": "3620082",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "壱丁目東"
+  },
+  "3620083": {
+    "zipcode": "3620083",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "壱丁目南"
+  },
+  "3620084": {
+    "zipcode": "3620084",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "town": "壱丁目西"
+  },
+  "3620800": {
+    "zipcode": "3620800",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "以下に掲載がない場合"
+  },
+  "3620801": {
+    "zipcode": "3620801",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "小針内宿"
+  },
+  "3620802": {
+    "zipcode": "3620802",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "羽貫"
+  },
+  "3620803": {
+    "zipcode": "3620803",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "大針"
+  },
+  "3620804": {
+    "zipcode": "3620804",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "本町"
+  },
+  "3620805": {
+    "zipcode": "3620805",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "栄"
+  },
+  "3620806": {
+    "zipcode": "3620806",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "小室"
+  },
+  "3620807": {
+    "zipcode": "3620807",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "寿"
+  },
+  "3620808": {
+    "zipcode": "3620808",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "小針新宿"
+  },
+  "3620809": {
+    "zipcode": "3620809",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "中央"
+  },
+  "3620811": {
+    "zipcode": "3620811",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "西小針"
+  },
+  "3620812": {
+    "zipcode": "3620812",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "内宿台"
+  },
+  "3620813": {
+    "zipcode": "3620813",
+    "prefectureCode": "11",
+    "prefectureNumber": 11,
+    "prefecture": "埼玉県",
+    "city": "北足立郡伊奈町",
+    "town": "学園"
+  }
+}

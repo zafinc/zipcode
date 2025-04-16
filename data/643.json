@@ -1,0 +1,978 @@
+{
+  "6430000": {
+    "zipcode": "6430000",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "以下に掲載がない場合"
+  },
+  "6430001": {
+    "zipcode": "6430001",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "山田"
+  },
+  "6430002": {
+    "zipcode": "6430002",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "青木"
+  },
+  "6430003": {
+    "zipcode": "6430003",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "別所"
+  },
+  "6430004": {
+    "zipcode": "6430004",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "湯浅"
+  },
+  "6430005": {
+    "zipcode": "6430005",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "栖原"
+  },
+  "6430006": {
+    "zipcode": "6430006",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "田"
+  },
+  "6430007": {
+    "zipcode": "6430007",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡湯浅町",
+    "town": "吉川"
+  },
+  "6430021": {
+    "zipcode": "6430021",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "下津野"
+  },
+  "6430022": {
+    "zipcode": "6430022",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "奥"
+  },
+  "6430023": {
+    "zipcode": "6430023",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "熊井"
+  },
+  "6430024": {
+    "zipcode": "6430024",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "水尻"
+  },
+  "6430025": {
+    "zipcode": "6430025",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "土生"
+  },
+  "6430026": {
+    "zipcode": "6430026",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "植野"
+  },
+  "6430031": {
+    "zipcode": "6430031",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "野田"
+  },
+  "6430032": {
+    "zipcode": "6430032",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "天満"
+  },
+  "6430033": {
+    "zipcode": "6430033",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "明王寺"
+  },
+  "6430034": {
+    "zipcode": "6430034",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "小島"
+  },
+  "6430051": {
+    "zipcode": "6430051",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "下津木"
+  },
+  "6430052": {
+    "zipcode": "6430052",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "上津木"
+  },
+  "6430053": {
+    "zipcode": "6430053",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "河瀬"
+  },
+  "6430054": {
+    "zipcode": "6430054",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "前田"
+  },
+  "6430055": {
+    "zipcode": "6430055",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "井関"
+  },
+  "6430061": {
+    "zipcode": "6430061",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "柳瀬"
+  },
+  "6430062": {
+    "zipcode": "6430062",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "殿"
+  },
+  "6430063": {
+    "zipcode": "6430063",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "南金屋"
+  },
+  "6430064": {
+    "zipcode": "6430064",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "上中野"
+  },
+  "6430065": {
+    "zipcode": "6430065",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "東中"
+  },
+  "6430066": {
+    "zipcode": "6430066",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "名島"
+  },
+  "6430071": {
+    "zipcode": "6430071",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "広"
+  },
+  "6430072": {
+    "zipcode": "6430072",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "山本"
+  },
+  "6430073": {
+    "zipcode": "6430073",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "唐尾"
+  },
+  "6430074": {
+    "zipcode": "6430074",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "西広"
+  },
+  "6430075": {
+    "zipcode": "6430075",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡広川町",
+    "town": "和田"
+  },
+  "6430121": {
+    "zipcode": "6430121",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "彦ケ瀬"
+  },
+  "6430122": {
+    "zipcode": "6430122",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "瀬井"
+  },
+  "6430123": {
+    "zipcode": "6430123",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "中"
+  },
+  "6430124": {
+    "zipcode": "6430124",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "中峯"
+  },
+  "6430125": {
+    "zipcode": "6430125",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "沼田"
+  },
+  "6430126": {
+    "zipcode": "6430126",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "本堂"
+  },
+  "6430127": {
+    "zipcode": "6430127",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "有原"
+  },
+  "6430128": {
+    "zipcode": "6430128",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "西ケ峯"
+  },
+  "6430129": {
+    "zipcode": "6430129",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "畦田"
+  },
+  "6430131": {
+    "zipcode": "6430131",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "生石"
+  },
+  "6430132": {
+    "zipcode": "6430132",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "小原"
+  },
+  "6430133": {
+    "zipcode": "6430133",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "尾上"
+  },
+  "6430134": {
+    "zipcode": "6430134",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "大薗"
+  },
+  "6430135": {
+    "zipcode": "6430135",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "大西"
+  },
+  "6430136": {
+    "zipcode": "6430136",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "青田"
+  },
+  "6430137": {
+    "zipcode": "6430137",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "延坂"
+  },
+  "6430141": {
+    "zipcode": "6430141",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "伏羊"
+  },
+  "6430142": {
+    "zipcode": "6430142",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "小川"
+  },
+  "6430143": {
+    "zipcode": "6430143",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "中野"
+  },
+  "6430144": {
+    "zipcode": "6430144",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "市場"
+  },
+  "6430151": {
+    "zipcode": "6430151",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "長谷川"
+  },
+  "6430152": {
+    "zipcode": "6430152",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "金屋"
+  },
+  "6430153": {
+    "zipcode": "6430153",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "中井原"
+  },
+  "6430161": {
+    "zipcode": "6430161",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "歓喜寺"
+  },
+  "6430162": {
+    "zipcode": "6430162",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "松原"
+  },
+  "6430163": {
+    "zipcode": "6430163",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "修理川"
+  },
+  "6430164": {
+    "zipcode": "6430164",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "宇井苔"
+  },
+  "6430165": {
+    "zipcode": "6430165",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "糸川"
+  },
+  "6430166": {
+    "zipcode": "6430166",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "吉原"
+  },
+  "6430171": {
+    "zipcode": "6430171",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "上六川"
+  },
+  "6430172": {
+    "zipcode": "6430172",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "黒松"
+  },
+  "6430173": {
+    "zipcode": "6430173",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "下六川"
+  },
+  "6430174": {
+    "zipcode": "6430174",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "糸野"
+  },
+  "6430175": {
+    "zipcode": "6430175",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "丹生"
+  },
+  "6430176": {
+    "zipcode": "6430176",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "釜中"
+  },
+  "6430311": {
+    "zipcode": "6430311",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "谷"
+  },
+  "6430312": {
+    "zipcode": "6430312",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "岩野河"
+  },
+  "6430313": {
+    "zipcode": "6430313",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "川口"
+  },
+  "6430314": {
+    "zipcode": "6430314",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "立石"
+  },
+  "6430361": {
+    "zipcode": "6430361",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "三瀬川"
+  },
+  "6430362": {
+    "zipcode": "6430362",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "北野川"
+  },
+  "6430363": {
+    "zipcode": "6430363",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "二沢"
+  },
+  "6430364": {
+    "zipcode": "6430364",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "川合"
+  },
+  "6430365": {
+    "zipcode": "6430365",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "中原"
+  },
+  "6430366": {
+    "zipcode": "6430366",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "粟生"
+  },
+  "6430511": {
+    "zipcode": "6430511",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "三田"
+  },
+  "6430512": {
+    "zipcode": "6430512",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "宮川"
+  },
+  "6430513": {
+    "zipcode": "6430513",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "大蔵"
+  },
+  "6430514": {
+    "zipcode": "6430514",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "久野原"
+  },
+  "6430515": {
+    "zipcode": "6430515",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "室川"
+  },
+  "6430521": {
+    "zipcode": "6430521",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "清水"
+  },
+  "6430522": {
+    "zipcode": "6430522",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "下湯川"
+  },
+  "6430531": {
+    "zipcode": "6430531",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "楠本"
+  },
+  "6430532": {
+    "zipcode": "6430532",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "沼"
+  },
+  "6430533": {
+    "zipcode": "6430533",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "遠井"
+  },
+  "6430541": {
+    "zipcode": "6430541",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "東大谷"
+  },
+  "6430542": {
+    "zipcode": "6430542",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "二川"
+  },
+  "6430543": {
+    "zipcode": "6430543",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "日物川"
+  },
+  "6430544": {
+    "zipcode": "6430544",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "境川"
+  },
+  "6430551": {
+    "zipcode": "6430551",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "上湯川"
+  },
+  "6430601": {
+    "zipcode": "6430601",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "押手"
+  },
+  "6430602": {
+    "zipcode": "6430602",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "杉野原"
+  },
+  "6430603": {
+    "zipcode": "6430603",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "板尾"
+  },
+  "6430604": {
+    "zipcode": "6430604",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "井谷"
+  },
+  "6430605": {
+    "zipcode": "6430605",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "沼谷"
+  },
+  "6430611": {
+    "zipcode": "6430611",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園梁瀬"
+  },
+  "6430612": {
+    "zipcode": "6430612",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園北寺"
+  },
+  "6430613": {
+    "zipcode": "6430613",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園池ノ窪"
+  },
+  "6430614": {
+    "zipcode": "6430614",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "伊都郡かつらぎ町",
+    "town": "花園新子"
+  },
+  "6430801": {
+    "zipcode": "6430801",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "徳田"
+  },
+  "6430802": {
+    "zipcode": "6430802",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "吉見"
+  },
+  "6430803": {
+    "zipcode": "6430803",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "東丹生図"
+  },
+  "6430811": {
+    "zipcode": "6430811",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "庄"
+  },
+  "6430812": {
+    "zipcode": "6430812",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "垣倉"
+  },
+  "6430813": {
+    "zipcode": "6430813",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "西丹生図"
+  },
+  "6430841": {
+    "zipcode": "6430841",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "長谷"
+  },
+  "6430842": {
+    "zipcode": "6430842",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "船坂"
+  },
+  "6430843": {
+    "zipcode": "6430843",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "賢"
+  },
+  "6430844": {
+    "zipcode": "6430844",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "井口"
+  },
+  "6430845": {
+    "zipcode": "6430845",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "大谷"
+  },
+  "6430846": {
+    "zipcode": "6430846",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "田口"
+  },
+  "6430847": {
+    "zipcode": "6430847",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "大賀畑"
+  },
+  "6430848": {
+    "zipcode": "6430848",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "田角"
+  },
+  "6430851": {
+    "zipcode": "6430851",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "出"
+  },
+  "6430852": {
+    "zipcode": "6430852",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "尾中"
+  },
+  "6430853": {
+    "zipcode": "6430853",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "角"
+  },
+  "6430854": {
+    "zipcode": "6430854",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "長田"
+  },
+  "6430855": {
+    "zipcode": "6430855",
+    "prefectureCode": "30",
+    "prefectureNumber": 30,
+    "prefecture": "和歌山県",
+    "city": "有田郡有田川町",
+    "town": "上中島"
+  }
+}

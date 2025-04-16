@@ -1,0 +1,562 @@
+{
+  "0530000": {
+    "zipcode": "0530000",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "以下に掲載がない場合"
+  },
+  "0530001": {
+    "zipcode": "0530001",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "一本松町（６〜１５番地）"
+  },
+  "0530002": {
+    "zipcode": "0530002",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "晴海町（４３番地）"
+  },
+  "0530003": {
+    "zipcode": "0530003",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "入船町"
+  },
+  "0530004": {
+    "zipcode": "0530004",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "港町"
+  },
+  "0530005": {
+    "zipcode": "0530005",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "元中野町"
+  },
+  "0530006": {
+    "zipcode": "0530006",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "新中野町"
+  },
+  "0530007": {
+    "zipcode": "0530007",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "船見町"
+  },
+  "0530011": {
+    "zipcode": "0530011",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "末広町"
+  },
+  "0530012": {
+    "zipcode": "0530012",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "汐見町"
+  },
+  "0530013": {
+    "zipcode": "0530013",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "高砂町"
+  },
+  "0530014": {
+    "zipcode": "0530014",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "浜町"
+  },
+  "0530015": {
+    "zipcode": "0530015",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "本幸町"
+  },
+  "0530016": {
+    "zipcode": "0530016",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "寿町"
+  },
+  "0530017": {
+    "zipcode": "0530017",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "栄町"
+  },
+  "0530018": {
+    "zipcode": "0530018",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "旭町"
+  },
+  "0530021": {
+    "zipcode": "0530021",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "若草町"
+  },
+  "0530022": {
+    "zipcode": "0530022",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "表町"
+  },
+  "0530023": {
+    "zipcode": "0530023",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "錦町"
+  },
+  "0530024": {
+    "zipcode": "0530024",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "大町"
+  },
+  "0530025": {
+    "zipcode": "0530025",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "本町"
+  },
+  "0530026": {
+    "zipcode": "0530026",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "幸町"
+  },
+  "0530027": {
+    "zipcode": "0530027",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "王子町"
+  },
+  "0530031": {
+    "zipcode": "0530031",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "春日町"
+  },
+  "0530032": {
+    "zipcode": "0530032",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "緑町"
+  },
+  "0530033": {
+    "zipcode": "0530033",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "木場町"
+  },
+  "0530034": {
+    "zipcode": "0530034",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "清水町"
+  },
+  "0530035": {
+    "zipcode": "0530035",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "高丘"
+  },
+  "0530041": {
+    "zipcode": "0530041",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "美園町"
+  },
+  "0530042": {
+    "zipcode": "0530042",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "三光町"
+  },
+  "0530043": {
+    "zipcode": "0530043",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "日の出町"
+  },
+  "0530044": {
+    "zipcode": "0530044",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "音羽町"
+  },
+  "0530045": {
+    "zipcode": "0530045",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "双葉町"
+  },
+  "0530046": {
+    "zipcode": "0530046",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "住吉町"
+  },
+  "0530047": {
+    "zipcode": "0530047",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "泉町"
+  },
+  "0530051": {
+    "zipcode": "0530051",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "明野元町"
+  },
+  "0530052": {
+    "zipcode": "0530052",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "新開町"
+  },
+  "0530053": {
+    "zipcode": "0530053",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "柳町"
+  },
+  "0530054": {
+    "zipcode": "0530054",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "明野新町"
+  },
+  "0530055": {
+    "zipcode": "0530055",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "新明町"
+  },
+  "0530056": {
+    "zipcode": "0530056",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "あけぼの町（３〜５丁目）"
+  },
+  "0530801": {
+    "zipcode": "0530801",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "白金町"
+  },
+  "0530802": {
+    "zipcode": "0530802",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "弥生町"
+  },
+  "0530803": {
+    "zipcode": "0530803",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "矢代町"
+  },
+  "0530804": {
+    "zipcode": "0530804",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "元町"
+  },
+  "0530805": {
+    "zipcode": "0530805",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "新富町"
+  },
+  "0530806": {
+    "zipcode": "0530806",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "大成町"
+  },
+  "0530807": {
+    "zipcode": "0530807",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "青葉町"
+  },
+  "0530811": {
+    "zipcode": "0530811",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "光洋町"
+  },
+  "0530812": {
+    "zipcode": "0530812",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "有明町"
+  },
+  "0530813": {
+    "zipcode": "0530813",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "小糸井町"
+  },
+  "0530814": {
+    "zipcode": "0530814",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "糸井"
+  },
+  "0530815": {
+    "zipcode": "0530815",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "永福町"
+  },
+  "0530816": {
+    "zipcode": "0530816",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "日吉町"
+  },
+  "0530821": {
+    "zipcode": "0530821",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "しらかば町"
+  },
+  "0530822": {
+    "zipcode": "0530822",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "川沿町"
+  },
+  "0530823": {
+    "zipcode": "0530823",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "柏木町"
+  },
+  "0530831": {
+    "zipcode": "0530831",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "豊川町"
+  },
+  "0530832": {
+    "zipcode": "0530832",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "桜木町"
+  },
+  "0530833": {
+    "zipcode": "0530833",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "日新町"
+  },
+  "0530841": {
+    "zipcode": "0530841",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "松風町"
+  },
+  "0530842": {
+    "zipcode": "0530842",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "有珠の沢町"
+  },
+  "0530843": {
+    "zipcode": "0530843",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "桜坂町"
+  },
+  "0530844": {
+    "zipcode": "0530844",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "宮の森町"
+  },
+  "0530845": {
+    "zipcode": "0530845",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "はまなす町（１丁目）"
+  },
+  "0530851": {
+    "zipcode": "0530851",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "山手町"
+  },
+  "0530852": {
+    "zipcode": "0530852",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "北光町"
+  },
+  "0530853": {
+    "zipcode": "0530853",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "花園町"
+  },
+  "0530854": {
+    "zipcode": "0530854",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "啓北町"
+  },
+  "0530855": {
+    "zipcode": "0530855",
+    "prefectureCode": "01",
+    "prefectureNumber": 1,
+    "prefecture": "北海道",
+    "city": "苫小牧市",
+    "town": "見山町"
+  }
+}

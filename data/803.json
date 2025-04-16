@@ -1,0 +1,586 @@
+{
+  "8030180": {
+    "zipcode": "8030180",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "平尾台"
+  },
+  "8030181": {
+    "zipcode": "8030181",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "呼野"
+  },
+  "8030182": {
+    "zipcode": "8030182",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "小森"
+  },
+  "8030183": {
+    "zipcode": "8030183",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "市丸"
+  },
+  "8030184": {
+    "zipcode": "8030184",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "木下"
+  },
+  "8030185": {
+    "zipcode": "8030185",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "石原町"
+  },
+  "8030186": {
+    "zipcode": "8030186",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "新道寺"
+  },
+  "8030187": {
+    "zipcode": "8030187",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "母原"
+  },
+  "8030188": {
+    "zipcode": "8030188",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "母原（紫水団地）"
+  },
+  "8030189": {
+    "zipcode": "8030189",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "井手浦"
+  },
+  "8030261": {
+    "zipcode": "8030261",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "合馬"
+  },
+  "8030262": {
+    "zipcode": "8030262",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "田代"
+  },
+  "8030263": {
+    "zipcode": "8030263",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "辻三"
+  },
+  "8030264": {
+    "zipcode": "8030264",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "山本"
+  },
+  "8030265": {
+    "zipcode": "8030265",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "春吉"
+  },
+  "8030266": {
+    "zipcode": "8030266",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "道原"
+  },
+  "8030267": {
+    "zipcode": "8030267",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "頂吉"
+  },
+  "8030268": {
+    "zipcode": "8030268",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "高津尾"
+  },
+  "8030271": {
+    "zipcode": "8030271",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "長行"
+  },
+  "8030272": {
+    "zipcode": "8030272",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "長行西"
+  },
+  "8030273": {
+    "zipcode": "8030273",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "長行東"
+  },
+  "8030274": {
+    "zipcode": "8030274",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "長尾"
+  },
+  "8030275": {
+    "zipcode": "8030275",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "高野"
+  },
+  "8030276": {
+    "zipcode": "8030276",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "徳吉"
+  },
+  "8030277": {
+    "zipcode": "8030277",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "徳吉東"
+  },
+  "8030278": {
+    "zipcode": "8030278",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "徳吉西"
+  },
+  "8030279": {
+    "zipcode": "8030279",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "town": "徳吉南"
+  },
+  "8030801": {
+    "zipcode": "8030801",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "西港町"
+  },
+  "8030802": {
+    "zipcode": "8030802",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "東港"
+  },
+  "8030803": {
+    "zipcode": "8030803",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "許斐町"
+  },
+  "8030804": {
+    "zipcode": "8030804",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "中井浜"
+  },
+  "8030805": {
+    "zipcode": "8030805",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "親和町"
+  },
+  "8030811": {
+    "zipcode": "8030811",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "大門"
+  },
+  "8030812": {
+    "zipcode": "8030812",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "室町"
+  },
+  "8030813": {
+    "zipcode": "8030813",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "城内"
+  },
+  "8030814": {
+    "zipcode": "8030814",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "大手町"
+  },
+  "8030815": {
+    "zipcode": "8030815",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "原町"
+  },
+  "8030816": {
+    "zipcode": "8030816",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "金田"
+  },
+  "8030817": {
+    "zipcode": "8030817",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "田町"
+  },
+  "8030818": {
+    "zipcode": "8030818",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "竪町"
+  },
+  "8030821": {
+    "zipcode": "8030821",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "鋳物師町"
+  },
+  "8030822": {
+    "zipcode": "8030822",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "青葉"
+  },
+  "8030823": {
+    "zipcode": "8030823",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "菜園場"
+  },
+  "8030824": {
+    "zipcode": "8030824",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "板櫃町"
+  },
+  "8030825": {
+    "zipcode": "8030825",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "白萩町"
+  },
+  "8030826": {
+    "zipcode": "8030826",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "高峰町"
+  },
+  "8030827": {
+    "zipcode": "8030827",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "緑ケ丘"
+  },
+  "8030828": {
+    "zipcode": "8030828",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "愛宕"
+  },
+  "8030831": {
+    "zipcode": "8030831",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "日明"
+  },
+  "8030832": {
+    "zipcode": "8030832",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "平松町"
+  },
+  "8030833": {
+    "zipcode": "8030833",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "朝日ケ丘"
+  },
+  "8030834": {
+    "zipcode": "8030834",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "都"
+  },
+  "8030835": {
+    "zipcode": "8030835",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "井堀"
+  },
+  "8030836": {
+    "zipcode": "8030836",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "中井"
+  },
+  "8030837": {
+    "zipcode": "8030837",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "中井口"
+  },
+  "8030838": {
+    "zipcode": "8030838",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "高見台"
+  },
+  "8030841": {
+    "zipcode": "8030841",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "清水"
+  },
+  "8030842": {
+    "zipcode": "8030842",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "泉台"
+  },
+  "8030843": {
+    "zipcode": "8030843",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "金鶏町"
+  },
+  "8030844": {
+    "zipcode": "8030844",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "真鶴"
+  },
+  "8030845": {
+    "zipcode": "8030845",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "上到津"
+  },
+  "8030846": {
+    "zipcode": "8030846",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "下到津"
+  },
+  "8030851": {
+    "zipcode": "8030851",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "木町"
+  },
+  "8030852": {
+    "zipcode": "8030852",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "新高田"
+  },
+  "8030853": {
+    "zipcode": "8030853",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "高尾"
+  },
+  "8030854": {
+    "zipcode": "8030854",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "皿山町"
+  },
+  "8030855": {
+    "zipcode": "8030855",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "竪林町"
+  },
+  "8030856": {
+    "zipcode": "8030856",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "弁天町"
+  },
+  "8030861": {
+    "zipcode": "8030861",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "篠崎"
+  },
+  "8030862": {
+    "zipcode": "8030862",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "今町"
+  },
+  "8030863": {
+    "zipcode": "8030863",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "南丘"
+  },
+  "8030864": {
+    "zipcode": "8030864",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "熊谷"
+  },
+  "8030865": {
+    "zipcode": "8030865",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "北九州市小倉北区",
+    "town": "山田町"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "1120000": {
+    "zipcode": "1120000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "以下に掲載がない場合"
+  },
+  "1120001": {
+    "zipcode": "1120001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "白山（２〜５丁目）"
+  },
+  "1120002": {
+    "zipcode": "1120002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "小石川"
+  },
+  "1120003": {
+    "zipcode": "1120003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "春日"
+  },
+  "1120004": {
+    "zipcode": "1120004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "後楽"
+  },
+  "1120005": {
+    "zipcode": "1120005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "水道"
+  },
+  "1120006": {
+    "zipcode": "1120006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "小日向"
+  },
+  "1120011": {
+    "zipcode": "1120011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "千石"
+  },
+  "1120012": {
+    "zipcode": "1120012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "大塚"
+  },
+  "1120013": {
+    "zipcode": "1120013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "音羽"
+  },
+  "1120014": {
+    "zipcode": "1120014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "関口"
+  },
+  "1120015": {
+    "zipcode": "1120015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "目白台"
+  }
+}

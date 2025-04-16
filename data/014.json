@@ -1,0 +1,1258 @@
+{
+  "0140000": {
+    "zipcode": "0140000",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "以下に掲載がない場合"
+  },
+  "0140001": {
+    "zipcode": "0140001",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "花館"
+  },
+  "0140002": {
+    "zipcode": "0140002",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "花館上町"
+  },
+  "0140003": {
+    "zipcode": "0140003",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "美原町"
+  },
+  "0140004": {
+    "zipcode": "0140004",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "泉町"
+  },
+  "0140005": {
+    "zipcode": "0140005",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "花館柳町"
+  },
+  "0140006": {
+    "zipcode": "0140006",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "花館中町"
+  },
+  "0140011": {
+    "zipcode": "0140011",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "富士見町"
+  },
+  "0140012": {
+    "zipcode": "0140012",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "幸町"
+  },
+  "0140013": {
+    "zipcode": "0140013",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "朝日町"
+  },
+  "0140014": {
+    "zipcode": "0140014",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲福住町"
+  },
+  "0140015": {
+    "zipcode": "0140015",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲白金町"
+  },
+  "0140016": {
+    "zipcode": "0140016",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "若竹町"
+  },
+  "0140017": {
+    "zipcode": "0140017",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "佐野町"
+  },
+  "0140021": {
+    "zipcode": "0140021",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "福田町"
+  },
+  "0140022": {
+    "zipcode": "0140022",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大花町"
+  },
+  "0140023": {
+    "zipcode": "0140023",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲黒瀬町"
+  },
+  "0140024": {
+    "zipcode": "0140024",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲中通町"
+  },
+  "0140025": {
+    "zipcode": "0140025",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲大町"
+  },
+  "0140026": {
+    "zipcode": "0140026",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲丸の内町"
+  },
+  "0140027": {
+    "zipcode": "0140027",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲通町"
+  },
+  "0140031": {
+    "zipcode": "0140031",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲"
+  },
+  "0140032": {
+    "zipcode": "0140032",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "東川"
+  },
+  "0140033": {
+    "zipcode": "0140033",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "和合"
+  },
+  "0140034": {
+    "zipcode": "0140034",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲住吉町"
+  },
+  "0140041": {
+    "zipcode": "0140041",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲丸子町"
+  },
+  "0140042": {
+    "zipcode": "0140042",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲福見町"
+  },
+  "0140043": {
+    "zipcode": "0140043",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲戸巻町"
+  },
+  "0140044": {
+    "zipcode": "0140044",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "戸蒔"
+  },
+  "0140045": {
+    "zipcode": "0140045",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲若葉町"
+  },
+  "0140046": {
+    "zipcode": "0140046",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲田町"
+  },
+  "0140047": {
+    "zipcode": "0140047",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲須和町"
+  },
+  "0140048": {
+    "zipcode": "0140048",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲上大町"
+  },
+  "0140051": {
+    "zipcode": "0140051",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲浜町"
+  },
+  "0140052": {
+    "zipcode": "0140052",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲川原町"
+  },
+  "0140053": {
+    "zipcode": "0140053",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲花園町"
+  },
+  "0140054": {
+    "zipcode": "0140054",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲金谷町"
+  },
+  "0140055": {
+    "zipcode": "0140055",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲あけぼの町"
+  },
+  "0140056": {
+    "zipcode": "0140056",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲緑町"
+  },
+  "0140057": {
+    "zipcode": "0140057",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲船場町"
+  },
+  "0140061": {
+    "zipcode": "0140061",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲栄町"
+  },
+  "0140062": {
+    "zipcode": "0140062",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲上栄町"
+  },
+  "0140063": {
+    "zipcode": "0140063",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲日の出町"
+  },
+  "0140064": {
+    "zipcode": "0140064",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "小貫高畑"
+  },
+  "0140065": {
+    "zipcode": "0140065",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "下深井"
+  },
+  "0140066": {
+    "zipcode": "0140066",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "川目"
+  },
+  "0140067": {
+    "zipcode": "0140067",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "飯田"
+  },
+  "0140068": {
+    "zipcode": "0140068",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲飯田町"
+  },
+  "0140071": {
+    "zipcode": "0140071",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "蛭川"
+  },
+  "0140072": {
+    "zipcode": "0140072",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大曲西根"
+  },
+  "0140073": {
+    "zipcode": "0140073",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "内小友"
+  },
+  "0140101": {
+    "zipcode": "0140101",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "松倉"
+  },
+  "0140102": {
+    "zipcode": "0140102",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "四ツ屋"
+  },
+  "0140103": {
+    "zipcode": "0140103",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "高関上郷"
+  },
+  "0140104": {
+    "zipcode": "0140104",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "新谷地"
+  },
+  "0140111": {
+    "zipcode": "0140111",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "横堀"
+  },
+  "0140112": {
+    "zipcode": "0140112",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "板見内"
+  },
+  "0140113": {
+    "zipcode": "0140113",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "堀見内"
+  },
+  "0140114": {
+    "zipcode": "0140114",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "福田"
+  },
+  "0140201": {
+    "zipcode": "0140201",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "下鶯野"
+  },
+  "0140202": {
+    "zipcode": "0140202",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "上鶯野"
+  },
+  "0140203": {
+    "zipcode": "0140203",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "北長野"
+  },
+  "0140204": {
+    "zipcode": "0140204",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "清水"
+  },
+  "0140205": {
+    "zipcode": "0140205",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "鑓見内"
+  },
+  "0140206": {
+    "zipcode": "0140206",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "長戸呂"
+  },
+  "0140207": {
+    "zipcode": "0140207",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "長野"
+  },
+  "0140300": {
+    "zipcode": "0140300",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "以下に掲載がない場合"
+  },
+  "0140301": {
+    "zipcode": "0140301",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町広久内"
+  },
+  "0140302": {
+    "zipcode": "0140302",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町白岩"
+  },
+  "0140303": {
+    "zipcode": "0140303",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町薗田"
+  },
+  "0140311": {
+    "zipcode": "0140311",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町田町上丁"
+  },
+  "0140312": {
+    "zipcode": "0140312",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町田町下丁"
+  },
+  "0140313": {
+    "zipcode": "0140313",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下岩瀬町"
+  },
+  "0140315": {
+    "zipcode": "0140315",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下新町"
+  },
+  "0140316": {
+    "zipcode": "0140316",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町岩瀬町"
+  },
+  "0140317": {
+    "zipcode": "0140317",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下中町"
+  },
+  "0140318": {
+    "zipcode": "0140318",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町中町"
+  },
+  "0140321": {
+    "zipcode": "0140321",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西勝楽町"
+  },
+  "0140322": {
+    "zipcode": "0140322",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町七日町"
+  },
+  "0140323": {
+    "zipcode": "0140323",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町横町"
+  },
+  "0140324": {
+    "zipcode": "0140324",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町小人町"
+  },
+  "0140325": {
+    "zipcode": "0140325",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町東勝楽丁"
+  },
+  "0140326": {
+    "zipcode": "0140326",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町山根町"
+  },
+  "0140327": {
+    "zipcode": "0140327",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町上新町"
+  },
+  "0140328": {
+    "zipcode": "0140328",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町竹原町"
+  },
+  "0140331": {
+    "zipcode": "0140331",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町表町下丁"
+  },
+  "0140332": {
+    "zipcode": "0140332",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町歩行町"
+  },
+  "0140333": {
+    "zipcode": "0140333",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町川原町"
+  },
+  "0140334": {
+    "zipcode": "0140334",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町表町上丁"
+  },
+  "0140335": {
+    "zipcode": "0140335",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町細越町"
+  },
+  "0140336": {
+    "zipcode": "0140336",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町裏町"
+  },
+  "0140337": {
+    "zipcode": "0140337",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町古城"
+  },
+  "0140341": {
+    "zipcode": "0140341",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町雲然"
+  },
+  "0140342": {
+    "zipcode": "0140342",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町八割"
+  },
+  "0140343": {
+    "zipcode": "0140343",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下延"
+  },
+  "0140344": {
+    "zipcode": "0140344",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西長野"
+  },
+  "0140345": {
+    "zipcode": "0140345",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町山谷川崎"
+  },
+  "0140346": {
+    "zipcode": "0140346",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町川原"
+  },
+  "0140347": {
+    "zipcode": "0140347",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町小勝田"
+  },
+  "0140351": {
+    "zipcode": "0140351",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町古城山"
+  },
+  "0140352": {
+    "zipcode": "0140352",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町外ノ山"
+  },
+  "0140353": {
+    "zipcode": "0140353",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西菅沢"
+  },
+  "0140354": {
+    "zipcode": "0140354",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町水ノ目沢"
+  },
+  "0140355": {
+    "zipcode": "0140355",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町外ノ山官有地"
+  },
+  "0140356": {
+    "zipcode": "0140356",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町花場"
+  },
+  "0140357": {
+    "zipcode": "0140357",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町花場下"
+  },
+  "0140358": {
+    "zipcode": "0140358",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町川原町後"
+  },
+  "0140359": {
+    "zipcode": "0140359",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町北野"
+  },
+  "0140361": {
+    "zipcode": "0140361",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町鳥木沢"
+  },
+  "0140362": {
+    "zipcode": "0140362",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町金山下"
+  },
+  "0140363": {
+    "zipcode": "0140363",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下川原"
+  },
+  "0140364": {
+    "zipcode": "0140364",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町大中嶋"
+  },
+  "0140365": {
+    "zipcode": "0140365",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町菅沢"
+  },
+  "0140366": {
+    "zipcode": "0140366",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町下菅沢"
+  },
+  "0140367": {
+    "zipcode": "0140367",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町勝楽"
+  },
+  "0140368": {
+    "zipcode": "0140368",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町中菅沢"
+  },
+  "0140369": {
+    "zipcode": "0140369",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町上菅沢"
+  },
+  "0140371": {
+    "zipcode": "0140371",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町大風呂"
+  },
+  "0140372": {
+    "zipcode": "0140372",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町小館"
+  },
+  "0140373": {
+    "zipcode": "0140373",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町岩瀬"
+  },
+  "0140374": {
+    "zipcode": "0140374",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町上野"
+  },
+  "0140375": {
+    "zipcode": "0140375",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町岩瀬下タ野"
+  },
+  "0140376": {
+    "zipcode": "0140376",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西下タ野"
+  },
+  "0140377": {
+    "zipcode": "0140377",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西田"
+  },
+  "0140378": {
+    "zipcode": "0140378",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西野川原"
+  },
+  "0140379": {
+    "zipcode": "0140379",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "角館町西北野"
+  },
+  "0140511": {
+    "zipcode": "0140511",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町西明寺"
+  },
+  "0140512": {
+    "zipcode": "0140512",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町上荒井"
+  },
+  "0140513": {
+    "zipcode": "0140513",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町小渕野"
+  },
+  "0140514": {
+    "zipcode": "0140514",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町西荒井"
+  },
+  "0140515": {
+    "zipcode": "0140515",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町門屋"
+  },
+  "0140516": {
+    "zipcode": "0140516",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町小山田"
+  },
+  "0140601": {
+    "zipcode": "0140601",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町上桧木内"
+  },
+  "0140602": {
+    "zipcode": "0140602",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "西木町桧木内"
+  },
+  "0140711": {
+    "zipcode": "0140711",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "豊川"
+  },
+  "0140712": {
+    "zipcode": "0140712",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "豊岡"
+  },
+  "0140713": {
+    "zipcode": "0140713",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "栗沢"
+  },
+  "0140714": {
+    "zipcode": "0140714",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "大神成"
+  },
+  "0140801": {
+    "zipcode": "0140801",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "戸地谷"
+  },
+  "0140802": {
+    "zipcode": "0140802",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "払田"
+  },
+  "0140803": {
+    "zipcode": "0140803",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "上野田"
+  },
+  "0140804": {
+    "zipcode": "0140804",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "橋本"
+  },
+  "0140805": {
+    "zipcode": "0140805",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "高梨"
+  },
+  "0141111": {
+    "zipcode": "0141111",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖岡崎"
+  },
+  "0141112": {
+    "zipcode": "0141112",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖梅沢"
+  },
+  "0141113": {
+    "zipcode": "0141113",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖卒田"
+  },
+  "0141114": {
+    "zipcode": "0141114",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖神代"
+  },
+  "0141115": {
+    "zipcode": "0141115",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖小松"
+  },
+  "0141116": {
+    "zipcode": "0141116",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖角館東前郷"
+  },
+  "0141201": {
+    "zipcode": "0141201",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖生保内"
+  },
+  "0141202": {
+    "zipcode": "0141202",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖刺巻"
+  },
+  "0141203": {
+    "zipcode": "0141203",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖潟"
+  },
+  "0141204": {
+    "zipcode": "0141204",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖田沢"
+  },
+  "0141205": {
+    "zipcode": "0141205",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "town": "田沢湖玉川"
+  },
+  "0141411": {
+    "zipcode": "0141411",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "六郷西根"
+  },
+  "0141412": {
+    "zipcode": "0141412",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "藤木"
+  },
+  "0141413": {
+    "zipcode": "0141413",
+    "prefectureCode": "05",
+    "prefectureNumber": 5,
+    "prefecture": "秋田県",
+    "city": "大仙市",
+    "town": "角間川町"
+  }
+}

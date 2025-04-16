@@ -1,0 +1,1682 @@
+{
+  "6050000": {
+    "zipcode": "6050000",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "以下に掲載がない場合"
+  },
+  "6050001": {
+    "zipcode": "6050001",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "二町目"
+  },
+  "6050002": {
+    "zipcode": "6050002",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "教業町"
+  },
+  "6050003": {
+    "zipcode": "6050003",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "若竹町"
+  },
+  "6050004": {
+    "zipcode": "6050004",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "若松町"
+  },
+  "6050005": {
+    "zipcode": "6050005",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "三町目"
+  },
+  "6050006": {
+    "zipcode": "6050006",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "新五軒町"
+  },
+  "6050007": {
+    "zipcode": "6050007",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "五軒町（大和大路通三条下る、大和大路通三条下る西入）"
+  },
+  "6050008": {
+    "zipcode": "6050008",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大黒町（大和大路三条下る）"
+  },
+  "6050009": {
+    "zipcode": "6050009",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大橋町"
+  },
+  "6050011": {
+    "zipcode": "6050011",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "七軒町（三条大橋東４丁目、三条大橋東入４丁目）"
+  },
+  "6050012": {
+    "zipcode": "6050012",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西海子町"
+  },
+  "6050013": {
+    "zipcode": "6050013",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南西海子町"
+  },
+  "6050014": {
+    "zipcode": "6050014",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "北木之元町"
+  },
+  "6050015": {
+    "zipcode": "6050015",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南木之元町"
+  },
+  "6050016": {
+    "zipcode": "6050016",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "進之町"
+  },
+  "6050017": {
+    "zipcode": "6050017",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "高畑町"
+  },
+  "6050018": {
+    "zipcode": "6050018",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "巽町"
+  },
+  "6050019": {
+    "zipcode": "6050019",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "長光町"
+  },
+  "6050021": {
+    "zipcode": "6050021",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "石泉院町"
+  },
+  "6050022": {
+    "zipcode": "6050022",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大井手町"
+  },
+  "6050023": {
+    "zipcode": "6050023",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今小路町"
+  },
+  "6050024": {
+    "zipcode": "6050024",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "土居之内町"
+  },
+  "6050025": {
+    "zipcode": "6050025",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "堤町"
+  },
+  "6050026": {
+    "zipcode": "6050026",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "古川町"
+  },
+  "6050027": {
+    "zipcode": "6050027",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "八軒町"
+  },
+  "6050028": {
+    "zipcode": "6050028",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "分木町"
+  },
+  "6050029": {
+    "zipcode": "6050029",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東姉小路町"
+  },
+  "6050031": {
+    "zipcode": "6050031",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "定法寺町"
+  },
+  "6050032": {
+    "zipcode": "6050032",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "柚之木町"
+  },
+  "6050033": {
+    "zipcode": "6050033",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "夷町"
+  },
+  "6050034": {
+    "zipcode": "6050034",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "中之町（三条通神宮道東入２丁目、三条通白川橋東入４丁目、三条通白川橋東４丁目）"
+  },
+  "6050035": {
+    "zipcode": "6050035",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "粟田口三条坊町"
+  },
+  "6050036": {
+    "zipcode": "6050036",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "五軒町（三条通白川橋東入、三条通白川橋下る東入、白川筋三条下る）"
+  },
+  "6050037": {
+    "zipcode": "6050037",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西町"
+  },
+  "6050038": {
+    "zipcode": "6050038",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "堀池町"
+  },
+  "6050041": {
+    "zipcode": "6050041",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東町"
+  },
+  "6050042": {
+    "zipcode": "6050042",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今道町"
+  },
+  "6050043": {
+    "zipcode": "6050043",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西小物座町"
+  },
+  "6050044": {
+    "zipcode": "6050044",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東小物座町"
+  },
+  "6050045": {
+    "zipcode": "6050045",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "谷川町"
+  },
+  "6050046": {
+    "zipcode": "6050046",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東分木町"
+  },
+  "6050051": {
+    "zipcode": "6050051",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "粟田口鍛冶町"
+  },
+  "6050052": {
+    "zipcode": "6050052",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "粟田口華頂町"
+  },
+  "6050061": {
+    "zipcode": "6050061",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "梅宮町"
+  },
+  "6050062": {
+    "zipcode": "6050062",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "林下町"
+  },
+  "6050063": {
+    "zipcode": "6050063",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "松原町"
+  },
+  "6050064": {
+    "zipcode": "6050064",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "梅本町"
+  },
+  "6050065": {
+    "zipcode": "6050065",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "古西町"
+  },
+  "6050066": {
+    "zipcode": "6050066",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "石橋町"
+  },
+  "6050067": {
+    "zipcode": "6050067",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "稲荷町南組"
+  },
+  "6050068": {
+    "zipcode": "6050068",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "稲荷町北組"
+  },
+  "6050069": {
+    "zipcode": "6050069",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "唐戸鼻町"
+  },
+  "6050071": {
+    "zipcode": "6050071",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "円山町"
+  },
+  "6050072": {
+    "zipcode": "6050072",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "鷲尾町"
+  },
+  "6050073": {
+    "zipcode": "6050073",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "祇園町北側"
+  },
+  "6050074": {
+    "zipcode": "6050074",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "祇園町南側"
+  },
+  "6050075": {
+    "zipcode": "6050075",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "中之町（四条通大和大路西入）"
+  },
+  "6050076": {
+    "zipcode": "6050076",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "川端町"
+  },
+  "6050077": {
+    "zipcode": "6050077",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "廿一軒町"
+  },
+  "6050078": {
+    "zipcode": "6050078",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "富永町"
+  },
+  "6050079": {
+    "zipcode": "6050079",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "常盤町（大和大路通四条上る、川端通四条上る）"
+  },
+  "6050081": {
+    "zipcode": "6050081",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "三吉町"
+  },
+  "6050082": {
+    "zipcode": "6050082",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "中之町（新門前通大和大路東入、新門前通大和大路東入２丁目）"
+  },
+  "6050083": {
+    "zipcode": "6050083",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "橋本町"
+  },
+  "6050084": {
+    "zipcode": "6050084",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清本町"
+  },
+  "6050085": {
+    "zipcode": "6050085",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "末吉町"
+  },
+  "6050086": {
+    "zipcode": "6050086",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "弁財天町"
+  },
+  "6050087": {
+    "zipcode": "6050087",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "元吉町"
+  },
+  "6050088": {
+    "zipcode": "6050088",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西之町"
+  },
+  "6050089": {
+    "zipcode": "6050089",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "元町"
+  },
+  "6050801": {
+    "zipcode": "6050801",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "宮川筋"
+  },
+  "6050802": {
+    "zipcode": "6050802",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大和町"
+  },
+  "6050803": {
+    "zipcode": "6050803",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "亀井町"
+  },
+  "6050804": {
+    "zipcode": "6050804",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "井手町"
+  },
+  "6050805": {
+    "zipcode": "6050805",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "博多町"
+  },
+  "6050806": {
+    "zipcode": "6050806",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "六軒町"
+  },
+  "6050807": {
+    "zipcode": "6050807",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上柳町"
+  },
+  "6050808": {
+    "zipcode": "6050808",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下柳町"
+  },
+  "6050811": {
+    "zipcode": "6050811",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "小松町"
+  },
+  "6050812": {
+    "zipcode": "6050812",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "毘沙門町"
+  },
+  "6050813": {
+    "zipcode": "6050813",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "轆轤町"
+  },
+  "6050814": {
+    "zipcode": "6050814",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "薬師町"
+  },
+  "6050815": {
+    "zipcode": "6050815",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "北御門町"
+  },
+  "6050816": {
+    "zipcode": "6050816",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西御門町"
+  },
+  "6050817": {
+    "zipcode": "6050817",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "弓矢町"
+  },
+  "6050821": {
+    "zipcode": "6050821",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清井町"
+  },
+  "6050822": {
+    "zipcode": "6050822",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上弁天町"
+  },
+  "6050823": {
+    "zipcode": "6050823",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下弁天町"
+  },
+  "6050824": {
+    "zipcode": "6050824",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南町"
+  },
+  "6050825": {
+    "zipcode": "6050825",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下河原町"
+  },
+  "6050826": {
+    "zipcode": "6050826",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "桝屋町"
+  },
+  "6050827": {
+    "zipcode": "6050827",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "八坂上町"
+  },
+  "6050828": {
+    "zipcode": "6050828",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "金園町"
+  },
+  "6050829": {
+    "zipcode": "6050829",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "月見町"
+  },
+  "6050831": {
+    "zipcode": "6050831",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "山城町"
+  },
+  "6050832": {
+    "zipcode": "6050832",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大黒町（大黒町通柿町下る、大黒町通五条上る、大黒町通五条上る２丁目、大黒町通松原下る３丁目）"
+  },
+  "6050833": {
+    "zipcode": "6050833",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "音羽町"
+  },
+  "6050834": {
+    "zipcode": "6050834",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "金屋町"
+  },
+  "6050835": {
+    "zipcode": "6050835",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "田中町"
+  },
+  "6050836": {
+    "zipcode": "6050836",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "森下町"
+  },
+  "6050837": {
+    "zipcode": "6050837",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "山田町"
+  },
+  "6050838": {
+    "zipcode": "6050838",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西川原町"
+  },
+  "6050839": {
+    "zipcode": "6050839",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東川原町"
+  },
+  "6050841": {
+    "zipcode": "6050841",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "山崎町"
+  },
+  "6050842": {
+    "zipcode": "6050842",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "三盛町"
+  },
+  "6050843": {
+    "zipcode": "6050843",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "門脇町"
+  },
+  "6050844": {
+    "zipcode": "6050844",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "多門町"
+  },
+  "6050845": {
+    "zipcode": "6050845",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "竹村町"
+  },
+  "6050846": {
+    "zipcode": "6050846",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "五条橋東"
+  },
+  "6050847": {
+    "zipcode": "6050847",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東橋詰町"
+  },
+  "6050848": {
+    "zipcode": "6050848",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "池殿町"
+  },
+  "6050851": {
+    "zipcode": "6050851",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "玉水町"
+  },
+  "6050852": {
+    "zipcode": "6050852",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上田町"
+  },
+  "6050853": {
+    "zipcode": "6050853",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "星野町"
+  },
+  "6050854": {
+    "zipcode": "6050854",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "月輪町"
+  },
+  "6050855": {
+    "zipcode": "6050855",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "辰巳町（東大路松原上る）"
+  },
+  "6050856": {
+    "zipcode": "6050856",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "新シ町"
+  },
+  "6050857": {
+    "zipcode": "6050857",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "興善町"
+  },
+  "6050858": {
+    "zipcode": "6050858",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "小島町"
+  },
+  "6050861": {
+    "zipcode": "6050861",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清閑寺霊山町"
+  },
+  "6050862": {
+    "zipcode": "6050862",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清水"
+  },
+  "6050863": {
+    "zipcode": "6050863",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "梅林町"
+  },
+  "6050864": {
+    "zipcode": "6050864",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "遊行前町"
+  },
+  "6050865": {
+    "zipcode": "6050865",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "白糸町"
+  },
+  "6050871": {
+    "zipcode": "6050871",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "慈法院庵町"
+  },
+  "6050872": {
+    "zipcode": "6050872",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東音羽町"
+  },
+  "6050873": {
+    "zipcode": "6050873",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下馬町"
+  },
+  "6050874": {
+    "zipcode": "6050874",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "常盤町（東大路通渋谷上る、渋谷通東大路東入、渋谷通東大路東入２丁目、東大路五条下る）"
+  },
+  "6050875": {
+    "zipcode": "6050875",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "鐘鋳町"
+  },
+  "6050876": {
+    "zipcode": "6050876",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上梅屋町"
+  },
+  "6050877": {
+    "zipcode": "6050877",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上新シ町"
+  },
+  "6050878": {
+    "zipcode": "6050878",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "芳野町"
+  },
+  "6050901": {
+    "zipcode": "6050901",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "朱雀町"
+  },
+  "6050902": {
+    "zipcode": "6050902",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "鞘町"
+  },
+  "6050903": {
+    "zipcode": "6050903",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上人町"
+  },
+  "6050904": {
+    "zipcode": "6050904",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大阪町"
+  },
+  "6050905": {
+    "zipcode": "6050905",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "豊浦町"
+  },
+  "6050906": {
+    "zipcode": "6050906",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東橘町"
+  },
+  "6050907": {
+    "zipcode": "6050907",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西橘町"
+  },
+  "6050908": {
+    "zipcode": "6050908",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "正面町"
+  },
+  "6050909": {
+    "zipcode": "6050909",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "鍵屋町"
+  },
+  "6050911": {
+    "zipcode": "6050911",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "袋町"
+  },
+  "6050912": {
+    "zipcode": "6050912",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "石垣町西側"
+  },
+  "6050913": {
+    "zipcode": "6050913",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "石垣町東側"
+  },
+  "6050914": {
+    "zipcode": "6050914",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下新シ町"
+  },
+  "6050915": {
+    "zipcode": "6050915",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下梅屋町"
+  },
+  "6050916": {
+    "zipcode": "6050916",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上棟梁町"
+  },
+  "6050917": {
+    "zipcode": "6050917",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "蛭子町北組"
+  },
+  "6050918": {
+    "zipcode": "6050918",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "北棟梁町"
+  },
+  "6050921": {
+    "zipcode": "6050921",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "瓦役町"
+  },
+  "6050922": {
+    "zipcode": "6050922",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清閑寺山ノ内町"
+  },
+  "6050923": {
+    "zipcode": "6050923",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "清閑寺池田町"
+  },
+  "6050924": {
+    "zipcode": "6050924",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野阿弥陀ケ峰町"
+  },
+  "6050925": {
+    "zipcode": "6050925",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野日吉町"
+  },
+  "6050926": {
+    "zipcode": "6050926",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野北日吉町"
+  },
+  "6050927": {
+    "zipcode": "6050927",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上馬町"
+  },
+  "6050931": {
+    "zipcode": "6050931",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "茶屋町"
+  },
+  "6050932": {
+    "zipcode": "6050932",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "妙法院前側町"
+  },
+  "6050933": {
+    "zipcode": "6050933",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "大和大路"
+  },
+  "6050934": {
+    "zipcode": "6050934",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "塗師屋町"
+  },
+  "6050935": {
+    "zipcode": "6050935",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西棟梁町"
+  },
+  "6050936": {
+    "zipcode": "6050936",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "蛭子町南組"
+  },
+  "6050937": {
+    "zipcode": "6050937",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下棟梁町"
+  },
+  "6050938": {
+    "zipcode": "6050938",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南梅屋町"
+  },
+  "6050941": {
+    "zipcode": "6050941",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "三十三間堂廻り町"
+  },
+  "6050942": {
+    "zipcode": "6050942",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "蒔田町"
+  },
+  "6050943": {
+    "zipcode": "6050943",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "七軒町（大和大路通七条下る３丁目、塩小路通大和大路西入）"
+  },
+  "6050944": {
+    "zipcode": "6050944",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南棟梁町"
+  },
+  "6050945": {
+    "zipcode": "6050945",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "辰巳町（大和大路通七条下る２丁目）"
+  },
+  "6050946": {
+    "zipcode": "6050946",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "北斗町"
+  },
+  "6050947": {
+    "zipcode": "6050947",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "西之門町"
+  },
+  "6050951": {
+    "zipcode": "6050951",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "東瓦町"
+  },
+  "6050952": {
+    "zipcode": "6050952",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野宝蔵町"
+  },
+  "6050953": {
+    "zipcode": "6050953",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野南日吉町"
+  },
+  "6050954": {
+    "zipcode": "6050954",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野小松山町"
+  },
+  "6050955": {
+    "zipcode": "6050955",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野総山町"
+  },
+  "6050956": {
+    "zipcode": "6050956",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野梅ケ谷町"
+  },
+  "6050957": {
+    "zipcode": "6050957",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野泉山町"
+  },
+  "6050961": {
+    "zipcode": "6050961",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "新瓦町西組"
+  },
+  "6050962": {
+    "zipcode": "6050962",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "新瓦町東組"
+  },
+  "6050963": {
+    "zipcode": "6050963",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "本瓦町"
+  },
+  "6050964": {
+    "zipcode": "6050964",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "南瓦町"
+  },
+  "6050965": {
+    "zipcode": "6050965",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野池田町"
+  },
+  "6050966": {
+    "zipcode": "6050966",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下池田町"
+  },
+  "6050967": {
+    "zipcode": "6050967",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "本池田町"
+  },
+  "6050968": {
+    "zipcode": "6050968",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上池田町"
+  },
+  "6050971": {
+    "zipcode": "6050971",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野椥ノ森町"
+  },
+  "6050972": {
+    "zipcode": "6050972",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野剣宮町"
+  },
+  "6050973": {
+    "zipcode": "6050973",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "泉涌寺門前町"
+  },
+  "6050974": {
+    "zipcode": "6050974",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "泉涌寺五葉ノ辻町"
+  },
+  "6050975": {
+    "zipcode": "6050975",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "泉涌寺雀ケ森町"
+  },
+  "6050976": {
+    "zipcode": "6050976",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "泉涌寺東林町"
+  },
+  "6050977": {
+    "zipcode": "6050977",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "泉涌寺山内町"
+  },
+  "6050978": {
+    "zipcode": "6050978",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野本多山町"
+  },
+  "6050979": {
+    "zipcode": "6050979",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "今熊野南谷町"
+  },
+  "6050981": {
+    "zipcode": "6050981",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "本町"
+  },
+  "6050982": {
+    "zipcode": "6050982",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲下高松町"
+  },
+  "6050983": {
+    "zipcode": "6050983",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲上高松町"
+  },
+  "6050984": {
+    "zipcode": "6050984",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲高原町"
+  },
+  "6050985": {
+    "zipcode": "6050985",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲柿本町"
+  },
+  "6050986": {
+    "zipcode": "6050986",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲岸ノ上町"
+  },
+  "6050987": {
+    "zipcode": "6050987",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲御所ノ内町"
+  },
+  "6050988": {
+    "zipcode": "6050988",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "福稲川原町"
+  },
+  "6050989": {
+    "zipcode": "6050989",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "本町新"
+  },
+  "6050991": {
+    "zipcode": "6050991",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "上堀詰町"
+  },
+  "6050992": {
+    "zipcode": "6050992",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "下堀詰町"
+  },
+  "6050993": {
+    "zipcode": "6050993",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "日吉町"
+  },
+  "6050994": {
+    "zipcode": "6050994",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "一橋宮ノ内町"
+  },
+  "6050995": {
+    "zipcode": "6050995",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "town": "一橋野本町"
+  }
+}

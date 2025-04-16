@@ -1,0 +1,730 @@
+{
+  "4260000": {
+    "zipcode": "4260000",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "以下に掲載がない場合"
+  },
+  "4260001": {
+    "zipcode": "4260001",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "仮宿"
+  },
+  "4260002": {
+    "zipcode": "4260002",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "横内"
+  },
+  "4260003": {
+    "zipcode": "4260003",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "下当間"
+  },
+  "4260004": {
+    "zipcode": "4260004",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "上当間"
+  },
+  "4260005": {
+    "zipcode": "4260005",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "水守"
+  },
+  "4260006": {
+    "zipcode": "4260006",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "藤岡"
+  },
+  "4260007": {
+    "zipcode": "4260007",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "潮"
+  },
+  "4260008": {
+    "zipcode": "4260008",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "鬼島"
+  },
+  "4260009": {
+    "zipcode": "4260009",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "八幡"
+  },
+  "4260011": {
+    "zipcode": "4260011",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "平島"
+  },
+  "4260012": {
+    "zipcode": "4260012",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "田中"
+  },
+  "4260013": {
+    "zipcode": "4260013",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "立花"
+  },
+  "4260014": {
+    "zipcode": "4260014",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "若王子"
+  },
+  "4260015": {
+    "zipcode": "4260015",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "五十海"
+  },
+  "4260016": {
+    "zipcode": "4260016",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "郡"
+  },
+  "4260017": {
+    "zipcode": "4260017",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "大手"
+  },
+  "4260018": {
+    "zipcode": "4260018",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "本町"
+  },
+  "4260019": {
+    "zipcode": "4260019",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "天王町"
+  },
+  "4260021": {
+    "zipcode": "4260021",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "城南"
+  },
+  "4260022": {
+    "zipcode": "4260022",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "稲川"
+  },
+  "4260023": {
+    "zipcode": "4260023",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "茶町"
+  },
+  "4260024": {
+    "zipcode": "4260024",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "鬼岩寺"
+  },
+  "4260025": {
+    "zipcode": "4260025",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "藤枝"
+  },
+  "4260026": {
+    "zipcode": "4260026",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "岡出山"
+  },
+  "4260027": {
+    "zipcode": "4260027",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "緑町"
+  },
+  "4260028": {
+    "zipcode": "4260028",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "益津下"
+  },
+  "4260029": {
+    "zipcode": "4260029",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "益津"
+  },
+  "4260031": {
+    "zipcode": "4260031",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "築地"
+  },
+  "4260032": {
+    "zipcode": "4260032",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "築地上"
+  },
+  "4260033": {
+    "zipcode": "4260033",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "小石川町"
+  },
+  "4260034": {
+    "zipcode": "4260034",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "駅前"
+  },
+  "4260035": {
+    "zipcode": "4260035",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "下青島"
+  },
+  "4260036": {
+    "zipcode": "4260036",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "上青島"
+  },
+  "4260037": {
+    "zipcode": "4260037",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "青木"
+  },
+  "4260038": {
+    "zipcode": "4260038",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "東町"
+  },
+  "4260041": {
+    "zipcode": "4260041",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "高柳"
+  },
+  "4260042": {
+    "zipcode": "4260042",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "兵太夫"
+  },
+  "4260043": {
+    "zipcode": "4260043",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "大新島"
+  },
+  "4260044": {
+    "zipcode": "4260044",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "大東町"
+  },
+  "4260045": {
+    "zipcode": "4260045",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "泉町"
+  },
+  "4260046": {
+    "zipcode": "4260046",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "高洲"
+  },
+  "4260047": {
+    "zipcode": "4260047",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "与左衛門"
+  },
+  "4260051": {
+    "zipcode": "4260051",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "大洲"
+  },
+  "4260052": {
+    "zipcode": "4260052",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "弥左衛門"
+  },
+  "4260053": {
+    "zipcode": "4260053",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "善左衛門"
+  },
+  "4260054": {
+    "zipcode": "4260054",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "源助"
+  },
+  "4260055": {
+    "zipcode": "4260055",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "大西町"
+  },
+  "4260056": {
+    "zipcode": "4260056",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "五平"
+  },
+  "4260057": {
+    "zipcode": "4260057",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "忠兵衛"
+  },
+  "4260061": {
+    "zipcode": "4260061",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "田沼"
+  },
+  "4260062": {
+    "zipcode": "4260062",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "高岡"
+  },
+  "4260063": {
+    "zipcode": "4260063",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "青南町"
+  },
+  "4260064": {
+    "zipcode": "4260064",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "久兵衛市右衛門請新田"
+  },
+  "4260065": {
+    "zipcode": "4260065",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "末広"
+  },
+  "4260066": {
+    "zipcode": "4260066",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "青葉町"
+  },
+  "4260067": {
+    "zipcode": "4260067",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "前島"
+  },
+  "4260070": {
+    "zipcode": "4260070",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "緑の丘"
+  },
+  "4260071": {
+    "zipcode": "4260071",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "志太"
+  },
+  "4260072": {
+    "zipcode": "4260072",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "南新屋"
+  },
+  "4260073": {
+    "zipcode": "4260073",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "新南新屋"
+  },
+  "4260074": {
+    "zipcode": "4260074",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "水上"
+  },
+  "4260075": {
+    "zipcode": "4260075",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "瀬戸新屋"
+  },
+  "4260076": {
+    "zipcode": "4260076",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "内瀬戸"
+  },
+  "4260077": {
+    "zipcode": "4260077",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "駿河台"
+  },
+  "4260078": {
+    "zipcode": "4260078",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "南駿河台"
+  },
+  "4260079": {
+    "zipcode": "4260079",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "光洋台"
+  },
+  "4260081": {
+    "zipcode": "4260081",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "旭が丘"
+  },
+  "4260082": {
+    "zipcode": "4260082",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "瀬古"
+  },
+  "4260083": {
+    "zipcode": "4260083",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "谷稲葉"
+  },
+  "4260084": {
+    "zipcode": "4260084",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "寺島"
+  },
+  "4260085": {
+    "zipcode": "4260085",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "助宗"
+  },
+  "4260086": {
+    "zipcode": "4260086",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "原"
+  },
+  "4260087": {
+    "zipcode": "4260087",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "音羽町"
+  },
+  "4260088": {
+    "zipcode": "4260088",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "堀之内"
+  },
+  "4260131": {
+    "zipcode": "4260131",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "瀬戸ノ谷"
+  },
+  "4260132": {
+    "zipcode": "4260132",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "本郷"
+  },
+  "4260133": {
+    "zipcode": "4260133",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "宮原"
+  },
+  "4260134": {
+    "zipcode": "4260134",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "滝沢"
+  },
+  "4260201": {
+    "zipcode": "4260201",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "下藪田"
+  },
+  "4260202": {
+    "zipcode": "4260202",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "上藪田"
+  },
+  "4260203": {
+    "zipcode": "4260203",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "下之郷"
+  },
+  "4260204": {
+    "zipcode": "4260204",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "時ケ谷"
+  },
+  "4260205": {
+    "zipcode": "4260205",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "花倉"
+  },
+  "4260211": {
+    "zipcode": "4260211",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "西方"
+  },
+  "4260212": {
+    "zipcode": "4260212",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "北方"
+  },
+  "4260213": {
+    "zipcode": "4260213",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "中ノ合"
+  },
+  "4260221": {
+    "zipcode": "4260221",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "高田"
+  },
+  "4260222": {
+    "zipcode": "4260222",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "中藪田"
+  },
+  "4260223": {
+    "zipcode": "4260223",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "清里"
+  },
+  "4260224": {
+    "zipcode": "4260224",
+    "prefectureCode": "22",
+    "prefectureNumber": 22,
+    "prefecture": "静岡県",
+    "city": "藤枝市",
+    "town": "南清里"
+  }
+}

@@ -1,0 +1,1202 @@
+{
+  "7900001": {
+    "zipcode": "7900001",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "一番町"
+  },
+  "7900002": {
+    "zipcode": "7900002",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "二番町"
+  },
+  "7900003": {
+    "zipcode": "7900003",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "三番町"
+  },
+  "7900004": {
+    "zipcode": "7900004",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "大街道"
+  },
+  "7900005": {
+    "zipcode": "7900005",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "花園町"
+  },
+  "7900006": {
+    "zipcode": "7900006",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南堀端町"
+  },
+  "7900007": {
+    "zipcode": "7900007",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "堀之内"
+  },
+  "7900008": {
+    "zipcode": "7900008",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "丸之内"
+  },
+  "7900011": {
+    "zipcode": "7900011",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "千舟町"
+  },
+  "7900012": {
+    "zipcode": "7900012",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "湊町"
+  },
+  "7900013": {
+    "zipcode": "7900013",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "河原町"
+  },
+  "7900014": {
+    "zipcode": "7900014",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "柳井町"
+  },
+  "7900021": {
+    "zipcode": "7900021",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "真砂町"
+  },
+  "7900022": {
+    "zipcode": "7900022",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "永代町"
+  },
+  "7900023": {
+    "zipcode": "7900023",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "末広町"
+  },
+  "7900024": {
+    "zipcode": "7900024",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "春日町"
+  },
+  "7900025": {
+    "zipcode": "7900025",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "泉町"
+  },
+  "7900026": {
+    "zipcode": "7900026",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "室町"
+  },
+  "7900031": {
+    "zipcode": "7900031",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "雄郡"
+  },
+  "7900032": {
+    "zipcode": "7900032",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "土橋町"
+  },
+  "7900033": {
+    "zipcode": "7900033",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "北藤原町"
+  },
+  "7900034": {
+    "zipcode": "7900034",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "藤原町"
+  },
+  "7900035": {
+    "zipcode": "7900035",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "藤原"
+  },
+  "7900036": {
+    "zipcode": "7900036",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "小栗"
+  },
+  "7900037": {
+    "zipcode": "7900037",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "小栗町"
+  },
+  "7900038": {
+    "zipcode": "7900038",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "和泉北"
+  },
+  "7900041": {
+    "zipcode": "7900041",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "保免上"
+  },
+  "7900042": {
+    "zipcode": "7900042",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "保免中"
+  },
+  "7900043": {
+    "zipcode": "7900043",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "保免西"
+  },
+  "7900044": {
+    "zipcode": "7900044",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "余戸東"
+  },
+  "7900045": {
+    "zipcode": "7900045",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "余戸中"
+  },
+  "7900046": {
+    "zipcode": "7900046",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "余戸西"
+  },
+  "7900047": {
+    "zipcode": "7900047",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "余戸南"
+  },
+  "7900048": {
+    "zipcode": "7900048",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "出合"
+  },
+  "7900051": {
+    "zipcode": "7900051",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "生石町"
+  },
+  "7900052": {
+    "zipcode": "7900052",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "竹原町"
+  },
+  "7900053": {
+    "zipcode": "7900053",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "竹原"
+  },
+  "7900054": {
+    "zipcode": "7900054",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "空港通（１、２丁目）"
+  },
+  "7900055": {
+    "zipcode": "7900055",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "針田町"
+  },
+  "7900056": {
+    "zipcode": "7900056",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "土居田町"
+  },
+  "7900061": {
+    "zipcode": "7900061",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南江戸町"
+  },
+  "7900062": {
+    "zipcode": "7900062",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南江戸"
+  },
+  "7900063": {
+    "zipcode": "7900063",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "辻町"
+  },
+  "7900064": {
+    "zipcode": "7900064",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "愛光町"
+  },
+  "7900065": {
+    "zipcode": "7900065",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "宮西"
+  },
+  "7900066": {
+    "zipcode": "7900066",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "宮田町"
+  },
+  "7900067": {
+    "zipcode": "7900067",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "大手町"
+  },
+  "7900801": {
+    "zipcode": "7900801",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "歩行町"
+  },
+  "7900802": {
+    "zipcode": "7900802",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "喜与町"
+  },
+  "7900803": {
+    "zipcode": "7900803",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "東雲町"
+  },
+  "7900804": {
+    "zipcode": "7900804",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "中一万町"
+  },
+  "7900805": {
+    "zipcode": "7900805",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "西一万町"
+  },
+  "7900806": {
+    "zipcode": "7900806",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "緑町"
+  },
+  "7900807": {
+    "zipcode": "7900807",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "平和通"
+  },
+  "7900808": {
+    "zipcode": "7900808",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "若草町"
+  },
+  "7900811": {
+    "zipcode": "7900811",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "本町"
+  },
+  "7900812": {
+    "zipcode": "7900812",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "松前町"
+  },
+  "7900813": {
+    "zipcode": "7900813",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "萱町"
+  },
+  "7900814": {
+    "zipcode": "7900814",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "味酒町"
+  },
+  "7900821": {
+    "zipcode": "7900821",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "木屋町"
+  },
+  "7900822": {
+    "zipcode": "7900822",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "高砂町"
+  },
+  "7900823": {
+    "zipcode": "7900823",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "清水町"
+  },
+  "7900824": {
+    "zipcode": "7900824",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "御幸"
+  },
+  "7900825": {
+    "zipcode": "7900825",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後樋又"
+  },
+  "7900826": {
+    "zipcode": "7900826",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "文京町"
+  },
+  "7900827": {
+    "zipcode": "7900827",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "鉄砲町"
+  },
+  "7900831": {
+    "zipcode": "7900831",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "山田町"
+  },
+  "7900832": {
+    "zipcode": "7900832",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "祝谷西町"
+  },
+  "7900833": {
+    "zipcode": "7900833",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "祝谷"
+  },
+  "7900834": {
+    "zipcode": "7900834",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "祝谷町"
+  },
+  "7900835": {
+    "zipcode": "7900835",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "祝谷東町"
+  },
+  "7900836": {
+    "zipcode": "7900836",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後鷺谷町"
+  },
+  "7900837": {
+    "zipcode": "7900837",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後湯月町"
+  },
+  "7900838": {
+    "zipcode": "7900838",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "桜谷町"
+  },
+  "7900841": {
+    "zipcode": "7900841",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後多幸町"
+  },
+  "7900842": {
+    "zipcode": "7900842",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後湯之町"
+  },
+  "7900843": {
+    "zipcode": "7900843",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後町（１、２丁目）"
+  },
+  "7900844": {
+    "zipcode": "7900844",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後一万"
+  },
+  "7900845": {
+    "zipcode": "7900845",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後今市"
+  },
+  "7900846": {
+    "zipcode": "7900846",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後北代"
+  },
+  "7900847": {
+    "zipcode": "7900847",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後緑台"
+  },
+  "7900848": {
+    "zipcode": "7900848",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後喜多町"
+  },
+  "7900851": {
+    "zipcode": "7900851",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "常光寺町"
+  },
+  "7900852": {
+    "zipcode": "7900852",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "石手"
+  },
+  "7900853": {
+    "zipcode": "7900853",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "上市"
+  },
+  "7900854": {
+    "zipcode": "7900854",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "岩崎町"
+  },
+  "7900855": {
+    "zipcode": "7900855",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "持田町"
+  },
+  "7900856": {
+    "zipcode": "7900856",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南町"
+  },
+  "7900857": {
+    "zipcode": "7900857",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後公園"
+  },
+  "7900858": {
+    "zipcode": "7900858",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "道後姫塚"
+  },
+  "7900861": {
+    "zipcode": "7900861",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "紅葉町"
+  },
+  "7900862": {
+    "zipcode": "7900862",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "湯渡町"
+  },
+  "7900863": {
+    "zipcode": "7900863",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "此花町"
+  },
+  "7900864": {
+    "zipcode": "7900864",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "築山町"
+  },
+  "7900865": {
+    "zipcode": "7900865",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "新立町"
+  },
+  "7900866": {
+    "zipcode": "7900866",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "永木町"
+  },
+  "7900867": {
+    "zipcode": "7900867",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "北立花町"
+  },
+  "7900871": {
+    "zipcode": "7900871",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "東一万町"
+  },
+  "7900872": {
+    "zipcode": "7900872",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "昭和町"
+  },
+  "7900873": {
+    "zipcode": "7900873",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "北持田町"
+  },
+  "7900874": {
+    "zipcode": "7900874",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南持田町"
+  },
+  "7900875": {
+    "zipcode": "7900875",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "御宝町"
+  },
+  "7900876": {
+    "zipcode": "7900876",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "旭町"
+  },
+  "7900877": {
+    "zipcode": "7900877",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "錦町"
+  },
+  "7900878": {
+    "zipcode": "7900878",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "勝山町"
+  },
+  "7900901": {
+    "zipcode": "7900901",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "新石手"
+  },
+  "7900902": {
+    "zipcode": "7900902",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "石手白石"
+  },
+  "7900903": {
+    "zipcode": "7900903",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "東野"
+  },
+  "7900904": {
+    "zipcode": "7900904",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "正円寺"
+  },
+  "7900905": {
+    "zipcode": "7900905",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "樽味"
+  },
+  "7900911": {
+    "zipcode": "7900911",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "桑原"
+  },
+  "7900912": {
+    "zipcode": "7900912",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "畑寺町"
+  },
+  "7900913": {
+    "zipcode": "7900913",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "畑寺"
+  },
+  "7900914": {
+    "zipcode": "7900914",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "三町"
+  },
+  "7900915": {
+    "zipcode": "7900915",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "松末"
+  },
+  "7900916": {
+    "zipcode": "7900916",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "束本"
+  },
+  "7900921": {
+    "zipcode": "7900921",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "福音寺町"
+  },
+  "7900922": {
+    "zipcode": "7900922",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "星岡町"
+  },
+  "7900923": {
+    "zipcode": "7900923",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "北久米町"
+  },
+  "7900924": {
+    "zipcode": "7900924",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "南久米町"
+  },
+  "7900925": {
+    "zipcode": "7900925",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "鷹子町"
+  },
+  "7900931": {
+    "zipcode": "7900931",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "西石井"
+  },
+  "7900932": {
+    "zipcode": "7900932",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "東石井"
+  },
+  "7900933": {
+    "zipcode": "7900933",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "越智"
+  },
+  "7900934": {
+    "zipcode": "7900934",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "居相"
+  },
+  "7900941": {
+    "zipcode": "7900941",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "和泉南"
+  },
+  "7900942": {
+    "zipcode": "7900942",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "古川北"
+  },
+  "7900943": {
+    "zipcode": "7900943",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "古川南"
+  },
+  "7900944": {
+    "zipcode": "7900944",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "古川西"
+  },
+  "7900945": {
+    "zipcode": "7900945",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "古川町"
+  },
+  "7900946": {
+    "zipcode": "7900946",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "市坪北"
+  },
+  "7900947": {
+    "zipcode": "7900947",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "市坪南"
+  },
+  "7900948": {
+    "zipcode": "7900948",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "市坪西町"
+  },
+  "7900951": {
+    "zipcode": "7900951",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "天山町"
+  },
+  "7900952": {
+    "zipcode": "7900952",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "朝生田町"
+  },
+  "7900961": {
+    "zipcode": "7900961",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "日の出町"
+  },
+  "7900962": {
+    "zipcode": "7900962",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "枝松"
+  },
+  "7900963": {
+    "zipcode": "7900963",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "小坂"
+  },
+  "7900964": {
+    "zipcode": "7900964",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "中村"
+  },
+  "7900965": {
+    "zipcode": "7900965",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "祇園町"
+  },
+  "7900966": {
+    "zipcode": "7900966",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "立花"
+  },
+  "7900967": {
+    "zipcode": "7900967",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "拓川町"
+  },
+  "7902641": {
+    "zipcode": "7902641",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "柳谷町"
+  },
+  "7902642": {
+    "zipcode": "7902642",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "恩地町"
+  },
+  "7902643": {
+    "zipcode": "7902643",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "梅木町"
+  },
+  "7902644": {
+    "zipcode": "7902644",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "上総町"
+  },
+  "7902645": {
+    "zipcode": "7902645",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "小屋町"
+  },
+  "7902646": {
+    "zipcode": "7902646",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "神次郎町"
+  },
+  "7902647": {
+    "zipcode": "7902647",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "城山町"
+  },
+  "7902648": {
+    "zipcode": "7902648",
+    "prefectureCode": "38",
+    "prefectureNumber": 38,
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "town": "菅沢町"
+  }
+}

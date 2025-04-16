@@ -1,0 +1,330 @@
+{
+  "0260000": {
+    "zipcode": "0260000",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "以下に掲載がない場合"
+  },
+  "0260001": {
+    "zipcode": "0260001",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "平田"
+  },
+  "0260002": {
+    "zipcode": "0260002",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "大平町"
+  },
+  "0260003": {
+    "zipcode": "0260003",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "嬉石町"
+  },
+  "0260004": {
+    "zipcode": "0260004",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "松原町"
+  },
+  "0260005": {
+    "zipcode": "0260005",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "平田町"
+  },
+  "0260011": {
+    "zipcode": "0260011",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "港町"
+  },
+  "0260012": {
+    "zipcode": "0260012",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "魚河岸"
+  },
+  "0260013": {
+    "zipcode": "0260013",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "浜町"
+  },
+  "0260014": {
+    "zipcode": "0260014",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "東前町"
+  },
+  "0260015": {
+    "zipcode": "0260015",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "新浜町"
+  },
+  "0260021": {
+    "zipcode": "0260021",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "只越町"
+  },
+  "0260022": {
+    "zipcode": "0260022",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "大只越町"
+  },
+  "0260023": {
+    "zipcode": "0260023",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "天神町"
+  },
+  "0260024": {
+    "zipcode": "0260024",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "大町"
+  },
+  "0260025": {
+    "zipcode": "0260025",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "大渡町"
+  },
+  "0260026": {
+    "zipcode": "0260026",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "釜石"
+  },
+  "0260031": {
+    "zipcode": "0260031",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "鈴子町"
+  },
+  "0260032": {
+    "zipcode": "0260032",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "千鳥町"
+  },
+  "0260033": {
+    "zipcode": "0260033",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "駒木町"
+  },
+  "0260034": {
+    "zipcode": "0260034",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "中妻町"
+  },
+  "0260035": {
+    "zipcode": "0260035",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "八雲町"
+  },
+  "0260041": {
+    "zipcode": "0260041",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "上中島町"
+  },
+  "0260042": {
+    "zipcode": "0260042",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "源太沢町"
+  },
+  "0260043": {
+    "zipcode": "0260043",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "新町"
+  },
+  "0260044": {
+    "zipcode": "0260044",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "住吉町"
+  },
+  "0260045": {
+    "zipcode": "0260045",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "小川町"
+  },
+  "0260046": {
+    "zipcode": "0260046",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "桜木町"
+  },
+  "0260051": {
+    "zipcode": "0260051",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "礼ケ口町"
+  },
+  "0260052": {
+    "zipcode": "0260052",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "小佐野町"
+  },
+  "0260053": {
+    "zipcode": "0260053",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "定内町"
+  },
+  "0260054": {
+    "zipcode": "0260054",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "野田町"
+  },
+  "0260055": {
+    "zipcode": "0260055",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "甲子町"
+  },
+  "0260061": {
+    "zipcode": "0260061",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "唐丹町（鍋倉）"
+  },
+  "0260121": {
+    "zipcode": "0260121",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "唐丹町（その他）"
+  },
+  "0260301": {
+    "zipcode": "0260301",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "鵜住居町"
+  },
+  "0260302": {
+    "zipcode": "0260302",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "片岸町"
+  },
+  "0260303": {
+    "zipcode": "0260303",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "箱崎町"
+  },
+  "0260304": {
+    "zipcode": "0260304",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "両石町"
+  },
+  "0260411": {
+    "zipcode": "0260411",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "橋野町"
+  },
+  "0260412": {
+    "zipcode": "0260412",
+    "prefectureCode": "03",
+    "prefectureNumber": 3,
+    "prefecture": "岩手県",
+    "city": "釜石市",
+    "town": "栗林町"
+  }
+}

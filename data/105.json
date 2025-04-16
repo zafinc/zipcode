@@ -1,0 +1,4170 @@
+{
+  "1050000": {
+    "zipcode": "1050000",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "以下に掲載がない場合"
+  },
+  "1050001": {
+    "zipcode": "1050001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門（次のビルを除く）"
+  },
+  "1050002": {
+    "zipcode": "1050002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕（次のビルを除く）"
+  },
+  "1050003": {
+    "zipcode": "1050003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "西新橋"
+  },
+  "1050004": {
+    "zipcode": "1050004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "新橋"
+  },
+  "1050011": {
+    "zipcode": "1050011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "芝公園"
+  },
+  "1050012": {
+    "zipcode": "1050012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "芝大門"
+  },
+  "1050013": {
+    "zipcode": "1050013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町（次のビルを除く）"
+  },
+  "1050014": {
+    "zipcode": "1050014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "芝（１〜３丁目）"
+  },
+  "1050021": {
+    "zipcode": "1050021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋（次のビルを除く）"
+  },
+  "1050022": {
+    "zipcode": "1050022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸（１、２丁目）"
+  },
+  "1050023": {
+    "zipcode": "1050023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "芝浦（１丁目）"
+  },
+  "1055101": {
+    "zipcode": "1055101",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１階）"
+  },
+  "1055102": {
+    "zipcode": "1055102",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２階）"
+  },
+  "1055103": {
+    "zipcode": "1055103",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３階）"
+  },
+  "1055104": {
+    "zipcode": "1055104",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（４階）"
+  },
+  "1055105": {
+    "zipcode": "1055105",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（５階）"
+  },
+  "1055106": {
+    "zipcode": "1055106",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（６階）"
+  },
+  "1055107": {
+    "zipcode": "1055107",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（７階）"
+  },
+  "1055108": {
+    "zipcode": "1055108",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（８階）"
+  },
+  "1055109": {
+    "zipcode": "1055109",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（９階）"
+  },
+  "1055110": {
+    "zipcode": "1055110",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１０階）"
+  },
+  "1055111": {
+    "zipcode": "1055111",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１１階）"
+  },
+  "1055112": {
+    "zipcode": "1055112",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１２階）"
+  },
+  "1055113": {
+    "zipcode": "1055113",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１３階）"
+  },
+  "1055114": {
+    "zipcode": "1055114",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１４階）"
+  },
+  "1055115": {
+    "zipcode": "1055115",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１５階）"
+  },
+  "1055116": {
+    "zipcode": "1055116",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１６階）"
+  },
+  "1055117": {
+    "zipcode": "1055117",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１７階）"
+  },
+  "1055118": {
+    "zipcode": "1055118",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１８階）"
+  },
+  "1055119": {
+    "zipcode": "1055119",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（１９階）"
+  },
+  "1055120": {
+    "zipcode": "1055120",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２０階）"
+  },
+  "1055121": {
+    "zipcode": "1055121",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２１階）"
+  },
+  "1055122": {
+    "zipcode": "1055122",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２２階）"
+  },
+  "1055123": {
+    "zipcode": "1055123",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２３階）"
+  },
+  "1055124": {
+    "zipcode": "1055124",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２４階）"
+  },
+  "1055125": {
+    "zipcode": "1055125",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２５階）"
+  },
+  "1055126": {
+    "zipcode": "1055126",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２６階）"
+  },
+  "1055127": {
+    "zipcode": "1055127",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２７階）"
+  },
+  "1055128": {
+    "zipcode": "1055128",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２８階）"
+  },
+  "1055129": {
+    "zipcode": "1055129",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（２９階）"
+  },
+  "1055130": {
+    "zipcode": "1055130",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３０階）"
+  },
+  "1055131": {
+    "zipcode": "1055131",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３１階）"
+  },
+  "1055132": {
+    "zipcode": "1055132",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３２階）"
+  },
+  "1055133": {
+    "zipcode": "1055133",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３３階）"
+  },
+  "1055134": {
+    "zipcode": "1055134",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３４階）"
+  },
+  "1055135": {
+    "zipcode": "1055135",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３５階）"
+  },
+  "1055136": {
+    "zipcode": "1055136",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３６階）"
+  },
+  "1055137": {
+    "zipcode": "1055137",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３７階）"
+  },
+  "1055138": {
+    "zipcode": "1055138",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（３８階）"
+  },
+  "1055190": {
+    "zipcode": "1055190",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "浜松町世界貿易センタービルディング南館（地階・階層不明）"
+  },
+  "1055501": {
+    "zipcode": "1055501",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１階）"
+  },
+  "1055502": {
+    "zipcode": "1055502",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２階）"
+  },
+  "1055503": {
+    "zipcode": "1055503",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３階）"
+  },
+  "1055504": {
+    "zipcode": "1055504",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４階）"
+  },
+  "1055505": {
+    "zipcode": "1055505",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（５階）"
+  },
+  "1055506": {
+    "zipcode": "1055506",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（６階）"
+  },
+  "1055507": {
+    "zipcode": "1055507",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（７階）"
+  },
+  "1055508": {
+    "zipcode": "1055508",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（８階）"
+  },
+  "1055509": {
+    "zipcode": "1055509",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（９階）"
+  },
+  "1055510": {
+    "zipcode": "1055510",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１０階）"
+  },
+  "1055515": {
+    "zipcode": "1055515",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１５階）"
+  },
+  "1055516": {
+    "zipcode": "1055516",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１６階）"
+  },
+  "1055517": {
+    "zipcode": "1055517",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１７階）"
+  },
+  "1055518": {
+    "zipcode": "1055518",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１８階）"
+  },
+  "1055519": {
+    "zipcode": "1055519",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（１９階）"
+  },
+  "1055520": {
+    "zipcode": "1055520",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２０階）"
+  },
+  "1055521": {
+    "zipcode": "1055521",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２１階）"
+  },
+  "1055522": {
+    "zipcode": "1055522",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２２階）"
+  },
+  "1055523": {
+    "zipcode": "1055523",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２３階）"
+  },
+  "1055524": {
+    "zipcode": "1055524",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２４階）"
+  },
+  "1055525": {
+    "zipcode": "1055525",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２５階）"
+  },
+  "1055526": {
+    "zipcode": "1055526",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２６階）"
+  },
+  "1055527": {
+    "zipcode": "1055527",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２７階）"
+  },
+  "1055528": {
+    "zipcode": "1055528",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２８階）"
+  },
+  "1055529": {
+    "zipcode": "1055529",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（２９階）"
+  },
+  "1055530": {
+    "zipcode": "1055530",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３０階）"
+  },
+  "1055531": {
+    "zipcode": "1055531",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３１階）"
+  },
+  "1055532": {
+    "zipcode": "1055532",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３２階）"
+  },
+  "1055533": {
+    "zipcode": "1055533",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３３階）"
+  },
+  "1055534": {
+    "zipcode": "1055534",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３４階）"
+  },
+  "1055535": {
+    "zipcode": "1055535",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３５階）"
+  },
+  "1055536": {
+    "zipcode": "1055536",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３６階）"
+  },
+  "1055537": {
+    "zipcode": "1055537",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３７階）"
+  },
+  "1055538": {
+    "zipcode": "1055538",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３８階）"
+  },
+  "1055539": {
+    "zipcode": "1055539",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（３９階）"
+  },
+  "1055540": {
+    "zipcode": "1055540",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４０階）"
+  },
+  "1055541": {
+    "zipcode": "1055541",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４１階）"
+  },
+  "1055542": {
+    "zipcode": "1055542",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４２階）"
+  },
+  "1055543": {
+    "zipcode": "1055543",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４３階）"
+  },
+  "1055544": {
+    "zipcode": "1055544",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４４階）"
+  },
+  "1055545": {
+    "zipcode": "1055545",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４５階）"
+  },
+  "1055546": {
+    "zipcode": "1055546",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４６階）"
+  },
+  "1055547": {
+    "zipcode": "1055547",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４７階）"
+  },
+  "1055548": {
+    "zipcode": "1055548",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４８階）"
+  },
+  "1055549": {
+    "zipcode": "1055549",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（４９階）"
+  },
+  "1055590": {
+    "zipcode": "1055590",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズステーションタワー（地階・階層不明）"
+  },
+  "1056001": {
+    "zipcode": "1056001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１階）"
+  },
+  "1056002": {
+    "zipcode": "1056002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２階）"
+  },
+  "1056003": {
+    "zipcode": "1056003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３階）"
+  },
+  "1056004": {
+    "zipcode": "1056004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（４階）"
+  },
+  "1056005": {
+    "zipcode": "1056005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（５階）"
+  },
+  "1056006": {
+    "zipcode": "1056006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（６階）"
+  },
+  "1056007": {
+    "zipcode": "1056007",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（７階）"
+  },
+  "1056008": {
+    "zipcode": "1056008",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（８階）"
+  },
+  "1056009": {
+    "zipcode": "1056009",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（９階）"
+  },
+  "1056010": {
+    "zipcode": "1056010",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１０階）"
+  },
+  "1056011": {
+    "zipcode": "1056011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１１階）"
+  },
+  "1056012": {
+    "zipcode": "1056012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１２階）"
+  },
+  "1056013": {
+    "zipcode": "1056013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１３階）"
+  },
+  "1056014": {
+    "zipcode": "1056014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１４階）"
+  },
+  "1056015": {
+    "zipcode": "1056015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１５階）"
+  },
+  "1056016": {
+    "zipcode": "1056016",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１６階）"
+  },
+  "1056017": {
+    "zipcode": "1056017",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１７階）"
+  },
+  "1056018": {
+    "zipcode": "1056018",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１８階）"
+  },
+  "1056019": {
+    "zipcode": "1056019",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（１９階）"
+  },
+  "1056020": {
+    "zipcode": "1056020",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２０階）"
+  },
+  "1056021": {
+    "zipcode": "1056021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２１階）"
+  },
+  "1056022": {
+    "zipcode": "1056022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２２階）"
+  },
+  "1056023": {
+    "zipcode": "1056023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２３階）"
+  },
+  "1056024": {
+    "zipcode": "1056024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２４階）"
+  },
+  "1056025": {
+    "zipcode": "1056025",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２５階）"
+  },
+  "1056026": {
+    "zipcode": "1056026",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２６階）"
+  },
+  "1056027": {
+    "zipcode": "1056027",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２７階）"
+  },
+  "1056028": {
+    "zipcode": "1056028",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２８階）"
+  },
+  "1056029": {
+    "zipcode": "1056029",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（２９階）"
+  },
+  "1056030": {
+    "zipcode": "1056030",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３０階）"
+  },
+  "1056031": {
+    "zipcode": "1056031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３１階）"
+  },
+  "1056032": {
+    "zipcode": "1056032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３２階）"
+  },
+  "1056033": {
+    "zipcode": "1056033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３３階）"
+  },
+  "1056034": {
+    "zipcode": "1056034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３４階）"
+  },
+  "1056035": {
+    "zipcode": "1056035",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３５階）"
+  },
+  "1056036": {
+    "zipcode": "1056036",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３６階）"
+  },
+  "1056037": {
+    "zipcode": "1056037",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（３７階）"
+  },
+  "1056090": {
+    "zipcode": "1056090",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門城山トラストタワー（地階・階層不明）"
+  },
+  "1056201": {
+    "zipcode": "1056201",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１階）"
+  },
+  "1056202": {
+    "zipcode": "1056202",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２階）"
+  },
+  "1056203": {
+    "zipcode": "1056203",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３階）"
+  },
+  "1056204": {
+    "zipcode": "1056204",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（４階）"
+  },
+  "1056205": {
+    "zipcode": "1056205",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（５階）"
+  },
+  "1056206": {
+    "zipcode": "1056206",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（６階）"
+  },
+  "1056207": {
+    "zipcode": "1056207",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（７階）"
+  },
+  "1056208": {
+    "zipcode": "1056208",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（８階）"
+  },
+  "1056209": {
+    "zipcode": "1056209",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（９階）"
+  },
+  "1056210": {
+    "zipcode": "1056210",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１０階）"
+  },
+  "1056211": {
+    "zipcode": "1056211",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１１階）"
+  },
+  "1056212": {
+    "zipcode": "1056212",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１２階）"
+  },
+  "1056213": {
+    "zipcode": "1056213",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１３階）"
+  },
+  "1056214": {
+    "zipcode": "1056214",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１４階）"
+  },
+  "1056215": {
+    "zipcode": "1056215",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１５階）"
+  },
+  "1056216": {
+    "zipcode": "1056216",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１６階）"
+  },
+  "1056217": {
+    "zipcode": "1056217",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１７階）"
+  },
+  "1056218": {
+    "zipcode": "1056218",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１８階）"
+  },
+  "1056219": {
+    "zipcode": "1056219",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（１９階）"
+  },
+  "1056220": {
+    "zipcode": "1056220",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２０階）"
+  },
+  "1056221": {
+    "zipcode": "1056221",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２１階）"
+  },
+  "1056222": {
+    "zipcode": "1056222",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２２階）"
+  },
+  "1056223": {
+    "zipcode": "1056223",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２３階）"
+  },
+  "1056224": {
+    "zipcode": "1056224",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２４階）"
+  },
+  "1056225": {
+    "zipcode": "1056225",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２５階）"
+  },
+  "1056226": {
+    "zipcode": "1056226",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２６階）"
+  },
+  "1056227": {
+    "zipcode": "1056227",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２７階）"
+  },
+  "1056228": {
+    "zipcode": "1056228",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２８階）"
+  },
+  "1056229": {
+    "zipcode": "1056229",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（２９階）"
+  },
+  "1056230": {
+    "zipcode": "1056230",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３０階）"
+  },
+  "1056231": {
+    "zipcode": "1056231",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３１階）"
+  },
+  "1056232": {
+    "zipcode": "1056232",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３２階）"
+  },
+  "1056233": {
+    "zipcode": "1056233",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３３階）"
+  },
+  "1056234": {
+    "zipcode": "1056234",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３４階）"
+  },
+  "1056235": {
+    "zipcode": "1056235",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３５階）"
+  },
+  "1056236": {
+    "zipcode": "1056236",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３６階）"
+  },
+  "1056237": {
+    "zipcode": "1056237",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３７階）"
+  },
+  "1056238": {
+    "zipcode": "1056238",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３８階）"
+  },
+  "1056239": {
+    "zipcode": "1056239",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（３９階）"
+  },
+  "1056240": {
+    "zipcode": "1056240",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（４０階）"
+  },
+  "1056241": {
+    "zipcode": "1056241",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（４１階）"
+  },
+  "1056242": {
+    "zipcode": "1056242",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（４２階）"
+  },
+  "1056290": {
+    "zipcode": "1056290",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "愛宕愛宕グリーンヒルズＭＯＲＩタワー（地階・階層不明）"
+  },
+  "1056301": {
+    "zipcode": "1056301",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１階）"
+  },
+  "1056302": {
+    "zipcode": "1056302",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２階）"
+  },
+  "1056303": {
+    "zipcode": "1056303",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３階）"
+  },
+  "1056304": {
+    "zipcode": "1056304",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（４階）"
+  },
+  "1056305": {
+    "zipcode": "1056305",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（５階）"
+  },
+  "1056306": {
+    "zipcode": "1056306",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（６階）"
+  },
+  "1056307": {
+    "zipcode": "1056307",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（７階）"
+  },
+  "1056308": {
+    "zipcode": "1056308",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（８階）"
+  },
+  "1056309": {
+    "zipcode": "1056309",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（９階）"
+  },
+  "1056310": {
+    "zipcode": "1056310",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１０階）"
+  },
+  "1056311": {
+    "zipcode": "1056311",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１１階）"
+  },
+  "1056312": {
+    "zipcode": "1056312",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１２階）"
+  },
+  "1056313": {
+    "zipcode": "1056313",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１３階）"
+  },
+  "1056314": {
+    "zipcode": "1056314",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１４階）"
+  },
+  "1056315": {
+    "zipcode": "1056315",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１５階）"
+  },
+  "1056316": {
+    "zipcode": "1056316",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１６階）"
+  },
+  "1056317": {
+    "zipcode": "1056317",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１７階）"
+  },
+  "1056318": {
+    "zipcode": "1056318",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１８階）"
+  },
+  "1056319": {
+    "zipcode": "1056319",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（１９階）"
+  },
+  "1056320": {
+    "zipcode": "1056320",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２０階）"
+  },
+  "1056321": {
+    "zipcode": "1056321",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２１階）"
+  },
+  "1056322": {
+    "zipcode": "1056322",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２２階）"
+  },
+  "1056323": {
+    "zipcode": "1056323",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２３階）"
+  },
+  "1056324": {
+    "zipcode": "1056324",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２４階）"
+  },
+  "1056325": {
+    "zipcode": "1056325",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２５階）"
+  },
+  "1056326": {
+    "zipcode": "1056326",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２６階）"
+  },
+  "1056327": {
+    "zipcode": "1056327",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２７階）"
+  },
+  "1056328": {
+    "zipcode": "1056328",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２８階）"
+  },
+  "1056329": {
+    "zipcode": "1056329",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（２９階）"
+  },
+  "1056330": {
+    "zipcode": "1056330",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３０階）"
+  },
+  "1056331": {
+    "zipcode": "1056331",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３１階）"
+  },
+  "1056332": {
+    "zipcode": "1056332",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３２階）"
+  },
+  "1056333": {
+    "zipcode": "1056333",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３３階）"
+  },
+  "1056334": {
+    "zipcode": "1056334",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３４階）"
+  },
+  "1056335": {
+    "zipcode": "1056335",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３５階）"
+  },
+  "1056336": {
+    "zipcode": "1056336",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（３６階）"
+  },
+  "1056390": {
+    "zipcode": "1056390",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズ森タワー（地階・階層不明）"
+  },
+  "1056401": {
+    "zipcode": "1056401",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１階）"
+  },
+  "1056402": {
+    "zipcode": "1056402",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２階）"
+  },
+  "1056403": {
+    "zipcode": "1056403",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３階）"
+  },
+  "1056404": {
+    "zipcode": "1056404",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（４階）"
+  },
+  "1056405": {
+    "zipcode": "1056405",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（５階）"
+  },
+  "1056406": {
+    "zipcode": "1056406",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（６階）"
+  },
+  "1056407": {
+    "zipcode": "1056407",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（７階）"
+  },
+  "1056408": {
+    "zipcode": "1056408",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（８階）"
+  },
+  "1056409": {
+    "zipcode": "1056409",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（９階）"
+  },
+  "1056410": {
+    "zipcode": "1056410",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１０階）"
+  },
+  "1056411": {
+    "zipcode": "1056411",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１１階）"
+  },
+  "1056412": {
+    "zipcode": "1056412",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１２階）"
+  },
+  "1056413": {
+    "zipcode": "1056413",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１３階）"
+  },
+  "1056414": {
+    "zipcode": "1056414",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１４階）"
+  },
+  "1056415": {
+    "zipcode": "1056415",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１５階）"
+  },
+  "1056416": {
+    "zipcode": "1056416",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１６階）"
+  },
+  "1056417": {
+    "zipcode": "1056417",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１７階）"
+  },
+  "1056418": {
+    "zipcode": "1056418",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１８階）"
+  },
+  "1056419": {
+    "zipcode": "1056419",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（１９階）"
+  },
+  "1056420": {
+    "zipcode": "1056420",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２０階）"
+  },
+  "1056421": {
+    "zipcode": "1056421",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２１階）"
+  },
+  "1056422": {
+    "zipcode": "1056422",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２２階）"
+  },
+  "1056423": {
+    "zipcode": "1056423",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２３階）"
+  },
+  "1056424": {
+    "zipcode": "1056424",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２４階）"
+  },
+  "1056425": {
+    "zipcode": "1056425",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２５階）"
+  },
+  "1056426": {
+    "zipcode": "1056426",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２６階）"
+  },
+  "1056427": {
+    "zipcode": "1056427",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２７階）"
+  },
+  "1056428": {
+    "zipcode": "1056428",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２８階）"
+  },
+  "1056429": {
+    "zipcode": "1056429",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（２９階）"
+  },
+  "1056430": {
+    "zipcode": "1056430",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３０階）"
+  },
+  "1056431": {
+    "zipcode": "1056431",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３１階）"
+  },
+  "1056432": {
+    "zipcode": "1056432",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３２階）"
+  },
+  "1056433": {
+    "zipcode": "1056433",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３３階）"
+  },
+  "1056434": {
+    "zipcode": "1056434",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３４階）"
+  },
+  "1056435": {
+    "zipcode": "1056435",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３５階）"
+  },
+  "1056436": {
+    "zipcode": "1056436",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（３６階）"
+  },
+  "1056490": {
+    "zipcode": "1056490",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門虎ノ門ヒルズビジネスタワー（地階・階層不明）"
+  },
+  "1056901": {
+    "zipcode": "1056901",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１階）"
+  },
+  "1056902": {
+    "zipcode": "1056902",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２階）"
+  },
+  "1056903": {
+    "zipcode": "1056903",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（３階）"
+  },
+  "1056904": {
+    "zipcode": "1056904",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（４階）"
+  },
+  "1056905": {
+    "zipcode": "1056905",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（５階）"
+  },
+  "1056906": {
+    "zipcode": "1056906",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（６階）"
+  },
+  "1056907": {
+    "zipcode": "1056907",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（７階）"
+  },
+  "1056908": {
+    "zipcode": "1056908",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（８階）"
+  },
+  "1056909": {
+    "zipcode": "1056909",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（９階）"
+  },
+  "1056910": {
+    "zipcode": "1056910",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１０階）"
+  },
+  "1056911": {
+    "zipcode": "1056911",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１１階）"
+  },
+  "1056912": {
+    "zipcode": "1056912",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１２階）"
+  },
+  "1056913": {
+    "zipcode": "1056913",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１３階）"
+  },
+  "1056914": {
+    "zipcode": "1056914",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１４階）"
+  },
+  "1056915": {
+    "zipcode": "1056915",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１５階）"
+  },
+  "1056916": {
+    "zipcode": "1056916",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１６階）"
+  },
+  "1056917": {
+    "zipcode": "1056917",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１７階）"
+  },
+  "1056918": {
+    "zipcode": "1056918",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１８階）"
+  },
+  "1056919": {
+    "zipcode": "1056919",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（１９階）"
+  },
+  "1056920": {
+    "zipcode": "1056920",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２０階）"
+  },
+  "1056921": {
+    "zipcode": "1056921",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２１階）"
+  },
+  "1056922": {
+    "zipcode": "1056922",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２２階）"
+  },
+  "1056923": {
+    "zipcode": "1056923",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２３階）"
+  },
+  "1056924": {
+    "zipcode": "1056924",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２４階）"
+  },
+  "1056925": {
+    "zipcode": "1056925",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２５階）"
+  },
+  "1056926": {
+    "zipcode": "1056926",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２６階）"
+  },
+  "1056927": {
+    "zipcode": "1056927",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２７階）"
+  },
+  "1056928": {
+    "zipcode": "1056928",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２８階）"
+  },
+  "1056929": {
+    "zipcode": "1056929",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（２９階）"
+  },
+  "1056930": {
+    "zipcode": "1056930",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（３０階）"
+  },
+  "1056990": {
+    "zipcode": "1056990",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "虎ノ門神谷町トラストタワー（地階・階層不明）"
+  },
+  "1057001": {
+    "zipcode": "1057001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１階）"
+  },
+  "1057002": {
+    "zipcode": "1057002",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２階）"
+  },
+  "1057003": {
+    "zipcode": "1057003",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３階）"
+  },
+  "1057004": {
+    "zipcode": "1057004",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４階）"
+  },
+  "1057005": {
+    "zipcode": "1057005",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（５階）"
+  },
+  "1057006": {
+    "zipcode": "1057006",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（６階）"
+  },
+  "1057007": {
+    "zipcode": "1057007",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（７階）"
+  },
+  "1057008": {
+    "zipcode": "1057008",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（８階）"
+  },
+  "1057009": {
+    "zipcode": "1057009",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（９階）"
+  },
+  "1057010": {
+    "zipcode": "1057010",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１０階）"
+  },
+  "1057011": {
+    "zipcode": "1057011",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１１階）"
+  },
+  "1057012": {
+    "zipcode": "1057012",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１２階）"
+  },
+  "1057013": {
+    "zipcode": "1057013",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１３階）"
+  },
+  "1057014": {
+    "zipcode": "1057014",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１４階）"
+  },
+  "1057015": {
+    "zipcode": "1057015",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１５階）"
+  },
+  "1057016": {
+    "zipcode": "1057016",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１６階）"
+  },
+  "1057017": {
+    "zipcode": "1057017",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１７階）"
+  },
+  "1057018": {
+    "zipcode": "1057018",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１８階）"
+  },
+  "1057019": {
+    "zipcode": "1057019",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（１９階）"
+  },
+  "1057020": {
+    "zipcode": "1057020",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２０階）"
+  },
+  "1057021": {
+    "zipcode": "1057021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２１階）"
+  },
+  "1057022": {
+    "zipcode": "1057022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２２階）"
+  },
+  "1057023": {
+    "zipcode": "1057023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２３階）"
+  },
+  "1057024": {
+    "zipcode": "1057024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２４階）"
+  },
+  "1057025": {
+    "zipcode": "1057025",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２５階）"
+  },
+  "1057026": {
+    "zipcode": "1057026",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２６階）"
+  },
+  "1057027": {
+    "zipcode": "1057027",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２７階）"
+  },
+  "1057028": {
+    "zipcode": "1057028",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２８階）"
+  },
+  "1057029": {
+    "zipcode": "1057029",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（２９階）"
+  },
+  "1057030": {
+    "zipcode": "1057030",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３０階）"
+  },
+  "1057031": {
+    "zipcode": "1057031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３１階）"
+  },
+  "1057032": {
+    "zipcode": "1057032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３２階）"
+  },
+  "1057033": {
+    "zipcode": "1057033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３３階）"
+  },
+  "1057034": {
+    "zipcode": "1057034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３４階）"
+  },
+  "1057035": {
+    "zipcode": "1057035",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３５階）"
+  },
+  "1057036": {
+    "zipcode": "1057036",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３６階）"
+  },
+  "1057037": {
+    "zipcode": "1057037",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３７階）"
+  },
+  "1057038": {
+    "zipcode": "1057038",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３８階）"
+  },
+  "1057039": {
+    "zipcode": "1057039",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（３９階）"
+  },
+  "1057040": {
+    "zipcode": "1057040",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４０階）"
+  },
+  "1057041": {
+    "zipcode": "1057041",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４１階）"
+  },
+  "1057042": {
+    "zipcode": "1057042",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４２階）"
+  },
+  "1057043": {
+    "zipcode": "1057043",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４３階）"
+  },
+  "1057044": {
+    "zipcode": "1057044",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４４階）"
+  },
+  "1057045": {
+    "zipcode": "1057045",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４５階）"
+  },
+  "1057046": {
+    "zipcode": "1057046",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４６階）"
+  },
+  "1057047": {
+    "zipcode": "1057047",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（４７階）"
+  },
+  "1057090": {
+    "zipcode": "1057090",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋電通本社ビル（地階・階層不明）"
+  },
+  "1057101": {
+    "zipcode": "1057101",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１階）"
+  },
+  "1057102": {
+    "zipcode": "1057102",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２階）"
+  },
+  "1057103": {
+    "zipcode": "1057103",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３階）"
+  },
+  "1057104": {
+    "zipcode": "1057104",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（４階）"
+  },
+  "1057105": {
+    "zipcode": "1057105",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（５階）"
+  },
+  "1057106": {
+    "zipcode": "1057106",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（６階）"
+  },
+  "1057107": {
+    "zipcode": "1057107",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（７階）"
+  },
+  "1057108": {
+    "zipcode": "1057108",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（８階）"
+  },
+  "1057109": {
+    "zipcode": "1057109",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（９階）"
+  },
+  "1057110": {
+    "zipcode": "1057110",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１０階）"
+  },
+  "1057111": {
+    "zipcode": "1057111",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１１階）"
+  },
+  "1057112": {
+    "zipcode": "1057112",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１２階）"
+  },
+  "1057113": {
+    "zipcode": "1057113",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１３階）"
+  },
+  "1057114": {
+    "zipcode": "1057114",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１４階）"
+  },
+  "1057115": {
+    "zipcode": "1057115",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１５階）"
+  },
+  "1057116": {
+    "zipcode": "1057116",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１６階）"
+  },
+  "1057117": {
+    "zipcode": "1057117",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１７階）"
+  },
+  "1057118": {
+    "zipcode": "1057118",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１８階）"
+  },
+  "1057119": {
+    "zipcode": "1057119",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（１９階）"
+  },
+  "1057120": {
+    "zipcode": "1057120",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２０階）"
+  },
+  "1057121": {
+    "zipcode": "1057121",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２１階）"
+  },
+  "1057122": {
+    "zipcode": "1057122",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２２階）"
+  },
+  "1057123": {
+    "zipcode": "1057123",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２３階）"
+  },
+  "1057124": {
+    "zipcode": "1057124",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２４階）"
+  },
+  "1057125": {
+    "zipcode": "1057125",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２５階）"
+  },
+  "1057126": {
+    "zipcode": "1057126",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２６階）"
+  },
+  "1057127": {
+    "zipcode": "1057127",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２７階）"
+  },
+  "1057128": {
+    "zipcode": "1057128",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２８階）"
+  },
+  "1057129": {
+    "zipcode": "1057129",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（２９階）"
+  },
+  "1057130": {
+    "zipcode": "1057130",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３０階）"
+  },
+  "1057131": {
+    "zipcode": "1057131",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３１階）"
+  },
+  "1057132": {
+    "zipcode": "1057132",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３２階）"
+  },
+  "1057133": {
+    "zipcode": "1057133",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３３階）"
+  },
+  "1057134": {
+    "zipcode": "1057134",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３４階）"
+  },
+  "1057135": {
+    "zipcode": "1057135",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３５階）"
+  },
+  "1057136": {
+    "zipcode": "1057136",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３６階）"
+  },
+  "1057137": {
+    "zipcode": "1057137",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３７階）"
+  },
+  "1057138": {
+    "zipcode": "1057138",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３８階）"
+  },
+  "1057139": {
+    "zipcode": "1057139",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（３９階）"
+  },
+  "1057140": {
+    "zipcode": "1057140",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（４０階）"
+  },
+  "1057141": {
+    "zipcode": "1057141",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（４１階）"
+  },
+  "1057142": {
+    "zipcode": "1057142",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（４２階）"
+  },
+  "1057143": {
+    "zipcode": "1057143",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（４３階）"
+  },
+  "1057190": {
+    "zipcode": "1057190",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留シティセンター（地階・階層不明）"
+  },
+  "1057201": {
+    "zipcode": "1057201",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１階）"
+  },
+  "1057202": {
+    "zipcode": "1057202",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２階）"
+  },
+  "1057203": {
+    "zipcode": "1057203",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３階）"
+  },
+  "1057204": {
+    "zipcode": "1057204",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（４階）"
+  },
+  "1057205": {
+    "zipcode": "1057205",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（５階）"
+  },
+  "1057206": {
+    "zipcode": "1057206",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（６階）"
+  },
+  "1057207": {
+    "zipcode": "1057207",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（７階）"
+  },
+  "1057208": {
+    "zipcode": "1057208",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（８階）"
+  },
+  "1057209": {
+    "zipcode": "1057209",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（９階）"
+  },
+  "1057210": {
+    "zipcode": "1057210",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１０階）"
+  },
+  "1057211": {
+    "zipcode": "1057211",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１１階）"
+  },
+  "1057212": {
+    "zipcode": "1057212",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１２階）"
+  },
+  "1057213": {
+    "zipcode": "1057213",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１３階）"
+  },
+  "1057214": {
+    "zipcode": "1057214",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１４階）"
+  },
+  "1057215": {
+    "zipcode": "1057215",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１５階）"
+  },
+  "1057216": {
+    "zipcode": "1057216",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１６階）"
+  },
+  "1057217": {
+    "zipcode": "1057217",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１７階）"
+  },
+  "1057218": {
+    "zipcode": "1057218",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１８階）"
+  },
+  "1057219": {
+    "zipcode": "1057219",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（１９階）"
+  },
+  "1057220": {
+    "zipcode": "1057220",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２０階）"
+  },
+  "1057221": {
+    "zipcode": "1057221",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２１階）"
+  },
+  "1057222": {
+    "zipcode": "1057222",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２２階）"
+  },
+  "1057223": {
+    "zipcode": "1057223",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２３階）"
+  },
+  "1057224": {
+    "zipcode": "1057224",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２４階）"
+  },
+  "1057225": {
+    "zipcode": "1057225",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２５階）"
+  },
+  "1057226": {
+    "zipcode": "1057226",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２６階）"
+  },
+  "1057227": {
+    "zipcode": "1057227",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２７階）"
+  },
+  "1057228": {
+    "zipcode": "1057228",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２８階）"
+  },
+  "1057229": {
+    "zipcode": "1057229",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（２９階）"
+  },
+  "1057230": {
+    "zipcode": "1057230",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３０階）"
+  },
+  "1057231": {
+    "zipcode": "1057231",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３１階）"
+  },
+  "1057232": {
+    "zipcode": "1057232",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３２階）"
+  },
+  "1057233": {
+    "zipcode": "1057233",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３３階）"
+  },
+  "1057234": {
+    "zipcode": "1057234",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（３４階）"
+  },
+  "1057290": {
+    "zipcode": "1057290",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋汐留メディアタワー（地階・階層不明）"
+  },
+  "1057301": {
+    "zipcode": "1057301",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１階）"
+  },
+  "1057302": {
+    "zipcode": "1057302",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２階）"
+  },
+  "1057303": {
+    "zipcode": "1057303",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３階）"
+  },
+  "1057304": {
+    "zipcode": "1057304",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（４階）"
+  },
+  "1057305": {
+    "zipcode": "1057305",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（５階）"
+  },
+  "1057306": {
+    "zipcode": "1057306",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（６階）"
+  },
+  "1057307": {
+    "zipcode": "1057307",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（７階）"
+  },
+  "1057308": {
+    "zipcode": "1057308",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（８階）"
+  },
+  "1057309": {
+    "zipcode": "1057309",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（９階）"
+  },
+  "1057310": {
+    "zipcode": "1057310",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１０階）"
+  },
+  "1057311": {
+    "zipcode": "1057311",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１１階）"
+  },
+  "1057312": {
+    "zipcode": "1057312",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１２階）"
+  },
+  "1057313": {
+    "zipcode": "1057313",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１３階）"
+  },
+  "1057314": {
+    "zipcode": "1057314",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１４階）"
+  },
+  "1057315": {
+    "zipcode": "1057315",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１５階）"
+  },
+  "1057316": {
+    "zipcode": "1057316",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１６階）"
+  },
+  "1057317": {
+    "zipcode": "1057317",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１７階）"
+  },
+  "1057318": {
+    "zipcode": "1057318",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１８階）"
+  },
+  "1057319": {
+    "zipcode": "1057319",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（１９階）"
+  },
+  "1057320": {
+    "zipcode": "1057320",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２０階）"
+  },
+  "1057321": {
+    "zipcode": "1057321",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２１階）"
+  },
+  "1057322": {
+    "zipcode": "1057322",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２２階）"
+  },
+  "1057323": {
+    "zipcode": "1057323",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２３階）"
+  },
+  "1057324": {
+    "zipcode": "1057324",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２４階）"
+  },
+  "1057325": {
+    "zipcode": "1057325",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２５階）"
+  },
+  "1057326": {
+    "zipcode": "1057326",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２６階）"
+  },
+  "1057327": {
+    "zipcode": "1057327",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２７階）"
+  },
+  "1057328": {
+    "zipcode": "1057328",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２８階）"
+  },
+  "1057329": {
+    "zipcode": "1057329",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（２９階）"
+  },
+  "1057330": {
+    "zipcode": "1057330",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３０階）"
+  },
+  "1057331": {
+    "zipcode": "1057331",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３１階）"
+  },
+  "1057332": {
+    "zipcode": "1057332",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３２階）"
+  },
+  "1057333": {
+    "zipcode": "1057333",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３３階）"
+  },
+  "1057334": {
+    "zipcode": "1057334",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３４階）"
+  },
+  "1057335": {
+    "zipcode": "1057335",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３５階）"
+  },
+  "1057336": {
+    "zipcode": "1057336",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３６階）"
+  },
+  "1057337": {
+    "zipcode": "1057337",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（３７階）"
+  },
+  "1057390": {
+    "zipcode": "1057390",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋東京汐留ビルディング（地階・階層不明）"
+  },
+  "1057401": {
+    "zipcode": "1057401",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１階）"
+  },
+  "1057402": {
+    "zipcode": "1057402",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２階）"
+  },
+  "1057403": {
+    "zipcode": "1057403",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（３階）"
+  },
+  "1057404": {
+    "zipcode": "1057404",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（４階）"
+  },
+  "1057405": {
+    "zipcode": "1057405",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（５階）"
+  },
+  "1057406": {
+    "zipcode": "1057406",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（６階）"
+  },
+  "1057407": {
+    "zipcode": "1057407",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（７階）"
+  },
+  "1057408": {
+    "zipcode": "1057408",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（８階）"
+  },
+  "1057409": {
+    "zipcode": "1057409",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（９階）"
+  },
+  "1057410": {
+    "zipcode": "1057410",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１０階）"
+  },
+  "1057411": {
+    "zipcode": "1057411",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１１階）"
+  },
+  "1057412": {
+    "zipcode": "1057412",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１２階）"
+  },
+  "1057413": {
+    "zipcode": "1057413",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１３階）"
+  },
+  "1057414": {
+    "zipcode": "1057414",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１４階）"
+  },
+  "1057415": {
+    "zipcode": "1057415",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１５階）"
+  },
+  "1057416": {
+    "zipcode": "1057416",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１６階）"
+  },
+  "1057417": {
+    "zipcode": "1057417",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１７階）"
+  },
+  "1057418": {
+    "zipcode": "1057418",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１８階）"
+  },
+  "1057419": {
+    "zipcode": "1057419",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（１９階）"
+  },
+  "1057420": {
+    "zipcode": "1057420",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２０階）"
+  },
+  "1057421": {
+    "zipcode": "1057421",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２１階）"
+  },
+  "1057422": {
+    "zipcode": "1057422",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２２階）"
+  },
+  "1057423": {
+    "zipcode": "1057423",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２３階）"
+  },
+  "1057424": {
+    "zipcode": "1057424",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２４階）"
+  },
+  "1057425": {
+    "zipcode": "1057425",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２５階）"
+  },
+  "1057426": {
+    "zipcode": "1057426",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２６階）"
+  },
+  "1057427": {
+    "zipcode": "1057427",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２７階）"
+  },
+  "1057428": {
+    "zipcode": "1057428",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２８階）"
+  },
+  "1057429": {
+    "zipcode": "1057429",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（２９階）"
+  },
+  "1057430": {
+    "zipcode": "1057430",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（３０階）"
+  },
+  "1057431": {
+    "zipcode": "1057431",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（３１階）"
+  },
+  "1057432": {
+    "zipcode": "1057432",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（３２階）"
+  },
+  "1057490": {
+    "zipcode": "1057490",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "東新橋日本テレビタワー（地階・階層不明）"
+  },
+  "1057501": {
+    "zipcode": "1057501",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１階）"
+  },
+  "1057502": {
+    "zipcode": "1057502",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２階）"
+  },
+  "1057503": {
+    "zipcode": "1057503",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３階）"
+  },
+  "1057504": {
+    "zipcode": "1057504",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（４階）"
+  },
+  "1057505": {
+    "zipcode": "1057505",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（５階）"
+  },
+  "1057506": {
+    "zipcode": "1057506",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（６階）"
+  },
+  "1057507": {
+    "zipcode": "1057507",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（７階）"
+  },
+  "1057508": {
+    "zipcode": "1057508",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（８階）"
+  },
+  "1057509": {
+    "zipcode": "1057509",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（９階）"
+  },
+  "1057510": {
+    "zipcode": "1057510",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１０階）"
+  },
+  "1057511": {
+    "zipcode": "1057511",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１１階）"
+  },
+  "1057512": {
+    "zipcode": "1057512",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１２階）"
+  },
+  "1057513": {
+    "zipcode": "1057513",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１３階）"
+  },
+  "1057514": {
+    "zipcode": "1057514",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１４階）"
+  },
+  "1057515": {
+    "zipcode": "1057515",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１５階）"
+  },
+  "1057516": {
+    "zipcode": "1057516",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１６階）"
+  },
+  "1057517": {
+    "zipcode": "1057517",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１７階）"
+  },
+  "1057518": {
+    "zipcode": "1057518",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１８階）"
+  },
+  "1057519": {
+    "zipcode": "1057519",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（１９階）"
+  },
+  "1057520": {
+    "zipcode": "1057520",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２０階）"
+  },
+  "1057521": {
+    "zipcode": "1057521",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２１階）"
+  },
+  "1057522": {
+    "zipcode": "1057522",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２２階）"
+  },
+  "1057523": {
+    "zipcode": "1057523",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２３階）"
+  },
+  "1057524": {
+    "zipcode": "1057524",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２４階）"
+  },
+  "1057525": {
+    "zipcode": "1057525",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２５階）"
+  },
+  "1057526": {
+    "zipcode": "1057526",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２６階）"
+  },
+  "1057527": {
+    "zipcode": "1057527",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２７階）"
+  },
+  "1057528": {
+    "zipcode": "1057528",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２８階）"
+  },
+  "1057529": {
+    "zipcode": "1057529",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（２９階）"
+  },
+  "1057530": {
+    "zipcode": "1057530",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３０階）"
+  },
+  "1057531": {
+    "zipcode": "1057531",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３１階）"
+  },
+  "1057532": {
+    "zipcode": "1057532",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３２階）"
+  },
+  "1057533": {
+    "zipcode": "1057533",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３３階）"
+  },
+  "1057534": {
+    "zipcode": "1057534",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３４階）"
+  },
+  "1057535": {
+    "zipcode": "1057535",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３５階）"
+  },
+  "1057536": {
+    "zipcode": "1057536",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３６階）"
+  },
+  "1057537": {
+    "zipcode": "1057537",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３７階）"
+  },
+  "1057538": {
+    "zipcode": "1057538",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３８階）"
+  },
+  "1057539": {
+    "zipcode": "1057539",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（３９階）"
+  },
+  "1057590": {
+    "zipcode": "1057590",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "港区",
+    "town": "海岸東京ポートシティ竹芝オフィスタワー（地階・階層不明）"
+  }
+}

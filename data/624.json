@@ -1,0 +1,778 @@
+{
+  "6240101": {
+    "zipcode": "6240101",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "大川"
+  },
+  "6240102": {
+    "zipcode": "6240102",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "志高"
+  },
+  "6240103": {
+    "zipcode": "6240103",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "久田美"
+  },
+  "6240111": {
+    "zipcode": "6240111",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "長谷"
+  },
+  "6240112": {
+    "zipcode": "6240112",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上漆原"
+  },
+  "6240113": {
+    "zipcode": "6240113",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "下漆原"
+  },
+  "6240114": {
+    "zipcode": "6240114",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "下見谷"
+  },
+  "6240115": {
+    "zipcode": "6240115",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "河原"
+  },
+  "6240116": {
+    "zipcode": "6240116",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "富室"
+  },
+  "6240117": {
+    "zipcode": "6240117",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "岡田由里"
+  },
+  "6240118": {
+    "zipcode": "6240118",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "西方寺"
+  },
+  "6240121": {
+    "zipcode": "6240121",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "滝ケ宇呂"
+  },
+  "6240122": {
+    "zipcode": "6240122",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "地頭"
+  },
+  "6240123": {
+    "zipcode": "6240123",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "大俣"
+  },
+  "6240124": {
+    "zipcode": "6240124",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "桑飼下"
+  },
+  "6240125": {
+    "zipcode": "6240125",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "桑飼上"
+  },
+  "6240801": {
+    "zipcode": "6240801",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "寺田"
+  },
+  "6240802": {
+    "zipcode": "6240802",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上根"
+  },
+  "6240803": {
+    "zipcode": "6240803",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "白滝"
+  },
+  "6240804": {
+    "zipcode": "6240804",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "岸谷"
+  },
+  "6240805": {
+    "zipcode": "6240805",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "別所"
+  },
+  "6240806": {
+    "zipcode": "6240806",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "布敷"
+  },
+  "6240811": {
+    "zipcode": "6240811",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "池ノ内下"
+  },
+  "6240812": {
+    "zipcode": "6240812",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "堀"
+  },
+  "6240813": {
+    "zipcode": "6240813",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "今田"
+  },
+  "6240814": {
+    "zipcode": "6240814",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "万願寺"
+  },
+  "6240815": {
+    "zipcode": "6240815",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "境谷"
+  },
+  "6240816": {
+    "zipcode": "6240816",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "伊佐津"
+  },
+  "6240821": {
+    "zipcode": "6240821",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "公文名"
+  },
+  "6240822": {
+    "zipcode": "6240822",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "七日市"
+  },
+  "6240823": {
+    "zipcode": "6240823",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "京田"
+  },
+  "6240824": {
+    "zipcode": "6240824",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "真倉"
+  },
+  "6240825": {
+    "zipcode": "6240825",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "十倉"
+  },
+  "6240826": {
+    "zipcode": "6240826",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "京田新町"
+  },
+  "6240831": {
+    "zipcode": "6240831",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "女布"
+  },
+  "6240832": {
+    "zipcode": "6240832",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "高野台"
+  },
+  "6240833": {
+    "zipcode": "6240833",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "野村寺"
+  },
+  "6240834": {
+    "zipcode": "6240834",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "城屋"
+  },
+  "6240835": {
+    "zipcode": "6240835",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "高野由里"
+  },
+  "6240836": {
+    "zipcode": "6240836",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "女布北町"
+  },
+  "6240841": {
+    "zipcode": "6240841",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "引土"
+  },
+  "6240842": {
+    "zipcode": "6240842",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "朝代"
+  },
+  "6240843": {
+    "zipcode": "6240843",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "引土新"
+  },
+  "6240851": {
+    "zipcode": "6240851",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "大内野町"
+  },
+  "6240852": {
+    "zipcode": "6240852",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "大内"
+  },
+  "6240853": {
+    "zipcode": "6240853",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "南田辺"
+  },
+  "6240854": {
+    "zipcode": "6240854",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "円満寺"
+  },
+  "6240855": {
+    "zipcode": "6240855",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "北田辺"
+  },
+  "6240901": {
+    "zipcode": "6240901",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "清美が丘"
+  },
+  "6240902": {
+    "zipcode": "6240902",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "清道"
+  },
+  "6240903": {
+    "zipcode": "6240903",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "天台"
+  },
+  "6240904": {
+    "zipcode": "6240904",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "昭和台"
+  },
+  "6240905": {
+    "zipcode": "6240905",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "福来"
+  },
+  "6240906": {
+    "zipcode": "6240906",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "倉谷"
+  },
+  "6240907": {
+    "zipcode": "6240907",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "福来問屋町"
+  },
+  "6240908": {
+    "zipcode": "6240908",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "清道新町"
+  },
+  "6240909": {
+    "zipcode": "6240909",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "天台新町"
+  },
+  "6240911": {
+    "zipcode": "6240911",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上安東町"
+  },
+  "6240912": {
+    "zipcode": "6240912",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上安"
+  },
+  "6240913": {
+    "zipcode": "6240913",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上安久"
+  },
+  "6240914": {
+    "zipcode": "6240914",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "下安久"
+  },
+  "6240921": {
+    "zipcode": "6240921",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "東吉原"
+  },
+  "6240922": {
+    "zipcode": "6240922",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "西吉原"
+  },
+  "6240923": {
+    "zipcode": "6240923",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "魚屋"
+  },
+  "6240924": {
+    "zipcode": "6240924",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "職人"
+  },
+  "6240925": {
+    "zipcode": "6240925",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "丹波"
+  },
+  "6240926": {
+    "zipcode": "6240926",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "本"
+  },
+  "6240927": {
+    "zipcode": "6240927",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "平野屋"
+  },
+  "6240928": {
+    "zipcode": "6240928",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "竹屋"
+  },
+  "6240929": {
+    "zipcode": "6240929",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "寺内"
+  },
+  "6240931": {
+    "zipcode": "6240931",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "松陰"
+  },
+  "6240932": {
+    "zipcode": "6240932",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "宮津口"
+  },
+  "6240933": {
+    "zipcode": "6240933",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "新"
+  },
+  "6240934": {
+    "zipcode": "6240934",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "堀上"
+  },
+  "6240935": {
+    "zipcode": "6240935",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "京口"
+  },
+  "6240936": {
+    "zipcode": "6240936",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "紺屋"
+  },
+  "6240937": {
+    "zipcode": "6240937",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "西"
+  },
+  "6240941": {
+    "zipcode": "6240941",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "白杉"
+  },
+  "6240942": {
+    "zipcode": "6240942",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "青井"
+  },
+  "6240943": {
+    "zipcode": "6240943",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "吉田"
+  },
+  "6240944": {
+    "zipcode": "6240944",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "大君"
+  },
+  "6240945": {
+    "zipcode": "6240945",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "喜多"
+  },
+  "6240946": {
+    "zipcode": "6240946",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "下福井"
+  },
+  "6240951": {
+    "zipcode": "6240951",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上福井"
+  },
+  "6240952": {
+    "zipcode": "6240952",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "三日市"
+  },
+  "6240953": {
+    "zipcode": "6240953",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "八戸地"
+  },
+  "6240954": {
+    "zipcode": "6240954",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "八田"
+  },
+  "6240955": {
+    "zipcode": "6240955",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "丸田"
+  },
+  "6240956": {
+    "zipcode": "6240956",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "和江"
+  },
+  "6240961": {
+    "zipcode": "6240961",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "西神崎"
+  },
+  "6240962": {
+    "zipcode": "6240962",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "東神崎"
+  },
+  "6240963": {
+    "zipcode": "6240963",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "油江"
+  },
+  "6240964": {
+    "zipcode": "6240964",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "蒲江"
+  },
+  "6240965": {
+    "zipcode": "6240965",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "水間"
+  },
+  "6240966": {
+    "zipcode": "6240966",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "中山"
+  },
+  "6240967": {
+    "zipcode": "6240967",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "下東"
+  },
+  "6240968": {
+    "zipcode": "6240968",
+    "prefectureCode": "26",
+    "prefectureNumber": 26,
+    "prefecture": "京都府",
+    "city": "舞鶴市",
+    "town": "上東"
+  }
+}

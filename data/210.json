@@ -1,0 +1,610 @@
+{
+  "2100000": {
+    "zipcode": "2100000",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "以下に掲載がない場合"
+  },
+  "2100001": {
+    "zipcode": "2100001",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "本町"
+  },
+  "2100002": {
+    "zipcode": "2100002",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "榎町"
+  },
+  "2100003": {
+    "zipcode": "2100003",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "堀之内町"
+  },
+  "2100004": {
+    "zipcode": "2100004",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "宮本町"
+  },
+  "2100005": {
+    "zipcode": "2100005",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "東田町"
+  },
+  "2100006": {
+    "zipcode": "2100006",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "砂子"
+  },
+  "2100007": {
+    "zipcode": "2100007",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "駅前本町"
+  },
+  "2100011": {
+    "zipcode": "2100011",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "富士見"
+  },
+  "2100012": {
+    "zipcode": "2100012",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "宮前町"
+  },
+  "2100013": {
+    "zipcode": "2100013",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "新川通"
+  },
+  "2100014": {
+    "zipcode": "2100014",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "貝塚"
+  },
+  "2100015": {
+    "zipcode": "2100015",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "南町"
+  },
+  "2100021": {
+    "zipcode": "2100021",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "元木"
+  },
+  "2100022": {
+    "zipcode": "2100022",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "池田"
+  },
+  "2100023": {
+    "zipcode": "2100023",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "小川町"
+  },
+  "2100024": {
+    "zipcode": "2100024",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "日進町"
+  },
+  "2100025": {
+    "zipcode": "2100025",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "下並木"
+  },
+  "2100026": {
+    "zipcode": "2100026",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "堤根"
+  },
+  "2100801": {
+    "zipcode": "2100801",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "鈴木町"
+  },
+  "2100802": {
+    "zipcode": "2100802",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大師駅前"
+  },
+  "2100803": {
+    "zipcode": "2100803",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "川中島"
+  },
+  "2100804": {
+    "zipcode": "2100804",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "藤崎"
+  },
+  "2100805": {
+    "zipcode": "2100805",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "伊勢町"
+  },
+  "2100806": {
+    "zipcode": "2100806",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "中島"
+  },
+  "2100807": {
+    "zipcode": "2100807",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "港町"
+  },
+  "2100808": {
+    "zipcode": "2100808",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "旭町"
+  },
+  "2100811": {
+    "zipcode": "2100811",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大師河原"
+  },
+  "2100812": {
+    "zipcode": "2100812",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "東門前"
+  },
+  "2100813": {
+    "zipcode": "2100813",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "昭和"
+  },
+  "2100814": {
+    "zipcode": "2100814",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "台町"
+  },
+  "2100815": {
+    "zipcode": "2100815",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大師公園"
+  },
+  "2100816": {
+    "zipcode": "2100816",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大師町"
+  },
+  "2100817": {
+    "zipcode": "2100817",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大師本町"
+  },
+  "2100818": {
+    "zipcode": "2100818",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "中瀬"
+  },
+  "2100821": {
+    "zipcode": "2100821",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "殿町"
+  },
+  "2100822": {
+    "zipcode": "2100822",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "田町"
+  },
+  "2100823": {
+    "zipcode": "2100823",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "江川"
+  },
+  "2100824": {
+    "zipcode": "2100824",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "日ノ出"
+  },
+  "2100825": {
+    "zipcode": "2100825",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "出来野"
+  },
+  "2100826": {
+    "zipcode": "2100826",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "塩浜"
+  },
+  "2100827": {
+    "zipcode": "2100827",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "四谷下町"
+  },
+  "2100828": {
+    "zipcode": "2100828",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "四谷上町"
+  },
+  "2100831": {
+    "zipcode": "2100831",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "観音"
+  },
+  "2100832": {
+    "zipcode": "2100832",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "池上新町"
+  },
+  "2100833": {
+    "zipcode": "2100833",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "桜本"
+  },
+  "2100834": {
+    "zipcode": "2100834",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大島"
+  },
+  "2100835": {
+    "zipcode": "2100835",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "追分町"
+  },
+  "2100836": {
+    "zipcode": "2100836",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大島上町"
+  },
+  "2100837": {
+    "zipcode": "2100837",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "渡田"
+  },
+  "2100838": {
+    "zipcode": "2100838",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "境町"
+  },
+  "2100841": {
+    "zipcode": "2100841",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "渡田向町"
+  },
+  "2100842": {
+    "zipcode": "2100842",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "渡田東町"
+  },
+  "2100843": {
+    "zipcode": "2100843",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "小田栄"
+  },
+  "2100844": {
+    "zipcode": "2100844",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "渡田新町"
+  },
+  "2100845": {
+    "zipcode": "2100845",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "渡田山王町"
+  },
+  "2100846": {
+    "zipcode": "2100846",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "小田"
+  },
+  "2100847": {
+    "zipcode": "2100847",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "浅田"
+  },
+  "2100848": {
+    "zipcode": "2100848",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "京町"
+  },
+  "2100851": {
+    "zipcode": "2100851",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "浜町"
+  },
+  "2100852": {
+    "zipcode": "2100852",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "鋼管通"
+  },
+  "2100853": {
+    "zipcode": "2100853",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "田島町"
+  },
+  "2100854": {
+    "zipcode": "2100854",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "浅野町"
+  },
+  "2100855": {
+    "zipcode": "2100855",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "南渡田町"
+  },
+  "2100856": {
+    "zipcode": "2100856",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "田辺新田"
+  },
+  "2100857": {
+    "zipcode": "2100857",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "白石町"
+  },
+  "2100858": {
+    "zipcode": "2100858",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "大川町"
+  },
+  "2100861": {
+    "zipcode": "2100861",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "小島町"
+  },
+  "2100862": {
+    "zipcode": "2100862",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "浮島町"
+  },
+  "2100863": {
+    "zipcode": "2100863",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "夜光"
+  },
+  "2100864": {
+    "zipcode": "2100864",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "池上町"
+  },
+  "2100865": {
+    "zipcode": "2100865",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "千鳥町"
+  },
+  "2100866": {
+    "zipcode": "2100866",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "水江町"
+  },
+  "2100867": {
+    "zipcode": "2100867",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "扇町"
+  },
+  "2100868": {
+    "zipcode": "2100868",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "扇島"
+  },
+  "2100869": {
+    "zipcode": "2100869",
+    "prefectureCode": "14",
+    "prefectureNumber": 14,
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "town": "東扇島"
+  }
+}

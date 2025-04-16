@@ -1,0 +1,74 @@
+{
+  "1130001": {
+    "zipcode": "1130001",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "白山（１丁目）"
+  },
+  "1130021": {
+    "zipcode": "1130021",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "本駒込"
+  },
+  "1130022": {
+    "zipcode": "1130022",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "千駄木"
+  },
+  "1130023": {
+    "zipcode": "1130023",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "向丘"
+  },
+  "1130024": {
+    "zipcode": "1130024",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "西片"
+  },
+  "1130031": {
+    "zipcode": "1130031",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "根津"
+  },
+  "1130032": {
+    "zipcode": "1130032",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "弥生"
+  },
+  "1130033": {
+    "zipcode": "1130033",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "本郷"
+  },
+  "1130034": {
+    "zipcode": "1130034",
+    "prefectureCode": "13",
+    "prefectureNumber": 13,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "town": "湯島"
+  }
+}
