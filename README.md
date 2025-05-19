@@ -36,3 +36,26 @@
 - 日本郵便 公式サイト: [https://www.post.japanpost.jp/](https://www.post.japanpost.jp/)
 
 本ツールは、日本郵便が提供するCSV形式の郵便番号データを利用しています。
+
+## 利用方法
+
+* Typescript例
+
+    ```typescript
+    async function setZipcode(zipcode: string): void {
+      if (zipcode.length != 7) { return }
+      const response = await fetch('https://zafinc.github.io/zipcode/data/' + zipcode.substring(0, 3) + '.json')
+      if (response.ok) {
+        const addresses = await response.json()
+        const address = addresses[zipcode]
+        if (address !== undefined) {
+          // 都道府県コード
+          console.log(address.prefectureCode)
+          // 市区町村
+          console.log(address.city)
+          // 町域
+          console.log(address.town)
+        }
+      }
+    }
+    ```
