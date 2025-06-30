@@ -125,7 +125,7 @@
     "prefectureNumber": 6,
     "prefecture": "山形県",
     "city": "山形市",
-    "town": "上宝沢"
+    "town": "上宝沢（その他）"
   },
   "9900018": {
     "zipcode": "9900018",
@@ -478,6 +478,14 @@
     "prefecture": "山形県",
     "city": "山形市",
     "town": "栄原"
+  },
+  "9900078": {
+    "zipcode": "9900078",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "大野目町"
   },
   "9900300": {
     "zipcode": "9900300",
@@ -1215,6 +1223,14 @@
     "city": "山形市",
     "town": "南石関"
   },
+  "9900840": {
+    "zipcode": "9900840",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "柳田"
+  },
   "9900841": {
     "zipcode": "9900841",
     "prefectureCode": "06",
@@ -1518,6 +1534,14 @@
     "prefecture": "山形県",
     "city": "山形市",
     "town": "南志戸田"
+  },
+  "9900880": {
+    "zipcode": "9900880",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上江"
   },
   "9900881": {
     "zipcode": "9900881",
@@ -2447,6 +2471,14 @@
     "city": "山形市",
     "town": "東半郷"
   },
+  "9902309": {
+    "zipcode": "9902309",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "上宝沢（不動上）"
+  },
   "9902311": {
     "zipcode": "9902311",
     "prefectureCode": "06",
@@ -2574,6 +2606,14 @@
     "prefecture": "山形県",
     "city": "山形市",
     "town": "蔵王南成沢"
+  },
+  "9902336": {
+    "zipcode": "9902336",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "蔵王野際"
   },
   "9902337": {
     "zipcode": "9902337",
@@ -2862,6 +2902,14 @@
     "prefecture": "山形県",
     "city": "山形市",
     "town": "並柳"
+  },
+  "9902387": {
+    "zipcode": "9902387",
+    "prefectureCode": "06",
+    "prefectureNumber": 6,
+    "prefecture": "山形県",
+    "city": "山形市",
+    "town": "後明"
   },
   "9902401": {
     "zipcode": "9902401",

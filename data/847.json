@@ -215,14 +215,6 @@
     "city": "唐津市",
     "town": "魚屋町"
   },
-  "8470043": {
-    "zipcode": "8470043",
-    "prefectureCode": "41",
-    "prefectureNumber": 41,
-    "prefecture": "佐賀県",
-    "city": "唐津市",
-    "town": "新興町（東新興町）"
-  },
   "8470044": {
     "zipcode": "8470044",
     "prefectureCode": "41",
@@ -871,14 +863,6 @@
     "city": "唐津市",
     "town": "西寺町"
   },
-  "8470816": {
-    "zipcode": "8470816",
-    "prefectureCode": "41",
-    "prefectureNumber": 41,
-    "prefecture": "佐賀県",
-    "city": "唐津市",
-    "town": "新興町（西新興町）"
-  },
   "8470817": {
     "zipcode": "8470817",
     "prefectureCode": "41",
@@ -886,6 +870,14 @@
     "prefecture": "佐賀県",
     "city": "唐津市",
     "town": "熊原町"
+  },
+  "8470818": {
+    "zipcode": "8470818",
+    "prefectureCode": "41",
+    "prefectureNumber": 41,
+    "prefecture": "佐賀県",
+    "city": "唐津市",
+    "town": "新興町"
   },
   "8470821": {
     "zipcode": "8470821",
