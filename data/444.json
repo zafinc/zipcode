@@ -1647,6 +1647,14 @@
     "city": "岡崎市",
     "town": "不吹町"
   },
+  "4440820": {
+    "zipcode": "4440820",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "若松西"
+  },
   "4440821": {
     "zipcode": "4440821",
     "prefectureCode": "23",
@@ -1710,6 +1718,22 @@
     "prefecture": "愛知県",
     "city": "岡崎市",
     "town": "針崎"
+  },
+  "4440829": {
+    "zipcode": "4440829",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "針崎西"
+  },
+  "4440830": {
+    "zipcode": "4440830",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "柱西"
   },
   "4440831": {
     "zipcode": "4440831",
