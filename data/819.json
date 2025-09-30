@@ -1055,6 +1055,14 @@
     "city": "糸島市",
     "town": "志摩松隈"
   },
+  "8191307": {
+    "zipcode": "8191307",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "town": "志摩井田原南"
+  },
   "8191311": {
     "zipcode": "8191311",
     "prefectureCode": "40",
@@ -1094,6 +1102,22 @@
     "prefecture": "福岡県",
     "city": "糸島市",
     "town": "志摩稲葉"
+  },
+  "8191316": {
+    "zipcode": "8191316",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "town": "志摩ひかりが丘"
+  },
+  "8191317": {
+    "zipcode": "8191317",
+    "prefectureCode": "40",
+    "prefectureNumber": 40,
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "town": "志摩稲留東"
   },
   "8191321": {
     "zipcode": "8191321",
