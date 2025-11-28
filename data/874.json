@@ -373,7 +373,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "観海寺"
+    "town": "観海寺町"
   },
   "8740823": {
     "zipcode": "8740823",
@@ -413,7 +413,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "南立石二区"
+    "town": "南立石公園町"
   },
   "8740828": {
     "zipcode": "8740828",
@@ -431,13 +431,21 @@
     "city": "別府市",
     "town": "上原町"
   },
+  "8740830": {
+    "zipcode": "8740830",
+    "prefectureCode": "44",
+    "prefectureNumber": 44,
+    "prefecture": "大分県",
+    "city": "別府市",
+    "town": "山の手新町"
+  },
   "8740831": {
     "zipcode": "8740831",
     "prefectureCode": "44",
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "堀田"
+    "town": "堀田町"
   },
   "8740832": {
     "zipcode": "8740832",
@@ -453,7 +461,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "鶴見（１〜１８組）"
+    "town": "鶴見（丁目）"
   },
   "8740834": {
     "zipcode": "8740834",
@@ -461,7 +469,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "新別府"
+    "town": "新別府町"
   },
   "8740835": {
     "zipcode": "8740835",
@@ -469,7 +477,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "実相寺"
+    "town": "実相寺町"
   },
   "8740836": {
     "zipcode": "8740836",
@@ -493,7 +501,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "荘園"
+    "town": "荘園町"
   },
   "8740839": {
     "zipcode": "8740839",
@@ -501,7 +509,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "南立石一区"
+    "town": "南立石中津留町"
   },
   "8740840": {
     "zipcode": "8740840",
@@ -517,7 +525,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "竹の内"
+    "town": "竹の内町"
   },
   "8740842": {
     "zipcode": "8740842",
@@ -573,7 +581,7 @@
     "prefectureNumber": 44,
     "prefecture": "大分県",
     "city": "別府市",
-    "town": "大畑"
+    "town": "大畑町"
   },
   "8740849": {
     "zipcode": "8740849",
