@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	CsvUrl       = "https://www.post.japanpost.jp/service/search/zipcode/download/kogaki/zip/ken_all.zip"
+	CsvUrl       = "https://www.post.japanpost.jp/service/search/zipcode/download/utf/zip/utf_ken_all.zip"
 	DownloadFile = "download.zip"
 	CsvFile      = "utf_ken_all.csv"
 )
