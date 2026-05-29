@@ -1647,6 +1647,22 @@
     "city": "岡崎市",
     "town": "不吹町"
   },
+  "4440818": {
+    "zipcode": "4440818",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "羽根"
+  },
+  "4440819": {
+    "zipcode": "4440819",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "岡崎駅前"
+  },
   "4440820": {
     "zipcode": "4440820",
     "prefectureCode": "23",
@@ -1886,6 +1902,14 @@
     "prefecture": "愛知県",
     "city": "岡崎市",
     "town": "戸崎新町"
+  },
+  "4440850": {
+    "zipcode": "4440850",
+    "prefectureCode": "23",
+    "prefectureNumber": 23,
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "town": "柱東"
   },
   "4440851": {
     "zipcode": "4440851",
